@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'fontello';
+  src: url(/f/music/bf095ee1132f38127708eaea5905d0ae593c4b8b/pics/music/artists/player/font/fontello.eot);
+  src: url(/f/music/bf095ee1132f38127708eaea5905d0ae593c4b8b/pics/music/artists/player/font/fontello.eot) format('embedded-opentype'),
+       url(/f/music/43c55b336b7e34455d1cf4b81ae69a7d8e51989c/pics/music/artists/player/font/fontello.woff) format('woff'),
+       url(/f/music/0e6c9c432e91065c3da84e356c829c74025b0189/pics/music/artists/player/font/fontello.ttf) format('truetype'),
+       url(/f/music/ba4585a72d093f42491b2fc20f17ff7411ada53a/pics/music/artists/player/font/fontello.svg) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon {
+    font-family: 'fontello';
+    font-style: normal;
+}
+
+

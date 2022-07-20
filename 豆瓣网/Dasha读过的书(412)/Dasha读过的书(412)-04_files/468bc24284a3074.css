@@ -1,0 +1,13 @@
+
+    .ebook-link a:link,
+    .ebook-link a:visited {
+      color: #973f31;
+    }
+    .ebook-link a:hover {
+      color: #fff;
+      background: #973f31;
+    }
+  
+    .subject-list,.interest-list{margin-top:5px}.subject-item,.site-item{overflow:hidden;zoom:1;border-top:1px dashed #ddd;padding:20px 0 10px}.subject-item .pic,.site-item .pic{float:left;margin-right:20px}.subject-item .info,.site-item .info{overflow:hidden;zoom:1;color:#666}.subject-item .info h2,.site-item .info h2{font-size:14px;margin-bottom:6px}.subject-item .pub{margin:6px 0 8px}.subject-item .short-note{background:#f8f8f8;padding:5px 10px}.subject-item .short-note .tags{margin-left:3px}.subject-item .short-note .comment{margin:5px 0}.subject-item .info .ft{margin-top:10px;position:relative;min-height:19px;_height:19px}.subject-item .info .ft .ebook-link{position:absolute;right:0;bottom:0}.subject-item .collect-info a:link,.subject-item .collect-info a:visited,.subject-item .buy-info a:link,.subject-item .buy-info a:visited,.subject-item .read-actions a:link,.subject-item .read-actions a:visited{color:#bbb}.subject-item .collect-info a:hover,.subject-item .buy-info a:hover,.subject-item .read-actions a:hover{color:#fff;background:#37a}.subject-item .collect-info span{margin-right:10px}.subject-item .cart-actions{margin-top:10px;color:#bbb}.subject-item .buy-info{margin-right:10px}.subject-item .market-info{margin-left:0px}.subject-item .ebook-link a:link,.subject-item .ebook-link a:visited{color:#973f31}.subject-item .ebook-link a:hover{color:#fff;background:#973f31}.subject-item .title-mark{color:#999;font-size:13px;margin-left:6px}.site-item .pic img{margin:0 5px}.site-item .followers{margin-top:5px;color:#999}
+
+  

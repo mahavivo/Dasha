@@ -1,0 +1,57 @@
+
+  ;Do = (typeof Do === 'undefined')? $ : Do
+  ;Do(function() {
+    function generate_report_dialog(e){"undefined"==typeof dui?$.getScript("/js/ui/dialog.js",function(){_generate_report_dialog(e)}):_generate_report_dialog(e)}function _generate_report_dialog(e){function t(e){return e.test(location.pathname)}function o(e){return e.test(location.pathname)}function n(){if(e.reasons){var t=[],o=[];if(e.reasons.group_reasons){var n="";$.each(_.group_reasons,function(e,o){o.desc&&o.desc.length>86?n='<p><span class="short-rsn-desc">'+o.desc.substring(0,86)+'</span>...<a href="javascript:void(0);" class="show-full">展开</a></p><p class="full-rsn-desc">'+o.desc+"</p>":o.desc&&o.desc.length<=86&&(n="<p>"+o.desc+"</p>"),t.push('<dd><label><input type="radio" data-report_type="'+o.type+'" name="reason" value="'+o.reason+'" />'+o.reason+n+"</label></dd>")})}e.reasons.douban_reasons&&$.each(_.douban_reasons,function(e,t){o.push('<dd><label><input type="radio" data-report_type="'+t.type+'" name="reason"  value="'+t.reason+'" />'+t.reason+"</label></dd>")});var r=e.reasons.group_reasons&&e.reasons.group_reasons.length>0?'<div class="group-reasons"><dl><dt>违反本组发言规则</dt>'+t.join("")+"</dl></div>":"",s='<div id="report_value" class="custom-rules"><p class="tips">请选择对应理由，理由与内容不符，会延迟处理</p>'+r+'<div class="douban-reasons"><dl><dt>违反豆瓣社区指导原则</dt>'+o.join("")+'</dl></div><div class="extra-options"><div class="content"><a href="https://help.douban.com/complaint/" class="link">侵犯我的权益</a><p class="desc">抄袭或未经授权转载我的内容、侵犯我的个人权益、侵犯我的企业权益</p></div></div></div>';return s}return"dui_config 缺少 reasons"}var r="8",s=e.type||"";s||(s="content",o(/^\/(subject|game|app)\/\w+/)||t(/movie|music|book/)?s="subject":o(/^\/people\/\w+\/?$/)?s="account":o(/^\/people\/\w+\/status\/\w+\/?$/)&&(s="comment")),s=s instanceof Array?s.join(","):s;var i='<span class="up">投诉已提交</span>',a="https://help.douban.com/help/ask",d="/j/misc/report_form?type="+s,p="/misc/audit_report",l='<span>为了便于工作人员进行受理，请您通过<a target="_blank" href="'+a+'">豆瓣帮助中心</a>详细描述内容</span>',c="<h3>提交详细信息</h3>",u=e.report_url?e.report_url:location.href,_=e.reasons?e.reasons:null,f=(e.is_group_member||!1,e.reason?e.reason:0),h="#report_value input[type=radio]:checked",m={title:e.title?e.title:"选择投诉原因",width:e.width?e.width:380,cls:e.cls?e.cls:"report-dialog"};if(e.is_group_member){if(!e.group_id)return void console.error("dui_config 缺少 group_id 参数");var g="/j/group/"+e.group_id+"/member_report";m.content=n(),m.buttons=[{text:"投诉",cls:"btn-report",method:function(t){var o=$(h).val(),n=$(h).data("report_type"),r={reason:o,type:n};e.comment_id&&(r.comment_id=e.comment_id),e.topic_id&&(r.topic_id=e.topic_id),$.post_withck(g,r,function(e){v.close(),pop_win(i,!0),setTimeout(function(){pop_win.close()},1e3)})}}]}else m.url=e.url?e.url:d;var v=dui.Dialog(m);v.report_url=u,v.is_report_dlg_singleton||(v.body.delegate(".btn-report","click",function(){if(f=$(h).val(),!e.reasons||!e.is_group_member)if("other"===f)v.node.find(".hd").html(c),v.node.find(".bd").html(l),v.update(),v.body.delegate(".bd a","click",function(){v.close()});else{var t="",o="",n=$(".victim-form .victim-msg").hide();if(f===r&&(t=$("#report_value .victim-input").val()||"",t?t.length>100&&(o="被冒充帐号 id 最多不能超过 100 个字符"):o="被冒充帐号 id 不能为空",o))return n.text(o).show(),void v.update();$.post_withck(p,{url:v.report_url,reason:f,extra_msg:t},function(){v.node.find(".hd").hide(),v.node.find(".bd").html(i),v.update(),setTimeout(function(){v.close()},1e3)})}}),v.is_report_dlg_singleton=!0),v.open(),v.body.delegate("input[type=radio]","click",function(e){var t=$(this),o=t.parents("dd").eq(0);o.length>0?(t.parents("dl").eq(0).find("p").hide(),o.find('p:not(".full-rsn-desc")').show()):v.node.find("dl p").hide();var n=$(h).val();n===r?v.node.find(".victim-form").show():v.node.find(".victim-form").hide(),v.update()}),v.body.delegate("a.show-full","click",function(e){var t=$(this).parents("p").eq(0);t.hide().siblings("p.full-rsn-desc").show(),v.update()}),v.node.find(".hd").show(),v.update()};
+    $(function() {
+  function show_abnormal() {
+    var content ='',
+      url = 'login';
+    var repeal_url = 'https://accounts.douban.com/passport/repeal'
+    const readonly = _USER_ABNORMAL.readonly
+    const banned =_USER_ABNORMAL.banned
+    if(readonly || banned) {
+      if(readonly) {
+        content = `根据社区指导原则，${readonly.message}。如有疑问，请点击 <a target="_blank" href="${repeal_url}">我要申诉</a>`
+      }else {
+        content = `${banned} 如有疑问，请点击 <a target="_blank" href="${repeal_url}">我要申诉</a>`
+      }
+
+      var dlg_abnormal = dui.Dialog({
+                            title: '用户提示',
+                            width: 380,
+                            content: content
+                          })
+      dlg_abnormal.open().update()
+      return
+    }else if(_USER_ABNORMAL.abnormal) {
+      url = 'abnormal'
+    }else if(_USER_ABNORMAL.verify) {
+      url = 'verify'
+    }else if(_USER_ABNORMAL.oversea) {
+      url = 'identity'
+    }
+    location.href = `https://accounts.douban.com/passport/${url}?redir=${location.href}`
+  }
+
+  window.show_abnormal = show_abnormal
+  
+  if(window._USER_ABNORMAL) {
+    $('.cls_abnormal, .show_abnormal', document).unbind().bind('click', function(e) {
+      e.preventDefault()
+      show_abnormal()
+      return
+    })
+// 去除搜索框的限制
+    $('input, textarea').not('.nav-search input').removeAttr('disabled').removeAttr('readonly').unbind().bind('click', function(e) {
+      e.preventDefault()
+      var $el = $(this)
+      $el.attr('readonly', 'readonly')
+      show_abnormal()
+      return
+    })
+  }
+})
+;
+    var DOUBAN=location.protocol+"//www.douban.com",AUDIT_URL=DOUBAN+"/misc/audit_report",reportUrl=DOUBAN+"/review/"+reviewObj.REVIEW_ID,reason=0,reqData={ck:get_cookie("ck")},handleReport=function(e){var t=e.target,r=t.className,o=t.getAttribute("data-cid"),n="",a=/report_review|report_comment/,c=r.match(a);if(r.indexOf("cls_abnormal")>-1)return void window.show_abnormal();if(c){e.preventDefault(),n=c[0],reportUrl+=o?"?comment_id="+o:"",reqData=Object.assign({},reqData,{url:reportUrl,reason:reason});var i="subject";"report_comment"===n&&(i=["subject","comment"]),generate_report_dialog({report_url:reportUrl,type:i})}},commentList=document.querySelectorAll(".comment-list")[0]||null,linkReport=document.getElementById("link-report");commentList?commentList.addEventListener("click",handleReport,!1):"",linkReport?linkReport.addEventListener("click",handleReport,!1):"";;
+  });
+  

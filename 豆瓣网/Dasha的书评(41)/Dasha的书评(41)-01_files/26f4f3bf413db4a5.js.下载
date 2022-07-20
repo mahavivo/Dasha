@@ -1,0 +1,42 @@
+
+        !function(e,t,i){function r(e,n){this.config=i.extend(!0,{},a,e);var o=r.serializeOpenGraph();this.pageInfo=i.extend({title:o.title||t.title,url:o.url||t.location.href,pic:("array"===i.type(o.image)?o.image[0]:o.image)||"",desc:o.description||"",site:o.site_name||""},n)}var a={weibo:{appkey:""},douban:{},qq:{},qzone:{}};r.serializeOpenGraph=function(){var e={};i('meta[property^="og:"]').each(function(t,r){r=i(r);var a=r.attr("property").replace(/^og\:/,"");e[a]=r.attr("content")});var t=i('meta[property="og:image"]');return t.length>1&&(e.image=t.map(function(e,t){return i(t).attr("content")}).toArray()),e},r.prototype={constructor:r,set:function(e,t){var r={};r[e]=t,i.extend(this.config,r)},get:function(e){var t=i.extend({},this.pageInfo,this.config[e]);return{douban:{url:"https://www.douban.com/share/service/?"+i.param({href:t.url,name:t.title,image:t.pic,text:t.desc})},weibo:{url:"http://v.t.sina.com.cn/share/share.php?"+i.param({appkey:t.appkey,url:t.url,title:t.title,pic:t.pic})},qq:{url:"http://connect.qq.com/widget/shareqq/index.html?"+i.param({url:t.url,desc:t.title,pics:t.pic,site:t.site})},qzone:{url:"http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?"+i.param({url:t.url,title:t.title,summary:t.desc,pics:t.pic})}}[e]},openInNewWindow:function(t,r){r=r||{};var a=r.width||500,n=r.height||360,o=i.extend({},{width:a,height:n,toolbar:0,location:0,resizable:1,scrollbars:"yes",left:r.left||(screen.width-a)/2,top:r.top||(screen.height-n)/2},r);e.open(t,"SocialSharing",i.param(o).replace(/&/g,","))}},window.SocialSharing=r}(window,document,jQuery);
+        ;(function() {
+            var doc = $(document)
+            var sharingConfig = {
+                weibo: {
+                    appkey: '3015934887'
+                }
+            }
+            var logVendors = {
+                'weibo': 'bshare_sina',
+                'qq': 'bshare_qqim',
+                'qzone': 'bshare_qzone'
+            }
+            var windowFeatures = {
+                qq: { width: 800, height: 600 },
+                qzone: { width: 800, height: 600 }
+            }
+            function getSocialSharing(elem) {
+                var pageInfo = $.parseJSON(elem.closest('.clst').find('.data-review-sharing').text())
+                return new SocialSharing(sharingConfig, pageInfo)
+            }
+            doc.delegate('.sharing-button', 'mouseover', function(e) {
+                var button = $(this),
+                    sharing = button.closest('.sharing'),
+                    sharingLayer = sharing.find('.sharing-layer'),
+                    socialSharing = getSocialSharing(sharing)
+                sharing.find('.sharing-wechat-qrcode').html('<img src="http://douban.com/qrgen/v?text=' + encodeURIComponent(socialSharing.pageInfo.url) + '" alt="扫描二维码" />')
+                sharingLayer.removeClass('is-hidden')
+            })
+            doc.delegate('.sharing-layer', 'mouseleave', function() {
+                $(this).addClass('is-hidden')
+            })
+            doc.delegate('[data-share]', 'click', function() {
+                var elem = $(this),
+                    network = elem.data('share'),
+                    socialSharing = getSocialSharing(elem.closest('.sharing')),
+                    url = 'http://www.douban.com/link2?type=redir&vendor=' + logVendors[network] + '&url=' + encodeURIComponent(socialSharing.get(network).url)
+                socialSharing.openInNewWindow(url, windowFeatures[network])
+            })
+        })();
+    

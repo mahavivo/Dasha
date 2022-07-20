@@ -1,0 +1,32 @@
+
+      .works-link {float:right;color:#999;}
+      .clst .replies { color: #666; }
+      .clst img { max-width: 100%; }
+      .useful_count, .useless_count {
+        cursor: pointer;
+        color: #333;
+        width: 50px;
+        height: 22px;
+        border-radius: 3px;
+        border: 0;
+        margin-right: 15px;
+      }
+      .useless_count{ background-color:#dee8e9; }
+      .useful_count{ background-color: #ffead9; }
+      a.report_review { float:right; color:#bbbbbb; }
+    
+        .sharing{position:relative;width:120px;font-size:12px;display:inline-block;vertical-align:middle}.sharing-button{cursor:pointer;display:inline-block;border:1px solid #eee;color:#808080;background:#fff;width:118px;height:30px;line-height:30px;text-align:center}.sharing-button:before,.sharing-button:after{content:"";display:inline-block;vertical-align:middle}.sharing-button:before{margin-right:7px;width:13px;height:13px;background:url(/f/shire/82dfca9fc5bc6379cbba9523279da7c19f938fef/pics/social_sharing/icon_sharing_qrcode.png)}.sharing-button:after{border:5px solid transparent;border-top-color:#c1c1c1;margin-left:7px;margin-top:3px}
+
+        .sharing-layer{position:absolute;top:0;right:0;border:1px solid #999;border-radius:2px;padding:30px;background:#fff;width:242px;min-width:100%;overflow:hidden}.sharing-layer.is-hidden{display:none}.sharing-layer>*{float:left}.sharing-wechat{padding-right:30px;text-align:center;width:100px}.sharing-wechat span{display:inline-block;margin-bottom:7px;padding-right:30px}.sharing-wechat-qrcode{width:100px;height:100px}.sharing-wechat-qrcode img{width:100%;height:100%;-ms-interpolation-mode:nearest-neighbor;image-rendering:-webkit-optimize-contrast;image-rendering:-webkit-crisp-edges;image-rendering:-moz-crisp-edges;image-rendering:-o-crisp-edges;image-rendering:pixelated}.sharing-list{list-style:none;margin:0;width:80px;padding-left:30px;border-left:1px solid #eee}.sharing-list li{color:#37a;cursor:pointer}.sharing-list li+li{margin-top:28px}[class^='sharing-icon']{padding-left:31px;height:24px;line-height:24px;background-image:url(/f/shire/269fc7e200ad081516ea8978b14da393a94e67a2/pics/social_sharing/icons_sharing.png);background-repeat:no-repeat;white-space:pre}.sharing-icon__weibo{background-position:-10px -10px;width:24px;height:24px}.sharing-icon__wechat{background-position:-10px -54px;width:24px;height:24px}.sharing-icon__qzone{background-position:-10px -98px;width:24px;height:24px}.sharing-icon__qq{background-position:-10px -142px;width:24px;height:24px}@media (-webkit-min-device-pixel-ratio: 2),(min-resolution: 2dppx),(min-resolution: 192dpi){[class^='sharing-icon']{background-image:url(/f/shire/edabdddd38fd9d7c226c57a4f16c6ee6a9df2400/pics/social_sharing/icons_sharing@2x.png);background-size:44px 176px}.sharing-button:before{background-image:url(/f/shire/1748293716d323f55b208de38c2a58c35b72f7a5/pics/social_sharing/icon_sharing_qrcode@2x.png);background-size:cover}}
+
+        #reviews { overflow: visible; padding: 10px 0; }
+        #reviews .ctsh .clst { overflow: visible; }
+        .article .clst { overflow: visible; }
+        .clst .opts { overflow: hidden; }
+        .article .clst .opts { text-align: right; }
+        .review-sharing {
+            text-align: right;
+            margin-top: 20px;
+        }
+        [class^='sharing-icon'] { white-space: nowrap; word-wrap: normal; }
+    

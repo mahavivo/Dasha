@@ -1,0 +1,67 @@
+
+        #db-usr-profile .info ul li { margin-right: 10px;}
+    
+    #celebrity .list-s li { height: 140px; overflow: hidden;}
+    .aside .mod .pl a{font-size:14px;}
+    .contact-update-time {margin-top:10px;border-bottom:1px solid #ddd;}
+    .comment-item .pic img {width:70px;}
+
+    #db-movie-mine .mod { margin-bottom: 20px }
+    #db-movie-mine { margin-bottom: 30px }
+    #db-movie-mine .sub-list { width:700px; }
+    #db-movie-mine .list-s li { float: left; display: -moz-inline-stack; display: inline-block; *display: inline; zoom: 1; width: 95px; height: 133px; margin-right: 45px; margin-bottom: 20px; vertical-align: bottom; overflow: hidden; }
+    #db-movie-mine h3 { height: 30px; color: #000; margin: 0; font-size: 12px; background: none }
+    #db-movie-mine h3 em { float: left; font-style: normal; height: 20px; padding: 0 10px; background-color: #f2faf0 }
+    #db-movie-mine .comment-item .content img { margin-right: 10px }
+    #db-movie-mine ~ .comment-m .comment-item h3 { margin-top: 0; }
+    #db-movie-mine ~ .comment-m .comment-item .author { padding-left: 0; }
+  
+    .side-info {
+        overflow: hidden;
+        *zoom: 1;
+        margin-bottom: 20px;
+        padding: 16px;
+        background: #F0F3F5;
+    }
+    .side-info-avatar {
+        float: left;
+        margin-right: 14px;
+    }
+    .side-info-txt {
+        word-wrap: break-word;
+        overflow: hidden;
+        *zoom: 1;
+    }
+    .side-info .user-content{
+        margin-top:15px;
+    }
+    .side-info-txt h3 {
+        margin: 0;
+        font-size: 16px;
+        background: none;
+        color: #111;
+    }
+
+    .side-info .ft {
+        color: #aaa;
+    }
+    .side-info .lnk-contact-add {
+        display: inline-block;
+        *display: inline;
+        zoom: 1;
+        padding: 0 22px 0 10px;
+        border: 1px solid #d6b79d;
+        border-radius: 3px;
+        margin-right: 10px;
+        vertical-align: middle;
+  }
+
+  .side-info .lnk-contact-add:active,.lnk-contact-add:hover,.lnk-contact-add:visited,.lnk-contact-add:link {
+      color: #584E46;
+      background: #ffe6ce url(/pics/icon-add.png) 63px 50% no-repeat;
+  }
+  .side-info .usercard-followed {
+      padding-left: 12px;
+      margin-right: 10px;
+      background: url(/pics/icon-ok.png) 0 50% no-repeat;
+  }

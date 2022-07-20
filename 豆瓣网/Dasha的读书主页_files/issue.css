@@ -1,0 +1,61 @@
+.mod { margin-bottom:30px; }
+.item { margin-bottom:10px; }
+.item label { display:block;font-size:14px;color:#666; }
+.cate label, .content label, .setting label { display:inline; }
+.setting label { font-size:12px;margin-right:10px; }
+.content textarea { width:100%; }
+.itm-noreply { float:right; }
+.editor { padding-top:10px }
+.editor .toolbar { float:right;margin-top:-2em; }
+.editor .toolbar a { margin-left:10px; }
+.lnk-cancel { margin-left:20px; }
+.aside .bd { color:#666; }
+.setting input { *vertical-align:text-bottom; }
+.error { color:#f30; }
+.cate .error { display:inline;margin-left:20px; }
+.book-info { width:100%;margin-bottom:20px;overflow:hidden; }
+.book-info .last { margin:0; }
+.book-info .author { float:right;width:48px;word-wrap:break-word;overflow:hidden;margin-right:12px;text-align:center; }
+.book-info dl { margin-bottom:10px; }
+.book-info dt { float:left;color:#999; }
+.book-content { *display:inline-block; }
+.book-content:after { content:'\0020';clear:both;display:block; }
+.book-content .pic { margin:0 10px 5px 0;text-align:center; }
+.book-content p { text-indent:2em; }
+.book-content blockquote { padding-left:2em;color:#666;background:url(/f/book/3aa1569bf2c602f12f5744a65ff458d179c4c765/pics/quotel.gif) no-repeat 0 0; }
+.book-content blockquote q { display:block;padding-right:2em;background:url(/f/book/255fcb358bc814a4ee4eae37905c2a565da58ee9/pics/quoter.gif) no-repeat 100% 90%; }
+.book-content .paginator { font-size:12px;color:#000; }
+.book-content .paginator a { margin:0 2px;padding:0; }
+
+
+.book-content .note { white-space: pre-wrap; *white-space: pre; word-wrap: break-word; margin-bottom: 30px; }
+
+.book-rel { width:100%;margin-bottom:30px;color:#666;overflow:hidden;padding-top:20px; }
+.book-rel .rec { float:right; }
+.book-rel .rec img { vertical-align:text-bottom; }
+.book-rel .pubdate a { margin-left:10px; }
+.book-rel .pubdate { float: left; }
+.rel-info { float:right; }
+
+.book-rel .rel-info { *width: 120px; }
+.rel-info .read-num { float:right; }
+.links { font-size:14px; }
+#db-book-reply .topic-reply li { margin-left:0; }
+#db-book-reply .topic-reply li .reply-doc { width:530px; }
+.item-entry { clear:both;margin-bottom:20px; }
+.item-entry .title { background:#efe;padding:0 5px;margin-bottom:5px;font-size:14px; }
+.item-entry .datetime { margin-bottom:5px; }
+.item-entry .lnk-more{ float:right;width:57px;height:19px;overflow:hidden;line-height:10em;background:url(/f/book/074727d56fd06db1dca2edfd68fe01dadb415d8a/pics/arrow2.gif) no-repeat; }
+.item-entry .lnk-more:link,.item-entry .lnk-more:visited {background:url(/f/book/074727d56fd06db1dca2edfd68fe01dadb415d8a/pics/arrow2.gif) no-repeat;}
+.item-entry .lnk-more:hover,.item-entry .lnk-more:active {background:url(/f/book/27dcef3431d91ca11d894d58b7623c1b2b09866a/pics/arrow0.gif) no-repeat;}
+.item-entry .lnk-more-on:link,.item-entry .lnk-more-on:visited {background:url(/f/book/dd4df507657fbcfef6671bf3d9ecb3aedbcc0b10/pics/arrow3.gif) no-repeat;}
+.item-entry .lnk-more-on:hover,.item-entry .lnk-more-on:active {background:url(/f/book/860a74c211f219d2f44b345195da9834ce046385/pics/arrow1.gif) no-repeat;}
+
+.ic-pre { position:absolute;width:40px;height:14px;line-height:20em;overflow:hidden;background:url(/f/book/7269e37235483f02822215de6455ac8915e459f2/pics/ic_pre.png) no-repeat 0 0; }
+.issue-stat label,
+.issue-stat .item-check { display:inline-block;*display:inline;*zoom:1;  }
+.issue-stat .item-check label { font-size:12px;  }
+.rec-dlg .item-check label { float:none;width:auto; }
+.rec-dlg .item-check input { width:auto; }
+.signature { clear:both;text-align:right; }
+.insert-link .item  input { width:70%; }

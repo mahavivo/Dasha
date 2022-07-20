@@ -1,0 +1,65 @@
+
+
+.other-notes .bd { margin: 0 0 10px 0 }
+.other-notes li { border-bottom: 1px dashed #ddd; padding: 5px 0 10px 0 }
+.other-notes li p { margin: 0 }
+.other-notes .ft { text-align: right }
+
+.all-other-notes { width: 70% }
+.all-other-notes dt { border-bottom: 1px dashed #ddd; padding: 2px 0 }
+.all-other-notes dd { float: right; margin-top: -25px; padding: 2px 0 }
+
+
+.profile { color: #666; overflow: hidden; margin: 0 0 10px 0 }
+.profile .pic { float: left; margin: 0 10px 0 0 }
+.profile .info p { margin: 4px 0 0 0 }
+.profile .info p .stat,
+.profile .info p .name,
+.profile .info p .star-img
+{ float: left; margin-right: 8px }
+.profile .info p .star-img { margin: 3px 0 0 0 }
+
+
+.subject { float: none; overflow: hidden; width: auto;  margin: 0 0 20px 48px; padding: 10px; background: #f9f9f9;}
+.subject .pic { float: right; }
+.subject .info { margin-right: 90px }
+.subject .info span { color: #888 }
+
+
+.article h3 { margin: 0; padding: 0 5px; position: relative }
+.article h3 .a_more { position: absolute; right: 5px; top:2px; display: block; background:url(/f/book/074727d56fd06db1dca2edfd68fe01dadb415d8a/pics/arrow2.gif) no-repeat 50% 50%; width: 56px; height: 19px }
+.article h3 .a_more:hover { background:url(/f/book/27dcef3431d91ca11d894d58b7623c1b2b09866a/pics/arrow0.gif) }
+.article h3 .a_more span { display: none }
+.article h3 .contract { background:url(/f/book/dd4df507657fbcfef6671bf3d9ecb3aedbcc0b10/pics/arrow3.gif) no-repeat 50% 50% }
+.article h3 .contract:hover { background:url(/f/book/860a74c211f219d2f44b345195da9834ce046385/pics/arrow1.gif) no-repeat 50% 50% }
+.article .pl,
+.article .rnotes { margin: 5px 0; padding: 0 5px; }
+.rnotes h5 { color: #666; font-size: 13px; margin: 8px 0 4px 0; padding: 0 }
+.rnotes li.item { overflow: hidden; margin: 0 0 15px 0; padding: 0 0 10px 0 }
+.rnotes .more { display: none }
+.rnotes .reply { text-align: right; color: #666 }
+.rnotes .reply span { padding-right: 8px }
+
+
+.comment .bd { margin: 10px 0 }
+.comment .bd h3 { padding: 0 5px }
+.comment .bd p { padding: 0 10px }
+.comment .bd .gact { float: right }
+
+
+#exportnotes {padding:3px 5px;display: inline-block;*display:inline;*zoom:1;}
+#exportnotes.on {padding: 4px 7px;border: 1px #ccc solid;}
+#exportnotes .arrow {display: inline-block;border-width: 4px;border-color: #566D5E transparent transparent transparent;border-style: solid dashed dashed dashed;
+width: 0;height: 0;font-size: 0;line-height: 0;vertical-align: middle;}
+#exportnotes ul { display: none;}
+
+.book-cover {
+  float: left;
+  _display: inline;
+  margin-right: 32px;
+}
+
+.annotations-context {
+  overflow: hidden;
+  _zoom: 1;
+}
