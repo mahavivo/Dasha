@@ -1,0 +1,1438 @@
+Dasha 2005-8-20 13:26:37
+
+试译：荷尔德林《故乡》（Die Heimath von Hoelderlin）<html xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:w="urn:schemas-microsoft-com:office:word"
+
+xmlns="http://www.w3.org/TR/REC-html40">
+
+
+
+<head>
+
+<meta http-equiv=Content-Type content="text/html; charset=GB2312">
+
+<meta name=ProgId content=Word.Document>
+
+<meta name=Generator content="Microsoft Word 9">
+
+<meta name=Originator content="Microsoft Word 9">
+
+<title>故乡</title>
+
+<!--[if gte mso 9]><xml>
+
+ <o:DocumentProperties>
+
+  <o:Author>Dasha</o:Author>
+
+  <o:LastAuthor>Dasha</o:LastAuthor>
+
+  <o:Revision>1</o:Revision>
+
+  <o:TotalTime>1</o:TotalTime>
+
+  <o:Created>2005-08-20T05:10:00Z</o:Created>
+
+  <o:LastSaved>2005-08-20T05:11:00Z</o:LastSaved>
+
+  <o:Pages>3</o:Pages>
+
+  <o:Words>364</o:Words>
+
+  <o:Characters>2075</o:Characters>
+
+  <o:Company>www.myrilke.com</o:Company>
+
+  <o:Lines>17</o:Lines>
+
+  <o:Paragraphs>4</o:Paragraphs>
+
+  <o:CharactersWithSpaces>2548</o:CharactersWithSpaces>
+
+  <o:Version>9.2812</o:Version>
+
+ </o:DocumentProperties>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <w:WordDocument>
+
+  <w:PunctuationKerning/>
+
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+
+  <w:Compatibility>
+
+   <w:SpaceForUL/>
+
+   <w:BalanceSingleByteDoubleByteWidth/>
+
+   <w:DoNotLeaveBackslashAlone/>
+
+   <w:ULTrailSpace/>
+
+   <w:DoNotExpandShiftReturn/>
+
+   <w:AdjustLineHeightInTable/>
+
+   <w:UseFELayout/>
+
+  </w:Compatibility>
+
+ </w:WordDocument>
+
+</xml><![endif]-->
+
+<style>
+
+<!--
+
+ /* Font Definitions */
+
+@font-face
+
+        {font-family:宋体;
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-alt:SimSun;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+@font-face
+
+        {font-family:"\@宋体";
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+ /* Style Definitions */
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+        {mso-style-parent:"";
+
+        margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        text-align:justify;
+
+        text-justify:inter-ideograph;
+
+        mso-pagination:none;
+
+        font-size:10.5pt;
+
+        mso-bidi-font-size:12.0pt;
+
+        font-family:"Times New Roman";
+
+        mso-fareast-font-family:宋体;
+
+        mso-font-kerning:1.0pt;}
+
+ /* Page Definitions */
+
+@page
+
+        {mso-page-border-surround-header:no;
+
+        mso-page-border-surround-footer:no;}
+
+@page Section1
+
+        {size:595.3pt 841.9pt;
+
+        margin:72.0pt 90.0pt 72.0pt 90.0pt;
+
+        mso-header-margin:42.55pt;
+
+        mso-footer-margin:49.6pt;
+
+        mso-paper-source:0;
+
+        layout-grid:15.6pt;}
+
+div.Section1
+
+        {page:Section1;}
+
+-->
+
+</style>
+
+</head>
+
+
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>故乡</span><span
+
+lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>阒寂的水上，舟子欣喜归航，</span><span
+
+lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span></span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>远别了海岛，收获满盈船舱；</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>丰饶的哀伤装在行囊，</span><span lang=DE
+
+style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>如今我也这般返归故乡。</span><span lang=DE
+
+style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>亲爱的岸啊，曾育化我的岸，</span><span
+
+lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span></span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>你们可否会抚平爱的哀伤？</span><span lang=DE style='mso-ansi-language:
+
+DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>旧日森林啊，当我归来，</span><span lang=DE
+
+style='mso-ansi-language:DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>可否再次应许我以安详？</span><span lang=DE
+
+style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>就要回来了，寒溪波影摇曳，</span><span
+
+lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span></span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>就要回来了，大河帆樯满眼；</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>庇护过我的亲爱的山，</span><span lang=DE
+
+style='mso-ansi-language:DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>佑我安全的尊敬的边界，</span><span lang=DE
+
+style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>母亲的房舍，还有兄弟姐妹</span><span
+
+lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span></span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>情深的拥抱，就要问候你们，</span><span lang=DE style='mso-ansi-language:
+
+DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>就要被你们环抱。你们，</span><span lang=DE
+
+style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>唯愿你们愈合我这颗心，</span><span lang=DE
+
+style='mso-ansi-language:DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>如陷羁绊！但我知道，我知道，</span><span
+
+lang=DE style='mso-ansi-language:DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span></span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>这爱的哀伤，不会转瞬愈合，</span><span lang=DE style='mso-ansi-language:
+
+DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>这爱的哀伤，发自肺腑，</span><span lang=DE
+
+style='mso-ansi-language:DE'> <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>不是凡人慰藉的催眠歌。</span><span lang=DE
+
+style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>众神将天界之火赐予我们，</span><span
+
+lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span></span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>也给付我们以神圣的哀伤。</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>哀伤吧！恍然大地之子，</span><span lang=DE
+
+style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>我，学会了爱，学会了哀伤。</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Die Heimath<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Froh kehrt der
+
+Schiffer heim an den stillen Strom,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Von Inseln fernher, wenn er geerndtet
+
+hat;<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>So k&auml;m' auch ich zur
+
+Heimath, h&auml;tt' ich<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Güter so viele,
+
+wie Laid, geerndtet.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Ihr theuern Ufer,
+
+die mich erzogen einst,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Stillt ihr der Liebe Leiden, versprecht
+
+ihr mir,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Ihr W&auml;lder meiner Jugend,
+
+wenn ich<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Komme, die Ruhe
+
+noch einmal wieder?<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Am kühlen Bache,
+
+wo ich der Wellen Spiel,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Am Strome, wo ich gleiten die Schiffe
+
+sah,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Dort bin ich bald; euch
+
+traute Berge,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Die mich
+
+behüteten einst, der Heimath<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Verehrte sichre
+
+Grenzen, der Mutter Haus<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Und liebender Geschwister Umarmungen<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Begrü&szlig;' ich bald und ihr
+
+umschlie&szlig;t mich,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Da&szlig;, wie in
+
+Banden, das Herz mir heile,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Ihr
+
+treugebliebnen! aber ich wei&szlig;, ich wei&szlig;,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Der Liebe Laid, di&szlig; heilet so bald mir
+
+nicht,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Di&szlig; singt kein Wiegensang, den
+
+tr&ouml;stend<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Sterbliche
+
+singen, mir aus dem Busen.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Denn sie, die uns
+
+das himmlische Feuer leihn,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Die G&ouml;tter schenken heiliges Laid uns
+
+auch,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Drum bleibe di&szlig;. Ein Sohn
+
+der Erde<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Schein' ich; zu
+
+lieben gemacht, zu leiden.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>StA, Band 2, Seite
+
+19.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>译后记</span><span style='font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>：</span><span style='font-family:宋体;mso-ascii-font-family:
+
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>此版</span><span
+
+lang=DE style='mso-ansi-language:DE'>Die Heimath</span><span style='font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>是</span><span
+
+lang=DE style='mso-ansi-language:DE'>H&ouml;lderlin</span><span style='font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>于</span><span
+
+lang=DE style='mso-ansi-language:DE'>1800</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>－</span><span lang=DE style='mso-ansi-language:DE'>1805</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>年的作品</span><span style='font-family:宋体;mso-ascii-font-family:
+
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-ansi-language:
+
+DE'>，</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>属于</span><span lang=DE
+
+style='mso-ansi-language:DE'>die Ode</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>。</span><span
+
+lang=DE style='mso-ansi-language:DE'>die Ode</span><span style='font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>，</span><span style='font-family:宋体;mso-ascii-font-family:
+
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>大陆德语界有译作</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>“</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>哦得体</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>”</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>的</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>，</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>但其它语种的外国文学研究比如英、法、俄语中</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>，</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>更多称之为</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>“</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>颂诗</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman";mso-ansi-language:DE'>”</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>。荷尔德林此诗为阿尔开俄斯式“颂诗”（</span><span
+
+lang=EN-US>alk&auml;isch Odenstrophe</span><span style='font-family:宋体;mso-ascii-font-family:
+
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>），其格律如下：</span><span
+
+lang=EN-US><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>_ ~ _ ~ _ | ~ _ _~ _ ~<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>_ ~ _ ~ _ | ~ _ _~ _ ~<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>_ ~ _ ~ _ ~ _ ~ _<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>~ _ _ ~ _ _ ~ _ ~ _<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>（</span><span lang=EN-US>alk&auml;isch</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>）</span><span lang=EN-US><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>傻按：“</span><span lang=EN-US>_</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>”表“抑”；“</span><span lang=EN-US>~</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>”表“扬”。程曾厚在《法国诗选》（法国诗选</span><span lang=EN-US>/</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>程曾厚译</span><span lang=EN-US>. </span><span style='font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>－上海复旦大学出版社</span><span
+
+lang=EN-US>, 2001. 12</span><span style='font-family:宋体;mso-ascii-font-family:
+
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>）中说：“近见瓦雷里的名作《年轻的命运女神》译成汉语，原诗是亚历山大体诗句，</span><span
+
+lang=EN-US>12</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>音节，中译文（傻按：指葛雷、梁栋译本）最少译成</span><span
+
+lang=EN-US>7</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>字句，最多竟长达</span><span lang=EN-US>25</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>个汉字，相差竟在三倍以上。我不免替原诗感到委屈，也深切地感到，译诗的音节考虑是无法回避的问题。”程先生斯语，与</span><span
+
+lang=EN-US>Dasha</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>心有戚戚焉，唯</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>驽钝，力有不逮。译诗的前辈与高手，想必不会否认，形式是“诗之为诗”的要素。古典格律诗怎么作格律移植，很想提请论坛同好探讨。程先生将“</span><span
+
+lang=EN-US>12</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>音”化成汉语的</span><span lang=EN-US>14</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>字，意图弄成“七言”。</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>以为，“骊六”来应对</span><span lang=EN-US>12</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>音，似比七言更好。</span><span lang=EN-US><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>1796</span><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>－</span><span
+
+lang=EN-US>1798</span><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman"'>年，</span><span lang=EN-US>H&ouml;lderlin</span><span
+
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+
+"Times New Roman"'>曾经写作出此诗的前两节，有所差异：</span><span lang=EN-US><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Die Heimath (2
+
+Strophen)<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Froh kehrt der
+
+Schiffer heim an den stillen Strom<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Von fernen Inseln, wo er geerndtet hat;<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>Wohl m&ouml;cht' auch ich zur Heimath
+
+wieder;<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Aber was hab' ich, wie
+
+Laid, geerndtet? -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>Ihr holden Ufer,
+
+die ihr mich auferzogt,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp; </span>Stillt ihr der Liebe Laiden? ach! gebt
+
+ihr mir,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>Ihr W&auml;lder meiner Kindheit, wann
+
+ich<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><span
+
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Komme, die Ruhe noch Einmal
+
+wieder?<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'>StA, Band 1,
+
+Seite 251.<o:p></o:p></span></p>
+
+
+
+</div>
+
+
+
+</body>
+
+
+
+</html>
+
+小小潘 2005-8-22 10:59:37
+
+提“古典格律诗怎么作格律移植”，您先来摆摆谱（这样应更能激发大家的观点）：）
+
+pilger 2005-8-26 01:15:28
+
+Ein schoenes Gedicht, schoen...
+
+张祈 2005-8-26 10:59:39
+
+接近可诵。就是文言和白话的结合还可以更亲呢些。
+
+
+
+几个词的建议：阒寂（静寂）的水上，舟子（游子）欣喜归航，
+
+育化——抚育；
+
+
+
+庇护过我的亲爱的山， 
+
+佑我安全的尊敬的边界，
+
+--------------------------
+
+上面二行似乎译成平行的句式较好。上一行双音词和下一行的单字不好对应。
+
+
+
+不是凡人慰藉的催眠歌。
+
+—————————————
+
+似乎是：不是慰藉凡人的催眠之歌。
+
+
+
+恍然大地之子
+
+------------------
+
+这样的组合难解。
+
+
+
+不懂德文，乱说的。
+
+
+
+
+
+小小潘 2005-8-26 14:02:11
+
+常来：）
+
+pilger 2005-9-10 22:21:39
+
+Die letzte StropheDenn sie, die uns das himmlische Feuer leihn,
+
+  Die G&ouml;tter schenken heiliges Laid uns auch,
+
+    Drum bleibe di&szlig;. Ein Sohn der Erde
+
+        Schein' ich; zu lieben gemacht, zu leiden.
+
+
+
+ 
+
+因那將天火借予我們的眾神,
+
+  亦賜与我們神圣的苦難,
+
+    故我生而若斯: 那為了愛,
+
+       為了受難而被造的大地之子.
+
+
+
+Unter dem Wort " gemacht" verstehe ich anderes
+
+
+
+Die Heimath  
+
+      
+
+Froh kehrt der Schiffer heim an den stillen Strom,
+
+Von Inseln fernher, wenn er geerndtet hat;
+
+  So k&auml;m' auch ich zur Heimath, h&auml;tt' ich
+
+   Güter so viele, wie Laid, geerndtet.
+
+
+
+Ihr theuern Ufer, die mich erzogen einst,
+
+Stillt ihr der Liebe Leiden, versprecht ihr mir,
+
+  Ihr W&auml;lder meiner Jugend, wenn ich
+
+   Komme, die Ruhe noch einmal wieder?
+
+
+
+Am kühlen Bache, wo ich der Wellen Spiel,
+
+Am Strome, wo ich gleiten die Schiffe sah,
+
+  Dort bin ich bald; euch traute Berge,
+
+   Die mich behüteten einst, der Heimath
+
+
+
+Verehrte sichre Grenzen, der Mutter Haus
+
+Und liebender Geschwister Umarmungen
+
+  Begrü&szlig;' ich bald und ihr umschlie&szlig;t mich,
+
+   Da&szlig;, wie in Banden, das Herz mir heile,
+
+
+
+Ihr treugebliebnen! aber ich wei&szlig;, ich wei&szlig;,
+
+Der Liebe Laid, di&szlig; heilet so bald mir nicht,
+
+  Di&szlig; singt kein Wiegensang, den tr&ouml;stend
+
+   Sterbliche singen, mir aus dem Busen.
+
+
+
+Denn sie, die uns das himmlische Feuer leihn,
+
+Die G&ouml;tter schenken heiliges Laid uns auch,
+
+  Drum bleibe di&szlig;. Ein Sohn der Erde
+
+   Schein' ich; zu lieben gemacht, zu leiden.
+
+
+
+
+
+
+
+故鄉
+
+
+
+
+
+ 
+
+水手欣然歸來,駛入平靜河流,
+
+  當他從遙遠的島嶼,滿載而歸;
+
+     我亦如此返鄉, 而我將傷痛
+
+           如許多財富般收穫.
+
+
+
+你們曾養育我的,寶貴河岸呵,
+
+   會平息我的愛之痛楚麼? 
+
+      我年少時的蒼林呵,今我來兮,
+
+           是否再次許諾我以安寧?
+
+              
+
+ 
+
+ 我即將抵達, 故鄉那我曾目睹
+
+  碧波蕩漾的寒溪, 那我曾目睹
+
+     百舸競流的河, 和你們
+
+        曾守護我的忠誠山嶺.
+
+
+
+        
+
+我即將問候, 那安全尊貴的
+
+  故土的地界, 和友愛弟兄的
+
+    擁抱; 他們環擁着我,
+
+      如經沐浴, 我的心在愈合. 
+
+         
+
+    
+
+你們忠誠永遠的人呵! 我知曉,我知曉,
+
+  那愛之傷痛, 不會頃刻痊愈,
+
+    我的胸膛不會, 吟唱那溫柔之歌. 
+
+          安慰地歌頌向死而生的人.
+
+         
+
+    
+
+因那將天火借予我們的眾神,
+
+  亦賜与我們神圣的苦難,
+
+    故我生而若斯: 那為了愛,
+
+       為了受難而被造的大地之子.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dasha 2005-9-11 15:17:45
+
+Lieber Pilger，很愿意与您交流对德诗的理解与翻译。<p>如今既然您提出了问题，Dasha就尝试谈谈看。唐突之处，请包涵之；谬误之处，请更正之。<br>
+
+<br>
+
+首先，Dasha先说说这“最后一节”（Die letzte Strophe）。<br> 
+
+<br>
+
+1, 您说Unter dem Wort " gemacht" verstehe ich anderes，我们来看看：<br>
+
+原诗为“Drum bleibe di&szlig;. Ein Sohn der Erde schein' ich; zu lieben gemacht, zu 
+
+leiden.”<br>
+
+似乎可以改写成：“(darum) bleibe dies. Ich scheine ein Sohn der Erde; (ich 
+
+ward) gemacht, zu lieben; (ich ward) gemacht, zu leiden.”与“um...zu”和“zu 
+
++ Substantiv”表示“目的”并无关系。并且，尤需要注意的是，如果按您的理解“我被制造成大地之子”，句中的分号“;”就变得不可理喻了；“machen”条的解释很多，请您细查一下词典。另外，您的“故我生而若斯”，似乎是从“(darum) 
+
+bleibe dies. Ich scheine...”化过来的。“(darum) bleibe dies.”为“darum 
+
+lassen Sie dies zu bleiben”，是个“命令式”（就让这些保持下去吧），后有句号，与“Ich 
+
+scheine ein Sohn der Erde”无关。</p>
+
+<p>2, “leihn”（leihen），您翻译作“借给”，而Dasha译成“赐予”。请尝试论之。在Duden das gro&szlig;e 
+
+W&ouml;rterbuch der deutschen Sprache 10 b&auml;nde auf CD-ROM中（此CD似乎您已经拥有），有解释为：<br> 
+
+ (geh.) zuteil werden lassen, geben, zur Verfünung stellen.<br> 
+
+请注意这个“geh.”，对当代德语而言，此义似乎是“过时的、陈旧的”，但在H&ouml;lderlin时代，却应该是“流行的”。此外，在希腊神话中，<span lang="DE" style="font-size:10.5pt;mso-bidi-font-size:
+
+12.0pt;font-family:"Times New Roman";mso-fareast-font-family:宋体;mso-font-kerning:
+
+1.0pt;mso-ansi-language:DE;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">Προμηθε&#973;&#962;</span>（Prometheus）盗取天火给人类，并非“借与”，而是“带给”，而是“赠与”：</p>
+
+<p>Zeus beschlo&szlig;, sich an Prometheus für seinen Betrug zu r&auml;chen, und versagte den Sterblichen die letzte Gabe, die sie zur vollendeteren Gesittung bedurften, das 
+
+Feuer.<br>
+
+aus: <i> Sagen des klassischen Altertums von Gustav Schwab</i></p> 
+
+<p>再说说您的译文中其它问题：</p>
+
+<p>1, Dasha阅读此诗时，最大的障碍是这一句“Da&szlig;, wie in 
+
+Banden, das Herz mir heile, // Ihr treugebliebnen!”，原因在于不幸的Dasha又一次参考了英译本与汉译本。英译本将“wie 
+
+in Banden”理解为“wie in B&auml;ndern”，汉译本译作“绷带”（[die] 
+
+B&auml;ndern），“[die] B&auml;ndern”与“[die] Banden”有巨大差别：前者当然是“绷带”，而后者，荷尔德林诗中的“in 
+
+Banden”却是“桎梏、枷锁、镣铐”，比如“in Banden liegen”，比如“in 
+
+Bande schlagen”，比如“frei von allen Banden sein”……而您，您此时却将名词“[die] 
+
+Banden”看作了动词“洗澡”（baden）。</p>
+
+<p>2, “Di&szlig; singt kein Wiegensang, den tr&ouml;stend / Sterbliche singen, mir aus dem Busen.”句。<br>
+
+您的译文是“我的胸膛不会，吟唱那温柔之歌. / 
+
+歌颂心满意足向死而生的人”，如此，动词“singen”皆由同一个主语发出，您如何解释singt与singen的单数与复数的差别呢？实际上，“den tr&ouml;stend / Sterbliche singen”是Wiegensang的同位语，是“Sterbliche 
+
+singen tr&ouml;stend den Wiegensang”，此处的“den”不是定冠词，不应理解为“den 
+
+(tr&ouml;stend) Sterbliche”；不应理解为“dies singt kein Wiegensang, 
+
+den (tr&ouml;stend) Sterbliche zu singen”。</p>
+
+<p>如上是Dasha的个人理解，请Pilger兄思之。如果还有分歧，敬乞Pilger兄请益一下周围的德语国家的人（当然，需要请教那些懂诗的人，并非所有说德语的人都能读懂荷尔德林），Dasha渴望通过Pilger兄向德语本土人士间接学习。</p>
+
+pilger 2005-9-11 22:52:59
+
+Ich will Email schicken, und danach fragen...
+
+pilger 2005-9-12 07:21:40
+
+Deine Gedichtanalyse finde ich interessant und sinnvoll, du hast viel gearbeitet.
+
+ye-la 2005-9-15 01:40:39
+
+lieber Dasha, lieber Pilger :-)ich habe Eure &#220;bersetzung mit gro&#223;er Freude gelesen! Die letzte Strophe verstehe ich allerdings auch so, wie Pilger sie verstanden hat, n&#228;mlich &#8222;Die G&#246;tter, die uns das himmlische Feuer leihen, schenken uns auch Leid. Darum muss ich so bleiben (wie ich bin), n&#228;mlich ein Sohn der Erde (ein Sterblicher), der (von den G&#246;ttern) erschaffen wurde, um zu lieben und zu leiden. Das &#8222;gemacht“ verstehe ich also wie Pilger als &#8222;erschaffen“. 
+
+&#8222;Ein Sohn der Erde schein’ ich“ – das klingt für mich wie ein Seufzer, als ob er sagt: &#8222;Es scheint, als ob mir nichts anderes übrig bleibt, als ein Sterblicher zu sein“.
+
+
+
+Lieber Dasha, “Da&#223;, wie in Banden, das Herz mir heile, // Ihr treugebliebnen!” – es gibt den Begriff &#8222;verwandtschaftliche Bande“, aber auch &#8222;Bande der Freundschaft“ und &#8222;Bande der Liebe“. Hier sind die &#8222;Bande“ durchaus als “绷带” zu verstehen, n&#228;mlich das unsichtbare Band, das die Herzen der Menschen miteinander verknüpft. Wenn H&#246;lderlin aber sagt: &#8222;dass, wie in Banden, das Herz mir heile“, meint er vielleicht auch einen &#8222;Verband“. Der Verband besteht aus einer &#8222;Binde“, die um eine Wunde gewickelt wird, so dass sie darunter &#8218;heilen’ kann. Es k&#246;nnte also beides sein, die &#8222;verwandtschaftlichen Bande“ und der (heilende) Verband.
+
+
+
+pilger 2005-9-15 17:53:39
+
+Vielen vielen Dank für die Beantwortung auf die schwierigen Frage : - )
+
+pilger 2005-9-15 17:58:26
+
+古詩 www.gushi.de besuche ich h&auml;ufig. Und ich habe auch die Webseite den deutschen Studenten empfohlen.
+
+Dasha 2005-9-15 18:38:30
+
+Lange nicht gesehen, meine liebste Yela.<p><font face="Times New Roman">Ich habe vielen CD gesammelt, leider ist es, da&szlig; die CD nicht komplett sind. W&auml;ren die CD komplett verlegt, will ich Ihnen mit den CD beschenken. (Sieh das Bild)<br> 
+
+<br>
+
+Die letzte Strophe mi&szlig;verstehe ich, ich will meine &Uuml;bersetzung korrigieren. Aber ich noch habe die Zweifel: da ist der Punkt zwischen die Satzen  &#8222;Drum bleibe di&szlig;“ und &#8222;Ein Sohn der Erde // Schein' ich“.<br> 
+
+<br>
+
+Und zu das Wort &#8222;Band“:<br> 
+
+<br>
+
+Band,  das; -[e]s, B&auml;nder u. -e [mhd. bant, ahd. band, zu binden]:&nbsp;<br>
+
+I. &lt;Pl. B&auml;nder><br> 
+
+1. l&auml;ngerer, schmaler [Gewebe]streifen zum Schmuck, zur Verst&auml;rkung, zum Zusammenhalten u.a..&nbsp;<br>
+
+2. a) kurz für Messband; b) kurz für Farbband; c) kurz für Zielband; d) Tonband; e) kurz für F&ouml;rderband; f) kurz für Flie&szlig;and; g) dehnbarer, sehnen&auml;hnlicher Bindegewebsstrang zur Verbindung beweglicher Teile des Knochensystems; h) (Technik) endloses S&auml;geband einer Bands&auml;ge; i) (Handw.) Metallbeschlag, eingefügter Metallstreifen [mit dem die Tür-, Fensterangel od. ein Scharnier verbunden ist]; j) (Technik) etw. (z.B. Baumwollballen, Balken) befestigender u. zusammenhaltender Metallstreifen; k) (Bauw.) kürzerer Verbindungsbalken, Verstrebung; l) (B&ouml;ttcherei) Fassreifen; m) (Bergsteigen) Felsstreifen, über den eine Kletterroute führt; n) (Nachrichtent.) abgegrenzter schmaler Frequenzbereich.<br> 
+
+<br>
+
+II. &lt;Pl. -e><br> 
+
+1. &lt;Sg. selten> (geh. veraltet): a) Fessel; in -e schlagen (fesseln, in Ketten legen); b) durch Zwang, Gewalt bewirkte Unfreiheit: alle drückenden -e l&ouml;sen, abschütteln, zerrei&szlig;en.<br> 
+
+2. (geh.) Bindung, enge Beziehung.<br> 
+
+<br>
+
+<i>aus: Duden das gro&szlig;e W&ouml;rterbuch der deutschen Sprache 10 b&auml;nde auf CD-ROM</i><br> 
+
+<br>
+
+Was H&ouml;lderlin schrieb, ist &#8222;wie in Banden“, nicht &#8222;wie in B&auml;ndern“.<br> 
+
+<br>
+
+<br>
+
+Sei recht herzlich gegrü&szlig; von Dasha</font></p>
+
+ye-la 2005-9-16 01:22:43
+
+lieber Pilger, danke! du machst mich ganz verlegen~~~ ~~~~~
+
+ye-la 2005-9-16 01:41:33
+
+liebster Dasha :-)du sollst mir doch nichts schenken :-(
+
+
+
+Du wei&#223;t, dass ich (auch) keine H&#246;lderlin-Expertin bin. Ich habe die Verse einfach nur so erkl&#228;rt, wie ich sie verstehe, das ist alles. Lass Dich durch mich bitte nicht verwirren :-)
+

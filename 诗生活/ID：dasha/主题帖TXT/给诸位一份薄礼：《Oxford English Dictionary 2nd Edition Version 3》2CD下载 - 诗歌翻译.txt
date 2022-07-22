@@ -1,0 +1,154 @@
+Dasha 2004-3-2 19:54:27
+
+给诸位一份薄礼：《Oxford English Dictionary 2nd Edition Version 3》2CD下载The Oxford English Dictionary（牛津英语词典，OED）应该是最权威的英英词典了。<br><br>
+
+The Oxford English Dictionary is the accepted authority on the evolution of the English language over the last millennium. It is an unsurpassed guide to the meaning, history, and pronunciation of over half a million words, both present and past. It traces the usage of words through 2.5 million quotations from a wide range of international English language sources, from classic literature and specialist periodicals to film scripts and cookery books.
+
+<br><br>
+
+The OED covers words from across the English-speaking world, from North America to South Africa, from Australia and New Zealand to the Caribbean. It also offers the best in etymological analysis and in listing of variant spellings, and it shows pronunciation using the International Phonetic Alphabet.
+
+<br><br>
+
+The Second Edition of the OED is currently available as a 20-volume print edition, on CD-ROM, and now also online. Updated quarterly with at least 1000 new and revised entries, OED Online offers unparalleled access to the ‘greatest continuing work of scholarship that this century has produced’ (Newsweek). To find out more about the OED Online, why not follow our free tour?
+
+<br><br>
+
+About the Oxford English Dictionary’ invites you to explore the intriguing background and distinctive character of the OED. Here, you will find in-depth articles about the history of the OED, an inside look at the programmes used to enlarge and update the OED entries, little-known facts about its content, and much more.
+
+<br><br>
+
+http://www.oed.com/
+
+<br><br>
+
+Dasha<br>
+
+20040223
+
+<br><br>
+
+ftp://221.5.196.69<br>
+
+下载用户：freedown<br>
+
+下载密码：freedown<br>
+
+属性：100k每用户/1用户每ip/40用户max<br>
+
+权限：浏览，读取<br>
+
+服务器下载列表文件/list.txt<br>
+
+<br><br>
+
+在Learning\English\Dictionary\目录下，使用方法见里面的Readme文件。
+
+这是德语园地里面的FTP，什么时候失效不知道，Dasha冒昧上传，需要的诸君珍惜，并广而告之朋类吧。<br>
+
+希望对坛内诸君的英文阅读有所裨益。
+
+画皮 2004-3-2 19:41:08
+
+好东西，可惜我用FlashFXP下速度乱慢，只有3KBps,也许不是时候:)
+
+inandout 2004-3-2 19:45:49
+
+好久未见来了就有好东西：）
+
+Dasha 2004-3-2 19:57:57
+
+似乎午夜至凌晨下载快:-(我上传了近一天呢慢慢来，实在不行我的电脑可以提供FTP，只是我的ADSL没有固定IP，我一旦断网，就必须重新通知呀——花生壳也不管用:-(
+
+北纬39度 2004-3-3 00:51:41
+
+呵呵，新人报道刚来就有这么好的东西，谢了，可是我有一事不明，这个ftp://221.5.196.69
+
+的地址怎么用啊？我用蚂蚁不灵，影音传送带也不灵，菜鸟一个，还望提携，先谢！
+
+Dasha 2004-3-3 01:30:59
+
+请参考http://www.eastcomic.com/help/aboutdown.htmFlashGET下载时请注意更改下载线程为单线程，否则，小心IP被封:-(
+
+
+
+下载地址：
+
+ftp://freedown:freedown@221.5.196.69/Learning/English/Dictionary/Oxford English Dictionary 2nd Edition Version 3 (2CD)/Oxford English Dictionary 2nd Edition Version 3 - CD1.iso
+
+
+
+ftp://freedown:freedown@221.5.196.69/Learning/English/Dictionary/Oxford English Dictionary 2nd Edition Version 3 (2CD)/Oxford English Dictionary 2nd Edition Version 3 - CD2.iso
+
+北纬39度 2004-3-3 01:47:26
+
+多谢，我试试！ 
+
+阿九 2004-3-3 13:05:17
+
+多谢傻兄！这有多大啊？我的硬盘只有几百兆了
+
+画皮 2004-3-3 16:00:15
+
+1.2G，先换硬盘再下吧：）
+
+画皮 2004-3-7 10:08:42
+
+安装成功，再谢!
+
+inandout 2004-3-7 11:37:05
+
+以后要多帮我们查查字典，后后
+
+舒卷 2004-3-8 15:09:16
+
+有一个用alcohol的问题请诸君帮忙   多次失败后总算把oed下下来了，一时陶醉没仔细看说明，我电脑上只有winiso,oed装好后没法查词。一气之下将winiso整个删掉，只留下两个oed的iso,用alcohol烧时先选了虚拟烧制，再选格式，却总是提示我：指定驱动器可能无法以当前选定格式以1：1来复制光盘！不知怎么对付阿alcohol和oed？
+
+先谢过了。
+
+
+
+画皮 2004-3-8 16:45:32
+
+下了很久装不上很难受吧：)<html>
+
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=gb2312">
+
+<title> 我也是多次失败后才安装成功的。CD1烧录没什么问题，CD2即使烧了也没法用，闷!</title>
+
+<meta name="GENERATOR" content="Namo WebEditor v5.0">
+
+<meta name="description" content="Inserts a blank document layout with no defined style.">
+
+</head>
+
+<body>
+
+
+
+<p><span style="font-size:14pt;"><font face="仿宋_GB2312" color="#000066">我也是多次失败后才安装成功的。CD1烧录没什么问题，CD2即使烧了也没法用，闷!</font></span></p>
+
+<p><span style="font-size:14pt;"><font face="仿宋_GB2312" color="#000066">但我终于安装成功了：</font></span></p>
+
+<p><span style="font-size:14pt;"><font face="仿宋_GB2312" color="#000066">一、以光盘安装CD1，选择FULL装</font></span></p>
+
+<p><span style="font-size:14pt;"><font face="仿宋_GB2312" color="#000066">二、CD1安装过程中要求放入CD2，可以打开Alcohol虚拟的CD2，继续安装</font></span></p>
+
+<p><span style="font-size:14pt;"><font face="仿宋_GB2312" color="#000066">三、OK</font></span></p>
+
+<p><span style="font-size:24pt;"><font face="仿宋_GB2312" color="red">GOOD LUCK!</font></span></p>
+
+</body>
+
+</html>
+
+Dasha 2004-3-8 17:22:34
+
+烧录CD时注意，CD2是加密的，请用“酒精”选择“SafeDISC V2”
+
+舒卷 2004-3-8 17:37:37
+
+多谢画皮兄和dasha兄，已装好
+

@@ -1,0 +1,1208 @@
+Dasha 2004-9-2 02:03:13
+
+试译：（奥）里尔克（Rilke）：WENN wie ein leises Flügelbreiten<html xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:w="urn:schemas-microsoft-com:office:word"
+
+xmlns="http://www.w3.org/TR/REC-html40">
+
+
+
+<head>
+
+<meta http-equiv=Content-Type content="text/html; charset=GB2312">
+
+<meta name=ProgId content=Word.Document>
+
+<meta name=Generator content="Microsoft Word 9">
+
+<meta name=Originator content="Microsoft Word 9">
+
+<title>假如能像一双轻张的翅翼</title>
+
+<!--[if gte mso 9]><xml>
+
+ <o:DocumentProperties>
+
+  <o:Author>陈宁</o:Author>
+
+  <o:LastAuthor>陈宁</o:LastAuthor>
+
+  <o:Revision>1</o:Revision>
+
+  <o:TotalTime>4</o:TotalTime>
+
+  <o:Created>2004-09-01T05:51:00Z</o:Created>
+
+  <o:LastSaved>2004-09-01T05:56:00Z</o:LastSaved>
+
+  <o:Pages>1</o:Pages>
+
+  <o:Company>www.myrilke.com</o:Company>
+
+  <o:Lines>1</o:Lines>
+
+  <o:Paragraphs>1</o:Paragraphs>
+
+  <o:Version>9.2812</o:Version>
+
+ </o:DocumentProperties>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <w:WordDocument>
+
+  <w:PunctuationKerning/>
+
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+
+  <w:Compatibility>
+
+   <w:SpaceForUL/>
+
+   <w:BalanceSingleByteDoubleByteWidth/>
+
+   <w:DoNotLeaveBackslashAlone/>
+
+   <w:ULTrailSpace/>
+
+   <w:DoNotExpandShiftReturn/>
+
+   <w:AdjustLineHeightInTable/>
+
+   <w:UseFELayout/>
+
+  </w:Compatibility>
+
+ </w:WordDocument>
+
+</xml><![endif]-->
+
+<style>
+
+<!--
+
+ /* Font Definitions */
+
+@font-face
+
+        {font-family:宋体;
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-alt:SimSun;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+@font-face
+
+        {font-family:"\@宋体";
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+ /* Style Definitions */
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+        {mso-style-parent:"";
+
+        margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        text-align:justify;
+
+        text-justify:inter-ideograph;
+
+        mso-pagination:none;
+
+        font-size:10.5pt;
+
+        mso-bidi-font-size:12.0pt;
+
+        font-family:"Times New Roman";
+
+        mso-fareast-font-family:宋体;
+
+        mso-font-kerning:1.0pt;}
+
+ /* Page Definitions */
+
+@page
+
+        {mso-page-border-surround-header:no;
+
+        mso-page-border-surround-footer:no;}
+
+@page Section1
+
+        {size:595.3pt 841.9pt;
+
+        margin:72.0pt 90.0pt 72.0pt 90.0pt;
+
+        mso-header-margin:42.55pt;
+
+        mso-footer-margin:49.6pt;
+
+        mso-paper-source:0;
+
+        layout-grid:15.6pt;}
+
+div.Section1
+
+        {page:Section1;}
+
+-->
+
+</style>
+
+</head>
+
+
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>假如能像一双轻张的翅翼</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>扇动在向晚的风里，——</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>我愿徐徐行远</span><span lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>直至那个幽谷，紧偎</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>夕阳红透的寂寞</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>我的渴望仿佛一座花园。</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>或许我当在那里将你寻觅，</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>你最初的操劳会迟疑地</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>包扎我受伤的愿望，</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>你会引领我深深踏入青翠——</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>会有洁白的牵牛花悄然</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span style='font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-ansi-language:DE'>在我征尘的藜杖吐绽芬芳。</span><span lang=DE style='mso-ansi-language:
+
+DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-ansi-language:DE'>附原文：</span><span
+
+lang=DE style='mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>W</span><span lang=DE style='font-size:7.5pt;mso-bidi-font-size:12.0pt;
+
+mso-ansi-language:DE'>ENN</span><span lang=DE style='mso-ansi-language:DE'> wie
+
+ein leises Flügelbreiten<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>sich in den sp&auml;ten Lüften wiegt, -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>ich m&ouml;chte immer weiter schreiten<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>bis in das Tal, wo tiefgeschmiegt<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>an abendrote Einsamkeiten<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>die Sehnsucht wie ein Garten liegt.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>Vielleicht darf ich dich dorten finden,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>und zage wird dein erstes Mühn<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>die wehen Wünsche mir verbinden,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>du wirst mich führen tief ins Grün -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>und heimlich werden wei&szlig;e Winden<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:4.0gd'><span lang=DE style='mso-ansi-language:
+
+DE'>an meinem staubigen Stabe blühn.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal style='margin-left:10.0gd'><i><span lang=DE
+
+style='mso-ansi-language:DE'>aus: </span><span lang=EN-US>Advent, R. M. Rilke<o:p></o:p></span></i></p>
+
+
+
+</div>
+
+</body>
+
+</html>
+
+得一忘二 2004-9-1 15:50:00
+
+不懂看原文地读了第一行"假如能像一双轻张的翅翼"中的声音感觉不是很流畅
+
+最明显的是"像""一双"和"轻张"并列读起来有点不顺,然后是"翅翼"
+
+这里的ang的充分打开立刻被短音i闷死了,最后的两个i更没有飘扬的感觉
+
+如果声音和意思要有什么关联的话,在这儿则不见了
+
+我注意到你押韵的用心,但是这一行本身的音律似乎很不舒服
+
+后面的几行明显地"宽敞"了
+
+
+
+还有,这两行我说不上来,但是感觉某种本该流动的东西,似乎在某处受到阻碍
+
+"你最初的操劳会迟疑地/将我受伤的愿望包扎"
+
+也许因为原文的原因,你用了"会...将...包扎"这种"分裂"在中文中有点散/断
+
+
+
+"你会引领我深深溶入青翠"
+
+"引领...深深溶入"这样的搭配不常见,
+
+"深深"修饰"溶入"也很少见,既然"溶入"了,又怎么说其程度上是否"深"呢
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dasha 2004-9-1 23:05:41
+
+有道理，一定遵改:-D 补注：最后两行诗的王尔德（Wilde）的相关描述<p>目前已经把得兄指出的“你会引领我深深溶入青翠”暂改——本想改为“你会引领我踏入青翠深处”:-(，另一处改为“你最初的操劳会迟疑地 / 包扎我受伤的愿望”。而第一句“假如能像一双轻张的翅翼”是否改成“翅膀”，请容Dasha在读一读，并再征求下意见。</p>
+
+<p>会有洁白的牵牛花悄然<br>
+
+在我征尘的藜杖吐绽芬芳
+
+</p>
+
+<p>拉丁语Convolvulus译成什么好呢？？？</p>
+
+<p>附：王尔德的相关描述</p>
+
+<p><img src="http://www.planetmonk.com/wilde/wildeimages/wildephotos/wilde.jpg"></p>
+
+<p>
+
+And lo! through the painted windows came the sunlight streaming upon him, and the sun-beams wove round him a tissued robe that was fairer than the robe that had been fashioned for his pleasure. <color=blue>The dead staff blossomed, and bare lilies that were whiter than pearls</color>. The dry thorn blossomed, and bare roses that were redder than rubies. Whiter than fine pearls were the lilies, and their stems were of bright silver. Redder than male rubies were the roses, and their leaves were of beaten gold.</p>
+
+<p><i>
+
+Oscar Wilde, The Young King, A Hause of Pomegranates, Published 1891.</i></p> 
+
+pilger 2004-9-2 20:23:25
+
+die wehen Wünsche ,其语法结构百思不得其解.WENN wie ein leises Flügelbreiten
+
+
+
+sich in den sp&auml;ten Lüften wiegt, -
+
+
+
+ich m&ouml;chte immer weiter schreiten
+
+
+
+bis in das Tal, wo tiefgeschmiegt
+
+
+
+an abendrote Einsamkeiten
+
+
+
+die Sehnsucht wie ein Garten liegt.
+
+
+
+ 
+
+
+
+Vielleicht darf ich dich dorten finden,
+
+
+
+und zage wird dein erstes Mühn
+
+
+
+die wehen Wünsche mir verbinden,
+
+
+
+du wirst mich führen tief ins Grün -
+
+
+
+und heimlich werden wei&szlig;e Winden
+
+
+
+an meinem staubigen Stabe blühn.
+
+
+
+ 
+
+
+
+aus: Advent, R. M. Rilke
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+(附草稿)
+
+
+
+    若能如同轻舒的羽翼,
+
+
+
+    在向晚的微风中缓缓挥舞---
+
+
+
+    我愿一直徐徐远行,
+
+
+
+    直至幽谷,那里我深心的渴梦
+
+
+
+    如花园静卧，
+
+
+
+    与晚霞的寂寞亲密依偎.
+
+
+
+
+
+
+
+    也许我可以在那里寻觅到你,
+
+
+
+    你将小心地用最初的辛劳,
+
+
+
+    把我受创的渴梦包扎.
+
+
+
+    你将带我进入林地深处---
+
+
+
+    那洁白的牵牛花将静悄悄
+
+
+
+    在我落满风尘的旅杖绽放.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dasha 2004-9-1 19:16:37
+
+多谢Pilger兄，Dasha误读了“weisse Winden”（Convolvulus），立改至于您觉得“die wehen Wünsche”费解，其实不然，如果您理解了汉语的“蓝色的喷嚏”，就不费解了（开个玩笑），此处可理解为Rilke将“Wünsche”拟人化了，就像第一节最后两行中的“die Sehnsucht”。
+
+另，您可先下载Duden das grosse Woerterbuch der deutschen Sprache 10 baende auf CD-ROM，
+
+地址是http://www.myrilke.com/anders/Duden.rar
+
+pilger 2004-9-1 19:24:53
+
+我的字典太小了, wehen 的用法只列出动词. 所以这让我困惑.
+
+谢谢你提供的链接.
+
+pilger 2004-9-1 19:49:15
+
+Dasha兄手头有没有此诗的Interperation分享,最后一句的Staebe存疑.  是指一般的杖,棍,还是指Garten中的花枝. 对照上文, 他将身化羽翼,似乎勿需行路之杖. 如果指棍,杖,必具某象征意义.
+
+  
+
+
+
+Dasha 2004-9-1 20:08:40
+
+Dasha理解为远行者（Wanderer）手中的“杖”此诗是Rilke的早期作品，一直被人忽视（所以似乎找不到Interperation），尤其是汉语界，一直以为里尔克属雄浑沉郁派，可惜，里尔克骨子里本是小晏、席慕容。但是，这样婉约柔媚的诗Dasha亦十分喜欢，此时的里尔克虽诗艺未臻圆熟，但想象奇诡，遣词灵动（将单词随意合成），至少对Dasha的汉语很有启发。
+
+
+
+至于“杖”，请详看Dasha前贴“有道理，一定遵改:-D 补注：最后两行诗的王尔德（Wilde）的相关描述”中王尔德的那段英文。
+
+
+
+而Winde，Dasha手中的《新德汉词典》解释为“旋花属（Convolvulus）”，杜登大词典解释为：
+
+kletternde Pflanze mit einzel stehenden, trichterfoermigen, weissen od. rosa Blueten.
+
+Pilger兄将之译为“百合”，定有原因，请给Dasha详细解说一下好么？
+
+pilger 2004-9-1 20:56:44
+
+我也很喜欢这首想象瑰丽,飘逸灵动的小诗. 行文柔媚,但又不失其大气.虽属他早期的作品,其艺术成亦已斐然.
+
+
+
+我的字典中对于Winde的解释很简单,Winde 2: e-e Kletterpflanzen
+
+许是用具像的"百合",来代替科学味的"旋花科",更切合文体的遣词些.  
+
+pilger 2004-9-1 20:36:48
+
+麻烦Dasha兄,替我在你的Duden里查一下 wehen , weh, wehe的具体用法,我的字典仅列出来的3种Wehen 的Verb的用法.
+
+Dasha 2004-9-1 23:06:24
+
+Convolvulus大致可以转成“牵牛花”，百合是“Lilium”，wehen下载我给您的链接自己查吧我正在上班，办公室里的电脑无法安装Duden，目前无法查找；“die wehen Wünsche”中的wehen应该是形容词“weh”的变格。
+
+
+
+Convolvulus是藤蔓类的植物（攀缘在藜杖之上），而Lilium是球根花卉，Dasha觉得，译作“牵牛花、喇叭花、朝颜”什么的比较稳妥，Dasha选择“牵牛花”吧。
+
+
+
+
+
+pilger 2004-9-1 23:37:02
+
+Kletterpflanzen 是籘蔓科植物, 而百合是草本植物. "牵牛花" 比较合理些. :--)
+
+Dasha 2004-9-2 00:06:26
+
+手杖开花是不是与民数记里的亚伦的手杖有关呢？5   Und welchen ich erwaehlen werde, des Stecken wird gruenen, dass ich das 
+
+Murren der Kinder Israel, das sie wider euch murren, stille
+
+4 Mose 17, Luther Bibel 1545
+
+17:5 后来我所拣选的那人，他的杖必发芽。这样，我必使以色列人向你们所发的怨言止息，不再达到我耳中。
+
+
+
+暗示“我”是“被上帝拣选的人”呢？！
+
+张祈 2004-9-1 23:57:42
+
+闲来无事改中文，我可是只说中文，原文的意思DASHA兄搞定。假如能像一双轻张的翅翼
+
+（假如能像一双轻展的翼翅）
+
+
+
+扇动在向晚的风里，——
+
+（扑动在傍晚的风中）
+
+
+
+我愿徐徐行远
+
+（我愿慢慢走远）
+
+
+
+直至那个幽谷，那里紧偎
+
+（直到那个幽谷，在那里，）
+
+
+
+夕阳红透的寂寞
+
+（紧紧依偎着夕阳嫣红的寂寞，）
+
+
+
+我的渴望仿佛一座花园。
+
+（原句）
+
+
+
+ 
+
+
+
+或许我当在那里将你寻觅，
+
+（或许当我在那里将你寻觅，）
+
+
+
+你最初的操劳会迟疑地
+
+（你最初的劳作会犹豫地/在迟疑中）
+
+
+
+包扎我受伤的愿望，
+
+（包裹我受伤的愿望）
+
+
+
+你会引领我深深踏入青翠——
+
+（你会引领我踏入深深青翠——）
+
+
+
+会有洁白的牵牛花悄然
+
+（洁白的牵牛花也会悄然）
+
+
+
+在我征尘的藜杖吐绽芬芳。
+
+（在我沧桑的藜杖上吐露芬芳。）
+
+
+
+ 
+
+
+
+
+
+Dasha 2004-9-2 00:08:45
+
+:)祈兄，一向注重音韵的祈兄，请给弄弄韵啊。
+
+张祈 2004-9-2 00:14:43
+
+你告诉我原韵，我试试能否搞成。
+
+张祈 2004-9-2 00:25:38
+
+这首诗有没有英译可以参照啊？搞韵麻烦，还不能伤原意。
+
+一般是要从最不能改动的一句或者一个词开始。
+
+而且越是短诗，句式越明了，韵译难度就越大。
+
+pilger 2004-9-2 20:33:18
+
+戏说版之里尔克之<< 若能如同轻舒的羽翼>>   :--)    若能如同轻舒的羽翼,
+
+
+
+    在向晚的微风中缓缓挥舞---
+
+
+
+    我愿一直徐徐翔远,
+
+
+
+    直至幽谷,那里我深心的渴梦
+
+
+
+    如花园静卧，
+
+
+
+    与晚霞的寂寞亲密依偎.
+
+
+
+
+
+
+
+
+
+
+
+    也许我可以在那里寻觅到你,
+
+
+
+    你将小心地用最初的辛劳,
+
+
+
+    把我受创的渴梦包扎.
+
+
+
+    你将把我深深导入苍翠---
+
+
+
+    那洁白的百合花将静悄悄
+
+
+
+    在我落满风尘的枝头绽放.
+
+
+
+
+
+ 
+
+
+
+   将第三行"远行"--原意是一步步缓慢地走远---改为"翔远",以照应第一句的"缓缓挥舞的羽翼".如同身有双飞翼,九天逍遥翱翔.
+
+
+
+  将倒数第三行的"带我进入林地深处"改为"把我深深导入苍翠",  以对应第一节末句之"花园",此"花园"为"渴梦",但却苦恋爱人而"受创",将"渴梦包扎""导入苍翠"是赐予它生命活力, 因而得以有"百合花绽放"在我花园的"枝头".
+
+
+
+  而"你"也许为神灵,也许是"我"寻寻觅觅的情人,唯有爱情能将"受创的渴梦包扎",将我的花园"导入苍翠",让我的生命青春焕发. 而爱情的象征,生命力的象征"洁白的百合花"因而在"静悄悄绽放".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pilger 2004-9-2 01:19:23
+
+ 哈 , 有意思的推测.
+
+sonetteorpheus 2004-9-6 06:13:21
+
+修改稿及戏说版Rilke之<<若能如同轻舒的羽翼>>WENN wie ein leises Flügelbreiten
+
+
+
+sich in den sp&auml;ten Lüften wiegt, -
+
+
+
+ich m&ouml;chte immer weiter schreiten
+
+
+
+bis in das Tal, wo tiefgeschmiegt
+
+
+
+an abendrote Einsamkeiten
+
+
+
+die Sehnsucht wie ein Garten liegt.
+
+
+
+ 
+
+
+
+Vielleicht darf ich dich dorten finden,
+
+
+
+und zage wird dein erstes Mühn
+
+
+
+die wehen Wünsche mir verbinden,
+
+
+
+du wirst mich führen tief ins Grün -
+
+
+
+und heimlich werden wei&szlig;e Winden
+
+
+
+an meinem staubigen Stabe blühn.
+
+
+
+ 
+
+
+
+aus: Advent, R. M. Rilke
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    若能如同轻舒的羽翼,
+
+
+
+    翩飞在薄暮的和风中---
+
+
+
+    我愿徐徐行远,直至幽谷.
+
+
+
+    在那里我深心的渴梦，
+
+ 
+
+    如花园静卧，与晚霞的落寞
+
+
+
+    形影相依.
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    也许在那里可以觅见你,
+
+
+
+    你尽瘁的辛劳将小心地,
+
+
+
+    为我受创的渴梦包扎.
+
+
+
+    你将领我步入林地深处---
+
+
+
+    那洁白的牵牛花会静悄悄
+
+
+
+    在我落满风尘的旅杖绽放.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
+
+  
+
+
+
+
+
+
+
+       
+
+       戏说版之<< 若能如同轻舒的羽翼>> 
+
+
+
+
+
+
+
+    若能如同轻舒的羽翼,
+
+
+
+    翩飞在薄暮的和风中---
+
+
+
+    我愿徐徐翔远,直至幽谷.
+
+
+
+    在那里我深心的渴梦，
+
+ 
+
+    如花园静卧，与晚霞的落寞
+
+
+
+    形影相依.
+
+
+
+
+
+
+
+
+
+
+
+    也许在那里可以觅见你,
+
+
+
+    你尽瘁的辛劳将小心地,
+
+    
+
+    为我受创的渴梦包扎.
+
+
+
+    你将把我深深导入苍翠---
+
+
+
+    那洁白的百合花会静悄悄
+
+
+
+    在我落满风尘的枝头绽放.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+   将第三行"远行"--原意是一步步缓慢地走远---改为"翔远",以照应第一句的"缓缓挥舞的羽翼".如同身有双飞翼,九天逍遥翱翔.
+
+
+
+  将倒数第三行的"带我进入林地深处"改为"把我深深导入苍翠",  以对应第一节末句之"花园",此"花园"为"渴梦",但却苦恋爱人而"受创",将"渴梦包扎""导入苍翠"是赐予它生命活力, 因而得以有"百合花绽放"在我花园的"枝头".
+
+
+
+  而"你"也许为神灵,也许是"我"寻寻觅觅的情人,唯有爱情能将"受创的渴梦包扎",将我的花园"导入苍翠",让我的生命青春焕发. 而爱情的象征,生命力的象征"洁白的百合花"因而在"静悄悄绽放".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

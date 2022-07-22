@@ -1,0 +1,556 @@
+Dasha 2004-9-2 02:16:15
+
+呵呵，别说英译本了，就是德文本，网上唯一有的，也是Dasha在全集里OCR上来的。一般的德文里尔克文集，是没有这些诗的，英译本，Dasha至今亦未发现足本翻译。此诗集名为Advent（将临节）。
+
+sinovivo 2004-9-3 10:39:43
+
+Convolvulus是会绕圈的玩意其实一看到Convolvulus，VIVO就把它分解为con－volvul－us，con是拉丁、英语前缀，us是拉丁语词尾，暂且不管，volvul不由让人想起VOLVO汽车车轮“滚滚向前”，译为藤蔓类、旋花类植物未免抽象，若真要把它具象化，还是牵牛花比较恰切。
+
+
+
+
+
+
+
+
+
+至于全诗翻译，VIVO不敢置喙。凡是Dasha翻译的东西，VIVO都要信服！
+
+sonetteorpheus 2004-9-4 19:41:19
+
+无意中找到了一个对付登陆后不能发帖的对策 . :--D  好长一段时间,在我有时登陆后,帖子写好却无法张贴. 会出现提示: "您登陆的时间过长..."云 云. 害得我不得不在一个ID,不奏效时,只能换另一个ID Sonette... 但有时即使换了ID也无力回天!!! :-( 让人欲叹难叹.
+
+
+
+  如果再出现这种情况,大家可以使用对话框下的按钮"请使用HTML方式显示内容",先把帖子发成HTML, 再改帖把诗歌分行就行了!  
+
+sonetteorpheus 2004-9-5 07:22:54
+
+Dasha兄, 蓦的想起  dein erstes Mühn 中的, erst 可能不是指时间,次序数量的先后.而是程度上的最高等级.  erst adj. 3 in Bezug auf RANG od. QUALIT&Auml;T an der Spitze stehend: im Zug erster Klasse fahren
+
+刘文娇 2004-9-5 11:49:57
+
+你那方法还不好Inandout斑竹早就想好对付这类情况的招式了，这是原文：
+
+
+
+不能发贴，就发个空贴，然后改贴。
+
+pilger 2004-9-5 17:18:46
+
+感谢刘兄. 多谢. 以前还不知道这个好方法. :--)
+
+Dasha 2004-9-5 17:23:29
+
+天哩，Pilger兄在哪里找到的这般用法<html xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:w="urn:schemas-microsoft-com:office:word"
+
+xmlns="http://www.w3.org/TR/REC-html40">
+
+
+
+<head>
+
+<meta http-equiv=Content-Type content="text/html; charset=GB2312">
+
+<meta name=ProgId content=Word.Document>
+
+<meta name=Generator content="Microsoft Word 9">
+
+<meta name=Originator content="Microsoft Word 9">
+
+<link rel=File-List href="./erst.files/filelist.xml">
+
+<title>erst [mhd</title>
+
+<!--[if gte mso 9]><xml>
+
+ <o:DocumentProperties>
+
+  <o:Author>陈宁</o:Author>
+
+  <o:LastAuthor>陈宁</o:LastAuthor>
+
+  <o:Revision>2</o:Revision>
+
+  <o:TotalTime>3</o:TotalTime>
+
+  <o:Created>2004-09-05T09:08:00Z</o:Created>
+
+  <o:LastSaved>2004-09-05T09:18:00Z</o:LastSaved>
+
+  <o:Pages>1</o:Pages>
+
+  <o:Words>198</o:Words>
+
+  <o:Characters>1130</o:Characters>
+
+  <o:Company>www.myrilke.com</o:Company>
+
+  <o:Lines>9</o:Lines>
+
+  <o:Paragraphs>2</o:Paragraphs>
+
+  <o:CharactersWithSpaces>1387</o:CharactersWithSpaces>
+
+  <o:Version>9.2812</o:Version>
+
+ </o:DocumentProperties>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <w:WordDocument>
+
+  <w:View>Print</w:View>
+
+  <w:Zoom>BestFit</w:Zoom>
+
+  <w:PunctuationKerning/>
+
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+
+  <w:Compatibility>
+
+   <w:SpaceForUL/>
+
+   <w:BalanceSingleByteDoubleByteWidth/>
+
+   <w:DoNotLeaveBackslashAlone/>
+
+   <w:ULTrailSpace/>
+
+   <w:DoNotExpandShiftReturn/>
+
+   <w:AdjustLineHeightInTable/>
+
+   <w:UseFELayout/>
+
+  </w:Compatibility>
+
+ </w:WordDocument>
+
+</xml><![endif]-->
+
+<style>
+
+<!--
+
+ /* Font Definitions */
+
+@font-face
+
+        {font-family:宋体;
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-alt:SimSun;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+@font-face
+
+        {font-family:"\@宋体";
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+ /* Style Definitions */
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+        {mso-style-parent:"";
+
+        margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        text-align:justify;
+
+        text-justify:inter-ideograph;
+
+        mso-pagination:none;
+
+        font-size:10.5pt;
+
+        mso-bidi-font-size:12.0pt;
+
+        font-family:"Times New Roman";
+
+        mso-fareast-font-family:宋体;
+
+        mso-font-kerning:1.0pt;}
+
+ /* Page Definitions */
+
+@page
+
+        {mso-page-border-surround-header:no;
+
+        mso-page-border-surround-footer:no;}
+
+@page Section1
+
+        {size:612.0pt 792.0pt;
+
+        margin:72.0pt 90.0pt 72.0pt 90.0pt;
+
+        mso-header-margin:36.0pt;
+
+        mso-footer-margin:36.0pt;
+
+        mso-paper-source:0;}
+
+div.Section1
+
+        {page:Section1;}
+
+-->
+
+</style>
+
+</head>
+
+
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+
+
+<div class=Section1>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Dasha</span><span style='font-size:12.0pt;font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>真的头大啊。</span><span lang=DE
+
+style='font-size:12.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Dasha</span><span style='font-size:12.0pt;font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>的德语阅读量十分有限，手中的语法书、词典也语焉不详，请</span><span
+
+lang=DE style='font-size:12.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'>Pilger</span><span
+
+style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt;mso-ansi-language:
+
+DE'>兄偷空再问问德国人，请容</span><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Dasha</span><span style='font-size:12.0pt;font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>再翻翻书。</span><span lang=DE
+
+style='font-size:12.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Duden</span><span style='font-size:12.0pt;font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>的解释如下：</span><b><span lang=DE
+
+style='font-size:12.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></b></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><b><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></b></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><b><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>erst </span></b><span lang=DE style='font-size:12.0pt;
+
+mso-font-kerning:0pt;mso-ansi-language:DE'><span style="mso-spacerun:
+
+yes">&nbsp;</span>[mhd. er(e)st, ahd. erist, Sup. von eher]: <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>I. </b>&lt;Adv.&gt;
+
+<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>1. a)
+
+</b><i>als Erstes, an erster Stelle; zuerst, zun&auml;chst: </i>e. kommst du an die Reihe,
+
+dann sie; sprich e. mit dem Arzt; e. einmal überlegen; (abgeschw&auml;cht:) das muss
+
+sich e. <i>(vorher noch) </i>zeigen; <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>b) </b><i>anf&auml;nglich,
+
+zu Beginn: </i>e. ging alles noch gut, aber dann versagte er. <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>2. a)
+
+</b><i>nicht eher, früher als: </i>e. zu Hause erfuhr er es; sie wird e. morgen
+
+kommen; e. jetzt, nun e. begriff er; die Vorstellung hat eben e., hat e. um
+
+acht Uhr angefangen; der n&auml;chste Bus f&auml;hrt e. in zwanzig Minuten; e. mit
+
+vierzig Jahren hat sie geheiratet; <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>b) </b><i>nicht
+
+l&auml;nger zurückliegend als: </i>ich habe ihn e. gestern gesprochen; <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>c) </b><i>nicht
+
+mehr als: </i>er ist e. zehn Jahre alt; sie haben e. die halbe Strecke
+
+zurückgelegt; ich habe e. einige Seiten gelesen. <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>II. </b>&lt;Partikel&gt;
+
+<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>1. </b>gibt
+
+der Aussage besonders in Wunschs&auml;tzen eine gewisse Nachdrücklichkeit: h&auml;tten
+
+wir e. unsere eigene Wohnung!; w&auml;ren wir doch e. <i>(nur schon) </i>zu Hause! <o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp;</span><b>2. </b>drückt
+
+eine Steigerung, Hervorhebung aus: er ist schon frech, aber e. sein Bruder!;
+
+das war e. ein Theater; was wird sie e. dazu sagen!; diese Nachteile und e.
+
+noch (schweiz.; <i>noch obendrein, zudem [noch]</i>) in dieser Vielzahl.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:12.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>&copy; Duden - Deutsches Universalw&ouml;rterbuch, 5. Aufl.
+
+Mannheim 2003 [CD-ROM]. </span><span lang=DE style='font-size:10.0pt;
+
+mso-bidi-font-size:12.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+pilger 2004-9-5 17:49:58
+
+Dasha 兄, erst 作为 Adj. 也有在顺序中首先的意义. 请看...erst 1 Zahladj. 1, in einer Reihfolge an der Stelle eines
+
+                2, in einer Reihe od. Skala den Anfang bildend
+
+
+
+
+
+erst 2 Adj. nur attr, ohne Steigerung, nicht adv
+
+                 1, den Anfang eines Vorgangs od. einer Erscheinung darstellend
+
+                 2, vorl&auml;ufig
+
+                 3, in Bezug auf Rang od. Qualit&auml;t an der Spitze stehend                
+
+
+
+
+
+    erst 在这里的也可理解为"最初的,起初的" ---- 至于确切的意义为何,手头没有注释,也是颇让人费解啊.
+

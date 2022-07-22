@@ -1,0 +1,329 @@
+南伯子葵 2005-01-31 18:57:00 
+按照前面贴子的提示，用BT把它下载了。说说我的心得体会。
+文件比较大，我下载了大约30个小时。里面是17张光盘做成的ISO文件。分别是201-208，301-308和阅读器。
+201-208是书的文字内容，301-308是检索数据库。按照说明还有001-164，都是些原书的影印（程序里面的原文图像），网上没有，没关系。阅读器的安装非常简单。
+开始我用了虚拟光驱，后来发现我的机器变得不太稳定。程序提供数据盘安装功能，还是麻烦，因为老是要不停的装入虚拟光盘。ISO文件是可以用WINRAR打开的，只要把201-308文件分别解压到目录里面，然后修改一个文件就行了。文件在\4KBrowser\4KServer\Etc目录里面，文件名CDPATHS.CONF，用NOTEPAD打开，直接编辑# Text CDs和# Index CDs部分，把等号后面改成相应的目录就行了。
+
+程序很好用，就是我发现文字版本有些错别字，比如把后汉书的作者范晔写成了范煜，这是个非常严重的错误。
+
+真是严重的犯罪行为，原价18000的东东就这么……
+
+toming 2005-01-31 19:11:03
+30个小时!您别吓着我了!那得有多大的耐心和时间去看!
+
+别告诉我您不看它. : )
+
+南伯子葵 2005-01-31 19:17:17
+将近7G的东西，是要些时间。
+看？这辈子也不要想看完，挑自己有兴趣的就行了。
+我估计也不会特别看，但是查查资料什么的的，还是有用的。
+
+金刚心 2005-01-31 19:58:27
+满足占有欲而已
+
+南伯子葵 2005-01-31 20:22:34
+有点那个意思，呵呵。
+不过对于这些东西，我还是很有兴趣的。
+
+kajps 2005-01-31 20:53:05
+直接编辑# Text CDs和# Index CDs部分，把等号后面改成相应的目录就行了
+
+==================================
+是不是那16张盘都要改？
+
+han2003 2005-01-31 21:15:25
+费这工夫，还不如一张一张的安装呢
+
+南伯子葵 2005-02-01 00:12:55
+改起来非常快的ctrl+c。
+装也行，时间差不多，不过我的电脑装虚拟光驱不稳定。
+
+南伯子葵 2005-02-01 01:30:12
+还有，我有两台电脑，不可能都装全部的，就把那些文件目录share一下，另一台机器可以通过网络访问，这样比较好。
+
+dannowind 2005-02-01 21:23:32
+按照上述打开时，总是提示文件已被损坏，不知是怎么回事？
+
+南伯子葵 2005-02-01 22:36:16
+我用虚拟光驱，在换盘的时候就提示我文件已损坏，所以我用了这个办法
+
+dannowind 2005-02-01 23:06:44
+“只要把201-308文件分别解压到目录里面”这一句话能不能再解释得详细一点？
+我已经把虚拟光驱全部卸载了，还是打不开。
+让楼上的见笑了，望赐教！
+
+一千零二个代表 2005-02-01 23:39:28
+作者：dannowind　回复日期：2005-2-1　21:23:32　   
+按照上述打开时，总是提示文件已被损坏，不知是怎么回事？
+_________________________________
+
+改成这个样子:  目录后面别忘了有个  \ 
+
+
+# Copyright (c) 1998 UniHan co.
+# This file contains all 4KText CDs path
+
+# Image CDs
+CD000=[Compact Disk]
+CD001=[Compact Disk]
+CD002=[Compact Disk]
+CD003=[Compact Disk]
+CD004=[Compact Disk]
+CD005=[Compact Disk]
+CD006=[Compact Disk]
+CD007=[Compact Disk]
+CD008=[Compact Disk]
+CD009=[Compact Disk]
+CD010=[Compact Disk]
+CD011=[Compact Disk]
+CD012=[Compact Disk]
+CD013=[Compact Disk]
+CD014=[Compact Disk]
+CD015=[Compact Disk]
+CD016=[Compact Disk]
+CD017=[Compact Disk]
+CD018=[Compact Disk]
+CD019=[Compact Disk]
+CD020=[Compact Disk]
+CD021=[Compact Disk]
+CD022=[Compact Disk]
+CD023=[Compact Disk]
+CD024=[Compact Disk]
+CD025=[Compact Disk]
+CD026=[Compact Disk]
+CD027=[Compact Disk]
+CD028=[Compact Disk]
+CD029=[Compact Disk]
+CD030=[Compact Disk]
+CD031=[Compact Disk]
+CD032=[Compact Disk]
+CD033=[Compact Disk]
+CD034=[Compact Disk]
+CD035=[Compact Disk]
+CD036=[Compact Disk]
+CD037=[Compact Disk]
+CD038=[Compact Disk]
+CD039=[Compact Disk]
+CD040=[Compact Disk]
+CD041=[Compact Disk]
+CD042=[Compact Disk]
+CD043=[Compact Disk]
+CD044=[Compact Disk]
+CD045=[Compact Disk]
+CD046=[Compact Disk]
+CD047=[Compact Disk]
+CD048=[Compact Disk]
+CD049=[Compact Disk]
+CD050=[Compact Disk]
+CD051=[Compact Disk]
+CD052=[Compact Disk]
+CD053=[Compact Disk]
+CD054=[Compact Disk]
+CD055=[Compact Disk]
+CD056=[Compact Disk]
+CD057=[Compact Disk]
+CD058=[Compact Disk]
+CD059=[Compact Disk]
+CD060=[Compact Disk]
+CD061=[Compact Disk]
+CD062=[Compact Disk]
+CD063=[Compact Disk]
+CD064=[Compact Disk]
+CD065=[Compact Disk]
+CD066=[Compact Disk]
+CD067=[Compact Disk]
+CD068=[Compact Disk]
+CD069=[Compact Disk]
+CD070=[Compact Disk]
+CD071=[Compact Disk]
+CD072=[Compact Disk]
+CD073=[Compact Disk]
+CD074=[Compact Disk]
+CD075=[Compact Disk]
+CD076=[Compact Disk]
+CD077=[Compact Disk]
+CD078=[Compact Disk]
+CD079=[Compact Disk]
+CD080=[Compact Disk]
+CD081=[Compact Disk]
+CD082=[Compact Disk]
+CD083=[Compact Disk]
+CD084=[Compact Disk]
+CD085=[Compact Disk]
+CD086=[Compact Disk]
+CD087=[Compact Disk]
+CD088=[Compact Disk]
+CD089=[Compact Disk]
+CD090=[Compact Disk]
+CD091=[Compact Disk]
+CD092=[Compact Disk]
+CD093=[Compact Disk]
+CD094=[Compact Disk]
+CD095=[Compact Disk]
+CD096=[Compact Disk]
+CD097=[Compact Disk]
+CD098=[Compact Disk]
+CD099=[Compact Disk]
+CD100=[Compact Disk]
+CD101=[Compact Disk]
+CD102=[Compact Disk]
+CD103=[Compact Disk]
+CD104=[Compact Disk]
+CD105=[Compact Disk]
+CD106=[Compact Disk]
+CD107=[Compact Disk]
+CD108=[Compact Disk]
+CD109=[Compact Disk]
+CD110=[Compact Disk]
+CD111=[Compact Disk]
+CD112=[Compact Disk]
+CD113=[Compact Disk]
+CD114=[Compact Disk]
+CD115=[Compact Disk]
+CD116=[Compact Disk]
+CD117=[Compact Disk]
+CD118=[Compact Disk]
+CD119=[Compact Disk]
+CD120=[Compact Disk]
+CD121=[Compact Disk]
+CD122=[Compact Disk]
+CD123=[Compact Disk]
+CD124=[Compact Disk]
+CD125=[Compact Disk]
+CD126=[Compact Disk]
+CD127=[Compact Disk]
+CD128=[Compact Disk]
+CD129=[Compact Disk]
+CD130=[Compact Disk]
+CD131=[Compact Disk]
+CD132=[Compact Disk]
+CD133=[Compact Disk]
+CD134=[Compact Disk]
+CD135=[Compact Disk]
+CD136=[Compact Disk]
+CD137=[Compact Disk]
+CD138=[Compact Disk]
+CD139=[Compact Disk]
+CD140=[Compact Disk]
+CD141=[Compact Disk]
+CD142=[Compact Disk]
+CD143=[Compact Disk]
+CD144=[Compact Disk]
+CD145=[Compact Disk]
+CD146=[Compact Disk]
+CD147=[Compact Disk]
+CD148=[Compact Disk]
+CD149=[Compact Disk]
+CD150=[Compact Disk]
+CD151=[Compact Disk]
+CD152=[Compact Disk]
+CD153=[Compact Disk]
+CD154=[Compact Disk]
+CD155=[Compact Disk]
+CD156=[Compact Disk]
+CD157=[Compact Disk]
+CD158=[Compact Disk]
+CD159=[Compact Disk]
+CD160=[Compact Disk]
+CD161=[Compact Disk]
+CD162=[Compact Disk]
+CD163=[Compact Disk]
+CD164=[Compact Disk]
+
+# Text CDs
+CD201=J:\My Documents\4kuquanshu\201\
+CD202=[Compact Disk]
+CD203=[Compact Disk]
+CD204=[Compact Disk]
+CD205=[Compact Disk]
+CD206=[Compact Disk]
+CD207=[Compact Disk]
+CD208=[Compact Disk]
+
+# Index CDs
+CD301=J:\My Documents\4kuquanshu\301\
+CD302=[Compact Disk]
+CD303=[Compact Disk]
+CD304=[Compact Disk]
+CD305=[Compact Disk]
+CD306=[Compact Disk]
+CD307=[Compact Disk]
+CD308=[Compact Disk]
+
+南伯子葵 2005-02-01 23:39:51
+就是这样
+例如把201解压到C:\201这个目录下面，202解压到C:\202……一共16个目录。201到208都只包括两个文件，一个是disk.id，还有一个大文件，301-308里面有些子目录。
+
+然后修改CDPATHS.CONF这个文件，改为
+# Text CDs
+CD201=C:\201
+CD202=C:\202
+……
+# Index CDs
+CD301=C:\301
+……
+就可以了。
+
+南伯子葵 2005-02-01 23:41:25
+对
+目录后面别忘了有个 \ 
+CD201=C:\201\
+CD202=C:\202\
+……
+
+一千零二个代表 2005-02-01 23:46:51
+作者：dannowind　回复日期：2005-2-1　23:06:44　   
+“只要把201-308文件分别解压到目录里面”这一句话能不能再解释得详细一点？
+
+_________________
+
+随便什么目录都行。 关键是
+
+1安好程序 
+
+2‘修改一个程序里面的文件就行了。
+文件在你安装程序的目录\4KBrowser\4KServer\Etc里面。
+文件名CDPATHS.CONF，
+用NOTEPAD打开，直接编辑# Text CDs和# Index CDs部分，把等号后面改成相应的目录就行了。别忘了目录后面加个 \
+
+汉语里尔克 2005-02-02 01:36:04
+程序很好用，就是我发现文字版本有些错别字，比如把后汉书的作者范晔写成了范煜，这是个非常严重的错误。
+
+？？？楼主真的不知道吗？
+玄、晔、烨……在四库里是“避讳字”（Tabooed Word）。
+
+一千零二个代表 2005-02-02 04:47:16
+楼主当然不必知道，因为现在已经换了朝代，
+
+新的避讳字是‘三个代表’。。。。
+
+南伯子葵 2005-02-02 10:45:51
+我看了一下制作介绍，果然是连避讳字都是按照原来书上的。
+
+不过，玄有的是缺笔，为啥这个改动这么大？
+
+dannowind 2005-02-02 19:25:19
+非常感谢大家的指点，我马上就去安装。
+
+dannowind 2005-02-02 22:40:36
+终于安装成功!这么好的东西,确实不枉忙活了这半个多月.
+
+dannowind 2005-02-06 16:20:28
+好帖终须顶！
+
+扬州书局 2005-02-06 17:49:34
+好贴，惠施大众：）
+
+ernie 2007-05-24 07:10:13
+顶！
+
+ernie 2007-05-24 07:41:50
+刚才电驴下载：
+
+四库全书电子版2.0(免费版)
+
+差了许多，不知怎么回事，请教！
+
+月下揽花 2007-05-24 08:08:36
+7G的东西怕是没时间读.
+

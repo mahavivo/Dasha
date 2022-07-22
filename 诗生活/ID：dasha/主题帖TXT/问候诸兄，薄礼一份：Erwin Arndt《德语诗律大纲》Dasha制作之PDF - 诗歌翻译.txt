@@ -1,0 +1,1370 @@
+Dasha 2006-1-28 10:33:42
+
+问候诸兄，薄礼一份：Erwin Arndt《德语诗律大纲》Dasha制作之PDF<html xmlns:v="urn:schemas-microsoft-com:vml"
+
+xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:w="urn:schemas-microsoft-com:office:word"
+
+xmlns="http://www.w3.org/TR/REC-html40">
+
+
+
+<head>
+
+<meta http-equiv=Content-Type content="text/html; charset=GB2312">
+
+<meta name=ProgId content=Word.Document>
+
+<meta name=Generator content="Microsoft Word 9">
+
+<meta name=Originator content="Microsoft Word 9">
+
+<link rel=File-List href="./Erwin%20Arndt.files/filelist.xml">
+
+<title>Erwin Arndt</title>
+
+<!--[if gte mso 9]><xml>
+
+ <o:DocumentProperties>
+
+  <o:Author>Dasha</o:Author>
+
+  <o:Template>Normal</o:Template>
+
+  <o:LastAuthor>Dasha</o:LastAuthor>
+
+  <o:Revision>3</o:Revision>
+
+  <o:TotalTime>10</o:TotalTime>
+
+  <o:Created>2006-01-28T02:18:00Z</o:Created>
+
+  <o:LastSaved>2006-01-28T02:33:00Z</o:LastSaved>
+
+  <o:Pages>2</o:Pages>
+
+  <o:Words>764</o:Words>
+
+  <o:Characters>4356</o:Characters>
+
+  <o:Company>www.myrilke.com</o:Company>
+
+  <o:Lines>36</o:Lines>
+
+  <o:Paragraphs>8</o:Paragraphs>
+
+  <o:CharactersWithSpaces>5349</o:CharactersWithSpaces>
+
+  <o:Version>9.2812</o:Version>
+
+ </o:DocumentProperties>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <w:WordDocument>
+
+  <w:PunctuationKerning/>
+
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+
+  <w:Compatibility>
+
+   <w:SpaceForUL/>
+
+   <w:BalanceSingleByteDoubleByteWidth/>
+
+   <w:DoNotLeaveBackslashAlone/>
+
+   <w:ULTrailSpace/>
+
+   <w:DoNotExpandShiftReturn/>
+
+   <w:AdjustLineHeightInTable/>
+
+   <w:UseFELayout/>
+
+  </w:Compatibility>
+
+ </w:WordDocument>
+
+</xml><![endif]-->
+
+<style>
+
+<!--
+
+ /* Font Definitions */
+
+@font-face
+
+        {font-family:宋体;
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-alt:SimSun;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+@font-face
+
+        {font-family:"\@宋体";
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;
+
+        mso-font-charset:134;
+
+        mso-generic-font-family:auto;
+
+        mso-font-pitch:variable;
+
+        mso-font-signature:3 135135232 16 0 262145 0;}
+
+ /* Style Definitions */
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+        {mso-style-parent:"";
+
+        margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        text-align:justify;
+
+        text-justify:inter-ideograph;
+
+        mso-pagination:none;
+
+        font-size:10.5pt;
+
+        mso-bidi-font-size:12.0pt;
+
+        font-family:"Times New Roman";
+
+        mso-fareast-font-family:宋体;
+
+        mso-font-kerning:1.0pt;}
+
+a:link, span.MsoHyperlink
+
+        {color:blue;
+
+        text-decoration:underline;
+
+        text-underline:single;}
+
+a:visited, span.MsoHyperlinkFollowed
+
+        {color:purple;
+
+        text-decoration:underline;
+
+        text-underline:single;}
+
+ /* Page Definitions */
+
+@page
+
+        {mso-page-border-surround-header:no;
+
+        mso-page-border-surround-footer:no;}
+
+@page Section1
+
+        {size:612.0pt 792.0pt;
+
+        margin:72.0pt 90.0pt 72.0pt 90.0pt;
+
+        mso-header-margin:36.0pt;
+
+        mso-footer-margin:36.0pt;
+
+        mso-paper-source:0;}
+
+div.Section1
+
+        {page:Section1;}
+
+-->
+
+</style>
+
+<!--[if gte mso 9]><xml>
+
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+
+ <o:shapelayout v:ext="edit">
+
+  <o:idmap v:ext="edit" data="1"/>
+
+ </o:shapelayout></xml><![endif]-->
+
+</head>
+
+
+
+<body lang=ZH-CN link=blue vlink=purple style='tab-interval:21.0pt;text-justify-trim:
+
+punctuation'>
+
+
+
+<div class=Section1>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span style='font-size:14.0pt;font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>鉴于坛内操德语的人少，需下载者请</span><span
+
+lang=DE style='font-size:14.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'>mail</span><span
+
+style='font-size:14.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt;mso-ansi-language:
+
+DE'>联系</span><span lang=DE style='font-size:14.0pt;mso-font-kerning:0pt;
+
+mso-ansi-language:DE'>Dasha</span><span style='font-size:14.0pt;font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>。</span><span lang=DE
+
+style='font-size:14.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Dasha</span><span style='font-size:14.0pt;font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>蒙素昧平生的德国大大姐代为购买纸本，如今扫描、</span><span
+
+lang=DE style='font-size:14.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'>OCR</span><span
+
+style='font-size:14.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";
+
+mso-hansi-font-family:"Times New Roman";mso-font-kerning:0pt;mso-ansi-language:
+
+DE'>成图片叠加文字的双层</span><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>PDF</span><span style='font-size:14.0pt;font-family:
+
+宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>。意在真正从言、象、意（</span><span lang=DE
+
+style='font-size:14.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'>Wort, Bild
+
+und Bedeutung</span><span style='font-size:14.0pt;font-family:宋体;mso-ascii-font-family:
+
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>）领解德语诗歌。</span><span lang=DE style='font-size:14.0pt;
+
+mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span style='font-size:14.0pt;font-family:宋体;
+
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+
+mso-font-kerning:0pt;mso-ansi-language:DE'>此书相关信息：</span><span lang=DE
+
+style='font-size:14.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><br>
+
+<a href="http://www.amazon.de/exec/obidos/ASIN/3061027939/qid=1138415176/">http://www.amazon.de/exec/obidos/ASIN/3061027939/qid=1138415176/</a><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Erwin Arndt<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:17.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Deutsche Verslehre<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Ein Abri&szlig;<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:14.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Volk und Wissen Verlag</span><span lang=DE
+
+style='font-size:10.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Die Deutsche Bibliothek - CIP-Einheitsaufnahme<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Arndt, Erwin<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Deutsche Verslehre : ein Abri&szlig; / Erwin Arndt. - 13.,
+
+bearb.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Aufl. - Berlin : Volk und Wissen, 1995<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:7.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>ISBN 3-06-102793-9<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Dieses Werk ist in allen seinen Teilen
+
+urheberrechtlich geschützt. Jegliche Verwendung<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>au&szlig;erhalb der engen Grenzen des Urheberrechts bedarf
+
+der schriftlichen<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Zustimmung des Verlages. Dies gilt insbesondere für
+
+Vervielf&auml;ltigungen,<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Mikroverfilmungen, Einspeicherung und Verarbeitung in
+
+elektronischen Medien<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>sowie für &Uuml;bersetzungen.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>ISBN 3-06-102793-9<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>13., bearbeitete Auflage<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>&copy; Volk und Wissen Verlag GmbH, Berlin
+
+1959,1968,1981,1984,1996<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Redaktion dieser Auflage Hannelore Prosche<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Umschlag und typographische Gestaltung atelier vwv<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Gesetzt aus der Aldus der Firma Adobe<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Satz Gebr. Garloff GmbH, Magdeburg<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Druck und Binden Westermann Druck Zwickau GmbH<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=EN-US style='font-size:9.0pt;mso-font-kerning:
+
+0pt'>Printed in Germany</span><span lang=EN-US style='font-size:10.0pt;
+
+mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=EN-US style='font-size:13.0pt;mso-font-kerning:
+
+0pt'>Inhalt<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Dichter über Dichtung. Statt eines Vorworts 9<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>I ZUR EINF&Uuml;HRUNG<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Verskunst und Verslehre 11<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Form und Funktion im Vers 25<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>II GRUNDLAGEN UND GRUNDFRAGEN<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>DER DEUTSCHEN VERSKUNDE<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 1 Bestimmung des Verses und des Rhythmus 37<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 2 Das Metrum (Versma&szlig;) 49<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 3 Die sprachliche Gliederung. Der deutsche
+
+Prosaakzent 54<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Die Schwere der Silben - die Schwere im Satz 54 -
+
+b) Die Sprechgruppen<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>58 - c) Steigender und fallender Rhythmus 61<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 4 Der metrische Rahmen 63<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 5 Die Taktgeschlechter im deutschen Vers 64<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 6 Das Grundgesetz für die sprachliche Füllung 69<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 7 Besonderheiten der Taktfüllung 70<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Der einsilbige Takt (Hochtonhiatus) 70 - b) Der
+
+mehrsilbige<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Takt 71 - c) Die Pause als rhythmischer Wert 72<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 8 Die Versgegenden 74<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Der Auftakt 74 - b) Die Kadenz 76<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 9 Besondere Spannungsverh&auml;ltnisse zwischen
+
+metrischer und sprachlicher<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Gliederung 78<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Die leichten Hebungen 78 - b) Schwebende Betonung
+
+(metrische<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Drückung) und versetzte Betonung 78 - c) Metrische
+
+Reihe und<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Satz 84<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§10 Der Reim 86<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 11 Deutscher und antiker Vers. Die Umpr&auml;gung der
+
+antiken<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Versbegriffe 93</span><span lang=DE style='font-size:
+
+10.0pt;mso-font-kerning:0pt;mso-ansi-language:DE'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>III DIE METRISCHEN FORMEN<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><i><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Vom Stabreimvers bis zum Meistergesang (9.-16.
+
+Jahrhundert)<o:p></o:p></span></i></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 12 Der Stabreimvers (Alliterationsvers) 95<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 13 Der althochdeutsche Reimvers 99<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 14 Der mittelhochdeutsche stichische Erz&auml;hlvers 100<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Allgemeine Regeln des mittelhochdeutschen
+
+Versbaues 100 -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>b) Die mittelhochdeutschen Reimpaare 103<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 15 Der mittelhochdeutsche strophische Erz&auml;hlvers
+
+105<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Nibelungenstrophe 106 - b) Kudrunstrophe 107 - c)
+
+Hildebrandsstrophe<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>107 - d) Morolfstrophe (Lindenschmidstrophe) 108<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 16 Die mittelhochdeutschen Musikmetren. Gesungene
+
+Verse in Liedund<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Spruchdichtungen 109<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Strophische Verse 109 - b) Sequenz und Leich 112<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 17 Die frühneuhochdeutschen Musikmetren. Gesungene
+
+Verse<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>(14.-16. Jahrhundert) 113<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Der Meistergesang 113 - b) Das Volkslied 115<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 18 Die frühneuhochdeutschen Sprechmetren 119<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Regelm&auml;&szlig;ig alternierende Vierheber 119 - b) Der
+
+freie Knittelvers<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>120 - c) Der strenge Knittelvers 121<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><i><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Die deutschen Verse von Opitz bis zur Gegenwart<o:p></o:p></span></i></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§19 Kurzer historischer &Uuml;berblick 122<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Die wichtigsten Versreihen<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 20 Verse mit geradem Taktgeschlecht, in denen die
+
+zweisilbigen Takte<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>dominieren 124<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Kurze Reihen. Zwei- und Dreitakter 124 - b) Der
+
+Alexandriner.<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Doppelvierer 125 - c) Viertaktige Troch&auml;en. Spanische
+
+Troch&auml;en, antike<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Tetrameter 127 - d) Viertaktige Jamben 128 - e) Der
+
+Knittelvers<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>128 - f) Füllungsfreie Vierheber 131 - g) Viertakter
+
+in Langzeilen<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>131 - h) Troch&auml;ische Fünfheber. Serbische Troch&auml;en 133
+
+-<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>i) Jambische Fünfheber: 1. Der gemeine Vers (vers
+
+commun), 2. Der<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Endecasillabo, 3. Der Blankvers 134 - j) Der antike
+
+Trimeter. Jambische<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Sechsheber 137 - k) Troch&auml;ische Sechsheber 138 - 1)
+
+L&auml;ngere<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Verse 138<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 21 Die Madrigalverse und die freien Verse (vers
+
+libres) 138<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 22 Daktylische Verse. Verse, in denen dreisilbige
+
+Takte dominieren 143<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Zwei- bis vierhebige Reihen 143 - b) Der Hexameter
+
+im<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Deutschen 143 - c) Der Pentameter (Sechstakter),
+
+Distichon und<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Elegie 145<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 23 Die freien Rhythmen 148<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Die Strophenformen<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 24 Romanische Strophen 153<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Das Sonett 153 - b) Die Terzinenstrophe 157 -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>c) Das Ritornell 158 - d) Die Stanze 159<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§25 Die Nachbildung antiker Strophen. Deutsche Oden
+
+160<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Die sapphische Strophe 161 - b) Die alk&auml;ische
+
+Strophe 163 -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>c) Die asklepiadeischen Strophen 163 - d) Eigene
+
+Odenstrophen im<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Deutschen 165<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 26 Schlichtere Strophenformen 166<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Strophen unter vier Zeilen 167 - b) Vierzeilige
+
+Strophen 168 -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>c) Fünfzeilige Strophen 169 - d) Sechszeilige
+
+Strophen 170 -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>e) Siebenzeilige Strophen 171 - f) Achtzeilige
+
+Strophen 171 -<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>g) Strophen mit mehr als acht Zeilen 172<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 27 Innere Strophengliederung 172<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>a) Die Strophe ist nicht weiter untergliedert 172 -
+
+b) Die Strophe<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>schlie&szlig;t mit einem Kehrreim 173 - c) Die Strophe baut
+
+sich deutlich<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>aus zwei Teilen auf 173 - d) Die Strophe hat den
+
+bekannten dreiteiligen<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Bau 173<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>§ 28 Gedichte mit freien (ungleichen) Strophen 174<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>IV R&Uuml;CKBLICK AUF DIE GESCHICHTLICHE ENTWICKLUNG<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>DER METRISCHEN FORMEN 178<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>ANHANG<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=DE style='font-size:9.0pt;mso-font-kerning:
+
+0pt;mso-ansi-language:DE'>Anmerkungen und Zitatnachweise 189<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=EN-US style='font-size:9.0pt;mso-font-kerning:
+
+0pt'>Literaturhinweise 192<o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal align=left style='text-align:left;mso-layout-grid-align:
+
+none;text-autospace:none'><span lang=EN-US style='font-size:9.0pt;mso-font-kerning:
+
+0pt'>Sachregister 193</span><span lang=EN-US style='font-size:10.0pt;
+
+mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+
+
+<p class=MsoNormal><span lang=DE style='mso-ansi-language:DE'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+
+</div>
+
+
+
+</body>
+
+
+
+</html>
+
+pilger 2007-4-22 22:00:11
+
+Werde das Buch ausleihen und lesen.
+

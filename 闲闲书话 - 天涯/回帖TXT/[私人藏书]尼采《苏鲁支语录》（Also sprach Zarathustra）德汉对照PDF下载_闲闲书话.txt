@@ -1,0 +1,1187 @@
+汉语里尔克 2004-12-04 21:04:00 
+Dasha唧唧歪歪如是说
+
+    尼采的德语原文，取自DIRECTMEDIA Publishing GmbH出版的光盘Friedrich Nietzsche (Digitale Bibliothek Band 31, ISBN: 3-89853-431-6)。读徐先生梵澄的译文，本欲于对照前贤宏制中研习德语，不期先生文中一些词语，在以文字为生的Dasha，亦属艰深，于是乃稽考《汉语大词典》，附注若干文字于末——Dasha的汉语在阅读中亦得以精进，幸甚至哉。Dasha依据的《汉语大词典》，乃《汉语大词典CD-ROM繁体单机2.0 版》（汉语大词典编辑部编，香港：商务印书馆（香港）有限公司，2003.07，ISBN 9620702557），乃中国大陆制造但禁在中国大陆销售的，幸蒙远方的兄长慨然相赠，浩荡的恩情与友情，Dasha不敢相忘。
+
+    徐先生的汉语译文，采自商务印书馆1992年版的《苏鲁支语录》（苏鲁支语录 / 尼采著  徐梵澄译，北京：商务印书馆，1992.2，ISBN：7-100-00050-5/B·5），这个版本是经徐先生校订的，但文中前后体例并不统一，例如：“髣髴”与“彷彿”与“仿佛”、“从新”与“重新”、“幻像”与“幻相”、“颠”与“巅”的混用，于此，Dasha为阅读方便，自行修改并将文中的“的”以“的、地、得”加以区分（但“底”字未作更改）。另，由于是从旧版校订，徐先生附录的引文与正文有所出入。Dasha对徐先生引文的校订及Dasha个人对尼采用典的疏注，圣经的德文本依据DIRECTMEDIA Publishing GmbH 出版的光盘Die Luther-Bibel (Digitale Bibliothek Band 29, ISBN: 3-89853-429-4)中的Originalausgabe 1545而不是revidierte Fassung 1912，因为1912年尼采已辞世12年；阅读Luther的Biblia，亦可领略一下新高地德语（das Neuhochdeutsch，nhd.）；中文圣经则依据国语合和本上帝版。
+
+    徐先生的汉语译文，文辞臻于精美，但由于其采用的语言于今日之现代汉语已显陈旧、却又非古代汉语，阅读时往往需要玩味再三，方能体会其精妙。又，徐先生与鲁迅先生私交甚笃（刘小枫博士称之为“私淑”），译文中时时有鲁迅“硬译”的影子，也为现在的阅读生成一种障，但倘超越了这种障，则诵读起来，香生唇舌，声振肺腑。“Wer in Blut und Sprüchen schreibt, der will nicht gelesen, sondern auswendig gelernt werden.”（以血与箴言写作的人，不惟欲有人翻阅，更愿被人记诵。）此语诚然。徐先生的汉语译文，自然也不免错讹疏脱，但Dasha以为，不必苛求。想当年前贤为学之筚路蓝缕，而今借助电子文本与Internet，校订、检索、考据，须臾之间、无所不有，实我辈之幸福也。
+
+    这个PDF电子文档，乃Dasha阅读学习的副产品——读书笔记尔，因为惟其如此，Dasha方更能认真地细细阅读，亦因为惟其如此，Dasha方能日后检索使用方便。共享这个电子文档，当然会是始于网络中的同道中人。至于这个文档最终会流落到哪位有心人手中，Dasha则不得而知，但如果这个PDF能裨益某人学德语、学尼采、学汉语、学诗、学翻译……也算Dasha为往圣继绝学了，先行祝福。至于检校全文，驽钝者Dasha，殚精竭虑之余，亦知以一人之力，终不免挂一漏万，因此，更恳请读此电子文本诸君，将发现的讹误email给Dasha，以加改正，以不辱先贤。另，Dasha手中有Peter Wapnewski朗读的Also sprach Zarathustra（Sender Freies Berlin / der H&ouml;rverlag 2000，ISBN: 3895848204）的mp3（RAR压缩后478 MB），需要者可向Dasha发email索取。
+
+
+-----------------------------------------------------------------
+1949年后大陆其它汉语全译本存目
+
+1.查拉斯图拉如是说 / (德)尼采(Nietzsche, F.W.)著; 楚图南译 . - 长沙: 湖南人民出版社, 1987.11
+  查拉斯图拉如是说 / 楚图南(高寒)译. - 海口: 海南国际新闻出版中心, 1996
+  查拉斯图拉如是说 / (德)尼采(Friedrich Nietzsche)著; 楚图南译. - 贵阳: 贵州人民出版社, 2004
+
+英语转译，有徐梵澄译文的影子。
+
+2.查拉斯图拉如是说 / (德)尼采著; 尹溟译 . - 北京: 文化艺术出版社, 1987（1996重印）
+
+如何翻译，不详，大致读了读，似转译徐梵澄、楚图南的汉语译本。
+
+3.尼采文集——查拉斯图拉卷/ 作者:王岳川编 周国平等译 . - 西宁: 青海人民出版社, 1995. 1
+
+此版本仍尹溟译本，周国平只在《悲剧的诞生：尼采美学文选》（上海: 生活·读书·新知三联书店, 1986.12）中有节译，周此译本后在其它出版社多次重复出版。另，节译本尚有钱春绮的《尼采散文选》（天津：百花文艺出版社，1995.12）。
+
+4.查拉图斯特拉如是说 / (德)尼采著; 余鸿荣译 . - 哈尔滨: 北方文艺出版社, 1988.1
+
+Dasha未见原本，不评。
+
+5.查拉图斯特拉如是说 / 张友谊译 . - 北京: 外文出版社, 1998
+
+Dasha未见原本，不评。
+
+6.查拉图斯特拉如是说 / 黄明嘉译 . - 桂林: 漓江出版杜, 2000
+
+从德文译，低级错误较多，如Nietzsche拼写成Nieczsche。
+
+-----------------------------------------------------------------
+
+苏鲁支在登山时，这么向自己说，用硬话勉慰自己的心：因为他内心创痛，为从来之所未有。当他走到山岭的最高处时，看呵，另一面的大海在他面前展开：他静立移时，悄然无语。遥夜在此高处却甚清凉，爽朗，星光灿然。
+
+——徐梵澄译《苏鲁支语录》
+
+Also sprach Zarathustra im Steigen zu sich, mit harten Spruechlein sein Herz troestend: denn er war wund am Herzen wie noch niemals zuvor. Und als er auf die Hoehe des Bergrueckens kam, siehe, da lag das andere Meer vor ihm ausgebreitet: und er stand still und schwieg lange. Die Nacht aber war kalt in dieser Hoehe und klar und hellgestirnt.
+
+aus: Also sprach Zarathustra, von Friedrich Nietzsche
+
+Thus spake Zarathustra to himself while ascending, comforting his heart with harsh maxims: for he was sore at heart as he had never been before. And when he had reached the top of the mountain-ridge, behold, there lay the other sea spread out before him: and he stood still and was long silent. The night, however, was cold at this height, and clear and starry.
+
+from: Thus Spake Zarathustra, trans. Thomas Common
+
+    Dasha如是说，梵澄先生的这一段文字，如果读不出好来，或者阅读者的审美眼光需要校正，或者阅读者的母语汉语需要补课。不过，徐先生的译文亦并非完美，比如此段中的“硬话”一词，德语乃“harten Spruechlein”，估计是徐先生将das Spruechlein错看成die Sprache+(lein)。即或徐先生没有错看，“硬话”一词从汉语史的角度来看，来对映“harten Spruechlein”，也是微瑕的。
+
+Dasha（master@myrilke.com）  
+Samstag, 4. Dezember 2004
+
+下载地址：http://www.myrilke.com/anders/Zarathustra.rar
+
+戴尔戴尔 2004-12-04 21:08:37
+谢谢.我第一个去DOWN :)
+
+芦笙 2004-12-04 21:17:02
+好好
+
+河汉清且浅 2004-12-04 23:51:22
+谢楼主！马上去down：）
+
+悠哉 2004-12-05 10:58:58
+功德无量也么哥！
+
+sinovivo 2004-12-05 11:21:33
+VIVO needs original WORD document ,it is somewhat convenient to make some notes.
+
+楚王爱细腰 2004-12-05 11:34:41
+下了，谢楼主
+
+心行 2004-12-05 13:06:54
+遥夜在此高处却甚清凉，爽朗，星光灿然。
+______________________________________
+
+不懂德语。但觉得这一句读起来有些别扭。
+为什么不译成“遥夜在此，星光灿然，高处却甚清爽。”
+没有不尊重徐先生的意思，只是看见文字就忍不住要较真儿：）
+
+心行 2004-12-05 13:10:54
+我又琢磨了一下，觉得还是徐先生的好，一顿一隔，更有韵味。
+
+汉语里尔克 2004-12-05 13:12:27
+小V，doc已经email给您了，查收。
+另，既然小V喜欢百科全书的CDROM，Dasha推荐Digitale Bibliothek - Bd. 100: Meyers Grosses Konversations-Lexikon
+700MB×10＋265.87MB＝7.26587G
+您到eMule上自己search吧。
+
+sinovivo 2004-12-05 15:41:26
+谢谢傻哥，但是没有收到您有DOC文档的email，可能V的MSN信箱太小，换一个吧。vivosino@sina.com
+
+VIVO学力不逮，当下有BROCKHAUS multimedia和Meyer - Das multimediale Lexikon 2003 想必已经足够，以后再下载Digitale Bibliothek - Bd. 100: Meyers Grosses Konversations-Lexikon
+700MB×10＋265.87MB＝7.26587G
+
+sinovivo 2004-12-05 15:57:02
+作者：心行　回复日期：2004-12-5　13:06:54　 
+  
+遥夜在此高处却甚清凉，爽朗，星光灿然。
+______________________________________
+
+不懂德语。但觉得这一句读起来有些别扭。
+为什么不译成“遥夜在此，星光灿然，高处却甚清爽。”
+
+==============================================================
+
+梵澄先生的翻译“清凉，爽朗，星光灿然”严格依照了尼采原文的排列次序，更重要的作者思维流动的逻辑，由个我的触觉，视觉扩展乃至阒寂阔大的天宇，始可深味苏鲁支澄澈而又浩瀚的孤独。
+
+戴尔戴尔 2004-12-05 16:03:30
+恩,也觉得"遥夜在此高处却甚清凉，爽朗，星光灿然"好.气势和感觉上透彻.庄严.
+
+养一滴泪 2004-12-05 16:04:35
+收藏~~~~~~~`
+
+sinovivo 2004-12-06 01:13:44
+已收到傻哥之《苏鲁支语录》DOC文档，呵呵，铭感五内。至于MAIL中所言之ZWEIG云云，您一定要相信，傻哥束手的事，小V亦当黔驴，管用的招数只有那么有限的几个。
+
+哥尼希 2004-12-06 14:39:54
+记得刘小枫经常引用的还就是漓江版的黄明嘉译本。这个版本的质量到底如何，倒让人有点儿好奇了——可惜目前见不到是书——能不能请汉兄拨冗再拈出几个“低级错误”，让我们开开眼？
+
+bonycamel 2004-12-06 17:10:29
+非常感谢！！
+
+老砍 2004-12-06 17:31:58
+http://www.publicappeal.org/library/nietzsche/select.htm
+
+尼采著作网站，德英双语。
+
+汉语里尔克 2004-12-06 17:53:51
+唉，哥兄上来就给Dasha出难题啦。Dasha既与美人私定终身，哥兄偏要Dasha再与无盐肌肤相亲，苦也！
+
+无奈，Dasha不该说的话已然出口，就只好硬着头皮继续了。先声明，Dasha手中有“黄明嘉译本”吵星PDG文档，转成图片PDF档压缩成RAR大小约4.59M，如若哥兄或其他网友需要，发信master@myrilke.com，或者跟贴，Dasha传给您。
+
+对黄译本的批评，纯出于鸡蛋里挑骨头，只是在哥兄要求之下随机翻开然后比对德文后Dasha的一种直觉。请哥兄姑妄听之罢：
+
+
+黄明嘉译本第13页：
+我要向人们讲授生存的意义，这意义就是超人，是乌云里的闪电。
+Ich will die Menschen den Sinn ihres Seins lehren: welcher ist der uebermensch, der Blitz aus der dunklen Wolke Mensch.
+
+Dasha按：der Blitz aus der dunklen Wolke Mensch≠乌云里的闪电。
+--------------------------------------------------------------------------
+黄明嘉译本第37页：
+要领梧别人的鲜血殊非易易：我憎恨懒惰的读者。
+Es ist nicht leicht moeglich, fremdes Blut zu verstehen: ich hasse die lesenden Muessiggaenger.
+
+Dasha按：die lesenden Muessiggaenger＝懒惰的读者？
+--------------------------------------------------------------------------
+黄明嘉译本第165页：
+那时代——偶幸与我邂逅的时代过去了；现在我身上发生的还有什么不是我自己的呢？
+Die Zeit ist abgeflossen, wo mir noch Zufaelle begegnendurften; und was koennte jetzt noch zu mir fallen, was nicht schon mein Eigen waere!
+
+Dasha按：was koennte jetzt noch zu mir fallen, was nicht schon mein Eigen waere!≠现在我身上发生的还有什么不是我自己的呢？
+--------------------------------------------------------------------------
+黄明嘉译本第165页：
+谁是我的同类，谁就逃脱不了这样的时刻——这时刻对他说“你现在才走上自己的伟大之路！顶峰和悬崖——现已合为一体，危险至极。
+Wer aber meiner Art ist, der entgeht einer solchen Stunde nicht: der Stunde, die zu ihm redet: "Jetzo erst gehst du deinen Weg der Groesse! Gipfel und Abgrund – das ist jetzt in eins beschlossen!
+
+Dasha按：“危险至极”Dasha不知在此句其语从何来，似乎是从下一句借来的。
+--------------------------------------------------------------------------
+黄明嘉译本第166页：
+那些国家，黄油和蜂蜜像河川泛滥的国家，我不对它们礼赞！
+Ich lobe das Land nicht, wo Butter und Honig – fliesst!
+
+Dasha按：“黄油和蜂蜜像河川泛滥的国家”（wo Butter und Honig – fliesst），治西洋文化，这样的句子如此翻译，Dasha还真搞不通既会德语又是基督徒的刘博士为什么会常援引此译本。
+
+流亡的風 2004-12-06 19:32:23
+想重拾多年前學過而又荒廢殆盡的德語了。
+
+哥尼希 2004-12-06 22:33:11
+真是难为汉兄了。赫赫，不过，若非您这回舍身无盐、勘实内情，还不知道有多少无辜读者要继续上当呢。
+
+对照汉兄所赐徐译，看过上面几条，我有一个冒昧的猜测：汉兄之所以列出这几处问题，也许并非随机抽样，而是出于自身精读徐译的经验。
+
+让我陈述一下这假说的理由：
+
+1. Ich will die Menschen den Sinn ihres Seins lehren: welcher ist der uebermensch, der Blitz aus der dunklen Wolke Mensch.
+徐译:我将教人以生存之意义，那便是超人，浓云中的闪电人。（myrilke版,p15）
+黄译：我要向人们讲授生存的意义，这意义就是超人，是乌云里的闪电。
+（漓江版，p13)
+
+该页下myrilke版有注：鲁迅译作“从人的黑云里出来的闪电”是恰当的。此言极是。黄译固然丢了“乌云”后面的“人”，可徐译的“闪电人”也过于新奇，未免有科幻色彩了。
+
+2. Es ist nicht leicht moeglich, fremdes Blut zu verstehen: ich hasse die lesenden Muessiggaenger.
+徐译：要懂得旁人的血是不容易的：我憎恨好读书的书呆。
+（myrilke版,p43）
+黄译：要领梧别人的鲜血殊非易易：我憎恨懒惰的读者。
+（漓江版，p37)
+
+Muessiggaenger，此言闲逛者，英译有作idler的。die lesenden Muessiggaenger，说的大概是这么一种人：无所事事，游手好闲，以游客的、好奇的心态闯入人家的心血之作中（相当于在书话这样的读书圣殿里一味灌水、不好好发主贴的“小白”）。黄译作“懒惰的读者”固然未达其旨，徐说“好读书的书呆”，恐怕也与原文颇有睽隔。
+
+3. Wer aber meiner Art ist, der entgeht einer solchen Stunde nicht: der Stunde, die zu ihm redet: "Jetzo erst gehst du deinen Weg der Groesse! Gipfel und Abgrund – das ist jetzt in eins beschlossen!
+徐译：谁像我这么样的，不会放弃这种时辰，这时辰对他如此说：“现在你乃走着你伟大的路吧！峰巅与溪谷——现在皆已合而为一了！”
+（myrilke版,p195）
+黄译：谁是我的同类，谁就逃脱不了这样的时刻——这时刻对他说“你现在才走上自己的伟大之路！顶峰和悬崖——现已合为一体，危险至极。
+（漓江版，p165）
+
+Abgrund是深渊（abyss），这词在这书中也算一个要点，黄译作“悬崖”极不当，而徐译“溪谷”似乎也不得要领。
+检索全书各处，徐对该词有深渊、溪谷、深谷、渊源、渊海、渊谷、幽深七种译法，其中页367（myrilke版）上下句间，一译“幽深”、一译“溪谷”——这做法让人失望。
+
+不提这Abgrund，单说“时辰”对zarathustra说的话：Jetzo erst gehst du deinen Weg der Groesse!徐译"现在你乃走着你伟大的路吧！"，是把该句看成命令句了。但细察这里的语气，说话者并非命令、要求，而是惊讶、质问（怎么此时此刻才走上这路！），况且若是命令句的话，句中的du就似嫌多余。
+
+汉兄摘出的5处黄氏误译中，有3处徐译也存在疑点——所以我私下揣摩汉兄检视黄译的办法，很可能倒是先从徐译入手的。
+
+汉语里尔克 2004-12-07 11:46:46
+知我者，哥兄也。Dasha涕零。Dasha近来转向德语哲学原著，乃是因为Rilke的“Die achte Elegie”。此首诗，Dasha看英译本不少与10，汉语版本不少于6（俄、法语看不懂，但有电子文本）……惜乎，英、汉译本无一不是“未读懂原文，基本属于胡言乱语”：倘使诸位英、汉译者能有徐先生十分之一的功力，此诗也不会令Dasha如此不忍卒读。
+Dasha“私淑”徐先生，缘于Dasha不懂地看徐先生的骚体汉译Bhagavad-Gita，对徐先生的译理深以为然。Dasha不欲治哲学，更不欲无知地跨语言治哲学，读哲学原文，一是想知道一些哲学术语的德汉语之间的映像，一是从哲学的视角进入哲学的“Die achte Elegie”。前些日子OCR海氏的Wozu Dichter原文，亦因为此。可惜，Dasha眼中，无可资参考汉语译本（包括熊伟节译），一个“das Offene”就已令Dasha茫然：不知是依从孙的草率译名“敞开者”（熊译“敞开”），还是像哲学外行程抱一那样天马行空（程译“大开”），抑或像竭力挖苦刘半九的郑秀陶五十步之间译作“空旷”，海氏的Wozu Dichter毕竟至少有三分之一的篇幅在解析这个“das Offene”！
+昨天开始，Dasha正整理陈、王合译（熊伟校）的S.u.Z.书末附录（亦多讹误脱落，如“希汉对照”的第二个词“不觉知”，希腊文就是错的），手中版本是三联1987年老版，因此正想求教哥兄，此修订版如何？
+
+哥尼希 2004-12-07 18:32:48
+汉兄为了翻译第八哀歌转治heidegger，这真让我们门外汉肃然起敬。不过我总觉得，heidegger这类的阐释，未免引力太强，rilke的译者如果对此过于投入，反而会难以自持：要么让heidegger一骨脑吸走，要么则彻底倒向另一极，好像是处处成心跟人家对着干。与海氏相比，里尔克本人大概也只能算“哲学外行”，但反过来说，heidegger本人又何尝不是“诗艺外行”呢？（按我看，在哲学家里他的诗没法跟nietzsche比。每年8月18号据说是"bad poetry day"，我建议命名者委婉些，改称“诗哲节”算了。）从这个角度看，对于译诗者来说，heidegger的言论恐怕只能聊备一说，未宜全力依凭：毕竟，说到诗，一个“诗哲”不见得就比一个真正的诗人高明。
+
+SZ修订版，汉兄说的是陈嘉映弄的那个吧？这书的中译，我还是小时候读的，看的自然也是最早的87年版（据说一印就是5万多，主事者好像夸口说：相信SZ的任何版本初印都没有这么大印数的！）。后出的修订版一共就翻开过几次，没有细查二者的区别——所以对这个书，我也实在属于muessiggaenger，更兼中译都不在手头，因此就完全没有详论的资格了。
+
+对于99年修订版，我记得国内作者们倒也没有什么完整的意见。孙周兴指摘说，87年版还保留了大段希腊文、拉丁文的原样，99年版则刊落殆尽，这是很不体面的做法，缺乏对原著的尊重。按我看呢，三联大概就没有能打理这两门文字的校对人员，所以印上去恐怕错讹更多，所谓“灾及枣梨”，不如就这样算了（比方说汉兄整理的这个“希汉对照”附录，在修订版里头好像就省去了）。
+
+我对三联这些个译本的总看法是：它们的实际效用，与其说是"嘉惠士林"，不如说是服务于广大的、少不更事的muessiggaenger，给这些精力过剩、闲极无聊的青少年增添点儿活动项目罢了。不谈译文细节，只看选用的底本：heidegger这本书呢，算是为"评职称"而出的急就章，体系虽然精密，但印出来文字差错极多，二战后历次印制的新版都修订不辍；heidegger本人又素来多事，喜欢在自用的一本上做点儿删改，加些批语、边注——所有这些更动、注释大概只有到了全集版的SUZ（1977,klostermann）才算充分体现出来了。可是三联的中译呢，直到99年修订版仍然采用的是原汁原味儿的niemeyer版，换句话说，"海德格尔学"几十年来的研究成果，对这个“修订版”就跟不存在一样（我当时随手核对过，heidegger自己的若干更动，中文"修订版"上还是一仍其旧）。
+
+87年的时候条件艰苦，大概能翻出全书就属不易，以上诸端都不宜苛求。但12年下来，不说反映国外学界最新的研究成果，参照一下人家1977年就推出了的产品，总不是过分的要求吧。
+
+我从前统计过一次，SZ的日译本至少有7个，其中还有一个是与德国专家合译的。说起这个“德国专家”hartmut buchner（日语念做"ハルトムートブフナー"），也真跟heidegger有缘分：我们读vortraege und aufsaetze的时候，能看到一封“给青年学生的信”，这收信的青年学生，也就是后来的哲学专家"ブフナー"了。——这么说来，对待少不更事的、闲极无聊的读者们，也是不宜随便敷衍的。heidegger之于ブフナー，就得算善因善果；而恶因恶果的例子，则不妨看看三联译本之于我本人了。
+
+sinovivo 2004-12-08 00:14:23
+提! 谢谢汉、哥两位大佬。
+
+神州袖手人 2004-12-08 17:31:09
+冒昧地表达一下我的看法：heidegger和nietzsche的诗艺之比较，我认为两者相比不会相差太远。nietzsche的散文诗的确是德语中的佼佼者。但是就分行排列的诗来说，nietzsche的水平相反不怎么高。中译本有钱春绮1986年漓江版《尼采诗选》。我认为水平一般。
+海德格尔的诗《诗人思想家》中错行排列，只看前排的“朝暾渐朗/攀上群山之巅”等等，还不错。全诗在此：
+http://yuanct.com/newbbs/read_post.php?bid=146&id=13496&pos=0&way=0
+
+哥尼希 2004-12-08 22:27:35
+哈哈，“朝暾渐朗/攀上群山之巅”。
+
+本来呢，诗的事情据说是"各花入各眼"——休谟、康德不是早说过了，品味上的东西，争论起来总是没结果的。
+不过这个“朝暾渐朗/攀上群山之巅”，也未免太有意思了。以前不知道中译本居然是这样的。真得感谢神州先生提供这个样品！
+
+还是严肃点儿说说吧：德语诗是怎么回事，诗人高下怎样区分，在这儿可轮不上我来发言——Horatius、要命、汉语里尔克诸先生才是我们应该诉诸的终审法官。
+下面就只给出两个样品，供大家深入讨论。
+
+1.尼采的Venedig（威尼斯）。这首诗应该挺有名吧，我最早还是在一本德语教材里看到的（中译可参见各种版本的ecce homo）。
+
+Venedig
+
+An der Bruecke stand
+Juengst ich in brauner Nacht.
+Fernher kam Gesang:
+Goldener Tropfen quoll‘s
+Uber die zitternde Flaeche weg.
+Gondeln, Lichter, Musik -
+Trunken schwamm‘s in die Daemmrung hinaus ...
+
+Meine Seele, ein Saitenspiel,
+Sang sich, unsichtbar beruehrt,
+Heimlich ein Gondellied dazu,
+Zitternd vor bunter Seligkeit.
+- Hoerte jemand ihr zu? ...
+
+2.海德格尔的Aus der Erfahrung des Denkens（出自思的经验），也就是美国人弄的拼盘poetry, language, thought一书的开头第一章，标题翻成“诗哲（the thinker as poet）”的那个。
+
+    Weg und Waage
+    Steg und Sage
+    finden sich in einen Gang.
+
+    Geh und trage
+    Fehl und Frage
+    deinen einen Pfad entlang.
+
+Wenn das fruehe Morgenlicht still ueber den Bergen waechst ...
+Die Verduesterung der Welt erreicht nie das Licht des Seyns.
+Fuer die Goetter kommen wir zu spaet und zu frueh fuer das Seyn. Dessen angefangenes Gedicht ist der Mensch.
+Auf einen Stern zugehen ...
+Denken ist die Einschraenkung auf einen Gedanken, der einst wie ein Stern am Himmel der Welt stehen bleibt.
+
+...
+
+上面只节录了一段儿，后面还有很多这样一句一句的，不过还是到此为止吧。
+这写法的好坏当然自有公论，可我总觉得海德格尔在"诗哲"里也属于比较离谱的，风格接近于流行乐中的“说唱”（周杰伦？）。一开头还是老老实实的“Weg und Waage/Steg und Sage”，猛一下子就爆发成了"Wenn das fruehe Morgenlicht still ueber den Bergen waechst ..."。
+
+英译者大概也实在为这个风格不好意思，所以遇到长句就羞涩地断开了。比如上面那句，就译成了“When the early morning light quietly/grows above the mountains...”——对了，哈哈，这也正是中文读者看到的优美句子：“朝暾渐朗/攀上群山之巅”。欣赏这“朝暾渐朗”的朋友们哪能想到，海德格尔本来的德语读起来比这个热闹多了。
+
+附带说说：尼采最后当然是疯了，可我看海德格尔本人的精神状况，有时候也不见得好到哪儿去——收入Aus der Erfahrung des Denkens的这些“诗哲”作品，大多可以当作病理学材料处理的。还有美国人近年热捧的那本怪书beitrage zur philosophie（说是仅次于SZ的巨作），依鄙见也属于同一类型——当然，这还全是个人判断，都只能是那种关乎品味的、无法可想的事情了。
+
+汉语里尔克 2004-12-08 23:21:22
+嗳，哥兄不愧是Koenig，眼里揉不得沙子。而袖手兄呢，也比较怪异：拿两个哈哈镜里的影像说事。看来，里尔克对吾人的目光的反思不独关涉死生之事：
+
+Der Schoepfung immer zugewendet, sehn
+wir nur auf ihr die Spiegelung des Frein,
+von uns verdunkelt. ...
+... ... ... ...
+Dieses heisst Schicksal: gegenueber sein
+und nichts als das und immer gegenueber.
+
+aus:Die achte Elegie, von R. M. Rilke
+
+sinovivo 2004-12-09 00:01:52
+嘻嘻，神州袖手人兄的话一出口，V就知道要挨砖头，果然如此。
+
+神州袖手人 2004-12-09 10:42:08
+sinovivo先生有没有想到我的话就是为这些即将到来的砖头所写的呢。
+谢哥尼希先生。
+我所说尼采的诗一般，这句话可能错了。这句话的隐含的前提是“世界上只存在极少的好诗”。《威尼斯》很好。也就是很好而已。
+正如博尔赫斯所说，诗经得起误译。我可能与“普宁”相似——对英语的莎士比亚没有感觉，对俄译莎士比亚中的妙语更能心领神会。Aus der Erfahrung des Denkens一诗不可能从劣诗经过翻译而变成好诗，根据我的经验，诗歌翻译往往降低诗的品质（当然也有例外。庞德说过，诗歌就是翻译中剩下来的东西）。就全诗来讲，此诗不能算劣诗。当然，在我的私人序列中，劣诗上面并非是好诗，好诗距很好还差一段距离。
+说到这里，其实离那个节外生枝的小插曲的出发点的距离仍为零。不过主帖是关于苏鲁支语录的，为避免误解，还是表个态吧：最好的。
+
+sinovivo 2004-12-09 12:01:54
+神州袖手兄:呵呵，VIVO想到您可能是在找砖头，据不可靠消息，你最近正在筹备盖“九州大厦”，此前的某帖也透露了些许端倪。就算不盖房，砸来的都是王者随风抛洒的珠玉，金砖，统统收进，趁当下市价正旺，换成人民币，美金，欧元也好。^_^
+
+满纸Deutsch,未免有阻断言路，圣学秘传的意味，VIVO年轻力健，不妨干干搬运工的粗活，转来哥尼希先生所贴诗歌的汉译，以便最大量的人民群众可以参加此番探讨。
+
+BTW：VIVO学问猥陋，但无知者无畏，谈一下自己对heidegger和nietzsche这两首诗歌的直觉断定：heidegger之诗莫名其妙，故弄玄虚;nietzsche之诗咿呀学语，寡淡无味。
+
+
+Venedig
+
+An der Bruecke stand
+Juengst ich in brauner Nacht.
+Fernher kam Gesang:
+Goldener Tropfen quoll‘s
+Uber die zitternde Flaeche weg.
+Gondeln, Lichter, Musik -
+Trunken schwamm‘s in die Daemmrung hinaus ...
+
+Meine Seele, ein Saitenspiel,
+Sang sich, unsichtbar beruehrt,
+Heimlich ein Gondellied dazu,
+Zitternd vor bunter Seligkeit.
+- Hoerte jemand ihr zu? ...
+
+
+威尼斯
+
+最近，在晕黄的夜晚，
+我曾来伫立在桥边。
+远处传来了歌声；
+它迸出点点的金光，
+掠过荡漾的水面。
+游艇，灯火，音乐——
+醉沉沉地向暮色中飘去``````
+
+我的灵魂，像弦乐器，
+被无形的手指拨弄，
+暗暗演唱游艇之歌，
+感到多彩的至福的战栗。
+——可要人在听它？
+
+（佚名译，来自网络http://www.1917cccp.com/nietzsche/poem/poem.htm）
+
+
+
+
+ Weg und Waage
+ Steg und Sage
+ finden sich in einen Gang.
+
+ Geh und trage
+ Fehl und Frage
+ deinen einen Pfad entlang.
+
+Wenn das fruehe Morgenlicht still ueber den Bergen waechst ...
+Die Verduesterung der Welt erreicht nie das Licht des Seyns.
+Fuer die Goetter kommen wir zu spaet und zu frueh fuer das Seyn. Dessen angefangenes Gedicht ist der Mensch.
+Auf einen Stern zugehen ...
+Denken ist die Einschraenkung auf einen Gedanken, der einst wie ein Stern am Himmel der Welt stehen bleibt.
+
+诗人思想家（“来自思想的体验”） 
+     
+     ——海德格尔 
+     
+     
+    道路和称量 
+    阶梯和言说 
+    发现于独步 
+     
+    前行不息 
+    无须迟疑和退避 
+    健行于你寂寥的小径 
+    朝暾渐朗 
+    攀上群山之巅。。。 
+     
+    世界的晦暗从未趋近 
+    那在的澄明 
+     
+    追念众神，憾然晚矣； 
+    瞻望存在，为时尚早； 
+    存在之诗，才刚开秘：此即为人 
+     
+    迎着一颗星-仅此而已 
+    思始终忠实于 
+    有朝一日将兴起的思 
+    犹如世界天空的一颗孤星 
+     
+    小屋窗外， 
+    渺小的风轮在 
+    骤急的雷暴雨中歌唱。。。 
+     
+    当思的勇气得自那 
+    在的吩咐， 
+    命运的言词将一片绚丽 
+     
+    当我们眼前有物 
+    心中有耳听词 
+    思的事业就会兴旺 
+     
+    学问的对象与思的事物 
+    几乎无人知晓 
+    这二者之间的不同 
+     
+    如果早有对手 
+    而非仅是敌手， 
+    思的境况 
+    势必更加昌盛 
+     
+    一线阳光蓦然穿越 
+    雨云密布的天空偶尔显露的罅隙 
+    在阴沉的草地上悄然掠过。。。 
+     
+    我们从未趋近思， 
+    思常惠顾我们。 
+    那是最宜言说之时 
+     
+    话语使我们欣然于友好的反思。 
+    反思既不夸示 
+    相互争雄的诡辩，也不宽让 
+    唯唯诺诺的认同。思之帆 
+    永难调整，迎着那 
+    事物的风 
+     
+    从这种亲善的关系中， 
+    也许会 
+    出现一些思之工艺中熟巧的技工。 
+    他们中的某些人将 
+    不期然而然地成为大师 
+     
+    夏日早来，可爱的水仙花 
+    躲在草地深处开放，而鲜艳的玫瑰 
+    在槭树下摇曳。。。 
+     
+    单纯者的辉煌 
+     
+    只有成形的意象才能保持在视野， 
+    但成形的意象安身在诗里 
+     
+    如果只想回避痛苦，又怎能希望 
+    快乐之流把我们围绕？ 
+     
+    最不抱希望的时刻 
+    痛苦常是意外的宽慰 
+     
+    风急速转向在小屋的 
+    檐下呼啸。天气又要变得 
+    更加恶劣。。。 
+     
+    有三种危险威胁着思 
+    好的因而也是健康有益的危险 
+    是歌与诗过分的 
+    亲近 
+     
+    有害的因而也是锐利的危险 
+    是思本身。思必须反对自身而思 
+    这它很少作到 
+     
+    坏的因而也是最容易把事情弄糟的 
+    危险，是哲学 
+     
+    炎夏的胡蝶收起双翼 
+    择枝停息，草地上轻风吹拂 
+    胡蝶就随那花枝一起 
+    盈盈颤动。。。 
+     
+    我们心中所有的勇气是 
+    对存在发出的第一声召唤 
+    作出回应。存在将我们的思 
+    汇入世界的戏剧 
+     
+    思中万物 
+    寥寞缓行 
+    忍耐出大度 
+     
+    思之雄者 
+    错也必巨 
+     
+    山涧在静谧之夜 
+    喃喃自语地流过 
+    错落无声的砾石。。。 
+     
+    吾人思中古之最古者 
+    尾随我们，但忽焉在前 
+    要和我们相遇 
+     
+    这就是为什么吾人之思 
+    总是关注着那早已存在之物的惠临 
+    这就是为什么吾人之思 
+    总是对旧有之物的缅怀 
+     
+    去成为古老的意味着：在时间的 
+    湍流中驻足，在那里， 
+    思想操练之杰出着， 
+    挺入时间的接缝 
+     
+    一旦知悉思的源头， 
+    我们就敢由哲学抽身 
+    投入对在的思中 
+     
+    冬夜的暴风雪在小屋外肆虐 
+    清晨，大地在皑皑白雪覆盖下 
+    静默无声。。。 
+     
+    只有对那必须保持沉默者 
+    不能再说， 
+    思之言说才能 
+    在它自身的存在中静默 
+     
+    这种不能再说 
+    让思与思的我问题面面相照 
+     
+    讲出的决不是无言中说出的 
+     
+    思亘古如斯又倏忽闪现 
+    谁的惊愕能深究它？ 
+     
+    牡牛的颈铃声从山岭的斜坡 
+    不断传来，牧群在那里悠然 
+    游动。。。 
+     
+    思的诗性依然被 
+    严严遮盖。 
+    在其显示自己的地方 
+    思长久以来就像 
+    一个半诗的理智乌托邦 
+     
+    远思的诗实是 
+    在的地形学 
+     
+    这种地形学展示出 
+    存在实际现身 
+    在何处 
+     
+    黑夜放光，照入林中某处 
+    树木沐浴于 
+    一片金光。。。 
+     
+    歌和思是跟诗紧邻的 
+    两个家族 
+     
+    它们源自并且达于 
+    存在的真理 
+     
+    它们的关系使我们想起 
+    荷尔德林咏唱的 
+    森林和树木： 
+     
+    "尽管林与木紧紧相邻 
+    它们还是互不相识" 
+     
+    森林绵延 
+    溪水潺潺 
+    砾石依旧 
+    雾霭蒸腾 
+     
+    草底静候 
+    明媚春光 
+    微风絮语 
+    祝祷诗才 
+     
+    。。。Poetry,Language,Thought,p.1-14
+
+
+（佚名译，来自网络http://yuanct.com/newbbs/read_post.php?bid=146&id=13496&pos=0&way=0）
+
+Horatius 2004-12-09 12:16:52
+诗人思想家（“来自思想的体验”） 
+     
+     ——海德格尔 
+     
+     
+    道路和称量 
+    阶梯和言说 
+    发现于独步 
+     
+    前行不息 
+    无须迟疑和退避 
+    健行于你寂寥的小径 
+    朝暾渐朗 
+    攀上群山之巅。。。 
+     
+    世界的晦暗从未趋近 
+    那在的澄明 
+     
+    追念众神，憾然晚矣； 
+    瞻望存在，为时尚早； 
+    存在之诗，才刚开秘：此即为人 
+     
+    迎着一颗星-仅此而已 
+    思始终忠实于 
+    有朝一日将兴起的思 
+    犹如世界天空的一颗孤星 
+     
+    小屋窗外， 
+    渺小的风轮在 
+    骤急的雷暴雨中歌唱。。。 
+     
+    当思的勇气得自那 
+    在的吩咐， 
+    命运的言词将一片绚丽 
+     
+    当我们眼前有物 
+    心中有耳听词 
+    思的事业就会兴旺 
+     
+    学问的对象与思的事物 
+    几乎无人知晓 
+    这二者之间的不同 
+     
+    如果早有对手 
+    而非仅是敌手， 
+    思的境况 
+    势必更加昌盛 
+     
+    一线阳光蓦然穿越 
+    雨云密布的天空偶尔显露的罅隙 
+    在阴沉的草地上悄然掠过。。。 
+     
+    我们从未趋近思， 
+    思常惠顾我们。 
+    那是最宜言说之时 
+     
+    话语使我们欣然于友好的反思。 
+    反思既不夸示 
+    相互争雄的诡辩，也不宽让 
+    唯唯诺诺的认同。思之帆 
+    永难调整，迎着那 
+    事物的风 
+     
+    从这种亲善的关系中， 
+    也许会 
+    出现一些思之工艺中熟巧的技工。 
+    他们中的某些人将 
+    不期然而然地成为大师 
+     
+    夏日早来，可爱的水仙花 
+    躲在草地深处开放，而鲜艳的玫瑰 
+    在槭树下摇曳。。。 
+     
+    单纯者的辉煌 
+     
+    只有成形的意象才能保持在视野， 
+    但成形的意象安身在诗里 
+     
+    如果只想回避痛苦，又怎能希望 
+    快乐之流把我们围绕？ 
+     
+    最不抱希望的时刻 
+    痛苦常是意外的宽慰 
+     
+    风急速转向在小屋的 
+    檐下呼啸。天气又要变得 
+    更加恶劣。。。 
+     
+    有三种危险威胁着思 
+    好的因而也是健康有益的危险 
+    是歌与诗过分的 
+    亲近 
+     
+    有害的因而也是锐利的危险 
+    是思本身。思必须反对自身而思 
+    这它很少作到 
+     
+    坏的因而也是最容易把事情弄糟的 
+    危险，是哲学 
+     
+    炎夏的胡蝶收起双翼 
+    择枝停息，草地上轻风吹拂 
+    胡蝶就随那花枝一起 
+    盈盈颤动。。。 
+     
+    我们心中所有的勇气是 
+    对存在发出的第一声召唤 
+    作出回应。存在将我们的思 
+    汇入世界的戏剧 
+     
+    思中万物 
+    寥寞缓行 
+    忍耐出大度 
+     
+    思之雄者 
+    错也必巨 
+     
+    山涧在静谧之夜 
+    喃喃自语地流过 
+    错落无声的砾石。。。 
+     
+    吾人思中古之最古者 
+    尾随我们，但忽焉在前 
+    要和我们相遇 
+     
+    这就是为什么吾人之思 
+    总是关注着那早已存在之物的惠临 
+    这就是为什么吾人之思 
+    总是对旧有之物的缅怀 
+     
+    去成为古老的意味着：在时间的 
+    湍流中驻足，在那里， 
+    思想操练之杰出着， 
+    挺入时间的接缝 
+     
+    一旦知悉思的源头， 
+    我们就敢由哲学抽身 
+    投入对在的思中 
+     
+    冬夜的暴风雪在小屋外肆虐 
+    清晨，大地在皑皑白雪覆盖下 
+    静默无声。。。 
+     
+    只有对那必须保持沉默者 
+    不能再说， 
+    思之言说才能 
+    在它自身的存在中静默 
+     
+    这种不能再说 
+    让思与思的我问题面面相照 
+     
+    讲出的决不是无言中说出的 
+     
+    思亘古如斯又倏忽闪现 
+    谁的惊愕能深究它？ 
+     
+    牡牛的颈铃声从山岭的斜坡 
+    不断传来，牧群在那里悠然 
+    游动。。。 
+     
+    思的诗性依然被 
+    严严遮盖。 
+    在其显示自己的地方 
+    思长久以来就像 
+    一个半诗的理智乌托邦 
+     
+    远思的诗实是 
+    在的地形学 
+     
+    这种地形学展示出 
+    存在实际现身 
+    在何处 
+     
+    黑夜放光，照入林中某处 
+    树木沐浴于 
+    一片金光。。。 
+     
+    歌和思是跟诗紧邻的 
+    两个家族 
+     
+    它们源自并且达于 
+    存在的真理 
+     
+    它们的关系使我们想起 
+    荷尔德林咏唱的 
+    森林和树木： 
+     
+    "尽管林与木紧紧相邻 
+    它们还是互不相识" 
+     
+    森林绵延 
+    溪水潺潺 
+    砾石依旧 
+    雾霭蒸腾 
+     
+    草底静候 
+    明媚春光 
+    微风絮语 
+    祝祷诗才 
+
+
+************************
+
+看了前两节，发现一些问题：
+
+Waage,应该是天平而不是称量，起码也是量器而不是称量这个行为。
+Steg, 是简易的桥，而不是阶梯；译者大概跟Steige, 梯子，阶级的山路混了。
+finden sich in einen Gang.很难翻译，大意为“在步态中妥协”。翻译成“发现于独步”，译者应该是不知道“finden sich in +Akk”这个成语；至于将“einen"作“独”，则全然是添加了。
+
+至于第二节，全节是命令式，试意译为：
+走吧，荷吧，
+失误与问题，
+沿着你的一条路。
+
+上面的翻译没有明确其命令式，落掉不少词，更发挥创造了一些新意。
+
+其余的，就不必饶舌了。
+
+顺便问问，是谁翻译的？
+
+sinovivo 2004-12-09 12:45:29
+回Horatius先生:VIVO从网络拷贝,不知译者是谁。
+
+神州袖手人 2004-12-09 13:30:42
+郜元宝据英文翻的。
+
+Horatius 2004-12-09 14:13:17
+Horatius:
+
+"finden sich in einen Gang.很难翻译，大意为“在步态中妥协”。"
+
+想了想，还是译为“化为步态”比较贴切，中文也更明白。
+
+此外，郜先生将Sage译为言说，也是望文生义，不知道该词是“传说”的意思，此Sage不是那sagen, 实为saga.
+
+哥尼希 2004-12-09 15:30:30
+"郜元宝"，赫赫。查了查这件作品：
+
+人诗意地安居(海德格尔语要) 
+作者：[德]海德格尔 编  郜元宝  
+
+本书从海德格尔的著作中精选出一百六余条语段，以“存在的真理”、“思想的任务”、“语言是存在的家”、“人，诗意地安居”、“技术和人的命运”为题分为五大章，大致勾勒出海氏思想的轮廓与话题中心，有助于读者更好地接近原著，进入海德格尔极富魅力的精神王国。 
+
+译序
+一 存在的真理 1 完全有必要重新追问存在的意义 2 存在的领悟 3 应该就存在者的存在来追究它们 4 生存问题总是只能通过生存活动本身来澄清 5 此在充当的就是首先必须问及其存在的存生者 6 存在与真理“同行” 7 真理不是一种“符合关系” 8 唯当此在存在，才“有”真理 9 哲学的耻辱 10 “主客体关系”：一个不祥的哲学前提 11 “产体”非“人”，也与“我”无关 12 “世”就是在的所在 13 严格说来我们在一个其上主要有在的状况中 14 人不是在者的主人。人是在看护者和邻居 ……
+二 思想的任务
+三 语言是存在的家
+四 人，诗意地安居五 技术和人的命运
+
+哥尼希 2004-12-09 15:47:16
+Horatius兄说的都极确切。可我怀疑，“郜元宝”弄出来的这些句子，恐怕是英译本poetry language thought的私生子，跟heidegger本人都关系不大的。
+
+把英译本里的这一段儿也录上来：
+	Way and weighing 
+	Stile and saying 
+	On a single walk are found. 
+
+	Go bear without halt 
+	Question and default 
+	On your single pathway bound. 
+
+When the early morning light quietly 
+grows above the mountains.... 
+
+	The world‘s darkening never reaches 
+		to the light of Being. 
+	
+	We are too late for the gods and too 
+		early for Being. Being‘s poem, 
+		just begun, is man. 
+
+	To head toward a star-this only. 
+
+	To think is to confine yourself to a 
+		single thought that one day stands 
+		still like a star in the world‘s sky.
+
+好像跟郜译有点像？——不过，哈哈，我还是喜欢那个“朝暾”：郜译者认识的字真多！
+
+Horatius 2004-12-10 05:00:51
+作者：哥尼希　回复日期：2004-12-9　15:47:16　   
+可我怀疑，“郜元宝”弄出来的这些句子，恐怕是英译本poetry language thought的私生子，跟heidegger本人都关系不大的。
+
+哥先生所说，很有可能，有趣的是该英文翻译用stile翻译Steg，似乎不知该字的典故。英文又是谁译的呢？
+
+哥尼希 2004-12-10 06:53:04
+呵呵，是一位albert hofstadter（听起来像是德裔？）的手笔。
+
+我印象里，vortraege und aufsaetze没有单独的英译，所以要想看das ding、bauen wohnen denken等几篇的英译，就得找这个拼盘儿了。
+对了，当然还少不了那篇有名的（被“郜元宝”喜爱的）——《人诗意地安居》！
+
+Horatius 2004-12-10 09:22:15
+这Albert H是Douglas H的叔叔，有意思的是，一个鼓捣被分析哲学派嗤之以鼻的Heidegger，一个走的是数理哲学的路子。Hofstadter家祖籍匈牙利。Doug还翻译过哥尼希兄所说的《螯捏紧》。
+
+哥尼希 2004-12-10 12:45:46
+原来真是侯世达家的。
+
+说到侯侄子，想起前两天看见的一条趣闻（关于GEB的第一个译本的）。
+
+**********************************
+该书的翻译过程很有戏剧性。对成书做出关键贡献的几位人士都是层次很高的、通晓好几个领域的跨学科专家。该书的翻译水准对于象该书原文这样的难度而言实在是值得称道的。
+
+中国理论计算机科学界的老前辈吴允增先生是倡导此书翻译的关键人物，可惜他没有能够见到译本的问世。
+
+中国人工智能和计算语言学界的著名专家马希文教授主持了该书的主要翻译工作。严勇、刘皓明、王培三位先生为我们留下了现在的精彩译文。作者的助手、现在在小品和电视直播节目中频频露面的莫大伟先生同译者们进行了密切的合作。其中，马希文教授和严勇是北大计算语言所的，王培是北大计算机系的，刘皓明是北大比较文学研究所（？）的。
+
+郭维德先生几乎参加了本书从最初翻译到中译本最后出版的全过程，并在中译本的出版上作出了重要的贡献。郭先生现在是IBM中国公司的高级管理人员。
+**********************************
+
+谁能料到呢，大家喜闻乐见的“洋笑星”莫大伟，居然当过侯世达的“助手”（莫应该是在学音乐的时候遇上侯的吧？）。
+
+莫的主页。其中提到他的一篇论文“论相声的自指性”“Reflexivity in the Humor of Xiangsheng”——依稀可见乃师的影子？
+http://star.kpworld.com/kpstar/xingguang/modawei/mxjl.htm
+
+汉语里尔克 2004-12-10 13:56:07
+Horatius、哥尼希二兄好热闹，Dasha正好有德语疑难，敬祈方便时惠赐只言片语。
+
+里氏“第八哀歌”：
+1.
+Wie aus Versehn ist ihnen aufgetan
+hinter dem andern... Aber ueber ihn
+kommt keiner fort, und wieder wird ihm Welt.
+
+“Wie aus Versehn ist ihnen aufgetan / hinter dem andern...”句的主语是什么？Dasha个人浅见是省略号“...”，即前文说言的“das Offene”、“Nirgends ohne Nicht”。
+“und wieder wird ihm Welt”如何读解？尝试参看英译本，竟如出一辙：“und again it‘s world”:-(
+Dasha无知，读出两种，斗争中：a. “keiner wieder wird ihm Welt”（无人再成为他的世界），这个他、德语的ihm，当是前面的“dem andern”与所ueber的“ihn”； b.“"..."  wieder wird ihm Welt”（……再度成为他的世界）。
+
+
+2.
+Waere Bewusstheit unsrer Art in dem
+sicheren Tier, das uns entgegenzieht
+in anderer Richtung –, riss es uns herum
+mit seinem Wandel.
+
+此句主要纠缠Dasha的是“mit seinem Wandel”的“der Wandel”。J. B. Leishman不知为什么将之译为“the wake”，而A. Polin, Jr以降于是亦步亦趋。独Leslie Norris、Alan Keele译作“knowledge”，C. F. MacIntyre省略不译。查Duden das grosse Woerterbuch der deutschen Sprache、综观此节诗，当非第一义“变化”（das Sichwandeln; Wandlung），似当其第二义“(veraltet) Lebenswandel”（容止）。不知二兄以为如何。
+
+------------------------------------------------------------------------------
+时见华夏学人奉英译本为圭皋，Dasha颇多犹疑。以Dasha个人论之，Dasha读英译本，徒在德语的疑难之上再添迷雾，英译本读得愈多，疑难愈霭霭。如前引“riss es uns herum”，明明原文是herumreissen，诸英、汉译者皆读成“reissen”，此际，Dasha只有暗自庆幸自学的明智。于此，Dasha复又记起前些日子翻Wittgenstein《逻辑哲学论》的郭英译本，郭在“译者后记”中似乎还诚实：
+
+        本书基本上从德文原文译出，井参考了英译本和俄译本。译者
+    后来才知道英译本现在公认为是一个拙劣的译本，因此译文可能
+    受到影响（如上述“原于事实”即是）：不过由于还参考了俄文译本，
+    也许略略可以减少这种影响吧。
+
+原文见商务“学术名著丛书”的《逻辑哲学论》第135页，可惜，Dasha个人却是因此抛弃了这本书，Dasha不喜欢“知错不改”。
+------------------------------------------------------------------------------
+另Horatius兄，“finden sich in +Akk”在上海译文的“新德汉”里解释为：“〈雅〉顺从，听从，使自己适应于”。似乎可以开解您的思路。
+
+另，哥兄，Dasha亦喜欢那个“朝暾”:-P
+
+哥尼希 2004-12-10 15:33:16
+汉兄：
+
+大汗中。这几处当然只有专治里尔克的行家才有发言权。您问Horatius兄那是找对人了，捎带上我则是不折不扣的问道于盲啊。
+
+不过既然汉兄点名，我就像学生交作业似的试答一下吧。其实基本上还都是汉兄本来的意见（我总觉得，对一个句子，负责任的译者往往比作者本人考虑得还周全）。也参照了几种英、法译（这个法译本汉兄肯定也见过了：http://www.pierdelune.com/rilke2.htm）。当然我的这些意见无足轻重，至多能够为大家后来的讨论提供点儿线索罢了。
+
+1.“Wie aus Versehn ist ihnen aufgetan / hinter dem andern...”句的主语是什么？
+看来就是上面一直在谈的那个东西。很多译本都直接理解成das Offene。
+
+“und wieder wird ihm Welt”如何读解？
+汉兄给出两种理解，我倒觉得“无人再成为他的世界”好像牵强了些。分歧倒似乎在：后面的ihm指的是谁？既可理解成dem andern，似乎还可以看成是das Offene。
+
+2.riss es uns herum/mit seinem Wandel.
+能不能把这句解作“[兽]扭转了我们的方向，让我们按它的路线（seinem Wandel）前行”？
+动词wandeln好像一直就有"漫游、行进"的意思；"Handel und Wandel"中，这个字也当“交通”讲。所以seinm Wandel看成"行程、路线"也许还讲的通？
+
+附带还要请教：
+诗中
+...Oder jener stirbt uns ists. 
+Denn nah am Tod sieht man den Tod nicht mehr 
+und starrt hinaus, vielleicht mit grossem Tierblick. 
+
+"uns ists"一直看不懂。有人干脆认为是"und ists"的误植。还请专家释疑。
+
+汉语里尔克 2004-12-10 17:18:13
+关于“mit seinem Wandel”，Dasha目前的理解是“entgegenzieht uns in anderer Richtung”（向我们移行），甚至包括上一节的“aufschaut, ruhig (stumm) durch uns durch”，是以Dasha发贴时使用了“容止”一词。der Wandel与同源动词wandeln当然有关，而且在路德的Bibel里也可以窥见wandeln的踪影：“行（进）、行动”，但综观之，则更多时候（包括1912修订版）表“Lebenswandel”义。给您贴来Duden大词典的释义全文罢：
+
+Wan|del,  der; -s [mhd. wandel, ahd. wandil, zu wandeln]: 
+1. das Sichwandeln; Wandlung: ein allmaehlicher, rascher, ploetzlicher, radikaler, tief greifender W.; ein W. der Ansichten, im Bewusstsein; politischer, sozialer, technologischer W.; ein W. vollzieht sich, tritt ein; Diese Politik fand Ausdruck in der Formel W. durch Annaeherungoe (Spiegel 6, 1990, 146); Die seit einigen Jahren sinkenden Geburtenraten koennten zu einem demographischen W. in Kenia fuehren (natur 8, 1994, 55); hier muss W. geschaffen werden (muss etwas ge&auml;ndert werden); einen W. herbeifuehren; einen W. erfahren (geh.; sich wandeln); ... um in ihm einen jener alten Herrschaftsdiener zu erkennen, die auf manchem Landsitz ... noch den W. der Zeiten zu ueberdauern scheinen (Fallada, Herr 136); die Mode ist dem W. (der staendigen Veraenderung) unterworfen; etw. befindet sich im W.; im W. (im Verlauf) der Zeiten.
+
+2. (veraltet) Lebenswandel: ... wurde ihr W. mit nicht geringerer Aufmerksamkeit verfolgt als der der Mitglieder des grossherzoglichen Hauses (Th. Mann, Hoheit 137); einen reinen, tugendhaften W. führen; Martin Luther ... war ... ein Mann ... von heiligmaessigem W. (Goes, Hagar 107).
+
+Das grosse Woerterbuch der deutschen Sprache (C) 2000 Dudenverlag
+
+哥兄的疑问，Dasha陋见如下：
+“uns ists”写法，Dasha一直未见，手中Insel全集七卷本亦作“und ists”，估计是某次刊印的讹误。
+
+... Als Kind
+verliert sich eins im Stilln an dies und wird
+geruettelt. Oder jener stirbt und ists.
+
+……童年时 
+一个人或者静静因之茫然自失复又被
+摇醒，或者死去与之同化。
+
+Oder jener stirbt und ists＝jener stirbt， und jener ist es（das Offene）。
+此句乃承前“schon das fruehe Kind / wenden wir um und zwingens, dass es rueckwaerts / Gestaltung sehe, nicht das Offne”，一个人在童年时不解风情，因此得见“das Offene”，而后或者被摇醒（wird geruettelt）、被我们扭转（umwenden），或者夭亡、ist es（be it，托体同山阿）。
+
+汉语里尔克 2004-12-10 20:25:24
+“und wieder wird ihm Welt”如何读解？
+汉兄给出两种理解，我倒觉得“无人再成为他的世界”好像牵强了些。分歧倒似乎在：后面的ihm指的是谁？既可理解成dem andern，似乎还可以看成是das Offene。
+
+哥兄好，此ihm不应该是das Offene。请看前句：
+Wir haben nie, nicht einen einzigen Tag,
+den reinen Raum vor uns, in den die Blumen
+unendlich aufgehn. Immer ist es Welt
+und niemals Nirgends ohne Nicht:
+
+“我们一直面对的是Welt，从来不是无‘非’的无有之处”。由是观之，里氏所言极的die Welt，当是与das Offene相对立的实在世界——人间世（die Menschenwelt）。
+此句Dasha倒渴望读成“Welt wieder wird ihm (er)”，就像情人间意乱情迷时说“你是我的一切”，可惜，按照语法，werden要接第一格宾语，因此，“你是我的世界”只是Dasha一厢情愿而已。
+
+哥尼希 2004-12-10 22:04:31
+汉兄的这两处理解都很独到。
+
+我见到的几种英、法译，很多把“und wieder wird ihm Welt”译成"and the world returns"；但也有把它译成"and it turns to world again."的，还有一种法译是"et il redevient monde."（大致相当于it/he becomes world again）。
+
+汉语里尔克 2004-12-10 23:27:42
+苦哇，哥兄，非为Dasha欲另作新解，乃兄之所援引英、法译文及Dasha手中英汉译文对“und wieder wird ihm Welt”的迻译，在驽钝的Dasha有限的德、英、汉语知识中无法按语法还原回原文原意。是以Dasha在前面的帖子里说：“Dasha读英译本，徒在德语的疑难之上再添迷雾，英译本读得愈多，疑难愈霭霭。”
+
+Horatius 2004-12-11 01:26:34
+哥兄谬举。据我所知，不日又要有一本《杜伊诺哀歌》的汉译本问世。这个本子听说是德汉对照，有诠释注释等critical apparatus。我觉得Dasha兄不妨看看这个新本子是如何理解翻译这些部分的，也许有所阐发也未可知。
+
+哥尼希 2004-12-11 01:55:37
+问了一位德国朋友（是个语言老师）。他也觉得这个ihm很不合常规，不好处理。建议了几种解读：tod, andere, 甚至schoepfung，似乎都不太通顺。最后他的结论是：普通德国人不这样说。只好和汉兄一块儿叫苦了。
+
+哥尼希 2004-12-11 01:59:25
+啊，这个版本当然是大家都渴待的！
+
+——Horatius兄想必见到过书稿了，能不能稍微透露一点儿这几句的大意呀？
+
+汉语里尔克 2004-12-11 02:14:41
+是哩，Dasha很想看到这种双语版本，别的不说，至少译者一定是对自己的德语有把握，正好利Dasha以学习。
+
+不过，哥兄，Dasha对您德国朋友的回答很困惑，(die) Schoepfung是阴性名词，ihm似乎不该指代“它”的。Dasha的这些疑问也问过一些德国朋友，Dasha更颤，被德国朋友给介绍到了Rilke-Gesellschaft。
+另外，Dasha隐隐觉得，里氏的有些措辞，似乎不该以当代德语来考究，似乎更应留心一下奥地利德语，可惜，Dasha只在《德语学习》上见过陈杭柱的泛泛介绍。
+
+Horatius 2004-12-11 05:04:12
+Dasha兄对于利用英译本的警告，所言极是。认真治德国文学的人，索性就该避免英译本。否则会妨害对原文的感觉和理解。
+
+遵哥兄所嘱，知道这个翻译，算是译者的研究成果，对于上面所讨论的语法和句法问题，应该可以从翻译中看出译者的理解和解决方案。但是是否为人们所接受，就很难说了。
+
+要命 2004-12-12 03:17:22
+夜深了，慢慢再看
+
+有Koenig、Horatius扫叶，Dasha有福
+
+sinovivo 2004-12-12 19:02:59
+UP
+
+大肠杆菌 2004-12-13 00:13:29
+想试试来的。难度太大，又缩回来了。
+
+汉语里尔克 2004-12-21 15:09:32
+察罗堵斯德罗绪言
+
+            一
+
+    察罗堵斯德罗行年三十，乃去故里与故里之湖，而入于重山，以乐其精神与其虚寂，历十年不倦，终则其心化。一日之晨，与晓偕起，趋前就日而谓之曰：
+    猗汝大星，使汝不有其所照，奚乃汝福耶？
+    汝作而临吾穴者十年，载使无我与吾鹰与吾蛇，则汝之光曜道除，其亦倦矣。
+    顾吾侪必期汝于晨，取汝之余，而用是祝汝，
+    嘻！吾餍夫吾知矣。如彼莽蠭，屯蜜有盈。
+    吾能俱贶焉，能判分焉。
+    是故吾必入于渊深，如汝夕降，至于海下，而尚授晖光于下界，猗汝太富之星。
+    吾必如汝沦降矣，犹人之所名而之名之者。
+    今其祝我，汝静眸子，能见至大福而无羡者。
+    其祝是卮，彼之充实，至洋溢黄金色水，而所至胥有汝大欢虞之曜艳者。
+    嘻！是卮欲再虚矣，而察罗堵斯德罗亦再人矣。
+    如是，察罗堵斯德罗遂沦降。
+
+            二
+
+    察罗堵斯德罗独行下山，无与之邂逅。比至乎林，则俄有黄耇面而立。方离其圣舍，而索木根于林中者也，谓察罗堵斯德罗曰：
+    “敖者之于我，非外也。前几何年，过乎此。察罗堵斯德罗其名尔，而今化矣。
+    乡者，汝荷汝灰而入山，今欲持汝火而赴壑邪？汝无惧乎纵火者之罚邪？
+    唯唯，吾识察罗堵斯德罗。其目净，而口不藏欧哕。彼行仙仙，不如舞者邪。
+    化矣察罗堵斯德罗！婴儿矣察罗堵斯德罗！觉者矣察罗堵斯德罗！顾汝之就睡人也奚事？
+    汝居虚寂。犹海居焉，而海实容汝。悲夫，汝乃登陆是欲邪？悲夫，汝乃复自曳其官骸是欲邪？”
+    察罗堵斯德罗对曰：“吾爱人。”
+    圣人曰：“吾胡为遯林野，夫岂不以吾甚爱人矣。”
+    今则爱神而不爱人，人之于我，其为物也，过不具足，于人之爱，会殇我矣。
+    察罗堵斯德罗对曰：“吾所谓爱者云何，特将有贶于人焉尔。”
+    圣人曰：“毋与之，无宁有取于彼。而与共负荷，汝苟悦夫是，则是之悦彼徒也至矣。”
+    而犹欲与之哉。则与毋丰于布施．而必使其是乞。
+    察罗堵斯德罗对曰：“不也，吾不与以布施，贫则尚未极于此。”
+    圣人于是哂察罗堵斯德罗，而作是言曰：姑试之，人孰取汝宝，彼方衷疑于畸人，而吾侪之以贶来，亦不信也。
+    吾侪足音之澈衢巷，而震彼徒也凄绝，使当中夜。闻过其榻者有人，而前夫暾之临彼者远，则其必交询曰：“盗欲奚之邪。”
+    汝慎毋徂人间，而止林中已。不者，盖无宁徂禽兽哉？
+    抑汝奚为不欲同夫我，为熊熊中，为鸟鸟中也。察罗堵斯德罗问曰：“则圣人何作于林中与？”
+    圣人对曰：“作颂而歌之尔。吾颂既作，则笑泣呻吟，吾以是颂美神。”
+    吾以歌以泣以笑以呻吟，用颂美神，其神之为吾神者，顾汝则何贶于吾侪矣。
+    察罗堵斯德罗闻是语已，乃礼圣人而告之曰：“吾于汝侪何贶矣。唯速我行，毋使自汝有所取耳。”二者如是遂别。一黄耇与一男子，皆辗然笑，而其笑如婴儿。
+    察罗堵斯德罗迨既独，则语其心曰：“何能然？”古圣乃居彼林中而未有闻邪？神死矣。
+
+            三
+
+    札罗式多入林下之邑，见众集于市，则以闻蹈縆者名。因就观者也，札罗式多遂如是说众曰：
+    “吾诏汝超人，人之为物，为当克胜人者，顾汝以克胜彼故，尝何作邪。
+    百昌无不作逾己者矣，而汝乃欲为大潮之归流，抑好克胜人甚，不若返禽兽邪。
+    猿狙之于人奈何，一笑噱或绝痛耻尔。则人之于超人也同然，一笑噱或绝痛耻尔。
+    汝尝取道自由而徂人矣。而今之汝，其为虫也尚多。汝尝为猿狙矣。而今之汝，尚较诸猿也猿甚。
+    汝中之上知者维何，一柝体，若互种出自卉木与鬼物者尔。顾吾岂命汝为鬼物卉木邪？
+    嘻，吾诏汝超人！
+    维此超人，实大地谊谛。汝志其曰，维为超人，斯大地谊谛。
+    今誓告汝，嗟我兄弟，其贞大地，而毋信说汝出世望者。此投毒人也，无间识非识。
+    此侮生活者也，方溘死者也，自鸠毒者也。大地厌夫是，可以逝矣。
+    乡者以渎神为无上渎。而神死矣，故渎者与俱死。今无上渎则莫甚于渎大地。与兄忽之内藏，是尊且有加于大地谊谛。
+    乡者魂尝侮睨其体矣，而此慢易则最尚者也，彼欲其柴瘠槁饿尔。意如是，乃自悦此与大地而去之。
+    乌乎，此魂则自柴瘠槁饿耳。而其娱乐，则凶残也。
+    虽然，嗟我兄弟，今其语我，汝魂之于汝体也云何矣。为汝魂者，非贫陋或一可怜之说豫己邪。
+    诚哉，人浊流尔，若其祈能受浊流，而无不净，维为海已。
+    嘻，吾诏汝超人，此海也，是中则能注汝大慢易。
+    汝之能征验者，云何最大矣，曰，维大慢易时，当是时也。汝福则为欧哕矣．汝理汝悳，亦复如是。
+    是时也，汝则曰，于吾福何有哉？此贫陋，此秽恶，此可怜豫耳，而吾福者，当自正其存在者也。
+    是时也，汝则曰，于吾理何有哉？彼之求知，犹狻猊之求食。与此贫陋，此秽恶。此可怜豫也。
+    是时也，汝则曰，于吾德何有哉，彼未使我昌披，吾之勌吾善恶也甚矣．此一切者，胥贫陋，胥秽恶，胥可怜豫也。
+    是时也．汝则曰，于吾正何有哉，吾未见我为薪火矣。而所谓正，则薪火也。
+    是时也，汝则曰，于吾同情何有哉，夫非十架之同情，爱人之人，尝离于此者与，而吾同情，非磔杀也．
+    汝尝如是言乎，汝尝如是叫乎。吁，吾尝闻汝如是叫矣。
+    非汝罪障，而以汝之盈足叫于天，而以汝之自吝汝罪障叫于天。
+    以其舌舓汝之历缺则安在邪。所当播种诸汝之猖狂则安在邪。
+    嘻，吾诏汝超人，夫超人者，此历缺也，此猖狂也．”
+    札罗式多如是语已，忽有呺者曰：“吾侪耳蹈縆者之论足矣。今其视我。”众于是笑札罗式多。而蹈縆者，乃意是语为彼发也，则始事。
+
+    根据入藏于北京图书馆之鲁迅原稿《察罗堵斯德罗如是说译稿》第一册录出，原译绪言至第三节毕，全文未完亦未注翻译年月。一九二○年，曾以白话重译，登《新潮》二卷五号，此篇可断在一九二○年之前。
+
+
+
+
+                  责任编辑  陈重秋
+                            李春华
+                            石晓奇
+
+
+
+                   鲁  迅  全  集
+-----------------------------------------------------
+                 新疆人民出版社出版
+    （乌鲁木齐市解放南路348号  邮政编码830001）
+  湖南省新华书店发行    长沙鸿发印务实业公司印刷
+850×1168毫米  大32开本  212印张  2插页  6700千字
+    1995年l0月第1版    1996年10月第1次印刷
+    印数：1——15,000套
+ISBN7－228－03616－6／I·1335  定价(全八册)：288.00元
+
+皇甫三 2004-12-21 15:42:16
+几个“Siehe! ”全译成“嘻！”，足见鲁迅犯的是常识错误。
+
+liangtong 2004-12-21 16:14:21
+谢谢楼主分享。
+
+sinovivo 2005-01-20 14:33:53
+前几天参考德文通读了梵澄先生所译《苏鲁支语录》，还是发现了一些Dasha没注意到的错误，尤以标点符号为甚，未暇一一校改，日后再说。
+
+汉语里尔克 2005-01-23 23:51:01
+Horatius大侠，您说的可是刘皓明的译本？
+
+作者：皇甫三　回复日期：2004-12-21　15:42:16　   
+几个“Siehe! ”全译成“嘻！”，足见鲁迅犯的是常识错误。
+
+几个“Siehe! ”全译成“嘻！”，并无不妥，鲁迅先生诚大手笔。如果全译成“看”，比如徐梵澄先生，终究不能成为鲁迅式的巨人。
+您不至于一见到behold就译成“看呐”吧。
+
+小V，请将错误发给Dasha，Dasha来改。
+
+汉语里尔克 2005-01-23 23:54:19
+http://www.jingqi.com/channel/main/book.aspx?GUID={077FF65B-66BB-4027-8314-8159A7983FC6}
+
+是为其“第一哀歌”全译
+
+Horatius 2005-01-24 00:54:07
+Horatius大侠，您说的可是刘皓明的译本？
+
+大侠不敢；正是正是。顺着Dasha兄的线索，发现旌旗张冠李戴，把别人的译文当作这本新译的片断贴出来了。哈哈。
+
+汉语里尔克 2005-01-24 01:43:51
+Dasha上周已下订单，估计明后日书即可到手。
+Dasha的一位网上好友先行看到此书，于是Dasha求问“第八哀歌第一节倒数第九行一句”：
+
+原文：
+Wie aus Versehn ist ihnen aufgetan
+hinter dem andern... Aber ueber ihn
+kommt keiner fort, und wieder wird ihm Welt.
+
+被此Dasha网上好友张贴上来的刘译文：
+
+仿佛出于疏忽在他身后
+向她们打开了…可是没有人能
+迈过它而去，于是对他来说又成了世界。
+
+摘录自《杜伊诺哀歌》第143页
+http://www.poemlife.com.cn/forum/add.jsp?forumID=6&msgID=2147467692&page=1
+
+古尔江 2005-02-01 21:54:38
+很喜欢这些诗。
+
+古尔江 2005-09-22 10:30:12
+请教大家：
+哪里能找到徐梵澄译文的电子版？
+
+谢谢！
+
+故园拾梦 2009-03-04 09:37:54
+提
+
+雪之韵色1 2009-07-02 15:17:30
+
+

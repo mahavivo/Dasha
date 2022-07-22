@@ -1,0 +1,1301 @@
+Cody9999 2004-10-15 07:20:00 
+The Times (London). Saturday, May 9, 1992 
+
+Sir, 
+
+The University of Cambridge is to ballot on May 16 on whether M. Jacques Derrida should be allowed to go forward to receive an honorary degree. As philosophers and others who have taken a scholarly and professional interest in M. Derrida’s remarkable career over the years, we believe the following might throw some needed light on the public debate that has arisen over this issue.
+
+M. Derrida describes himself as a philosopher, and his writings do indeed bear some of the marks of writings in that discipline. Their influence, however, has been to a striking degree almost entirely in fields outside philosophy -- in departments of film studies, for example, or of French and English literature.
+
+In the eyes of philosophers, and certainly among those working in leading departments of philosophy throughout the world, M. Derrida’s work does not meet accepted standards of clarity and rigour.
+
+We submit that, if the works of a physicist (say) were similarly taken to be of merit primarily by those working in other disciplines, this would in itself be sufficient grounds for casting doubt upon the idea that the physicist in question was a suitable candidate for an honorary degree.
+
+M. Derrida’s career had its roots in the heady days of the 1960s and his writings continue to reveal their origins in that period. Many of them seem to consist in no small part of elaborate jokes and the puns “logical phallusies“ and the like, and M. Derrida seems to us to have come close to making a career out of what we regard as translating into the academic sphere tricks and gimmicks similar to those of the Dadaists or of the concrete poets.
+
+Certainly he has shown considerable originality in this respect. But again, we submit, such originality does not lend credence to the idea that he is a suitable candidate for an honorary degree.
+
+Many French philosophers see in M. Derrida only cause for silent embarrassment, his antics having contributed significantly to the widespread impression that contemporary French philosophy is little more than an object of ridicule.
+
+M. Derrida’s voluminous writings in our view stretch the normal forms of academic scholarship beyond recognition. Above all -- as every reader can very easily establish for himself (and for this purpose any page will do) -- his works employ a written style that defies comprehension.
+
+Many have been willing to give M. Derrida the benefit of the doubt, insisting that language of such depth and difficulty of interpretation must hide deep and subtle thoughts indeed.
+
+When the effort is made to penetrate it, however, it becomes clear, to us at least, that, where coherent assertions are being made at all, these are either false or trivial.
+
+Academic status based on what seems to us to be little more than semi-intelligible attacks upon the values of reason, truth, and scholarship is not, we submit, sufficient grounds for the awarding of an honorary degree in a distinguished university.
+
+Yours sincerely,
+
+Barry Smith
+(Editor, The Monist)
+
+Hans Albert (University of Mannheim), David Armstrong (Sydney), Ruth Barcan Marcus (Yale), Keith Campbell (Sydney), Richard Glauser (Neuch&acirc;tel), Rudolf Haller (Graz), Massimo Mugnai (Florence), Kevin Mulligan (Geneva), Lorenzo Pe&ntilde;a (Madrid), Willard van Orman Quine (Harvard), Wolfgang R&ouml;d (Innsbruck), Karl Schuhmann (Utrecht), Daniel Schulthess (Neuch&acirc;tel), Peter Simons (Salzburg), René Thom (Burs-sur-Yvette), Dallas Willard (Los Angeles), Jan Wolenski (Cracow)
+Internationale Akademie für Philosophie, Obergass 75, 9494S Schaan, Liechtenstein.
+
+May 6.
+
+Cody9999 2004-10-15 07:55:44
+[ZT] 关于德里达的伪哲学(Pseudophilosophy)
+
+Pseudophilosophy is used as an unfavourable epithet to describe a philosophical idea or system that the speaker does not like. Specifically, it is used to refer to something that the speaker believes to be not really  philosophy but only pretending. Presumably, pseudophilosophy bears the same relationship to philosophy that pseudoscience bears to science. 
+
+It does not appear to be a term widely used within academic philosophy. On the other hand, when W. V. Quine and several other academic philosophers wrote to Cambridge University protesting the award of an honorary degree to Jacques Derrida, saying that Derrida‘s work "does not meet accepted standards of clarity and rigor" and that it is made of "tricks and gimmicks similar to those of the Dadaists," the word may have been useful to them.
+
+For example, Schopenhauer wrote the following about Hegel:
+
+If I were to say that the so-called philosophy of this fellow Hegel is a colossal piece of mystification which will yet provide posterity with an inexhaustible theme for laughter at our times, that it is a pseudophilosophy paralyzing all mental powers, stifling all real thinking, and, by the most outrageous misuse of language, putting in its place the hollowest, most senseless, thoughtless, and, as is confirmed by its success, most stupefying verbiage, I should be quite right. 
+-- Arthur Schopenhauer, On the Basis of Morality, trans. E.F.J.Payne (Indianapolis: Bobbs-Merrill, 1965), pp.15—16 
+
+Schopenhauer‘s critique of Hegel is directed at his perception that Hegel‘s works use deliberately impressive but ultimately vacuous jargon and neologisms, and that they contained castles of abstraction that sounded impressive but ultimately contained no verifiable content. As the Quine incident shows, similar accusations have been made more recently against postmodernists and the adherents of French critical theory like Derrida, Jean Baudrillard, Julia Kristeva, and Jean-Fran&ccedil;ois Lyotard. 
+
+Ayn Rand’s Objectivism is also frequently accused of being pseudophilosophy. Several strains of opinion converge in this claim. Rand was a self-taught philosopher, and her concerns were out of the mainstream of academic philosophy during the years she was active. She often tried to convey her opinions through the popular medium of melodramatic novels. She and her followers had dogmatic tendencies, and tended not to recognise degrees of dissent from Rand‘s conclusions; this led others to see her as a cult leader. The charge that Objectivism is a "pseudophilosophy" generally implies disapproval of one of these perceptions of Rand‘s thought. 
+
+Other works that have been labelled as "pseudophilosophy" include the religious poetry of Kahlil Gibran, or the similar stuff in Richard Bach‘s fable Jonathan Livingston Seagull. Here, the label of pseudophilosophy is used to criticise the first two works as being conventional, sentimental, or platitudinous; and of lacking rigor, system, or analytical content.
+
+Cody9999 2004-10-15 08:09:47
+德里达的草率
+——对《声音与现象》的一个纠误尝试
+
+倪梁康 
+  
+（《声音与现象：胡塞尔现象学中的符号问题导论》，雅克·德里达著，杜小真译,商务印书馆，1999）
+
+雅克·德里达的思想如今越来越受到国内学界的关注。他的一批著作也陆续被译介进来。或许是该考虑撰写德里达在中国的被接受史的时候了。依稀记得自己第一次读到关于德里达的中文论述还是在1987年出版的《文化：中国与世界》第二辑上。那是张隆溪写的“‘道’与‘逻各斯’——关于德里达对逻各斯中心论所作批判的评注”。
+
+已经译介并且正在译介的文字中，德里达的早期著作所占比例较大。是因为他与现象学的关系比较令人感兴趣，还是因为他的童子功更能说明他的思想发展脉络？不得而知。无论如何，《声音与现象》是其中的一部。
+
+这里并无与德里达论战的意图，恐怕以后也不会有。要知道这种论战是相当困难的，虽然并非不可能。困难在于，你很难弄懂他究竟想说什么，他似乎也很少愿意花费力气来让别人去理解他。于是论战便无从开始。而一旦你理解他说了什么，便往往知道他说错了。
+
+这又使论战失去了意义。这样的说法显得有些刻薄，弄不好读者会以为我与德里达有什么私人恩怨。但至少在读他的《声音与现象》时，我的感受时常就是如此。
+
+这部书可以说是开卷有误。全书的起首句还无可指责：“《逻辑研究》（1900－1901年）开辟了一条道路，众所周知，整个现象学就是沿着这条道路深入发展。”但接下来的第二句便有问题：“直到这部著作的第四版（1928年），这条道路仍然没有指明任何根本的变化，也没有提出任何关键性的自身质疑。”（页1）因为如所周知，胡塞尔早在1907年期间便完成了从描述心理学向先验现象学的转变，故而《逻辑研究》第一版（1900／1901）与第二版（1913／1921）之间的差别甚至被认为要大于康德《纯粹理性批判》第一版和第二版的变化。如果这个转变还不算是“根本的变化”，那么在胡塞尔一生的发展中就没有什么“根本变化”可言了，遑论1928年以后。
+
+接下来的一处误差也属常识性错误，抑或是德里达本人的刻意编造。他郑重其事地告诉我们：海德格尔在《存在与时间》中认为，胡塞尔在《内时间意识现象学讲座》中所作的时间分析，在哲学史上第一次与亚里士多德的时间概念进行了决裂。（页77）然而，你翻遍《存在与时间》也不会找到海德格尔的这类陈述。它不可能出现在《存在与时间》中，因为《内时间意识现象学讲座》在《存在与时间》出版一年后才发表。
+
+由于篇幅关系，我们再指出他的一个同类错误就立马收场：德里达批评胡塞尔说，“在《形式的与先验的逻辑学》中，他仍然把一般语言‘判为无效’。而欧根·芬克则已令人信服地证明，胡塞尔从来没有提出过关于先验逻各斯的问题或关于传习语言的问题，现象学正是在这种传习语言中制作并展示其各个还原的结果。”（页7）这里和前面一样，德里达都没有提供具体的参考出处。我读过不少芬克的文字，从未见到他表达过这类荒谬论点。可能是我孤陋寡闻。但若真有，那只可能是芬克一时的神志不清。因为胡塞尔一生的劳作，从《逻辑研究》到《经验与判断》，都包含着对先验逻各斯问题和传习语言的问题的讨论。这是一个现象学的基本常识，芬克不可能不知道。这一次，我们恐怕还得把坏账记在德里达身上。
+
+写到这里还得说一句：读《声音与现象》，有时会觉得这是一篇硕士生的论文，主张多于论证。在一篇学术文字中，尽管无主张的论证不好，但无论证的主张往往更糟。或许天才德里达与硕士德里达相距并不太远。无论如何，《声音与现象》里面的说法，有许多是当不得真的。这一点，他自己应该最清楚。
+
+有人认为应当把《声音与现象》当作一篇后现代文学作品来读。但愿这建议是个玩笑。否则我宁可建议大家去读艾柯。
+　
+(原载《南方周末》2003年11月27日)
+
+圆悟克勤 2004-10-15 16:51:32
+好。
+
+变迁之风 2004-10-15 16:53:26
+他刚过去没两天.....挑这个时候来说这个....
+
+让斯塔罗宾斯基 2004-10-15 17:25:57
+当年那场争端，签名者最终自取其辱。
+现在，新愁旧恨再次惹起口水战。楼主何不将巴特勒，斯皮瓦克她们正和纽约时报的笔战一并贴出，更添声势。
+尽管施展伎俩，徒增笑柄吧。
+不过，大师是不会逝去的，哀悼之后，他将以幽灵的形式复归，他的威力将更强大。
+
+xindeny 2004-10-15 17:53:10
+伪哲学? 我看到这个词就觉得恶心，哪有什么伪哲学。
+
+Cody9999 2004-10-15 18:05:25
+法国盛产大师! 另一个雅克---雅克·拉康(Jacques Lacan)
+死的时候也被称为学术大师, 但现在不少人都认为他只不过
+是一个学术骗子。这个雅克---雅克·德里达? 让时间来判断
+吧!
+
+太仓baby 2004-10-15 18:35:32
+拉康是个学术骗子？
+
+小说读者 2004-10-15 18:53:08
+时间已经证明，拉康德理达都非常棒，在本世纪上说
+也就海德格尔可以说在他们之上，奎因在分析哲学中
+还可以，在整个世界上说，他属于二流，他的评价没有
+意义，就象二流棋手对一流棋手的评论，也许从那边说
+维特根斯坦还可以，罗素，库恩，包括塔斯基，乔姆斯基
+不错。
+
+倪梁康的挑错，很可笑，他居然是在中国大力推广现象学
+的人，在现象学上，他还没有入门，所以才会那样挑错。
+
+晦涩的东西，未必不好，乔依斯的小说也很晦涩，但他
+的价值对于小说界的人来说是明显的。而且会有越来越
+多的人，理解他。我想德里达也是。
+
+Cody9999 2004-10-15 19:41:56
+[晦涩的东西，未必不好]
+
+请欣赏理解拉康一流大师的晦涩。
+
+来自拉康大师:
+
+The subject himself is marked off by a single stroke, and first he marks himself as a tatoo, the first of the signifiers. When this signifier, this one, is established - the reckoning is one one, at the level of the reckoning. It is at this level, not of the one, but of the one one, at the level of the reckoning [that is, at the level of the one who counts] that the subject has to situate himself as such. In this respect, the two ones are already distinguished. Thus is marked the first split that makes the subject as such distinguish himself from the sign in relation to which, at first, he has been able to constitute himself as subject.
+
+Schlus 2004-10-15 20:22:14
+I don‘t know whoever can I believe in...
+
+燕白颔 2004-10-16 01:31:51
+"楼主何不将巴特勒，斯皮瓦克她们正和纽约时报的笔战一并贴出，更添声势。"
+
+------她两个不提也罢，说她们可信岂不是诋毁美国哲学界的智力？？
+看看中国思想界水平有多低， 就明白为什莫法国那一套在中国这莫流行。
+
+Cody9999 2004-10-16 03:33:06
+请继续欣赏理解一流法国大师拉康的晦涩。
+
+来自拉康大师:
+
+What we have there is the first captation by the image in which the first stage of the dialectic of identifications can be discerned. What I have called the mirror stage is interesting in that it manifests the affective dynamism by which the subject originally identifies himself with the visual Gestalt of his own body: in relation to the still very profound lack of co-ordination of his own motility, it represents an ideal unity, a salutary imago; it is invested with all the original distress resulting from the child’s intra-organic and relational discordance during the first six months, when he bears the signs, neurological and humoral, of a physiological natal prematuration.
+
+___________________________________________________________
+
+In the quest for the phallus the subject moves from being it to having it. It is here that is inscribed the last Spaltung [splitting] by which the subject articulates himself to the Logos.
+
+The fact that the phallus is a signifier means that it is in the place of the Other that the subject has access to it. But since this signifier is only veiled, as ratio of the Other’s desire, it is this desire of the Other as such that the subject must recognise, that is to say, the other in so far as he is himself a subject divided by the signifying Spaltung.
+
+天无牙 2004-10-16 03:44:13
+就第   来看，通篇没有援引德里达一句话，可说是不着边际的驳论。
+楼主倒是援引了另一个雅克的几句话，并且有两个判断，可惜也太单薄。
+
+Cody9999 2004-10-16 03:56:52
+[楼主倒是援引了另一个雅克的几句话，并且有两个判断，可惜也太单薄。]
+
+可能的话, 你可以把拉康大师那几段名言翻译成中文, 看看他到底
+讲了些什么。
+
+小说读者 2004-10-16 07:43:48
+在法国几位哲学家中，我最注意的是拉康的思想，
+我觉得如果要研究法国后现代的话，拉康最重要，
+他是法国思想的源动力，但他也是最为晦涩难解的
+一个，在整个哲学史上说，他也是使用数学最新，最
+复杂的一个，扭结，这样的现代数学的概念，他也使
+用。我个人觉得不是故弄玄虚，按照他的思路想，觉
+得非如此不可。
+
+拉康的书，何必读英文，中文已有翻译，或者直接读
+法文的。
+
+Horatius 2004-10-16 08:20:51
+What we have there is the first captation by the image in which the first stage of the dialectic of identifications can be discerned. What I have called the mirror stage is interesting in that it manifests the affective dynamism by which the subject originally identifies himself with the visual Gestalt of his own body: in relation to the still very profound lack of co-ordination of his own motility, it represents an ideal unity, a salutary imago; it is invested with all the original distress resulting from the child’s intra-organic and relational discordance during the first six months, when he bears the signs, neurological and humoral, of a physiological natal prematuration.
+
+这一段“晦涩”吗？这么清晰的段落恐怕不能支持楼主的判词吧。
+
+Kuro 2004-10-16 08:30:20
+自己学术底子差就说人家大师晦涩 就好比说大便不畅非说是因为地球没有吸引力
+
+熊獾 2004-10-16 09:18:30
+法国那套鬼东西，从来只能唬唬告文学研究出身的文人。
+ｌａ　ｓｏｔｔｉｓｅ　ｓｃｏｌａｉｒｅｅｎ　ｐｒｏｖｅｎｅｎｃｅ　ｄｅ　ｌａ　ｆｒａｎｃｅ　ｎｅｐｅｕｔ　ｑｕｅ　ｅｆｆａｒｃｕｃｈｅｒ　ｃｅｕｘ　ｑｕｉ　ｓｅ　ｓｐｅｃｉａｌｉｓｅｎｔ　ｄａｎｓ　ｌａ　ｌｉｔｅｒａｔｕｒｅ！！！！！！！
+
+Cody9999 2004-10-16 17:09:56
+[作者：小说读者　回复日期：2004-10-16　7:43:48
+在法国几位哲学家中，我最注意的是拉康的思想，
+我觉得如果要研究法国后现代的话，拉康最重要，
+他是法国思想的源动力，但他也是最为晦涩难解的
+一个，在整个哲学史上说，他也是使用数学最新，最
+复杂的一个，扭结，这样的现代数学的概念，他也使
+用。我个人觉得不是故弄玄虚，按照他的思路想，觉
+得非如此不可。]
+
+拉康的数学水平和钱钟书差不多, 他连无理数(irrational
+number)和虚数(imaginary number)的区别都搞不清楚,      
+还想谈论扭结(knot theory, a branch of topology), 这才能
+称得上是一流法国大师。不知道上述公开信签名者之一
+的法国学者Rene Thom会怎么想(Rene Thom曾获数学
+菲尔茨奖)。
+
+看一看拉康最新最复杂的现代数学是什么玩意儿。来自
+拉康大师:
+ 
+Let us take the same bounded, closed, supposedly instituted 
+space -- the equivalent of what I earlier posited as an 
+intersection extending to infinity. If we assume it to be 
+covered with open sets, in other words, sets that exclude 
+their own limits -- the limit is that which is defined as greater 
+than one point and less than another, but in no case equal to 
+the point of arrival or departure, to sketch it for you quickly -- 
+it can be shown that it is equivalent to say that the sets of 
+these open spaces always allow a subcovering of open 
+spaces, constituting a finity [finitude], namely, that the series 
+of elements constitutes a finite series.
+
+Cody9999 2004-10-16 17:38:34
+[作者：Horatius　回复日期：2004-10-16　8:20:51　
+这一段“晦涩”吗？这么清晰的段落恐怕不能支持楼主的判词吧。]
+
+读一下这个吧:
+
+"I returned and saw under the sun, that the race is not to the
+swift, nor the battle to the strong, neither yet bread to the
+wise, nor yet riches to men of understanding, nor yet favor 
+to men of skill; but time and chance happeneth to them all."
+
+把它改写成拉康式的清晰不晦涩的语言:
+
+"Objective consideration of contemporary phenomena 
+compels the conclusion that success or failure in competitive 
+activities exhibits no tendency to be commensurate with 
+innate capacity, but that a considerable element of the
+unpredictable must invariably be taken into account."
+
+To me at least, Lacan, and Derrida for that matter, are
+the worst prose writers imaginable.
+
+熊獾 2004-10-16 17:57:17
+支持楼上
+鄙人还知道点法语，读过原文的法国“大师”们的”杰作“，而且至少比那些从英文甚至中文那里自作多情地欣赏“大师”的后现代迷清醒一点，坦率讲，那帮人真是故能玄虚，故作晦涩，学术垃圾。
+
+小说读者 2004-10-16 18:49:28
+能读法语，未必具有理解哲学能力，但这也不是很重要。
+哲学作品，我认为如同小说一样的，不喜欢，也可以有
+自己的看法，但一个普通读者对《追忆年华似水流》的
+评论，不能取代文学界的更为郑重的评价。对于后现代
+的偏见，从某种角度讲，也是一种无知，无论你的法语
+有多好。
+
+拉康等人思想，从五十年代，对世界各面的影响有目共睹，
+这本身就是这种思想价值的证明。
+
+前所述，关于拉康的数学水平的议论，也使我想到著名的
+索因卡事件，该事件也包括了对德里达的攻击，经过这么长
+的时间，我们更清楚地看到，那不过是一个二流物理学家对
+一流哲学还算机智的模仿，但也不能看出，该作者在物理学
+中，如果做不出一流的工作，他在哲学界，就更没有可能。
+
+哲学家，有权，按自己的想法，使用数学语言，或者一般地
+说，使用语言。
+
+小说读者 2004-10-16 18:58:54
+以上:
+应该是:但也不难看出。。。
+
+Cody9999 2004-10-16 19:13:03
+[作者：小说读者　回复日期：2004-10-16　18:49:28
+拉康等人思想，从五十年代，对世界各面的影响有目共睹，
+这本身就是这种思想价值的证明。]
+
+希特勒等人思想，从三十年代，对世界各面的影响有目共
+睹(远远超过拉康等人思想对世界各面的影响)，这本身就是
+这种思想价值的证明。
+
+Cody9999 2004-10-16 19:25:14
+[作者：小说读者　回复日期：2004-10-16　18:49:28
+经过这么长的时间，我们更清楚地看到，那不过是一个二流物理学家对一流哲学还算机智的模仿]
+
+谁是"我们"啊? 你代表了哪些人呢?
+
+哥尼希 2004-10-16 20:51:19
+[引用]
+
+作者：熊獾　回复日期：2004-10-16　9:18:30　   
+法国那套鬼东西，从来只能唬唬告文学研究出身的文人。
+ｌａ　ｓｏｔｔｉｓｅ　ｓｃｏｌａｉｒｅｅｎ　ｐｒｏｖｅｎｅｎｃｅ　ｄｅ　ｌａ　ｆｒａｎｃｅ　ｎｅｐｅｕｔ　ｑｕｅ　ｅｆｆａｒｃｕｃｈｅｒ　ｃｅｕｘ　ｑｕｉ　ｓｅ　ｓｐｅｃｉａｌｉｓｅｎｔ　ｄａｎｓ　ｌａ　ｌｉｔｅｒａｔｕｒｅ！！！！！！！
+
+作者：熊獾　回复日期：2004-10-16　17:57:17　   
+
+支持楼上
+鄙人还知道点法语，读过原文的法国“大师”们的”杰作“，而且至少比那些从英文甚至中文那里自作多情地欣赏“大师”的后现代迷清醒一点，坦率讲，那帮人真是故能玄虚，故作晦涩，学术垃圾。
+
+作者：熊獾　回复日期：2004-10-13　23:22:39　   
+艰涩得不亚于黑格尔的行文风格，使得他终于赢得了法国五大解构主义大师的称号
+-----------------------------------
+那我明天就可成为哲学家。
+ et en francais ,"si c‘est vrai ,je pourrait etre un philosophe demin matin. "
+还是去先学习法文吧，再来谈论法国的后现代。
+ 
+[/引用]
+
+真有点儿好奇。这些人学的都是哪个星球的“法语”？用这一套"demin matin"呀、"ｎｅ ｐｅｕｔ ｑｕｅ ｅｆｆａｒｃｕｃｈｅｒ"呀的法语读过的，又是哪片大陆上“原文的法国‘大师‘们的‘杰作‘”？
+
+还是那句话，世上书多的是，不知道谁是德里达也没什么要紧。人生苦短，从"demin matin"开始，还是多忙点儿别的去吧。
+
+天无牙 2004-10-16 21:22:32
+作者：Cody9999　回复日期：2004-10-16　19:25:14　   
+[作者：小说读者　回复日期：2004-10-16　18:49:28
+经过这么长的时间，我们更清楚地看到，那不过是一个二流物理学家对一流哲学还算机智的模仿]
+
+谁是"我们"啊? 你代表了哪些人呢?
+ 
+
+
+呵呵，授权“小说读者”代表我，两个人是复数，可以应用“我们”这个词了。
+
+snowcrash 2004-10-16 21:59:22
+支持一下楼主。
+
+拉康，德里达之流，适合五六十年代，美国一些人的胃口，被炒作起来。 现在没了市场，又变成了中国的回锅肉。
+
+Cody9999 2004-10-16 22:10:29
+[作者：哥尼希　回复日期：2004-10-16　20:51:19
+真有点儿好奇。这些人学的都是哪个星球的“法语”？]
+
+这些人包括文化昆仑钱钟书。
+
+钱钟书大师在《谈教训》(《写在人生边上》, 一九四一年
+初版, 一九八三年修订重印)中写道:
+
+"拉罗斯福哥(La Rochefoucauld)《删去的格言》(Maximes 
+Supprimees)第五八九条里说：‘道学家像赛纳卡(Ｓeneque)
+之流，并未能把教训来减少人类的罪恶；只是由教训他人
+而增加自己的骄傲。‘"
+
+La Rochefoucauld的法语原文如下:
+
+"Les philosophes, et Seneque surtout, n‘ont point ote les
+crimes par leurs preceptes: ils n‘ont fait que les employer
+au batiment de l‘orgueil."
+["The philosophers, and Seneca above all, have not
+eliminated crimes with their precepts: they have only
+employed them for the building of pride."]
+
+钱钟书怎么会这样胡乱翻译? 他学的都是哪个星球的
+“法语”? 下面收在《钱钟书文集》里面的故事是真的
+吗?   
+
+"除此之外，钱钟书还精通英、法、意、德、拉丁、西班牙
+等多种语言。对于一个曾经在牛津留学的文科学生来说，
+通晓这些相关语言也许并不值得大惊小怪，但要做到纯正
+得没有一点母语腔调，对所有这些语言文学全部贯通，
+烂熟于心，却不是一件容易的事。"
+
+哥尼希 2004-10-16 22:27:33
+更有意思了，又是钱钟书。
+
+Cody9999能不能讲讲，为什么钱这个是“胡乱翻译”？我们也学习一下，加深认识。
+
+熊獾 2004-10-16 22:30:54
+哥尼希大师:
+向法语大师致敬，我把‘EFFARCOUCHER ‘打成‘effarcucher‘，你也可以说我是狡辩，我无话可说。
+
+至于“demain matin "问题 ，你可以说我中国式法语（汉法词典可以查到就是‘明天早晨”的意思），大意无错，即便是纯粹的法国人也可以理解。
+
+请你把我的这段话翻成法语。马上，在两分种之内。
+
+Cody9999 2004-10-16 22:46:20
+[作者：哥尼希　回复日期：2004-10-16　22:27:33　
+更有意思了，又是钱钟书。
+
+Cody9999能不能讲讲，为什么钱这个是“胡乱翻译”？我们也学习一下，加深认识。]
+
+Les philosophes = 道学家?
+
+Les philosophes, et Seneque surtout = 道学家像赛纳卡
+(Ｓeneque)之流?
+
+preceptes = 教训?
+
+熊獾 2004-10-16 22:58:32
+ils n‘ont fait que les employer
+au batiment de l‘orgueil."
+--------------------------------
+估计作者原意为“只不过让（他人）用来增进自身的骄傲 。”
+
+瞎猜，请指正。
+
+熊獾 2004-10-16 23:01:18
+Les philosophes, et Seneque surtout 
+-----------------
+是否翻译成‘哲学家们，尤其象赛纳卡。。。。。‘?
+
+哥尼希 2004-10-16 23:03:09
+"熊獾":
+
+大师不敢当。"demain"是地球法语，"demin"多半儿是您那个星球的吧。
+"EFFARCOUCHER打成‘effarcucher‘"? 呵呵，这两个星球真是越说越远了。可见世上的事情不容易弄清楚。
+再查查字典？另包括语法书。看看"ｎｅｐｅｕｔ　ｑｕｅ　ｅｆｆａｒｃｕｃｈｅｒ"呀，"ｌｉｔｅｒａｔｕｒｅ"呀，都是怎么回事。
+不过，您读法国大师们的原文杰作要紧，也许俗务都可以免去。
+
+翻译网友们各种奇怪的句子，并非我的职份。恕不从命。
+
+Cody9999:
+我倒也不想为钱辩护，不过请问这一句里，precpetes怎么讲才合适？
+
+熊獾 2004-10-16 23:10:16
+作者：哥尼希　
+
+
+您还没有翻译我的拙略贴子呢。赶快，不要逃避，马上。
+
+Cody9999 2004-10-16 23:20:59
+[作者：哥尼希　回复日期：2004-10-16　23:03:09
+Cody9999:
+我倒也不想为钱辩护，不过请问这一句里，precpetes怎么讲才合适？]
+
+对哲学家们来说, preceptes就相当于英语的precepts, 应在  
+这儿翻译成"原则"或者"体系"比较合适。
+
+熊獾 2004-10-16 23:24:17
+哥尼希　
+胆小鬼!!!!
+
+Cody9999 2004-10-16 23:28:35
+[作者：熊獾　回复日期：2004-10-16　23:01:18　   
+Les philosophes, et Seneque surtout 
+-----------------
+是否翻译成‘哲学家们，尤其象赛纳卡。。。。。‘?]
+
+对, 谢谢你! 钱钟书大师把它胡乱翻译成"道学家像赛纳卡
+(Ｓeneque)之流", 真是好笑。
+
+哥尼希 2004-10-16 23:35:23
+Cody9999:
+
+"对哲学家们来说, preceptes就相当于英语的precepts"
+
+——这个道理可能要慢慢说了。用英语的precepts理解法语的preceptes，并没有解决这里的问题，因为从词源上说，英语词precept是从法语的precepte来的，所以我们在法-英字典里，这个词条都是简单的一个"precept"。
+precepte的源头可能是拉丁动词praecipere，意思既有to anticipate, to warn；也有to teach, to instruct。
+
+能不能请你根据以上建议，再考虑一下preceptes=>"教训"的翻译？
+
+"熊獾":
+
+我引用一下Cody9999吧：
+"作者：Cody9999　回复日期：2004-10-16　22:10:29　   
+[作者：哥尼希　回复日期：2004-10-16　20:51:19
+真有点儿好奇。这些人学的都是哪个星球的“法语”？]
+
+这些人包括文化昆仑钱钟书。"
+
+在不少人眼里，您已经和钱钟书是一个级别的了，还是该忙点儿什么忙点儿什么去吧。再说我对贵星球的法语实在没信心。不奉陪了。
+
+熊獾 2004-10-16 23:40:44
+哥尼希　
+你就会读点法语，翻不了吧.?
+永别了。
+
+Cody9999 2004-10-16 23:50:23
+[作者：哥尼希　回复日期：2004-10-16　23:35:23　
+因为从词源上说，英语词precept是从法语的precepte来的，所以我们在法-英字典里，这个词条都是简单的一个"precept"。]
+ 
+No, I don‘t think so. The English word "precept" is from Latin "praeceptum," without the medium of French as
+a bridge.
+
+哥尼希 2004-10-16 23:59:10
+Cody9999:
+
+也许你是对的。我查了一下，webster说：
+Etymology: Middle English, from Latin praeceptum, from neuter of praeceptus, past participle of praecipere to take beforehand, instruct
+
+american heritage dictionary说：
+ETYMOLOGY: Middle English, from Old French, from Latin praeceptum, from neuter past participle of praecipere, to advise, teach : prae-, pre- + capere, to take   
+
+无论如何，从这个拉丁词判断，你看precepte=>"教训"的翻译是否完全胡乱？
+
+"熊獾":
+
+早说过了，您的法语我读都不会的。永别永别。
+
+熊獾 2004-10-17 00:17:13
+哥尼希　
+
+早说过了，您的法语我读都不会的。永别永别。
+------------------------
+有本事就把你自己的中文翻译成法语吧！只会读不会写的半个
+ 瘸子。
+
+Cody9999 2004-10-17 00:18:37
+[作者：哥尼希　回复日期：2004-10-16　23:59:10
+无论如何，从这个拉丁词判断，你看precepte=>"教训"的翻译是否完全胡乱？]
+
+But the subjects here are the philosophers, whose 
+"precepts" are not necessarily confined to "教训".
+To render the French word "preceptes" into the 
+Chinese 教训 is to narrow or limit the meaning of 
+the original word. 　
+
+However, without doubt  钱钟书大师把"Les philosophes, 
+et Seneque surtout"胡乱翻译成"道学家像赛纳卡(Ｓeneque)
+之流".
+
+Sieg 2004-10-17 00:20:22
+同意上面一些对德里达和拉康的负面评论。
+我想这就是分析哲学和诗意哲学的区别。
+其实，要理解拉康，懂不懂法语并不重要，重要的是你是否拥有了拓扑学的知识，当你明白拉康仅仅是用了拓扑学的思想原理而非其中的一些著名定理（比如欧拉的那个著名公式），那么，你就不必耿耿于怀于他在拓扑学上的浅陋，因为他只是借用拓扑学的工具在告诉我们关于心理学的一个创世说，是一个神话，但人们需要神话来安慰自己，尤其是面对英美分析哲学缺乏自信的法国人。
+中国人之所以迷拉康，我看是因为他们大多没有掌握拓扑学的基本知识，其实，稍微做点数学普及工作，我相信大家都会从拉康迷恋中恢复出来。
+
+同样，如果你掌握了现代的素朴集合论知识，明白有关集合、类、公理系统等等现代数理逻辑概念，那么，德里达的所有作品可以瞬间被瓦解为两个字：累赘。
+
+但我想以上这些还不是解构主义的重疴，因为我们不得不要为这世界上大脑缺乏健全逻辑路径的人们留点余地，让他们能够在德里达之类的文本中可以照顾一下他们的话语权，然而，以下我的想法却是比较严重，希望各位给予更深入的探讨，因为我自己出于对解构主义的反感，可能已经同时获得了盲视症状：
+
+～～～
+
+还有一些没有说的就是：解构主义由于对现存秩序的权威挑战时缺乏内在的理论框架，这使得它过于容易滋生反智主义情绪，并很善于制造摆脱一切现有道德规范的狂热，所以，如果那些极端宗教分子利用解构主义的这个缺陷加以改造的话，那么，一个世俗的非宗教的全球恐怖主义理论就会形成，他们将有理由宣称他们的行为是对美国这些国家进行去中心化和去威权化，并以边缘的武装力量来为所有被剥削被欺凌的人民讨还公道，所有的自杀性爆炸和人质砍头行为都是以自身解构的方式来解构这个现存社会于是解构也一同消失，这样最后，德里达所宣扬的那种依托性的乌托邦世界就会到来。
+
+一个霸权国家的缺陷不能成为形成一个反霸权组织更大缺陷的充分条件，然而，解构主义恰恰在这方面，它助纣为虐。
+
+因此不深刻检讨解构主义在现代社会带来的所有危害，那么，一种危险的理论阴影，就会像当年尼采的理论一样，被以后的某些组织和个人所利用，尼采和德里达是无辜的，但那些组织和个人不会放过这个机会，我想，我们应该十分警惕如今的纪念德里达的思潮，因为这个思潮，直接就在向全球恐怖主义遥远得打开了大门。
+
+苏七七 2004-10-17 00:27:10
+有哥尼希先生的回帖可看啊。。！
+
+熊獾 2004-10-17 00:33:05
+不深刻检讨解构主义在现代社会带来的所有危害，那么，一种危险的理论阴影，就会像当年尼采的理论一样，被以后的某些组织和个人所利用，尼采和德里达是无辜的，但那些组织和个人不会放过这个机会
+
+哥尼希 2004-10-17 00:39:38
+Cody9999,
+
+请问Seneca是哪一类哲学家？他的perceptes包括什么？按照你的翻译（“原则”、“体系”），那么Seneca有哪些"体系"呢？
+
+我记得Quine讲过翻译的不可确定性（the indeterminacy of translation）。且不说外星法语这样阴森可敬的语言，就连同属一个语族的两个语种之间，也不能借助某一本唯一确定的手册实现翻译。这种说法，也许不免落入相对主义的泥沼；不过在我看来，你举出的preceptes——甚至philosophes，反而是一个支持Quine的好例子，而不是针对钱的大丑闻。
+
+不过如果认准这样的引文是“胡乱翻译”，那么钱的各种著作里大概还多的是（日前这里还有人找到他引用Aesop和Plato时的硬伤）。有志者当然可以追击下去，在“文化昆仑”倒塌之后的平原上显显本领。
+
+"熊獾":
+我们说过永别了，对吧？
+
+熊獾 2004-10-17 01:08:11
+对于评击所谓后现代和其热衷移植到中国的迷狂人士，我还不想被人封嘴。
+je ne veux point me taire devant ceux qui,egares par  ce qu‘on appelle  "postmodernisme", se passionnent  pour le greffer en chine ,un pays en voie de modernisation.
+
+熊獾 2004-10-17 01:13:11
+对于抨击所谓后现代和热衷将其移植到中国的迷狂人士，我还不想被人封嘴。
+je ne veux point me taire devant ceux qui,egares par ce qu‘on appelle "postmodernisme", se passionnent pour le greffer en chine ,un pays en voie de modernisation.
+
+Horatius 2004-10-17 01:13:42
+佩服Koenig兄有耐心从事启蒙工作。读书时怀疑权威是正常的，但是不妨先给权威们一点特权，假定他们是有道理的、或者至少是有一些道理的，然后努力去认识一下他们的道理何在，不要马上就以为全世界的人都是白痴或骗子，只有自己最聪明最正直。否则像楼主择出的新一段：
+把它改写成拉康式的清晰不晦涩的语言:
+
+"Objective consideration of contemporary phenomena 
+compels the conclusion that success or failure in competitive 
+activities exhibits no tendency to be commensurate with 
+innate capacity, but that a considerable element of the
+unpredictable must invariably be taken into account."
+
+To me at least, Lacan, and Derrida for that matter, are
+the worst prose writers imaginable.
+只能说明楼主的阅读水平有待提高。难怪楼主就不一会儿在批评钱锺书时露了一个很幼儿园的怯。至于那位以错误百出的所谓“法语”自矜的熊獾先生，尼采或德里达是否败坏了道德人心，请君先提高一下法语，去掉一些缺乏教养造成的蛮横，在替世人担心吧。Herr Koenig, verlassen wir diese Schweinerei!
+
+Cody9999 2004-10-17 01:18:03
+[作者：哥尼希　回复日期：2004-10-17　0:39:38　   
+Cody9999,
+
+请问Seneca是哪一类哲学家？他的perceptes包括什么？按照你的翻译（“原则”、“体系”），那么Seneca有哪些"体系"呢？]
+
+It matters not, for the subjects here are the philosophers,
+and Seneca is merely listed as a special example of them,
+be he of the school of Stoicism or not. Repeat: the
+subjests here are the philosophers, not Seneca, and not
+every philosopher‘s precepts are those of 教训别人.
+
+The followings are indeed 钱钟书大师的胡乱翻译:
+
+Les philosophes = 道学家
+
+Les philosophes et Seneque surtout = 道学家像赛纳卡
+(Ｓeneque)之流
+
+林下 2004-10-17 01:26:43
+Un mot à les imbéciles--laissez là les bètises SVP! Monsieur Koenig a eu assez de bonne patience a vous éclairer.
+
+哥尼希 2004-10-17 01:28:33
+呵呵，谨遵Herr Horatius指示。（Chelsea要输了，还是关心他们要紧:P)
+
+Cody9999 2004-10-17 01:37:15
+[作者：Horatius　回复日期：2004-10-17　1:13:42
+只能说明楼主的阅读水平有待提高。难怪楼主就不一会儿在批评钱锺书时露了一个很幼儿园的怯。]
+
+Dear Horatius 大师, please kindly point out, or even 
+pinpoint, the so-called 一个很幼儿园的怯 when I
+commented on 钱钟书大师的翻译. Being vague here
+does not help, whereas being frank does. Thank you!
+
+林下 2004-10-17 01:47:08
+Monsieur en haut: Nous ne parlons pas la meme langue.
+
+Koenig le mordu du football:)
+je suis en train de voyer mon mignon shrek. Milles remercies pour Horatius qui m‘amene au champs de bataille. Je m‘emerveille de l‘audace et de l‘ignorance de ceux qui en font parade...
+
+林下 2004-10-17 01:49:51
+zut, typo. c‘etait plutot remerciements.
+
+Horatius 2004-10-17 01:57:18
+Cody9999
+
+大师不敢当。那个“怯”，哥尼希兄已经说的很明白了，就是关于preceptes一词及其段落，不必重复了。
+
+辛夷坞 2004-10-17 02:00:55
+很热闹嘛:)
+
+Horatius 2004-10-17 02:07:11
+Koenig le mordu du football:)
+je suis en train de voyer mon mignon shrek.
+
+Merci beaucoup, Mlle Sousbois. Amusez-vous bien!
+
+熊獾 2004-10-17 02:12:32
+je suis en train de voyer mon mignon shrek. 
+--------------------------------
+"voyer"  ?
+请赐教。
+
+哥尼希 2004-10-17 02:16:45
+et pour moi, remerciements a monsieur Horace pour m‘emmener du champs de bataille - au terrain de football...
+
+man. city beat chelsea 1-0... NICE!
+
+林下 2004-10-17 02:19:14
+keke, personne de nous pourrait se vanter certainement d‘une assez belle connaissance de francais. Mais, au moins je n‘ai jamais tenté à appris les autres.
+
+Filons! Monsieur Horatius et Koenig. Ca ne vaut pas la peine de prolonger le debat.
+
+Cody9999 2004-10-17 02:21:42
+[作者：Horatius　回复日期：2004-10-17　1:57:18　   
+Cody9999
+
+大师不敢当。那个“怯”，哥尼希兄已经说的很明白了，就是关于preceptes一词及其段落，不必重复了。]
+
+Oh, on this point my reply has already been given. To wit:
+the subjects here are the philosophers, not Seneca, and 
+not every philosopher‘s precepts are those of 教训他人.
+
+Please kindly review the original again:
+
+"Les philosophes, et Seneque surtout, n‘ont point ote les
+crimes par leurs preceptes: ils n‘ont fait que les employer
+au batiment de l‘orgueil."
+["The philosophers, and Seneca above all, have not
+eliminated crimes with their precepts: they have only
+employed them for the building of pride."]
+
+And please contrast it with 钱钟书大师‘s marvelous
+translation into Chinese:
+
+"道学家像赛纳卡(Ｓeneque)之流，并未能把教训来
+减少人类的罪恶；只是由教训他人而增加自己的骄傲。"
+
+However, if you have any new insights, I am more than
+willing to consider them and will stand corrected. Thank
+you!
+
+林下 2004-10-17 02:24:19
+Monsieur Horatius a déjà filé le champs. J‘en ferais autant:)
+A bientot Koenig!
+
+哥尼希 2004-10-17 02:30:38
+hehe, okay. merci beaucoup et a bientot, mlle subsilva :P
+
+Cody9999 2004-10-17 03:38:26
+道学家(哎, 错了, 哲学家)Horatius大师, 以及其他大师先生
+或者大师女士, 晚安!
+
+Cody9999 2004-10-17 04:07:37
+拉康大师、德里达大师、钱钟书大师, 愿你们安息!
+
+sinovivo 2004-10-17 04:59:32
+作者：Cody9999　回复日期：2004-10-16　3:33:06　   
+
+请继续欣赏理解一流法国大师拉康的晦涩。
+来自拉康大师:
+
+What we have there is the first captation by the image in which the first stage of the dialectic of identifications can be discerned. What I have called the mirror stage is interesting in that it manifests the affective dynamism by which the subject originally identifies himself with the visual Gestalt of his own body: in relation to the still very profound lack of co-ordination of his own motility, it represents an ideal unity, a salutary imago; it is invested with all the original distress resulting from the child’s intra-organic and relational discordance during the first six months, when he bears the signs, neurological and humoral, of a physiological natal prematuration.
+
+读起来明白晓畅清晰，不觉得有任何晦涩之处。
+
+
+―――――――――――――――――――――――――――――――――――――――
+
+
+
+"Objective consideration of contemporary phenomena compels the conclusion that success or failure in competitive activities exhibits no tendency to be commensurate with innate capacity, but that a considerable element of the unpredictable must invariably be taken into account."
+
+To me at least, Lacan, and Derrida for that matter, are the worst prose writers imaginable.
+
+没有人会认为拉康和德里达是行笔平易亲切的散文家，我们可不可以用数学家、逻辑学家的标准去评判现代诗？
+
+
+―――――――――――――――――――――――――――――――――――――――
+
+
+Les philosophes = 道学家?Les philosophes, et Seneque surtout = 道学家像赛纳卡(Ｓeneque)之流?　preceptes = 教训?
+
+
+先来看看钱的原文（从网上拷贝，内部错误不改，只要能明白大意即可。） ：
+
+“头脑简单的人也许要说，自己没有道德而教训他人，那是假道学。我们的回答是：假道学有什么不好呢？假道学比真道学更为难能可贵。自己有了道德而来教训他人，那有什么希奇；没有道德而也能以道德教人，这才见得本领。有学问能教书，不过见得有学问；没有学问而偏能教书，好比无本钱的生意，那就是艺术了。真道学家来提倡道德，只像店家来替自己存货登广告，不免自我标榜；绝无道德的人来讲道学，方见得大公无我，乐道人善，愈证明道德的伟大。更进一层说，真有道德的人来鼓吹道德，反会慢慢地丧失他原有的道德。拉罗斯福哥(La Rochefoucauld)《删去的格言》(MaximesSupprimees)第五八九条里说：“道学家像赛纳卡(Snque)之流，并未能把教训来减少人类的罪恶；只是由教训他人而增加自己的骄傲。”你觉得旁人不好，需要你的教训，你不由自主地摆起架子来，最初你说旁人欠缺理想，慢慢地你觉得自己就是理想的人物，强迫旁人来学你。以才学骄人，你并不以骄傲而丧失才学，以贫践骄人，你并不以骄傲而变成富贵，但是，道德跟骄傲是不能并立的。世界上的大罪恶，大残忍－－没有比残忍更大的罪恶了－－大多是真有道德理想的人干的。没有道德的人犯罪，自己明白是罪；真有道德的人害了人，他还觉得是道德应有的代价。上帝要惩罚人类，有时来一个荒年，有时来一次瘟疫或战争，有时产生一个道德家，抱有高尚得一般人实现不了的理想，伴随着和他的理想成正比例的自信心和煽动力，融合成不自觉的骄傲。基督教哲学以骄傲为七死罪之一。王阳明《传习录》卷三也说：“人生大病只是一傲字，有我即傲，众恶之魁。”照此说来，真道学可以算是罪恶的初期。反过来讲，假道学来提倡道德，倒往往弄假成真，习惯转化为自然，真正地改进了一点儿品行。调情可成恋爱，模仿引进创造，附庸风雅会养成内行的鉴赏，世界上不少真货色都是从冒牌起的。所以假道学可以说是真道学的学习时期。不过，假也好，真也好，行善必有善报。真道学死后也许可以升天堂，假道学生前就上讲堂。这是多么令人欣慰的事！”
+
+稍微了解一点钱钟书的人应该可以感到，他的学问其实主要是在追求玩辞和玩理的趣味，而不是构建严谨体系来对世界进行狂妄的判断。在这样一篇散文著作里，六经注我，在整体语境谐和的情况下何妨随意取材，自由挥洒。“道学家像赛纳卡(Ｓeneque)之流，教训”云云，承前文一气而来，恰切而有妙趣。若字字对应死译，岂不是把活美人做成蜡像？文章高手的引用，追求的就是断章取义，而不是亦步亦趋。呵呵，楼主好像就是这样的高手。
+
+
+―――――――――――――――――――――――――――――――――――――――
+
+
+对哲学家们来说, preceptes就相当于英语的precepts, 应在这儿翻译成"原则"或者"体系"比较合适。
+
+钱钟书不是哲学家，孤陋寡闻，还没听说过数学考15分的哲学家。VIVO有一个Routledge encyclopedia of philosophy 的软件，全文检索，选取Precepts的前三个例句，Precept的前三个例句，大家读后就知道precepts在哲学里应当翻译成什么：
+
+To solve the problems of peaceful co-operation they need to be able to recognize the consequences of everyone’s trying to get what they want. This means more than knowing what moral precepts to follow. 
+
+Routledge Encyclopedia of Philosophy, Version 1.0, London: Routledge
+
+To solve the problems of peaceful co-operation they need to be able to recognize the consequences of everyone’s trying to get what they want. This means more than knowing what moral precepts to follow. 
+
+Routledge Encyclopedia of Philosophy, Version 1.0, London: Routledge
+
+The Ritsu (Precept) school conveyed very specific ethical and administrative rules to regulate the ordination and life of monks and nuns, and taught that the observance of precepts was one purification necessary for enlightenment. As discussed below, however, it did not provide an ethical theory or general principles for determining good and evil (see ?).
+
+Routledge Encyclopedia of Philosophy, Version 1.0, London: Routledge
+
+
+
+
+‘Oxford Calculators?is a modern label for a group of thinkers at Oxford in the mid-fourteenth century, whose approach to problems was noticed in the immediately succeeding centuries because of their tendency to solve by ‘calculations?all sorts of problems previously addressed by other methods. If for example the question was, what must a monk do to obey the precept of his abbot to pray night and day, a ‘calculator?might immediately rephrase
+the question to ask whether there is a minimum time spent in prayer that would be sufficient to fulfil the abbot’s precept,or a maximum time spent that would be insufficient to fulfil the precept.
+
+Routledge Encyclopedia of Philosophy, Version 1.0, London: Routledge
+
+This programmatic credo, which has become famous from the foreword to Hegel’s Philosophy of Right, is the basic precept determining the entire approach to his system.
+
+Routledge Encyclopedia of Philosophy, Version 1.0, London: Routledge
+
+First, its claim that there is a plurality of distinct duties runs counter to the theoretician’s search for simplicity. The deontologist will reply, of course, that a theory must do justice to the complexity of the phenomena. Second, many deontologists further defy the supposed canons of good theorizing by denying that there is any overarching explanation of why there are the duties there are; they record our conviction that there are such duties without seeking to justify them. Others, usually inspired by Kant (1785), do attempt such an explanation based on some broader precept, such as respect for persons (see Kant, I. §§9-11; Respect for persons; Kantian ethics). Third, those who hold that some kinds of action, such as lying, are absolutely prohibited have to provide clear and detailed criteria for determining the boundary between lying and some supposedly less nefarious activity, such as ‘being economical with the truth? 
+
+Routledge Encyclopedia of Philosophy, Version 1.0, London: Routledge
+
+sinovivo 2004-10-17 05:42:31
+作者：Sieg　回复日期：2004-10-17　0:20:22
+　   
+同意上面一些对德里达和拉康的负面评论。
+我想这就是分析哲学和诗意哲学的区别。
+其实，要理解拉康，懂不懂法语并不重要，重要的是你是否拥有了拓扑学的知识，当你明白拉康仅仅是用了拓扑学的思想原理而非其中的一些著名定理（比如欧拉的那个著名公式），那么，你就不必耿耿于怀于他在拓扑学上的浅陋，因为他只是借用拓扑学的工具在告诉我们关于心理学的一个创世说，是一个神话，但人们需要神话来安慰自己，尤其是面对英美分析哲学缺乏自信的法国人。
+中国人之所以迷拉康，我看是因为他们大多没有掌握拓扑学的基本知识，其实，稍微做点数学普及工作，我相信大家都会从拉康迷恋中恢复出来。
+
+同样，如果你掌握了现代的素朴集合论知识，明白有关集合、类、公理系统等等现代数理逻辑概念，那么，德里达的所有作品可以瞬间被瓦解为两个字：累赘。
+
+但我想以上这些还不是解构主义的重疴，因为我们不得不要为这世界上大脑缺乏健全逻辑路径的人们留点余地，让他们能够在德里达之类的文本中可以照顾一下他们的话语权，然而，以下我的想法却是比较严重，希望各位给予更深入的探讨，因为我自己出于对解构主义的反感，可能已经同时获得了盲视症状：
+
+～～～
+
+还有一些没有说的就是：解构主义由于对现存秩序的权威挑战时缺乏内在的理论框架，这使得它过于容易滋生反智主义情绪，并很善于制造摆脱一切现有道德规范的狂热，所以，如果那些极端宗教分子利用解构主义的这个缺陷加以改造的话，那么，一个世俗的非宗教的全球恐怖主义理论就会形成，他们将有理由宣称他们的行为是对美国这些国家进行去中心化和去威权化，并以边缘的武装力量来为所有被剥削被欺凌的人民讨还公道，所有的自杀性爆炸和人质砍头行为都是以自身解构的方式来解构这个现存社会于是解构也一同消失，这样最后，德里达所宣扬的那种依托性的乌托邦世界就会到来。
+
+一个霸权国家的缺陷不能成为形成一个反霸权组织更大缺陷的充分条件，然而，解构主义恰恰在这方面，它助纣为虐。
+
+因此不深刻检讨解构主义在现代社会带来的所有危害，那么，一种危险的理论阴影，就会像当年尼采的理论一样，被以后的某些组织和个人所利用，尼采和德里达是无辜的，但那些组织和个人不会放过这个机会，我想，我们应该十分警惕如今的纪念德里达的思潮，因为这个思潮，直接就在向全球恐怖主义遥远得打开了大门。
+
+
+
+作者：熊獾　回复日期：2004-10-17　0:33:05
+　   
+不深刻检讨解构主义在现代社会带来的所有危害，那么，一种危险的理论阴影，就会像当年尼采的理论一样，被以后的某些组织和个人所利用，尼采和德里达是无辜的，但那些组织和个人不会放过这个机会。
+
+
+―――――――――――――――――――――――――――――――――――――――
+
+
+人不是纯粹的灵，运行在水上，下腹部总在背叛肩胛骨，由此生活如同那夜的焰火和狂欢，混乱而又美丽灿烂，和寂阒浩瀚的星空交辉－－一半大脑在写癫狂的诗，一半大脑在验算几何题。牛顿和波尔不是镜象，从而可以互相取消。
+
+
+世界的道理简单朴素，哲学家什么都说过，哲学家什么都没说。一篇旧的回复，一种道学声音的干涉波，此处也许也可以适用，贴在下面：
+
+
+
+语言的脆弱如同玻璃花，一种声音，一种解释假若最终只能归结为“尊严和素质”，仅仅只是假设的权利，就不免空洞无用，不能构成对现实生活的有效解构。因为针对女性的话语强暴有雄性的肉体欲望，钞票股票，政治权力结构作为带刀侍卫。历史可以证明，大棒从来不畏惧道理，大棒需要巡航导弹来对抗，再不济也需要所谓的“小米加步枪”。 
+
+如果一个13岁的女孩要隆胸，要成为性感妖艳的美女，又有什么错呢？只不过是一种在给定社会环境，约束条件下的策略选择，经验同样可以证明，此一选择往往有效，－－“漂亮着生存”。问题在于，你到底想要什么？不是每个人都会选择尊严和素质，选择高尚的带有神性光辉的东西，从概率论的意义上来说，也许物质，肉体，花园别墅，香车美女，纸醉金迷，下流趣味更能构成致命的诱惑。
+
+因此有一个建议，如果某一行为，言论没有构成对法律的挑衅，应该可以放弃或者减少道学式的道德批判，而选择容忍。欲望毕竟和我们的幸福感相关。值得注意的是，物欲横流，肉欲放纵已经形成了对官僚权力专制，虚伪伦理观念的肢解，从而你我可以活得更自由，更真实。一个人是否愿意把自己祭奠给神坛完全是自己的事，他者无权用刀枪威逼或者萝卜引诱。要下地狱的就让他下地狱，要上天堂的就让他上天堂。
+
+
+
+BTW：VIVO喜欢清晰，逻辑谨严的哲学。哲学怎样才能搞成文学呢？困惑中。
+
+hutuworm 2004-10-17 10:09:58
+Don‘t deride Derrida
+
+Academics are wrong to rubbish the philosopher
+
+Terry Eagleton
+Friday October 15, 2004
+The Guardian 
+
+http://books.guardian.co.uk/news/articles/0,6109,1328214,00.html
+
+hutuworm 2004-10-17 10:29:06
+Don‘t deride Derrida
+
+Academics are wrong to rubbish the philosopher
+Terry Eagleton
+Friday October 15, 2004
+
+The Guardian
+English philistinism continues to flourish, not least when the words "French philosopher" are uttered. This week in the Guardian our home-grown intelligentsia gave a set of bemused, bone-headed responses to the death of Jacques Derrida. Either they hadn‘t read him, or they believed his work was to do with words not meaning what you think they do. Or it was just a pile of garbage.
+
+In line with this judicious assessment, Derrida - one of the most eminent postwar French thinkers - was turned down for an honorary degree at Cambridge University. The man was regarded by the stuffed shirts as a subversive nihilist who believed that words could mean anything you liked, that truth was a fiction, and that there was nothing in the world but writing. In their eyes, he was a dangerous mixture of anarchist, poet and jester.
+
+But the dons who voted him down were the kind of scrupulous academics who had almost certainly not read his books. They knew he was radical, enigmatic, French, photogenic and wildly popular with students. The university had the good sense to reverse its decision later; but many academics regard him as a man out to destroy philosophy, thus depriving some of them of a living.
+
+In fact, Derrida rejoiced in the pantheon of philosophy from Plato to Heidegger. Deconstruction, the philosophical method he promoted, means not destroying ideas, but pushing them to the point where they begin to come apart and expose their latent contradictions. It meant reading against the grain of supposedly self-evident truths, rather than taking them for granted. English senior common rooms are full of self-righteous blather about thinkers like Derrida being more interested in abstract theories than in close reading. In fact, he read works of art and philosophy with a stunning originality and intricacy beyond that of most of his critics.
+
+This was never for Derrida a purely academic pursuit. His first great works appeared in Paris on the eve of the political explosion of May 1968, at a time when he was close to, but critical of, the French Communist party. Since the party had cravenly supported the French repression of Algeria, and since Derrida was an Algerian Jewish colonial, his oblique relations to official Marxism were understandable.
+
+But he remained a staunch member of the political left. He aimed to prise open classical leftist ideas such as Marxism to the marginal, the aberrant; in this sense his project had affinities with the work of Raymond Williams, EP Thompson, Stuart Hall and the 1970s feminists in Britain. A vital part of the heritage of May ‘68 has been extinguished.
+
+Derrida once remarked that he wanted to "write like a woman". He was one of a lineage of anti-philosophers, from Kierkegaard to Wittgenstein, who invented a new style of philosophical writing. He understood that official thought turns on rigorously exclusive oppositions: inside/outside, man/woman, good/evil. He loosened up such paranoid antitheses by the flair and brio of his writing, and in doing so spoke up for the voiceless, from whose ranks he had emerged.
+
+· Terry Eagleton is professor of cultural theory at Manchester University
+
+太仓baby 2004-10-17 11:54:57
+赞一声，不过肯定有人要跳出来说，伊戈尔顿这样搞文学研究的人说话算个屁。
+
+Cody9999 2004-10-17 14:07:07
+[作者：sinovivo　回复日期：2004-10-17　4:59:32　
+稍微了解一点钱钟书的人应该可以感到，他的学问其实主要是在追求玩辞和玩理的趣味，而不是构建严谨体系来对世界进行狂妄的判断。在这样一篇散文著作里，六经注我，在整体语境谐和的情况下何妨随意取材，自由挥洒。“道学家像赛纳卡(Ｓeneque)之流，教训”云云，承前文一气而来，恰切而有妙趣。若字字对应死译，岂不是把活美人做成蜡像？文章高手的引用，追求的就是断章取义，而不是亦步亦趋。呵呵，楼主好像就是这样的高手。]
+
+Please, this is not translation anymore. When you put
+someone‘s words inside quotation marks, you are supposed
+to quote him or her faithfully. What Mr. Qian Zhongshu did
+was to distort La Rochefoucauld‘s maxim for the sake of his
+essay. This is not hard at all, come to think of it. 
+
+[To solve the problems of peaceful co-operation they need to be able to recognize the consequences of everyone’s trying to get what they want. This means more than knowing what moral precepts to follow.]
+
+Yeah, this is your first example, but how do you translate
+"moral precepts" into Chinese? 道德教训?
+
+sinovivo 2004-10-17 16:15:50
+My god! VIVO has never drawn a conclusion that Precepts should been translated into Chinese as 教训.Posting several examples from Routledge Encyclopedia of Philosophy is to illustrate what is exact meaning of precets in most cases in philosophical texts. as i have mentioned above , the context of our discussion has been strictly limited in philosophical field,from then on there was no any relation to Mr. Qian Zhongshu.
+
+provided i am talking about philosophy, i would like to translate precepts as "原则"、信条,but never as "体系".if i am writing an essay ,what is correct translation??Too complicated .教训---确认,发表,言论,遵守,国家,法律,法规,社区,规则，符合,栏目,主旨，etcccccccccccccc. lol
+
+Cody9999 2004-10-17 18:08:48
+But the dispute originates from Mr. Qian Zhongshu‘s 
+purported translation of La Rochefoucauld‘s maxim.
+To recap, this is the original:
+
+"Les philosophes, et Seneque surtout, n‘ont point ote les
+crimes par leurs preceptes: ils n‘ont fait que les employer
+au batiment de l‘orgueil."
+["The philosophers, and Seneca above all, have not
+eliminated crimes with their precepts: they have only
+employed them for the building of pride."]
+
+And here is Mr. Qian‘s so-called translation into Chinese:
+
+"道学家像赛纳卡(Ｓeneque)之流，并未能把教训来
+减少人类的罪恶；只是由教训他人而增加自己的骄傲。"
+
+You see the Frenchman refers to the philosophers and
+their precepts in his maxim, but Mr. Qian translates or 
+mistranslates "philosophers" as "道学家" and "precepts" 
+as "教训" and "教训他人", and then he puts his translation
+inside quotation marks so that the readers are led to think
+this is what La Rochefoucauld says. But this is not, and this
+is awful because Mr. Qian distorts the Frenchman‘s saying 
+for the sake of his own essay. 
+
+You said Mr. Qian 随意取材，自由挥洒, etc. and appear 
+to have approved it, but you may not realize that by so 
+doing you invite the readers not to treat seriously Mr. Qian‘s 
+quotes: whenever they read  Mr. Qian‘s quotes (even 
+secured by the guards of quotation marks), they will believe 
+the quotations are not faithful but only the results of his 自由
+挥洒, as you said. Mr. Qian would be well served by this, 
+I hope.
+
+美丽奴 2004-10-17 19:56:27
+各位砸得好砸得好。
+
+喜欢看
+
+woshiaq 2004-10-18 16:27:35
+这番争论真是精彩，小弟佩服。尤其是cody9999,还有熊獾，实在厉害。
+
+sinovivo 2004-10-18 17:43:47
+哈哈，VIVO到此不得不承认自己的语言表达水准太差，用中英文各自申明了一次观点，还是没有说清楚，最起码没有让别人明白自己的意思。那么，不妨第三次给以说明：
+
+文学表达和哲学论证不同，文学中作者追求表达的自如和灵动，词语的意义经常会发生漂流，以美为旨归；而哲学则以陈述的精确和严谨为特征，一切词语的运用应当字斟句酌，不容马虎，哲学讲求真。
+
+在以上的大前提下，进一步论证－－众所周知，钱钟书以文学著称，而《谈教训》(《写在人生边上》）无论如何都是一篇漫谈式的随笔，连文学论文都算不上。
+
+如此，《谈教训》只是一篇读来趣味横生的文学作品，读者主要应该关注的是其曼妙的文学性，而不是引用的准确性，严肃性。以翻译的不严谨来对文学创作进行吹毛求疵，完全是走错了门，或者根本没进任何门－－门外汉？？lol
+
+
+
+退一步讲，钱钟书的翻译是否真的乌七八糟，不堪入目？可惜9999先生给出的案例并不能构成有效地反驳。La Rochefoucauld 以《道德箴言》（Maxims Morales）享大名，Seneque以道德小品等著称（Cooper, J.M. and Procop? J.F. (1995) Seneca: Moral and Political Essays, Cambridge: Cambridge University Press.
+(Better translations of On Anger, On Mercy, On the Private Life, and On Favours 1-4, plus excellent introduction and
+commentary.)。在翻译Les philosophes, et Seneque surtout时，把哲学家的含义进行具体限定，再加以漫画式的的笔法，VIVO认为翻译成“道学家像赛纳卡(Seneque)之流”再恰当不过。Precepts的含义比较宽泛，“训诫, 戒律; 规则, 规律; 格言, 箴言; 命令, 令状”无不可，钱钟书在引用此话前已经提到“教训”，在翻译此词时必然会根据自己的文章语境，语势而自由调整。如果觉得“教训”不恰当，可以换成“训诫、规则、箴言”等，读起来舒服吗，文章有其语气上的连续性吗？
+
+如果确实有必要对钱钟书的翻译进行一番考察的话，VIVO想应该在比较正式严谨的学术著作中去找例证，比如《管锥编》。此书在引用外文时钱基本上都会给出原文，有兴趣的高明之士可以去一一对照，VIVO的中文，英法德意拉丁语都不通，不敢去做这样的工作。
+
+
+
+楼主完全可以一开始就不同意VIVO论证的大前提，即文学和哲学是不一样的文本，坚持任何翻译的所谓忠实性，准确性（faithfulness),VIVO从现在开始接受你的大前提。但是不幸的是，在此照样可以把您批倒在地，还会造成您的难堪，请不要怪VIVO不够厚道和仁慈。I m awfully sorry.lol
+
+弱的理由上面已经给出，即钱钟书的翻译基本上还算忠实和准确，他从没有把Les philosophes当成Le philologue来误人子弟，不再赘述。
+
+强的理由就比较好玩，［　You see the Frenchman refers to the philosophers and their precepts in his maxim, but Mr. Qian translates or mistranslates "philosophers" as "道学家"  and "precepts"  as "教训" and "教训他人", and then he puts his translation inside quotation marks so that the readers are led to think this is what La Rochefoucauld says.]
+
+上面是您自己说的话，从而大家都知道，您是一个坚持任何引述都必须绝对真实，忠实，准确的正人君子，VIVO PF（佩服） 啊 PF（佩服），网友PF啊PF，可是，然而，请看看您自己的引述，转帖：
+
+
+钱钟书老婆杨绛(the super-annuated coquette)以惨败而告终(转载)
+
+法国为什么盛产学术骗子: 奎因等哲学家关于德里达的一封著名抗议信(转载)
+
+虚伪不堪、玩世不恭的钱锺书: 钱锺书瞧得起谁啊？[乔纳森](转载)
+
+
+既然是转载，就必须完全忠实于原作者，不得私意篡改，胡说八道，以自己的观点强－奸他人，但上面的贴子的主标题似乎完全是您的高见，读过贴子的人都会知道，人民网，何高了从没说过杨绛是the super-annuated coquette，奎因也没说过德里达是学术骗子，乔纳森也从没有认为钱锺书虚伪不堪、玩世不恭。阁下中文翻译成中文都会如此花样百出，郢语燕说，拨弄是非，怎样让人相信您对钱钟书法语翻译不忠实的批评呢？
+
+何高了，奎因恐怕无法和您当面对质，说清楚是非黑白，但水木乔纳森却经常在“闲闲书话”出没，大家不妨问一声，水木乔纳森有没说过钱锺书虚伪不堪、玩世不恭？VIVO估计他看到您如此转帖非常生气和恼怒（VIVO瞎猜，说不定乔纳森的涵养极好，一点都不生气。乔纳森君，是吗？呵呵），但终究懒得理你，只好选择沉默，谁让自己口气如此大呢？
+
+
+最后总结；一，外部批判，您的基本观点完全错误，不懂文学。文学和科学，哲学等不是一回事，文学翻译的自由度，随意性比较大。二，内部批判，您的主张没有自洽性，自相矛盾。要求别人在引述，转载时完全忠实，准确，而自己的行为奉行另一套原则，私意篡改，胡说八道。
+
+sinovivo 2004-10-18 17:50:38
+Sorry !郢书燕说 instead of 郢语燕说
+
+sinovivo 2004-10-18 18:50:20
+欧阳公作省试知举，得东坡之文惊喜，欲取为第一人，又疑其是门人曾子固之文，恐招物议，抑为第二。坡来谢，欧阳问坡所作《刑赏忠厚之至论》，有“皋陶曰杀之三，尧曰宥之三”，此见何书，坡曰：“事在《三国志》、《孔融传注》。”欧退而阅之，无有。他日再问坡，坡云：“曹操灭袁绍，以袁熙妻赐其子丕。孔融曰：‘昔武王伐纣，以妲己赐周公。’操惊问何经见，融曰：‘以今日之事观之，意其如此。’尧皋陶之事，某亦意其如此。”欧退而大惊曰：“此人可谓善读书，善用书，他日文章，必独步天下。”然予尝思之，《礼记》云：“狱成，有司告於王。王曰宥之，有司曰在辞。王又曰宥之，有司又曰在辟。三宥不对，走出，致刑於甸人。”坡虽用孔融意，然亦用《礼记》故事，其称王谓王三皆然，安知此典故不出於尧。（《诚 斋 诗 话》宋 杨万里）
+
+Cody9999 2004-10-18 18:53:20
+你说了一大通，可你似乎不知道主标题上的"转载"二字是
+系统生成的。你想指责我私意篡改的话，应该去看我转的
+帖子里面有没有改动别人的话啊 ，为什么不这样干呢?
+
+举个例子:  
+
+主标题: 钱钟书老婆杨绛(the super-annuated coquette)
+以惨败而告终
+
+然后系统自动生成"转载"二字，以表示里面的帖子是转载
+而非原创。
+
+My dear fellow, if you really wish to accuse me of doctoring 
+other people‘s posts, you ought to look inside to find the 
+evidence. You haven‘t done your job yet. Please go back
+to do your job properly and come again to report your
+findings, if any. Your other excuses for Mr. Qian Zhongshu‘s 
+translation or mistranslation are so lame that they don‘t 
+merit even a reply. 
+
+Best luck!
+
+sinovivo 2004-10-18 19:17:41
+唉，不和您谈了，我已经说得很清楚，您却根本没明白我的意思。VIVO说的是您对文章标题的随意更改－－会造成极大误会的更改。已经有人对你进行了更正。
+
+PS：揭人老底是比较狠的招数，VIVO说声对不起。在此帖里VIVO不再和您讨论了，该说的话已经说得很清楚。
+
+
+作者：咏馨楼主　回复日期：2004-9-12　14:47:41　   
+水木兄这篇文章老早就读过了，闲闲书话里也有人转载过。不过“虚伪不堪、玩世不恭”这八个字可不是水木兄原文中所有的，大家不要误会。估计是转载时有人冠的名。
+
+作者：寒潭惊鹤影　回复日期：2004-9-13　23:17:47　   
+我觉得版主可以将“虚伪不堪、玩世不恭的钱锺书”这几个字删去。标题中既有乔纳森的名字，又加了不属于他的话，容易引起误解。
+
+作者如果想写“虚伪不堪、玩世不恭的钱锺书”，也未尝不可。但强加于别人的文章上，就不妥了。
+
+《钱锺书的性格》不知在哪里可以找到？
+
+Cody9999 2004-10-18 19:54:49
+[作者：sinovivo　回复日期：2004-10-18　19:17:41　   
+唉，不和您谈了，我已经说得很清楚，您却根本没明白我的意思。VIVO说的是您对文章标题的随意更改－－会造成极大误会的更改。已经有人对你进行了更正。]
+
+没有人说主标题一定要和所转的文章标题一样啊。只要
+所转的文章准确无误，在主标题上你可以加上自己的评
+论。比方说:
+
+主标题: sinovivo大师雄文一篇(转载)
+
+你想指责我私意篡改的话，应该去看我转的帖子里面有
+没有改动别人的话啊，请问你发现什么证据了吗?
+
+Cody9999 2004-10-19 05:42:10
+[作者：woshiaq　回复日期：2004-10-18　16:27:35　   
+这番争论真是精彩，小弟佩服。尤其是cody9999,还有熊獾，实在厉害。]
+
+我根本不厉害。这里大师太多, 刚才有个大师就严正指出, 即使
+所转的文章准确无误, 但只要主标题和所转文章的标题不一样,
+有自己的评论, 那就是私意篡改，胡说八道。虽然这里没有任何   
+规则说主标题不准有自己的评论, 必须和所转文章的标题一样。
+
+中国和法国有很多地方不同, 但有一个共同地方, 那就是盛产
+大师。
+
+新潮社 2004-10-19 08:33:47
+中国的学术骗子还少吗？
+
+sinovivo 2004-10-19 11:53:21
+一个人跳舞－－VIVO在自己电脑里检索précepte玩
+
+
+précepte [pYesDpt] n. m. 
+
+precept &laquo; commandement, ordre &raquo; 1119; lat. pr&aelig;ceptum  
+
+ Formule qui exprime un enseignement, une règle, une recette (art, science, morale, etc.). &#61662;le&ccedil;on, maxime, prescription, principe. &laquo; Les vieillards aiment à donner de bons préceptes &raquo; (La Rochefoucauld). Préceptes moraux et juridiques. &laquo; il y a des moralistes dont la t&acirc;che est de rappeler certains préceptes imprescriptibles de la morale &raquo; (Siegfried). Suivre, observer un précepte. 
+Commandement religieux. Les préceptes du Décalogue, de l‘&Eacute;vangile.
+
+
+ 资料来自《Le Petit Robert 2003》电子版
+
+________________________________________
+________________________________________
+
+
+précepte 
+
+(latin praeceptum) 
+
+nom masculin 
+
+Règle, enseignement dans un domaine particulier. Les préceptes de la morale.
+
+
+资料来自《Le Petit Larousse》电子版
+
+
+下面为以Précepte全文检索《Le Petit Larousse》电子版之结果 
+________________________________________
+ 
+morale 
+
+u nom féminin 
+
+1. Ensemble de normes, de règles de conduite propres à une société donnée. 
+
+- Faire la morale à quelqu‘un : adresser à quelqu‘un des exhortations, des recommandations morales ; réprimander quelqu‘un. 
+
+2. Ensemble des règles de conduite tenues pour universellement valables. 
+
+3. PHILOSOPHIE Théorie du bien et du mal, fixant par des énoncés normatifs les fins de l‘action humaine. 
+
+4. Précepte, conclusion pratique que l‘on veut tirer d‘une histoire, d‘un fait. La morale de la fable.
+ 
+________________________________________
+
+or 
+
+(latin aurum) 
+
+u nom masculin 
+
+1. Métal précieux d‘un jaune brillant, de densité 19,3, et qui fond à 1 064 °C. 
+
+2. &Eacute;lément chimique (Au), de numéro atomique 79, de masse atomique 196,966 5. 
+
+3. Alliage de ce métal avec d‘autres métaux (argent, cuivre, nickel, zinc, etc.), utilisé en bijouterie, en dentisterie, etc. Dent en or. Or blanc, jaune, rose, rouge, vert. 
+
+- Or moulu : parcelles ténues d‘or en feuille qu‘on emploie, en amalgame avec du mercure, pour dorer au feu le bronze et d‘autres métaux. 
+
+4. Monnaie d‘or. 
+
+5. Affaire en or : affaire très avantageuse. 
+
+- &Agrave; prix d‘or : très cher. 
+
+- C‘est de l‘or en barre : c‘est une valeur très s&ucirc;re. 
+
+- En or : parfait. 
+
+- C&#339;ur d‘or : personne généreuse. 
+
+- Règle d‘or : précepte que l‘on a tout intérêt à suivre. 
+
+- &Acirc;ge d‘or : temps heureux d‘une civilisation ; époque de bonheur, de prospérité. 
+
+- Nombre d‘or &reg; nombre. <ID(3491600)> 
+
+- Livre d‘or : registre où les visiteurs inscrivent leur nom, notent leurs éloges et leurs réflexions. Livre d‘or d‘une exposition. 
+
+6. L‘or (+ adjectif.) : toute ressource naturelle génératrice de richesse. 
+
+- L‘or blanc : la neige, en tant que ressource touristique. 
+
+- L‘or bleu : l‘eau, en tant qu‘élément indispensable à la vie et réserve halieutique. 
+
+- L‘or noir : le pétrole. 
+
+- L‘or vert : l‘ensemble des ressources végétales. 
+
+7. H&Eacute;RALDIQUE Un des deux métaux employés comme émail, représenté jaune et uni. 
+
+u adjectif invariable 
+
+- Valeur or : valeur exprimée en une unité monétaire convertible en or. 
+
+- DROIT Clause or : clause d‘un contrat par laquelle l‘obligation du débiteur est exprimée en valeur or.
+ 
+________________________________________
+
+sentence 
+
+(latin sententia) 
+
+u nom féminin 
+
+1. Décision rendue par un arbitre, un juge, un tribunal. 
+
+- Spécialement. Décision des tribunaux d‘instance et des conseils de prud‘hommes. 
+
+2. Courte phrase de portée générale, précepte de morale ; maxime.
+ 
+________________________________________
+
+sunna [suna] ou [syna] 
+
+(mot arabe, coutume, précepte) 
+
+u nom féminin 
+
+Ensemble des paroles, des actions de Mahomet et de la tradition qui les rapporte (hadith).
+ 
+________________________________________
+ 
+abbaye de Thélème 
+
+Communauté la&iuml;que imaginée par Rabelais dans Gargantua. <ID(P87750)> Contre-pied exact de l‘institution monacale, elle est régie par le précepte : &laquo; Fais ce que voudras. &raquo;.
+
+ 
+________________________________________
+________________________________________
+
+
+PR&Eacute;CEPTE
+Le participe passé, pr&aelig;ceptum, du verbe pr&aelig;cipere, ordonner, est employé dans la langue juridique classique pour désigner un ordre ou une &laquo; prescription &raquo;, sans que ce terme ait une signification technique précise. Le jurisconsulte Ulpien parle des &laquo; trois préceptes &raquo; fondamentaux du droit (juris pr&aelig;cepta) : vivre honnêtement ; ne pas léser autrui ; donner à chacun son d&ucirc; (Digeste I, I ; X, X). Il s’agit là en réalité de règles de morale très générales, qui peuvent fonder certaines dispositions du droit positif. Dans d’autres textes, pr&aelig;ceptum désigne une injonction du juge au cours d’un procès, l’ordre d’un gouverneur de province, ou encore, mais assez rarement, une disposition de la loi ou de constitutions impériales.
+Dans la langue juridique du Bas-Empire, le mot est d’usage plus fréquent. On le relève cent quatre fois dans les constitutions réunies au Code théodosien (438) ; vingt-sept fois dans les Novelles post-théodosiennes, entre 441 et 458. Sans avoir une valeur rigoureusement technique, le mot tend cependant à se spécialiser. Si, dans le Code théodosien, son acception pour quelques cas est assez vague, et si on le trouve trois fois à propos de prescriptions religieuses (des Ap&ocirc;tres ou d’un évêque), il est encore employé vingt fois pour signifier la volonté impériale, qu’elle s’exprime dans un ordre individuel ou dans une constitution de portée générale. Dans la langue juridique occidentale tardive (au Ve s.), on peut relever une tendance à substituer aux vocables classiques de constitution, de rescrit et de judicium, celui de pr&aelig;ceptum pour désigner la volonté du prince. Un jurisconsulte, probablement de Gaule, parle au Ve siècle de &laquo; pr&aelig;cepta des princes &raquo; et la loi romaine des Burgondes mentionne les &laquo; pr&aelig;cepta du seigneur roi &raquo;. La terminologie qui prévaut à l’époque franque a donc ses origines dans la langue juridique du Bas-Empire.
+Dans les textes juridiques du VIIe au IXe siècle, pr&aelig;ceptum désigne un acte par lequel le roi mérovingien ou l’empereur carolingien énon&ccedil;aient un ordre. Le recueil des formules d’époque franque d’Eugène de Rozière (Recueil général des formules usitées dans l’empire des Francs du Ve au Xe siècle, 3 vol., Paris, 1859) a réuni vingt-neuf formulaires d’actes de ce type. Plusieurs d’entre eux gardent encore la forme du dipl&ocirc;me donné par le roi ou l’empereur dans un cas précis, cet acte ayant été recueilli ensuite par l’auteur d’un recueil de formules de manière à servir de modèle. On peut ainsi déterminer certains domaines dans lesquels ces actes intervenaient. D’aucuns accordent à un individu la protection (mainbournie) royale, qu’il s’agisse d’un homme libre sans autre spécification (nos 12, 14, 15), d’un juif (no 27), d’un commer&ccedil;ant (no 30), de dispenses de taxes diverses au profit des bateliers (no 33, 34, 35) ou d’une concession d’immunité (no 22). D’autres, par une mesure gracieuse, restituent des biens confisqués (nos 40 et 41) ou reconnaissent la qualité d’hommes libres à des personnes qui auraient été abusivement soumises à une servitude de fait (nos 447, 449, 450). Nombreux sont les pr&aelig;cepta qui confirment un acte juridique fait par un particulier en présence du roi (un affranchissement, no 57 ; une donation, nos 155, 216, 253 ; un échange no 317) ; qui garantissent l’exercice d’un droit (par exemple, la jouissance d’une adduction d’eau au profit du monastère de Saint-Germain d’Auxerre, no 120 ; le droit successoral d’un affranchi, no 121) ou qui reconnaissent des droits dont les titres de propriété ont disparu dans un incendie (nos 413 et 413 bis).
+La forme du pr&aelig;ceptum peut également être utilisée pour réaliser une donation royale (donation de Louis le Pieux à son fils Lothaire en 817-821, no 140) ou à la suite d’une enquête, pour confirmer une abbaye dans la propriété de biens qui lui sont contestés (nos 451 et 452). On trouve même un modèle de pr&aelig;ceptum de nomination royale d’un évêque à un siège vacant (no 517) et un autre par lequel le roi autorise un la&iuml;c à se faire tonsurer et à entrer au service de l’&Eacute;glise (no 550). Dans tous les cas, le pr&aelig;ceptum se présente comme un acte d’autorité. La formule habituelle par laquelle le roi ou l’empereur font conna&icirc;tre leur volonté est celle de pr&aelig;cipimus (de là vient pr&aelig;ceptum) et jubemus (ou decernimus atque jubemus). Le formulaire de Marculf, composé vers 650-655 peut-être par un moine de l’abbaye de Saint-Denis, contient déjà des modèles de pr&aelig;cepta (I, 5, 12, 19, 22, 33) et plusieurs dipl&ocirc;mes de Charlemagne et de Louis le Débonnaire ont été utilisés comme modèles par des collections de formulaires du IXe siècle (Rozière, nos 25, 33, 34, 35, 41, 120, 140, 155, 226, 449, 450, 451).
+Utilisé par la chancellerie franque pour désigner un type d’acte du souverain, le terme de pr&aelig;ceptum ne fut pas repris par les Capétiens. Mais, si les princes séculiers abandonnent cette terminologie, on la retrouve dans le droit canonique. Empruntant le vocabulaire de la chancellerie impériale, la papauté, au IXe siècle, qualifie de pr&aelig;cepta certaines de ses prescriptions. Telle une lettre du pape Grégoire IV de 833 (d’authenticité d’ailleurs discutée) déclarant que l’on ne peut transgresser les pr&aelig;cepta du Siège apostolique. La présence de ce texte dans deux passages du Décret de Gratien dans les Distinctiones consacrées aux sources du droit (Décret, XII, II et XIX, V) assurait à cette terminologie un long avenir. Dans le célèbre prologue de son &laquo; Décret &raquo;, l’évêque de Chartres Yves, dans les dernières années du XIe siècle, soulignait le caractère particulièrement impérieux des préceptes auxquels il n’est pas possible de déroger par une dispense. La doctrine canonique classique précise les caractères du pr&aelig;ceptum. C’est un ordre ou une injonction d’une autorité ecclésiastique qui prescrit un acte ou une abstention. &Agrave; la différence de la loi, le précepte n’a qu’une durée limitée : il prend fin avec le décès de son auteur. Les préceptes peuvent s’adresser à une personne, à plusieurs, ou à toutes (préceptes particuliers ou préceptes communs). Le Codex juris canonici de 1917 a conservé la notion de précepte (ch. XXV), entendu comme l’injonction d’une autorité ecclésiastique qui doit normalement être intimée par écrit à ceux à qui elle impose une obligation.
+
+ 
+资料来自《Encyclopaedia.Universalis.9》电子版
+
+
+________________________________________
+________________________________________
+
+
+
+93
+Les vieillards aiment à donner de bons préceptes, pour se consoler de n‘être plus en état de donner de mauvais exemples.
+21
+Les philosophes, et Sénèque surtout, n‘ont point &ocirc;té les crimes par leurs préceptes: ils n‘ont fait que les employer au b&acirc;timent de l‘orgueil.
+
+
+以préceptes全文检索电子书Maximes ; suivies des Réflexions diverses ; du Portrait de La Rochefoucault par lui-même. et des Remarques de Christine de Suède sur les Maximes / [texte établi par Jacques Truchet,...]
+
+sinovivo 2004-10-19 11:58:17
+乱码，又见乱码！再骂一次，天涯论坛的程序代码写得真烂。^_^
+
+汉语里尔克 2004-10-19 13:36:27
+久违了哥兄！别来无恙。Gossudar向兄长问候啦。
+
+沦落天涯又相逢，小V同学好。
+
+不懂法语，但Dasha日后须懂一些——因为Rilke的法语似乎比德语还纯熟，目前只有瞻仰的份儿。买过德里达的汉译本，但没有认真读过——读过一些法国史的汉译，没读下去：Dasha宁肯抱着词典啃原文。
+
+小V，天涯的烂代码也是Dasha不来发贴的一个原因。
+
+哥尼希 2004-10-19 15:16:48
+汉兄这个才是兄长式的问候:-P
+
+日前找出了德里达名作《在法的门前》（这是他解读卡夫卡同名作品的成果）的英译。
+这一篇也有过中译的——但只能当笑话读。不仅注释全部忽略，而且很多地方意思都是满拧（比如，Kant‘s Critique of judgment似乎翻成了"康德的《正义批判》"）。
+
+如果汉兄感兴趣，还是邮件呈上。
+
+sinovivo 2004-10-19 16:04:45
+哈哈，Dasha同学好，上次和前身汉武帝打架，你躲在一旁偷偷看VIVO的笑话，此次表现还不错，顾及兄弟义气，好歹来了个友情客串。
+
+问侯哥尼希君，好像兄台无意和不通文哲，逻辑混乱的人论战，早已躲开图个清静。小V（呵呵，其实不小耶）实在无聊，就承您的余威，胡搅蛮缠了一番，希望不要见怪。呵呵
+
+汉语里尔克 2004-10-19 16:14:33
+哥兄好，Dasha目前（两个月啦）正在寻觅法国中世纪史的相关资料，汉语的是指望不上了，法语的小V同学也没有为Dasha找到，如果哥兄有什么好线索、资料，赐给Dasha些吧。z.B. Charles le Téméraire, Charles VI... 
+Dasha倒是emule了Metzler Verlag出版的Lexikon des Mittelalters。寻找相关权威的中文译名是不可能了，但那段历史在Dasha的脑袋里一片空白——出现在Die Aufzeichnungen des Malte Laurids Brigge里，Dasha目前只好终止阅读：Dasha不愿意像魏育青教授那样将“Dame à la Licorne”译成“犀牛的女人”（S.353，“处女与独角兽”，该壁毯现藏于Musée des Thermes et de l‘H&ocirc;tel de Cluny，据说是乔治桑发现的）、将“den heiligen Jean de Dieu”译成“圣约翰·德·迪”（S.362，汉语天主教里译为“天赐圣若望”，又称“圣天主若望”）……
+
+当代德语文人中，忽然喜欢上了Botho Strauss，可惜网上没有太多文本，读的少，因此没有决心（也没有精力）读纸本。哥兄如有他的，也请一并mail来。其实，Digitale Bibliothek那套光盘已经下载了90个，这些还读不完呢:-(
+
+汉语里尔克 2004-10-19 16:22:37
+天涯的烂程序：Musée des Thermes et de l‘H&ocirc;tel de Cluny应该是Musee des Thermes et de l‘Hotel de Cluny。用汉语直说吧：巴黎克吕尼博物馆（目前汉语官方称谓）。
+
+小V，Dasha是看你没在背后说坏话才又在天涯的现身的。嘿嘿。其实主要是单位“人事制度改革”后顽劣之徒Dasha得以幸存，如今又有些忘乎所以了。
+
+Cody9999 2004-10-20 08:26:49
+转一篇在他处看到的英文信(by Wang Dan, Harvard University):
+
+Dear Sir:
+
+I received your invitation asking me to write something - anything -
+on my American experience as a Letter to the Editor on the campus
+student newspaper. I‘m glad to oblige.
+
+My American experience, if I must use this vague phrase, stands no
+better chance of universality than anyone else‘s. Let me use a string
+of adjectives to express my impression of this country: vast, great,
+hilarious, childlike, exasperating, and green (the tree of nature
+as well as the tree of money). I‘m no poet and the poetic language
+applies poorly here, nor does the lyrical outpouring suit the present
+moment of the war America is waging, yet I recall the minute the 
+fatal collapse was happening in New York City, a classmate of mine,
+who grew up there, stared at the TV and murmured softly: "So farewell,
+my fairy-tale...."
+
+I‘m now at Harvard, parking myself daily inside the great Library,
+until the permit expires at midnight. I explore, I embrace, I cling
+to a piece of knowledge until I‘m assimilated into it, or until it‘s
+assimilated into me, whichever occurs earlier.
+
+Yes, I like to visit from time to time some online Chinese forums,
+for example Si Hai Zong Tan (literal translation: Four Seas Free 
+Talk). Many unexpected things have since materialized: once I found
+my Chinese name had been distorted into something absurd; at another
+time I read something attributed to me that I had never written; on
+an early morning I accessed the internet to find an old picture of
+mine, downloaded by someone else, greeting me: "Hello, Wang Dan!"
+Again and again these have appeared in the margins of my life, without
+influencing in the least its basic text.
+
+What I‘m reading now? you asked. Oh, I‘m reading a lot of textbooks
+and reference books for the degree requirement. However, I start to
+tackle James Joyce‘s Dubliners. Granted, the similarity between Dublin
+and Beijing, the city I had lived in before I came to this country,
+is about as much as the similarity between Boston and Washington, but
+I perform magic when reading. I mentally substitute Beijing hutongs
+(alleys) for the winding Dublin streets. The bawdy Dublin citizens
+become in my mind‘s eye the noisy Beijing populace. Into this 
+concluding passage of "The Dead": 
+
+"Yes, the newspapers were right: snow was general all over 
+Ireland. It was falling on every part of the dark central plain, 
+on the treeless hills, falling softly upon the Bog of Allen and, 
+farther westward, softly falling into the dark mutinous Shannon 
+waves. It was falling, too, upon every part of the lonely churchyard 
+on the hill where Michael Furey lay buried. It lay thickly drifted 
+on the crooked crosses and headstones, on the spears of the little 
+gate, on the barren thorns. His soul swooned slowly as he heard the 
+snow falling faintly through the universe and faintly falling, like 
+the descent of their last end, upon all the living and the dead."
+
+I silently insert "It was falling, further, upon every square inch
+of Tiananmen where a dream was crushed." Joyce, as an artist, would
+have hardly agreed, and here I ask for his forgiveness to tinker with
+his masterpiece; I simply can‘t help it. I‘m barred from going back 
+to China now, but I‘m hopefully planning to visit Beijing in 2008
+to watch the Olympic Games.
+
+The English language I have been trying my best to master. By degrees
+I begin to appreciate the loving caress Shakespeare rendered on every
+word he wrote, when words were still the young daughters of the Earth.
+They are still the young daughters of the Earth.
+
+However I‘m far from at home with the adopted language. Flaubert once
+quipped, "Whenever I see someone write a bad sentence, I reach for
+my gun." Don‘t shoot me though: I‘ve done my best.
+
+A faithful reader of your newspaper I remain,
+
+Wang Dan
+
+哥尼希 2004-10-20 16:46:19
+汉兄，
+
+从前潦草地看过那部马尔特札记，不记得其中有多少涉及“法国中世纪”的地方了（可能还没有谈到俄国的东西多？）。汉兄的彻底性真让人佩服（和愧怍）。
+按我自己潦草的意见，要确定这些译名，可能倒用不着搜罗太广；以您举出的例子来看，网上大都能找到相关的事迹，作为译文的背景资料大概足够了。如果我们能够下这样一个判断：这若干处译名对于全书主题的份量并不太重——那么译、注的深度，达到主流百科全书词条的水平（而不是相关领域专著的水准）我看就可以的。从这个角度看，大家不难找到的一些工具书（如britannica、encarta之类）也许就能胜任。
+
+Botho Strauss...只见过该人一部剧作的英译。要是汉兄想看，回头一定邮件奉上。
+
+海阔天空我自飞 2004-10-20 17:15:05
+如果将哲学定义为“澄清概念”（分析哲学的传统）的话，德里达、德勒兹等后现代大师的确不是这个传统意义上的哲学家。不过德勒兹是将哲学定义为“增殖（创造）”概念，是把简单的实在“陌生化”的过程，那奎因等反倒不是哲学家了。
+我觉得把德里达看作哲理文学家比较好，因为文学的功能就是“陌生化”，奎因等不承认他是哲学家是有道理的。
+
+愤怒与童女之舞 2004-10-20 17:31:55
+语法课....汗
+

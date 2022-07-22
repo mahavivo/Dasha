@@ -1,0 +1,36 @@
+Dasha 2006-3-20 11:43:22
+
+Gutenberg-DE的在线阅读与Gutenberg-DE Edition 8 DVD-ROM的下载Gutenberg，德国人，欧洲印刷术的发明者。欧洲的大规模文化传播，皆赖其印刷术，因此，在欧洲人的眼中，Gutenberg乃伟大的传递文明薪火的英雄、神衹。
+
+
+
+Gutenberg-DE的在线阅读地址：http://gutenberg.spiegel.de/
+
+傻按：http://www.spiegel.de/就是赫赫有名的德国新闻媒体《镜报》的官方网站。
+
+
+
+Gutenberg-DE计划收存超过版权保护期的全部德文作品，尽管目前仍有大量“noch nicht vollstaendig”（未完成）电子化作品，尽管HTML文档导致许多细节尚需谨慎，但对于欲广泛了解德语文化的人来说，应该是十分便利的。至少Dasha在这里找到了《尼伯龙人之歌》的部分MHD原文。Das Nibelungenlied，大陆旧译“尼伯龙根之歌”，实不通德文文法的误译，安书祉重译此史诗时有详尽说明；MHD＝Mittelhochdeutsch＝中古高地德语，是Das Nibelunggenlied最初的书写文字，而后我们见到的，乃Karl Simrock等后人译写成现代德语的文本。Dasha由此想起《成长的烦恼》（Growing Pains）里Mike说Carol：她在把莎士比亚翻译成英文。
+
+
+
+就像CX有许多图书可以在线阅读而我们许多人仍不辞劳苦将其下载到硬盘上一样，胸襟广大的Gutenberg-DE也主动提供了相应的DVD-ROM，目前最新版本是Die Gutenberg-DE Edition 9，价钱并不贵，只30,00Euro。可惜，身在中国大陆的Dasha，买大陆以外出版的图书必须托人而且极其吃力；花30,00Euro对欧盟的人而言，相当于月入3000圆人民币的中国人花30圆，但对赚人民币买欧元的中国人来说，至少是300圆人民币，因此，Dasha寻觅良久，终于觅得Gutenberg-DE上一版Gutenberg-DE Edition 8 DVD-ROM的下载，地址是：
+
+
+
+Die Gutenberg-DE Edition 8 (DVD-ROM).rar (700.45 MB)$('ed2k_uoz').innerHTML=htmlspecialchars(unescape(decodeURIComponent('Die%20Gutenberg-DE%20Edition%208%20(DVD-ROM).rar')))+' (700.45 MB)';
+
+
+
+需用eMule下载，RAR大小约700 MB，解压缩密码：www.goldesel.6x.to
+
+光盘运行起来很方便，作品查找是按作者排列的，可惜没有全文检索。不过，既然是HTML文件，且保存在电脑里，相应的全文检索至少Windows就自带啦  
+
+
+
+附图是Gutenberg-DE Edition 8 DVD-ROM光盘自动运行后的画面
+
+pilger 2007-4-22 21:59:35
+
+Danke.
+

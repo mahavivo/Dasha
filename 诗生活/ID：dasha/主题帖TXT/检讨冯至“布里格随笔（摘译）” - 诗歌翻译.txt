@@ -1,0 +1,2088 @@
+Dasha 2006-12-18 17:22:51
+
+检讨冯至“布里格随笔（摘译）”<html>
+
+
+
+<head>
+
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+
+<meta name=Generator content="Microsoft Word 11 (filtered)">
+
+<title>检讨冯至“布里格随笔（摘译）”</title>
+
+
+
+<style>
+
+<!--
+
+ /* Font Definitions */
+
+ @font-face
+
+        {font-family:宋体;
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;}
+
+@font-face
+
+        {font-family:"\@宋体";
+
+        panose-1:2 1 6 0 3 1 1 1 1 1;}
+
+ /* Style Definitions */
+
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+        {margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        text-align:justify;
+
+        text-justify:inter-ideograph;
+
+        font-size:10.5pt;
+
+        font-family:"Times New Roman";}
+
+h1
+
+        {margin-top:17.0pt;
+
+        margin-right:0cm;
+
+        margin-bottom:16.5pt;
+
+        margin-left:0cm;
+
+        text-align:justify;
+
+        text-justify:inter-ideograph;
+
+        line-height:240%;
+
+        page-break-after:avoid;
+
+        font-size:22.0pt;
+
+        font-family:"Times New Roman";}
+
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText
+
+        {margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        layout-grid-mode:char;
+
+        font-size:9.0pt;
+
+        font-family:"Times New Roman";}
+
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+
+        {margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        text-align:center;
+
+        layout-grid-mode:char;
+
+        border:none;
+
+        padding:0cm;
+
+        font-size:9.0pt;
+
+        font-family:"Times New Roman";}
+
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+
+        {margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        layout-grid-mode:char;
+
+        font-size:9.0pt;
+
+        font-family:"Times New Roman";}
+
+span.MsoFootnoteReference
+
+        {vertical-align:super;}
+
+a:link, span.MsoHyperlink
+
+        {color:blue;
+
+        text-decoration:underline;}
+
+a:visited, span.MsoHyperlinkFollowed
+
+        {color:purple;
+
+        text-decoration:underline;}
+
+p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap
+
+        {margin:0cm;
+
+        margin-bottom:.0001pt;
+
+        text-align:justify;
+
+        text-justify:inter-ideograph;
+
+        background:navy;
+
+        font-size:10.5pt;
+
+        font-family:"Times New Roman";}
+
+ /* Page Definitions */
+
+ @page Section1
+
+        {size:595.3pt 841.9pt;
+
+        margin:72.0pt 89.85pt 72.0pt 89.85pt;
+
+        layout-grid:15.6pt;}
+
+div.Section1
+
+        {page:Section1;}
+
+-->
+
+</style>
+
+
+
+</head>
+
+
+
+<body lang=ZH-CN link=blue vlink=purple style='text-justify-trim:punctuation'>
+
+
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体'>终于，在大致将《马尔特·劳里德斯·布里格》（</span><span
+
+lang=EN-US>Die Aufzeichnungen des Malte Laurids Brigge</span><span
+
+style='font-family:宋体'>）通读了几遍之后，再次细读，不放过任何一丝能够发现的疑义，终于又读到了第</span><span
+
+lang=EN-US>14</span><span style='font-family:宋体'>章，那经典的关于诗的省思“</span><span
+
+lang=EN-US>Um eines Verses willen</span><span style='font-family:宋体'>”段。这一段，前有梁宗岱写给徐志摩信中诗情奔溢的译文，后有冯至《给一个青年诗人的十封信》中两章（</span><span
+
+lang=EN-US>Kpatiel 14</span><span style='font-family:宋体'>、</span><span
+
+lang=EN-US>16</span><span style='font-family:宋体'>）节译的辞采飞扬。珠玉在前，自然要学而时习之的。此后迤逦三十余年，方有程抱一在《和亚丁谈里尔克》里的节译，方瑜的全译，而此二种，恐怕在汉语境遇内影响甚微。冯被目为将里尔克引入汉语的第一人，影响力自不待言，且冯</span><span
+
+lang=EN-US>1933</span><span style='font-family:宋体'>年曾“商定博士论文题目为里尔克的《布里格随笔》做毕业论文，并做大量准备，写出论文提纲……”（《冯至全集》，冯至著；韩耀成等编</span><span
+
+lang=EN-US>. </span><span style='font-family:宋体'>石家庄：河北教育出版社，</span><span
+
+lang=EN-US>1999. 12</span><span style='font-family:宋体'>，第十二卷，</span><span
+
+lang=EN-US>639</span><span style='font-family:宋体'>页，《冯至年谱》），因此，恭录北京三联书店</span><span
+
+lang=EN-US>1994</span><span style='font-family:宋体'>年版《给一个青年诗人的十封信》之译文，细细研读。</span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体'>需要说明的是：一、</span><span
+
+lang=EN-US>Dasha</span><span style='font-family:宋体'>的德语尚在学习中、汉语亦需更加修为，如下检讨，止</span><span
+
+lang=EN-US>Dasha</span><span style='font-family:宋体'>自己的读书笔记，止欲与同道交流耳。二、德语原文，据</span><span
+
+lang=EN-US>DTV1997</span><span style='font-family:宋体'>年翻印</span><span
+
+lang=EN-US>1910</span><span style='font-family:宋体'>年初版的《马尔特&#8226;劳里德斯&#8226;布里格手记》（</span><span
+
+lang=EN-US>Rainer Maria Rilke: <a
+
+href="http://www.dtv.de/dtv.cfm?wohin=dtvnr2619">Die Aufzeichnungen des Malte
+
+Laurids Brigge</a>. Leipzig 1910. Herausgegeben von Joseph Kiermeier-Debre. München:
+
+Deutscher Taschenbuch Verlag, Originalausgabe Juni 1997</span><span
+
+style='font-family:宋体'>），以期与冯所见版本一致（但冯极有可能据其</span><span lang=EN-US>1931</span><span
+
+style='font-family:宋体'>年购买的六卷本《里尔克全集》翻译，而</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>手中所有的是</span><span lang=EN-US>1992</span><span
+
+style='font-family:宋体'>年七卷本“全集”，如此啰嗦，是因为第</span><span lang=EN-US>14</span><span
+
+style='font-family:宋体'>章章最后一句“</span><span lang=EN-US>das wird das Ende sein</span><span
+
+style='font-family:宋体'>”句末的标点在七卷本全集等诸多版本中作“</span><span lang=EN-US>:</span><span
+
+style='font-family:宋体'>”，在</span><span lang=EN-US>Leipig1910</span><span
+
+style='font-family:宋体'>单行本、</span><span lang=EN-US>Kommentierte Ausgabe in vier
+
+B&auml;nden</span><span style='font-family:宋体'>等版本中作“</span><span lang=EN-US>.</span><span
+
+style='font-family:宋体'>”。个人以为，标点不同，意义也不同。“</span><span lang=EN-US>:</span><span
+
+style='font-family:宋体'>”者，似乎可译为“这将是他写下的结尾”，以引出下一章；“</span><span lang=EN-US>.</span><span
+
+style='font-family:宋体'>”者，当理解作“这（写作）就是他的归宿”。此处，</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>采用</span><span lang=EN-US>Manfred Engel</span><span
+
+style='font-family:宋体'>的考据，用句号）。三、冯至摘译，译于</span><span lang=EN-US>1932</span><span
+
+style='font-family:宋体'>年（</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>所据三联</span><span lang=EN-US>1994</span><span
+
+style='font-family:宋体'>年版《给一个青年诗人的十封信》的冯至</span><span
+
+ lang=EN-US>1991</span><span style='font-family:宋体'>年</span><span lang=EN-US>12</span><span
+
+ style='font-family:宋体'>月</span><span lang=EN-US>4</span><span
+
+ style='font-family:宋体'>日</span><span style='font-family:宋体'>“重印前言”称“……是译者译完了《十封信》后在</span><span
+
+lang=EN-US>1902</span><span style='font-family:宋体'>年（傻按：冯至生于</span><span
+
+lang=EN-US>1905</span><span style='font-family:宋体'>年）翻译的，曾先后在《沉钟》半月刊上发表过。”考《冯至全集》第十二卷《冯至年谱》，“摘译”当发表在</span><span
+
+lang=EN-US>1932</span><span style='font-family:宋体'>年</span><span lang=EN-US>10</span><span
+
+style='font-family:宋体'>月《沉钟》第十四期，全集正文亦已改成“</span><span lang=EN-US>1932</span><span
+
+style='font-family:宋体'>”。据此“年谱”，</span><span lang=EN-US>1934</span><span
+
+style='font-family:宋体'>年冯犹有“布里格随笔”摘译，发表于是年</span><span lang=EN-US>1</span><span
+
+style='font-family:宋体'>月《沉钟》第三十二期，内容待考——十二卷本《冯至全集》只有此两篇摘译。上海文艺出版社</span><span
+
+lang=EN-US>1979</span><span style='font-family:宋体'>年出版的《中国现代文艺资料丛刊》第四辑，佳风辑《〈浅草〉季刊、〈沉钟〉周刊、半月刊总目》，“第三十二期”目录为“待补”。似乎上海书店</span><span
+
+lang=EN-US>1993</span><span style='font-family:宋体'>年曾有</span><span lang=EN-US>2</span><span
+
+style='font-family:宋体'>册影印本《沉钟》合刊出版）。</span><span lang=EN-US>1932</span><span
+
+style='font-family:宋体'>年至今已</span><span lang=EN-US>70</span><span
+
+style='font-family:宋体'>余年，现代汉语的语言也变化很多，由于</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>对那个时代的语言的认识局限，一些问题可能因此错认或者忽略。比如：第</span><span
+
+lang=EN-US>16</span><span style='font-family:宋体'>章有“</span><span lang=EN-US>Gerade
+
+der Dichter ist es, der ich h&auml;tte werden wollen</span><span style='font-family:
+
+宋体'>”句，冯译“正是这个诗人，应该是我所要向往的”，</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>读后的试译文字则是“这就是我原本渴望成为的诗人”（按冯的句式：正是这样的诗人，是我原本渴望成为的），此时，“</span><span
+
+lang=EN-US>nur nach dem Buchstaben</span><span style='font-family:宋体'>”的</span><span
+
+lang=EN-US>Dasha</span><span style='font-family:宋体'>，自己也已懵然。</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>我认为，现在因为我学习观看，我必须起始做一些工作</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Ich glaube, ich mü&szlig;te anfangen,
+
+etwas zu arbeiten, jetzt, da ich sehen lerne.</span><span style='font-family:
+
+宋体'>”“</span><span lang=EN-US>da</span><span style='font-family:宋体'>”在此处做连词，表时间还是表原因，还有待咨询德国人。但是，细看“</span><span
+
+lang=EN-US>da</span><span style='font-family:宋体'>”所带从句前有“</span><span
+
+lang=EN-US>jetzt</span><span style='font-family:宋体'>”，</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>更倾向于时间，里氏此小说中的类似用法，比如“</span><span lang=EN-US>nun aber,
+
+da sie ihn konnten</span><span style='font-family:宋体'>”（</span><span
+
+lang=EN-US>Kapitel 55</span><span style='font-family:宋体'>），荷尔德林类似用法，比如标题为“</span><span
+
+lang=EN-US>Da ich ein Knabe war...</span><span style='font-family:宋体'>”的诗</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。我二十八岁了，等于什么也没有做过。我们数一数：我写过一篇卡尔巴西奥研究，可是很坏；一部叫作《夫妇》的戏剧</span></b><span
+
+lang=EN-US>Ehe</span><span style='font-family:宋体'>，格林词典解作“</span><span
+
+lang=EN-US>matrimonium</span><span style='font-family:宋体'>”，</span><span
+
+lang=EN-US>Duden</span><span style='font-family:宋体'>大词典的解释也大抵是“</span><span
+
+lang=EN-US>gesetzlich [u. kirchlich] anerkannte Lebensgemeinschaft von Mann u.
+
+Frau</span><span style='font-family:宋体'>”，“婚姻”意，并无“夫妇”一项，汉语夫妇对应的德语似乎是“</span><span
+
+lang=EN-US>Ehepaar</span><span style='font-family:宋体'>”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，用模棱两可的方法</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>mit zweideutigen Mitteln</span><span
+
+style='font-family:宋体'>”，待考，似乎“模棱两可”并未准确表述</span><b><span style='font-size:
+
+16.0pt;font-family:宋体'>里氏的措辞证明一些虚伪的事；还写过诗。啊，说到诗：是不会有什么成绩的，如果写得太早了。我们应该一生之久，尽可能那样久地去等待，采集真意与精华，最后或许能写出十行好诗。因为诗并不象一般人所说的是情感（情感人们早就很够了），——诗是经验。为了一首诗</span></b><span
+
+style='font-family:宋体'>此上冯汉译的“诗”，德语均“</span><span lang=EN-US>Vers</span><span
+
+style='font-family:宋体'>”，而非“</span><span lang=EN-US>Gedicht</span><span
+
+style='font-family:宋体'>”，“</span><span lang=EN-US>Vers</span><span
+
+style='font-family:宋体'>”，格林词典的解释是：“</span><span lang=EN-US>metrisch gegliederte
+
+satzreihe, mhd. vers, ahd. fers, ags. fers, f&aelig;rs, fyrs kommt vom lat. versus,
+
+eigentlich das umdrehen des pfluges, die furche, dann linie, zeile. im
+
+deutschen ist es durchaus schon die rhythmisch gegliederte zeile. der bibelvers
+
+allein wird, wenn er auch nicht streng genommen hierher geh&ouml;rt, doch als
+
+rhythmisch aufgefaszt. das geschlecht schwankt im ahd., neutr. neben masc.</span><span
+
+style='font-family:宋体'>”此外，前面的“</span><span lang=EN-US>zehn Zeilen</span><span
+
+style='font-family:宋体'>”已译作“十行（好）诗”，此段最后的“</span><span lang=EN-US>das erste
+
+Wort eines Verses</span><span style='font-family:宋体'>”也译作了“一行诗的第一个字”，这“</span><span
+
+lang=EN-US>Um eines Verses willen</span><span style='font-family:宋体'>”似乎译作“一行诗”更准确——亦更能体现里氏师心罗丹勤奋工作的本意：“</span><span
+
+lang=EN-US>'Leben, Geduld haben, arbeiten und keinen Anla&szlig; zur Freude
+
+vers&auml;umen.</span><span style='font-family:宋体'>”冯至后来写过《工作而等待》一文，也应该源出于此</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>我们必须观看许多城市，观看人和物，我们必须认识动物，我们必须去感觉鸟怎样飞翔，知道小小的花朵在早晨开放时的姿态。我们必须能够回想：异乡的路途</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>unbekannten Gegenden</span><span
+
+style='font-family:宋体'>”直译是“不熟悉的地区”；“异乡”，犹“</span><span lang=EN-US>Fremde</span><span
+
+style='font-family:宋体'>”</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>，不期的相遇，逐渐临近的别离</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>Abschiede, die man lange kommen sah</span><span style='font-family:
+
+宋体'>”，直译是“我们早已看见</span><span lang=EN-US>die</span><span style='font-family:
+
+宋体'>（别离）来临的别离”</span><b><span style='font-size:16.0pt;font-family:宋体'>；——回想那还不清楚的童年的岁月；想到父母，如果他们给我们一种欢乐，我们并不理解他们此处</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>wenn</span><span
+
+style='font-family:宋体'>”，似乎译条件“如果”不妥，似乎是时间状语从句“当……时”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，不得不使他们苦恼</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>kr&auml;nken</span><span
+
+style='font-family:宋体'>”，格林词典释义“</span><span lang=EN-US>krank machen, mhd.
+
+krenken in derselben vielseitigkeit wie kranc, die sich nhd. theilweis lange
+
+erhielt. nl. krenken. </span><span style='font-family:宋体'>”，“</span><span
+
+lang=EN-US>krank</span><span style='font-family:宋体'>”则是“</span><span
+
+lang=EN-US>infirmus, aegrotus, comp. kr&auml;nker.</span><span style='font-family:
+
+宋体'>”，不是“苦恼”，是“情感上的伤害”</span><b><span style='font-size:16.0pt;font-family:宋体'>（那是一种对于另外一个人的快乐）；想到儿童的疾病，病状离奇地发作，这么多深沉的变化；想到寂静、沉闷的小屋内的白昼和海滨的早晨，想到海的一般</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>an das Meer überhaupt</span><span
+
+style='font-family:宋体'>”根据前文改写成完整句大抵为“</span><span lang=EN-US>Man mu&szlig; zurückdenken
+
+k&ouml;nnen an das Meer überhaupt</span><span style='font-family:宋体'>”，“我们尤其要能够回想起海”，如果形容词在名词后起修饰作用，当有格变化，这里的“</span><span
+
+lang=EN-US>überhaupt</span><span style='font-family:宋体'>”应该写成“</span><span
+
+lang=EN-US>überhaupts</span><span style='font-family:宋体'>”。此外，“</span><span
+
+lang=EN-US>überhaupt</span><span style='font-family:宋体'>”是“</span><span
+
+lang=EN-US>über+haupt</span><span style='font-family:宋体'>”（“在……上方”</span><span
+
+lang=EN-US>[</span><span style='font-family:宋体'>超越</span><span lang=EN-US>]+</span><span
+
+style='font-family:宋体'>“脑袋”），不是“一般”，而是“超出头顶”</span><b><span style='font-size:
+
+16.0pt;font-family:宋体'>，想到许多的海</span></b><span lang=EN-US>Meere</span><span
+
+style='font-family:宋体'>，刻意与前句的“</span><span lang=EN-US>Meer</span><span
+
+style='font-family:宋体'>”区分单复数，很值得学习</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，想到旅途之夜，在这些夜里万籁齐鸣，群星飞舞</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>Reisen&auml;chte, die hoch dahinrauschten und mit allen Sternen flogen</span><span
+
+style='font-family:宋体'>”，拆解成两个单句是“</span><span lang=EN-US>die Reisen&auml;chte
+
+rauschten hoch dahin</span><span style='font-family:宋体'>”和“</span><span
+
+lang=EN-US>die Reisen&auml;chte flogen mit allen Sternen</span><span
+
+style='font-family:宋体'>”，汉语直译是“旅夜在高处飒飒作响”和“旅夜和所有星星一起飞行”，尤其是（</span><span
+
+lang=EN-US>überhaupt</span><span style='font-family:宋体'>）后一句，与王子安“落霞与孤鹜齐飞”句式颇似</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，——可是这还不够，如果这一切都能想得到。我们必须回忆许多爱情的夜</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Liebesnacht</span><span
+
+style='font-family:宋体'>”，格林词典无释义但有例句（诗），全诗理解，与</span><span lang=EN-US>Duden</span><span
+
+style='font-family:宋体'>大词典解释一致“</span><span lang=EN-US>(geh.): Nacht, in der
+
+man sich liebt(2)</span><span style='font-family:宋体'>”，</span><span lang=EN-US>lieben(2)</span><span
+
+style='font-family:宋体'>是“</span><span lang=EN-US>mit jmdm. Geschlechtsverkehr
+
+haben</span><span style='font-family:宋体'>”，汉语雅则“销魂夜”、俗则“做爱之夜”里尔克后文</span><span
+
+lang=EN-US>Kaptiel22</span><span style='font-family:宋体'>尚有此词“</span><span
+
+lang=EN-US>ihn zu erw&auml;rmen mit der Herzw&auml;rme der Liebesn&auml;chte</span><span
+
+style='font-family:宋体'>”</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>，一夜与一夜不同，要记住分娩者痛苦的呼喊和轻轻睡眠着</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>leichte, wei&szlig;e, schlafende W&ouml;chnerinnen</span><span
+
+style='font-family:宋体'>”，轻轻（</span><span lang=EN-US>leicht</span><span
+
+style='font-family:宋体'>，轻悄、轻松……）修饰的主词是“产妇”，而非“睡眠”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>、翕止</span></b><span style='font-family:
+
+宋体'>汉语犹无旧例，似可理解为“合羽</span><span lang=EN-US>=</span><span style='font-family:
+
+宋体'>关闭”</span><span lang=EN-US>+</span><span style='font-family:宋体'>“停止”，德语“</span><span
+
+lang=EN-US>die sich schlie&szlig;en</span><span style='font-family:宋体'>”，确实省略了不少东西，“</span><span
+
+lang=EN-US>schlie&szlig;en</span><span style='font-family:宋体'>”确实有“关闭”、“停止活动”意，但全句来看，</span><span
+
+lang=EN-US>Dasha</span><span style='font-family:宋体'>更相信此处表达的是“（产妇）伤口愈合”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>了的白衣</span></b> <span style='font-family:
+
+宋体'>“</span><span lang=EN-US>in wei&szlig;</span><span style='font-family:宋体'>”犹为“衣白衣”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>产妇。但是我们还要陪伴过临死的人，坐在死者的身边，在窗子开着的小屋里有些突如其来的</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>sto&szlig;weise</span><span
+
+style='font-family:宋体'>”，冯至最后修订译文时也许未能看到的十卷本《杜登大词典》（</span><span lang=EN-US>Duden.
+
+Das gro&szlig;e W&ouml;rterbuch der deutschen Sprache. in 10 B&auml;nden. von Bibliographisches
+
+Institut, Mannheim</span><span style='font-family:宋体'>）里，此词条的释文收有里尔克“布里格手记”下一章即第</span><span
+
+lang=EN-US>15</span><span style='font-family:宋体'>章的引文“</span><span lang=EN-US>trotzdem
+
+ich mich auf alle m&ouml;gliche Weise anstrengte, ernst zu sein, kam das Lachen s.
+
+immer wieder (Rilke, Brigge 26)</span><span style='font-family:宋体'>”，两处的用法是一致的：“</span><span
+
+lang=EN-US>in St&ouml;&szlig;en (4); in Abst&auml;nden ruckartig einsetzend u. nach kurzer Zeit
+
+wieder abebbend, schw&auml;cher werdend</span><span style='font-family:宋体'>”（时断时续，“</span><span
+
+lang=EN-US>St&ouml;&szlig;en (4)</span><span style='font-family:宋体'>”释文从略，据</span><span
+
+lang=EN-US>Duden. <a
+
+href="http://www.duden.de/produkte/detail.php?isbn=3-411-06448-X">Das gro&szlig;e
+
+W&ouml;rterbuch der deutschen Sprache in 10 B&auml;nden</a> auf CDROM. von HMH Hamburger
+
+Medien Haus</span><span style='font-family:宋体'>）</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>声息。我们有回忆，也还不够。如果回忆很多，我们必须能够忘记，我们要有大的忍耐力等着它们再来。因为只是回忆还不算数。等到它们成为我们身内的血、我们的目光和姿态，无名地和我们自己再也不能区分，那才能以实现，在一个很稀有的时刻有一行诗的第一个字在它们的中心形成，脱颖而出</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>aufsteht in ihrer Mitte und aus
+
+ihnen ausgeht</span><span style='font-family:宋体'>”，“脱颖而出”（</span><span
+
+lang=EN-US>aus ihnen ausgeht</span><span style='font-family:宋体'>，从它们</span><span
+
+lang=EN-US>[</span><span style='font-family:宋体'>回忆</span><span lang=EN-US>]</span><span
+
+style='font-family:宋体'>里走出</span><span lang=EN-US>[</span><span
+
+style='font-family:宋体'>发出</span><span lang=EN-US>]</span><span
+
+style='font-family:宋体'>）犹可推敲一下</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>但是我的诗都不是这样写成的，所以它们都不是诗</span></b><span
+
+style='font-family:宋体'>将“</span><span lang=EN-US>keine</span><span
+
+style='font-family:宋体'>”具体译出，“没有一首”，似乎更好</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>。——而且我写我的戏剧时，我是多么错误。我是一个模拟者和愚人吗？为了述说彼此制造不幸的两个人的命运，我就需要一个第三者。我是多么容易陷入这样的阱中。我早就应当知道，这个走遍一切生活和文艺</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Literatur</span><span
+
+style='font-family:宋体'>”，如今译作“文学”，“文艺”在汉德词典里大抵是“</span><span lang=EN-US>Literatur
+
+und Kunst</span><span style='font-family:宋体'>”</span><b><span style='font-size:
+
+16.0pt;font-family:宋体'>的第三者，这个从来不曾存在过的第三者的幽灵，毫无意义，我们必须拒绝他。他属于这种天性的托词，这天性总在设法不让人们注意它最深处的秘密</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Natur</span><span
+
+style='font-family:宋体'>”，是一个含义广泛的德语名词，除了指人和物的本性外，尚有“自然”（天）之意；上一段“</span><span
+
+lang=EN-US>wie die Leute meinen</span><span style='font-family:宋体'>”将“</span><span
+
+lang=EN-US>die Leute</span><span style='font-family:宋体'>”的“一般”性强调出来，此处却忽略了“</span><span
+
+lang=EN-US>der Mensch</span><span style='font-family:宋体'>”（人、人类）与“</span><span
+
+lang=EN-US>Natur</span><span style='font-family:宋体'>”（自然、天）的比对</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。他是一扇屏风，屏风后串演着一出戏剧。他是一片喧嚣，在那走入一种真实冲突的无声寂静的门口。人们愿意</span></b><span
+
+lang=EN-US>m&ouml;gen</span><b><span style='font-size:16.0pt;font-family:宋体'>这样想，只去说剧中主要的两个人</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>von den Zweien zu reden, um die
+
+es sich handelt</span><span style='font-family:宋体'>”，“只去说”的“只”，原文找不到对应情态；“</span><span
+
+lang=EN-US>handeln</span><span style='font-family:宋体'>”作反身动词时，有固定用法“</span><span
+
+lang=EN-US>die es handelt sich um jmdm. [etw.]</span><span style='font-family:
+
+宋体'>”，意为“涉及、关系到”，“剧中主要的两个人”的直译当为“互相关联的‘二人’”（“</span><span lang=EN-US>Dritte</span><span
+
+style='font-family:宋体'>”强调了序数词“第三”，“</span><span lang=EN-US>Zwei</span><span
+
+style='font-family:宋体'>”似也当注意其基数词“二”）</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，对于大家一向是太难了；这个第三者，正因为他不真实，所以是问题</span></b><span lang=EN-US>Aufgabe</span><span
+
+style='font-family:宋体'>译成“问题”，似乎远了些</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>中容易的部分，人人能应付他。在他们戏剧的开端我们就觉察到对于第三者的焦急情绪，他们几乎不能多等一等。他一来到，一切就好了。他若是迟到，那有多么无聊呢，没有他简直什么事也不能发生，一切都停滞着，等待着</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>alles steht, stockt, wartet</span><span
+
+style='font-family:宋体'>”，三个动词，被略去一个</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>。那可怎么办呢，如果只停留在这种僵止和延宕的情况下？那可怎么办呢，戏剧家先生，还有你认识生活的观众，那可怎么办呢，如果他不见了，这个讨人喜欢的生活享受者</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Lebemann</span><span
+
+style='font-family:宋体'>”在</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典里，释义是“</span><span lang=EN-US>der sein leben genieszt,
+
+ein leben zu führen versteht; ein neueres, vor G&Ouml;THE nicht nachzuweisendes wort</span><span
+
+style='font-family:宋体'>”，可能算语焉不详，到了现代，</span><span lang=EN-US>Duden</span><span
+
+style='font-family:宋体'>大词典则是“</span><span lang=EN-US> [1794 von dem dt.
+
+Schriftsteller E. Langbein (1757-1835) erstmals für Bonvivant u. frz. viveur
+
+gebraucht] (abwertend): eleganter, reicher Mann, der im Luxus lebt u. dem
+
+sinnlichen Genuss ergeben ist</span><span style='font-family:宋体'>”，现代汉语名之为“纨绔子弟、花花公子”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，或是这傲慢的年轻人，他适应</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>schlie&szlig;en</span><span
+
+style='font-family:宋体'>”，尽管在</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典里有“</span><span lang=EN-US>form und herkunft</span><span
+
+style='font-family:宋体'>”义，但作为不及物动词，跟在“</span><span lang=EN-US>Schlüssel</span><span
+
+style='font-family:宋体'>”后，表示“钥匙打得开（锁）”；德语此词充满歧义，既有“锁闭”又有“解锁”意</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>在一切夫妇</span></b><span style='font-family:
+
+宋体'>同前，亦当为“婚姻”</span><b><span style='font-size:16.0pt;font-family:宋体'>的锁中有如一把假配的钥匙</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Nachschlüssel</span><span
+
+style='font-family:宋体'>”，</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典：“</span><span lang=EN-US>clavis adulterina STIELER
+
+1846. </span><span lang=DE>ZEDLER 23, 234b: dieteriche und nachschlüssel haben
+
+helt man für ein unerbar und unredlich ding. COLERUS &ouml;con. 8; wie er seinem
+
+vater durch einen nachschlüssel bei das geld kommen w&auml;re. maulaffe 31; so hatte
+
+er .. die schlussel in wachs abgedrucket, nachschlüssel gemacht und so dann zu
+
+stehlen sich gar gute gelegenheit erworben. 175.</span><span style='font-family:
+
+宋体'>”在</span><span lang=DE>Duden</span><span style='font-family:宋体'>大词典里直观的解释是“</span><span
+
+lang=DE>Schlüssel, der einem anderen [ohne Erlaubnis, heimlich] nachgearbeitet
+
+worden ist</span><span style='font-family:宋体'>”，即“没有经过许可私下配制的钥匙”，“万能钥匙”，但有“非法”含意；冯译“假配”，汉语中</span><span
+
+lang=DE>Dasha</span><span style='font-family:宋体'>没有找到相关书面释义”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>？</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>怎么办呢</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>假如魔鬼把他带走了</span></b><span
+
+style='font-family:宋体'>省略了</span><span style='font-family:宋体'>“</span><span
+
+lang=DE>zum Beispiel</span><span style='font-family:宋体'>”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>？</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>我们这样假设。我们忽然觉察到剧院里许多人为的空虚，它们象是危险的窟窿被堵塞起来，只有虫蛾从包厢的栏边</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Logenrand</span><span
+
+style='font-family:宋体'>”之“</span><span lang=EN-US>Rand</span><span
+
+style='font-family:宋体'>”，没有“栏”的含意，“栏杆”是“</span><span lang=EN-US>Gel&auml;nder</span><span
+
+style='font-family:宋体'>”等、书刊、报纸的“栏”是“</span><span lang=EN-US>Kolumme</span><span
+
+style='font-family:宋体'>”</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>穿过不稳定的空隙</span></b><span style='font-family:宋体'>实际上可以这样理解，里尔克由“空（</span><span
+
+lang=DE>k</span><span style='font-family:宋体'>ō</span><span lang=DE>ng</span><span
+
+style='font-family:宋体'>）洞”（空虚，</span><span lang=DE>Leere</span><span
+
+style='font-family:宋体'>）联想到“空（</span><span lang=DE>k</span><span
+
+style='font-family:宋体'>ò</span><span lang=DE>ng</span><span style='font-family:
+
+宋体'>）洞”（窟窿，</span><span lang=DE>Loch</span><span style='font-family:宋体'>）；“</span><span
+
+lang=DE>haltlose</span><span style='font-family:宋体'>”，是“不稳定的”，但“不稳定的空隙”不太符合汉语习惯</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。戏剧家们再也不</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>nicht mehr</span><span
+
+style='font-family:宋体'>”，译成“再（也）不”，因此想起他译“</span><span lang=EN-US>Herbsttag</span><span
+
+style='font-family:宋体'>”（秋日）时将“</span><span lang=EN-US>baut sich keines mehr</span><span
+
+style='font-family:宋体'>”译成“不必建筑”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>享受他们的别墅区。一切公家的侦探都为他们在僻远的世界</span></b><span style='font-family:
+
+宋体'>“</span><span lang=EN-US>Weltteil</span><span style='font-family:宋体'>”与“</span><span
+
+lang=EN-US>Welt</span><span style='font-family:宋体'>”是有区别的</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>去寻找那个不能缺少的人，他是戏剧内容</span></b><span
+
+style='font-family:宋体'>“</span><span lang=DE>Handlung</span><span
+
+style='font-family:宋体'>”在文学术语里意为“</span><span lang=EN-US>eine specialisierung
+
+der vorigen bedeutung ist es, wenn man technisch von der handlung eines bildes
+
+oder dichtwerks, einer fabel, eines epos, eines drama spricht</span><span
+
+style='font-family:宋体'>”（</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>），汉语对应文学术语为“情节”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>的本身。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=DE style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>可是生活在人间的</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>不是这些</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>“</span></b><b><span style='font-size:16.0pt;font-family:宋体'>第三者</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>”，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>而是两个人</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>关于这两个人本来有意想不到地那么多的事可以述说</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>但是一点还不曾说过</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>虽然他们在苦恼</span></b><span
+
+style='font-family:宋体'>“</span><span lang=DE>leiden</span><span
+
+style='font-family:宋体'>”，犹可商榷</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>在动作</span></b><span
+
+style='font-family:宋体'>“</span><span lang=DE>handeln</span><span
+
+style='font-family:宋体'>”，犹可商榷</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>而不能自救</span></b><span
+
+style='font-family:宋体'>“</span><span lang=DE>sich nicht zu helfen wissen</span><span
+
+style='font-family:宋体'>”似乎是词组：“</span><span lang=DE>sich (nicht) zu helfen
+
+wissen</span><span style='font-family:宋体'>”或“</span><span lang=DE>sich nicht
+
+(mehr) zu helfen wissen</span><span style='font-family:宋体'>”，汉语大意是“不知所措”、“一筹莫展”；此外“</span><span
+
+lang=DE>sich</span><span style='font-family:宋体'>”</span><span style='font-family:
+
+宋体'>尚有</span><span style='font-family:宋体'>“</span><span lang=DE>bei
+
+pluralischem subject kann sich die bedeutung von 'einander' annehmen</span><span
+
+style='font-family:宋体'>”（</span><span lang=DE>Grimm</span><span
+
+style='font-family:宋体'>），即复数时有“相互”义</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=DE style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可笑的。我在这儿坐在我的小屋里，我，布里格，已经是二十八岁了，没有人知道我这个人。我坐在这里，我是虚无</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>nichts</span><span
+
+style='font-family:宋体'>”或者“</span><span lang=EN-US>Nichts</span><span
+
+style='font-family:宋体'>”，虽然有哲学上的意味</span> <span style='font-family:宋体'>“虚无”（</span><span
+
+lang=EN-US>absolutes Nichtsein</span><span style='font-family:宋体'>），用在人的身上也有贬义（</span><span
+
+lang=EN-US>abwertend</span><span style='font-family:宋体'>）“</span><span
+
+lang=EN-US>Mensch, der keinerlei Achtung genie&szlig;t, den keiner respektiert, der
+
+keine soziale Stellung hat o. &Auml;</span><span style='font-family:宋体'>”，汉语目前口语大抵是“任嘛不是”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。然而这个虚无开始想了，在五层楼上</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>fünf Treppen hoch</span><span
+
+style='font-family:宋体'>”＝汉语语境中为“六楼”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，一个灰色的巴黎的下午，它得出这样的思想：</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可能的吗，它想，人们还不曾看见过、认识过、说出过真实的与重要的事物？这是可能的吗，人们已经有了几千年的时间去观看、沉思、记载，而他们让这几千年过去了象是学校里休息的时间，在这时间内吃了一块黄油面包和一个苹果？</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>是的，这是可能的。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可能的吗，人们虽然有许多发明和进步，虽然有文化、宗教和智慧</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Weltweisheit</span><span
+
+style='font-family:宋体'>”并非“</span><span lang=EN-US>Weisheit</span><span
+
+style='font-family:宋体'>”（智慧），此处似乎更具有哲学意味。关于“</span><span lang=EN-US>Weltweisheit</span><span
+
+style='font-family:宋体'>”，文德尔班（</span><span lang=EN-US>Wilhelm Windelband</span><span
+
+style='font-family:宋体'>）的《哲学史教程》（</span><span lang=EN-US>Lehrbuch der
+
+Geschichte der Philosophie</span><span style='font-family:宋体'>）：“而作为‘世俗哲学’的近代哲学把自己摆在与基督教教义完全对立的立场……”（哲学史教程</span><span
+
+lang=EN-US> / (</span><span style='font-family:宋体'>德</span><span lang=EN-US>)</span><span
+
+style='font-family:宋体'>文德尔班著</span><span lang=EN-US>, </span><span
+
+style='font-family:宋体'>罗达仁译</span><span lang=EN-US>. </span><span
+
+style='font-family:宋体'>北京</span><span lang=EN-US>: </span><span
+
+style='font-family:宋体'>商务印书馆</span><span lang=EN-US>. 1987.4. </span><span
+
+style='font-family:宋体'>第</span><span lang=EN-US>10</span><span
+
+style='font-family:宋体'>页），罗达仁并在译注中说：“德文原文为“</span><span lang=EN-US>Weltweisheit</span><span
+
+style='font-family:宋体'>”，或译现世哲学。指不带宗教色彩的哲理。”另，邓晓芒译康德（</span><span lang=EN-US>Kant</span><span
+
+style='font-family:宋体'>）时将这个词译作“人生智慧”（</span><span lang=EN-US>Immanuel Kant:
+
+Versuch den Begriff der negativen Gr&ouml;&szlig;en in die Weltweisheit einzuführen</span><span
+
+style='font-family:宋体'>）。日文有“世界経験に基づいた哲学</span><span lang=EN-US> (Weltweisheit)</span><span
+
+style='font-family:宋体'>：</span> <span style='font-family:宋体'>世界＝知としての哲学。経験に先立つ理性の働きを分析したカント（派）の批判哲学</span><span
+
+lang=EN-US>(Philosophie)</span><span style='font-family:宋体'>に対して、ヘルダーは理性そのものが経験に制約されていることを主張した”、“世界の知（</span><span
+
+lang=EN-US>Weltweisheit</span><span style='font-family:宋体'>）”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，但还是停滞在生活的表面上？这是可能的吗，人们甚至把这无论如何还算是有些意义</span></b><span
+
+style='font-family:宋体'>“</span><span lang=DE>etwas</span><span
+
+style='font-family:宋体'>”意译成了“有些意义”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>的表面也给蒙上一层意想不到地讨厌的布料</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>unglaublich langweiligen Stoff</span><span style='font-family:宋体'>”，译成“意想不到地讨厌的布料”，按照词典释义各个单词应该都没有错误，但汉语放在一起似乎不是德语的意思；奇怪的是，“</span><span
+
+lang=EN-US>langweilig</span><span style='font-family:宋体'>”第二自然段出现过：“</span><span
+
+lang=EN-US>Aber wie langweilig</span><span style='font-family:宋体'>”，冯译成“那有多么无聊呢”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，使它竟象是夏日假期中沙笼里的家具？</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>是的，这是可能的。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可能的吗，全部世界历史都被误解了？这是可能的吗，过去是虚假的，因为人们总谈论它的大众</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Masse</span><span
+
+style='font-family:宋体'>”此词犹当别解</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，正好象述说许多人的一种合流</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>Zusammenlauf</span><span style='font-family:宋体'>”（冯译“合流”），</span><span
+
+lang=EN-US>Grimm</span><span style='font-family:宋体'>词典里有四项释义</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，而不去说他们所围绕着的个人</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>statt von dem Einen zu sagen,
+
+um den sie herumstanden</span><span style='font-family:宋体'>”，犹未尽意</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，因为他是生疏的并且死了？</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>是的，这是可能的。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可能的吗，人们相信，必须补上在他降生前已经发生过的事？这是可能的吗，必须使每个个人想起：他是从一切的前人那里生成的，所以他知道这些</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>wü&szlig;te es also</span><span
+
+style='font-family:宋体'>”将省略部分补足，为“</span><span lang=EN-US>er wü&szlig;te es also</span><span
+
+style='font-family:宋体'>”，“</span><span lang=EN-US>also</span><span
+
+style='font-family:宋体'>”是</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>最头痛的一个词：词源为“</span><span lang=EN-US>ganz so</span><span
+
+style='font-family:宋体'>”，“</span><span lang=EN-US>all so</span><span
+
+style='font-family:宋体'>”也。里氏此“马尔特手记”开篇即“</span><span lang=EN-US>So, also…</span><span
+
+style='font-family:宋体'>”，尼采有“</span><span lang=EN-US>Also Sprach Zarathustra</span><span
+
+style='font-family:宋体'>”……凡此，犹非“所以”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，不应该让另有所知的人们</span></b><span style='font-family:宋体'>两个“</span><span
+
+lang=EN-US>ander</span><span style='font-family:宋体'>”只译出了一个</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>说服？</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>是的，这是可能的。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可能的吗，所有这些人对于不曾有过的过去认识很清楚？这是可能的吗，一切的真实对他们等于乌有；他们的生活</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Leben</span><span
+
+style='font-family:宋体'>”此处解作“生命”似乎更贴切</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>滑过去，毫无关联</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>mit nichts verknüpft</span><span style='font-family:宋体'>”，此处的介词宾语实不当省略，里尔克表述的似乎应该是“他们的生命与万物毫不相关地兀自流走”——“无端端地在世界上走”（</span><span
+
+lang=EN-US>ohne Grund geht in der Welt</span><span style='font-family:宋体'>），是以有“</span><span
+
+lang=EN-US>wie eine Uhr in einem leeren Zimmer</span><span style='font-family:
+
+宋体'>”的比喻</span><b><span style='font-size:16.0pt;font-family:宋体'>，有如一座钟在一间空房里——？</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>是的，这是可能的。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可能的吗，大家关于少女一无所知，可是她们生活着</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>da&szlig; man von den M&auml;dchen nichts
+
+wei&szlig;, die doch leben</span><span style='font-family:宋体'>”，冯译后置定语时，通常无论“限定”还是“非限定”，均拆解成短句置于主句之后：此处汉译因此有歧义，德语原文的直译是“人们对依然活着的少女一无所知”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>？这是可能的吗，人们说“妇女”、“儿童”、“男孩”，而不感到（就是受了教育也不感到），这些字早已没有多数</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Mehrzahl</span><span
+
+style='font-family:宋体'>”，</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典释义有“</span><span lang=EN-US>dann in die grammatik als
+
+übersetzung von numerus pluralis eingeführt</span><span style='font-family:
+
+宋体'>”，汉语意为语法术语“复数”，与下句单数“</span><span lang=EN-US>Einzahl</span><span
+
+style='font-family:宋体'>”是相对比的词</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，却只是无数的单数？</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>是的，这是可能的。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是可能的吗，有些人他们说到“神”</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Gott</span><span
+
+style='font-family:宋体'>”，“神”抑或“上帝”，特指还是泛指，很费思量</span><b><span style='font-size:
+
+16.0pt;font-family:宋体'>，以为那是一些共同的东西</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>etwas Gemeinsames</span><span style='font-family:宋体'>”译成“一些”不妥，前句的“</span><span
+
+lang=EN-US>Gott</span><span style='font-family:宋体'>”是单数（</span><span
+
+lang=EN-US>Einzahl</span><span style='font-family:宋体'>）</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>？——你看一看两个小学生吧：一个小学生给自己买一把小刀，他的同伴在那天买了同样的一把。一星期后，他们互相拿出这两把刀来看，这两把刀就显得很不相似了，——在不同的手中它们这样不同地发展了。（是的，一个小学生的母亲就说：你们总是立刻把一切都用坏</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Ja, sagt des einen Mutter dazu:
+
+wenn ihr auch gleich immer alles abnutzen mü&szlig;t</span><span style='font-family:
+
+宋体'>”：“</span><span lang=EN-US>sagt des einen Mutter dazu</span><span
+
+style='font-family:宋体'>”，德语有常用语“</span><span lang=EN-US>Was sagst du dazu?</span><span
+
+style='font-family:宋体'>”，译成汉语大意是“你对此（</span><span lang=EN-US>dazu</span><span
+
+style='font-family:宋体'>）还有什么需要说的？”；“</span><span lang=EN-US>auch</span><span
+
+style='font-family:宋体'>”与“</span><span lang=EN-US>wenn</span><span
+
+style='font-family:宋体'>”连用表示让步“尽管，即使”（</span><span lang=EN-US>&lt;konzessiv in
+
+Verbindung mit auch, schon u. a.&gt; obwohl, obgleich</span><span
+
+style='font-family:宋体'>）没有译出，“母亲为儿子辩解”变成了“母亲责怪儿子”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。——）啊，那么：这是可能的吗，相信大家能够有一个神，并不使用他？</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>是的，这是可能的。</span></b></p>
+
+
+
+<p class=MsoNormal style='text-indent:32.4pt'><b><span style='font-size:16.0pt;
+
+font-family:宋体'>如果这一切都是可能的，纵使只有一种可能的假象，——那么，为了世界中的一切，真该当有一些事情发生了</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>dann mu&szlig; ja, um alles in der
+
+Welt, etwas geschehen</span><span style='font-family:宋体'>”：“</span><span
+
+lang=EN-US>um alles in der Welt</span><span style='font-family:宋体'>”（冯译“为了世界中的一切”），郑华汉主编《德语惯用语双解词典》（</span><span
+
+lang=EN-US>Deutsches Idiomatisches W&ouml;rterbuch</span><span style='font-family:
+
+宋体'>，北京：外文出版社，</span><span lang=EN-US>2004</span><span style='font-family:宋体'>）解释为“</span><span
+
+lang=EN-US>um Gottes willen</span><span style='font-family:宋体'>”（</span><span
+
+lang=EN-US>S. 1042</span><span style='font-family:宋体'>），“</span><span
+
+lang=EN-US>um Gottes willen</span><span style='font-family:宋体'>”释义则有二：一，</span><span
+
+lang=EN-US>Ausruf des Schreckens, der Angst</span><span style='font-family:
+
+宋体'>；二，</span><span lang=EN-US>unter allen Umstnden, auf jeden Fall</span><span
+
+style='font-family:宋体'>（</span><span lang=EN-US>S. 300</span><span
+
+style='font-family:宋体'>）；此外，此句亦非</span> <span style='font-family:宋体'>“</span><span
+
+lang=EN-US>um…zu (geschehen)</span><span style='font-family:宋体'>”（为了……）句型，剔除枝节，全句可节略为“</span><span
+
+lang=EN-US>etwas mu&szlig; geschehen</span><span style='font-family:宋体'>”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。任何有这些使人感到不安的思想的人必须起始做一些被耽误了的事</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Der N&auml;chstbeste, der, welcher
+
+diesen beunruhigenden Gedanken gehabt hat, mu&szlig; anfangen, etwas von dem
+
+Vers&auml;umten zu tun</span><span style='font-family:宋体'>”，此句汉语则译得让人喘不过气来（原文五个逗号变成了一个）；文中“</span><span
+
+lang=EN-US>Der N&auml;chstbeste</span><span style='font-family:宋体'>”（</span><span
+
+lang=EN-US>der erste Beste</span><span style='font-family:宋体'>）译成“任何……人”，固然没有错误，但根据下一句话，似乎译成“眼前这个人”更妥帖</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，纵使只是任何一个完全不适宜的人：这里正好没有旁人。这个年轻的、不关重要的外国人，布里格，将置身于五层楼上</span></b><span
+
+style='font-family:宋体'>同前，当为“六楼”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，日日夜夜地写：是的，他必须写，这将是一个归宿。</span></b></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体'>德语原文：</span><span lang=EN-US><a
+
+href="http://www.myrilke.com/text.asp?ID=909">http://www.myrilke.com/text.asp?ID=909</a></span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+
+style='font-size:16.0pt;font-family:宋体'>＊</span></b><b><span lang=EN-US
+
+style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>＊</span></b><b><span lang=EN-US
+
+style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>＊</span></b></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体'>傻按：这三个星号，省略的是“宛若从无尽高处坠入体内、在心底摔得粉碎”</span>
+
+<span style='font-family:宋体'>（</span><span lang=EN-US>Es ist, als w&auml;re das Bild
+
+dieses Hauses aus unendlicher H&ouml;he in mich hineingestürzt und auf meinem Grunde
+
+zerschlagen</span><span style='font-family:宋体'>）的马尔特外祖父家的一砖一瓦，这一砖一瓦也似乎可以使人联想到里尔克在后面众多章节里书写的马尔特的初恋情人——“小姨”</span><span
+
+lang=EN-US>Abelone</span><span style='font-family:宋体'>在此的一颦一笑；这三个星号，省略的是马尔特在外祖父家的最初、最深沉的一段经历：马尔特对之情感复杂的父亲，做过将军、以内廷大臣身份告老还乡、“固执地将未来感觉作现在”（</span><span
+
+lang=EN-US>auch das Zukünftige mit demselben Eigensinn als gegenw&auml;rtig empfand</span><span
+
+style='font-family:宋体'>）的外祖父，曾是陆军少校如今潜心炼金术、闭门研究尸体的远房舅父，与奥地利灵术师鱼雁频频的老处女、马尔特最终从她身上拼合成早逝母亲的一个形象、并</span><span
+
+style='font-family:宋体'>带着这个形象此后走遍天涯的姨辈远亲</span><span style='font-family:宋体'>——</span><span
+
+style='font-family:宋体'>马蒂尔德</span><span style='font-family:宋体'>（</span><span
+
+lang=EN-US>Mathilde</span><span style='font-family:宋体'>），与马尔特</span><span
+
+style='font-family:宋体'>年纪相仿、只有一只眼睛会动、本该成为外祖父家继承人的早夭</span><span
+
+style='font-family:宋体'>“</span><span style='font-family:宋体'>弟弟</span><span
+
+style='font-family:宋体'>”</span><span style='font-family:宋体'>埃力克</span><span
+
+style='font-family:宋体'>（</span><span lang=EN-US>Erik</span><span
+
+style='font-family:宋体'>，</span><span style='font-family:宋体'>与马尔特的堂、表关系似乎里尔克的记述有些混乱</span><span
+
+style='font-family:宋体'>），</span><span style='font-family:宋体'>乃至</span><span
+
+style='font-family:宋体'>，</span><span style='font-family:宋体'>还有那个多年以前死于第二次分娩、却在众人的餐桌前款款而行的克丽丝汀娜</span><span
+
+style='font-family:宋体'>（</span><span lang=EN-US>Christine</span><span
+
+style='font-family:宋体'>）……</span><span style='font-family:宋体'>这三个星号，犹可以说省略了里尔克遍布整个小说里的一个主题——历史（或者说野史），此章提及的是：丹麦斐德烈四世（</span><span
+
+lang=EN-US>Friedrich IV</span><span style='font-family:宋体'>）与芳龄</span><span
+
+lang=EN-US>17</span><span style='font-family:宋体'>岁的安娜&#8226;索菲&#8226;雷文特洛（</span><span
+
+lang=EN-US>Anna Sophie Reventlow</span><span style='font-family:宋体'>）充满非议、但未尝不属于浪漫的“</span><span
+
+lang=EN-US>zur linken Hand</span><span style='font-family:宋体'>”婚姻……</span><span
+
+style='font-family:宋体'>里尔克此章的文笔</span><span style='font-family:宋体'>，</span><span
+
+style='font-family:宋体'>如此的诡异、揶揄、深情、玄冥</span><span style='font-family:宋体'>……与其最为著名的《杜伊诺哀歌》（</span><span
+
+lang=EN-US>Duineser Elegien</span><span style='font-family:宋体'>）和《致奥尔甫斯的商籁》（</span><span
+
+lang=EN-US>Die Sonette an Orpheus</span><span style='font-family:宋体'>）所表现的风格如此迥然相异……</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>我坐着读一个诗人。在（巴黎国家图书馆将</span></b><span
+
+style='font-family:宋体'>原文的落款移入了正文</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>）大厅里有许多人，可是都感觉不到。他们沉在书里。他们有时在翻书页时动一动</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Manchmal bewegen sie sich in
+
+den Bl&auml;ttern</span><span style='font-family:宋体'>”，名词化的动词不定式（动词名词化），词性大多为中性且不做复数变化，中性名词单数，其定冠词不存在“</span><span
+
+lang=EN-US>den</span><span style='font-family:宋体'>”，因此，“</span><span
+
+lang=EN-US>in den Bl&auml;ttern</span><span style='font-family:宋体'>”应当是“在页与页间（在书页里）”用的是名词“</span><span
+
+lang=EN-US>das Blatt</span><span style='font-family:宋体'>”本义，复数</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，象是睡眠的人在两场梦之间翻一翻身。啊，这有多么好啊，呆在读书的人们中间。为什么他们不永远是这样呢？你可以向一个人走去，轻轻地触动地：他毫无感觉。如果你站起来时碰了一下你的邻人，请他原谅，他就向他听见你的声音的那方面点点头，把脸向你一转，却没有看见</span></b><span
+
+style='font-family:宋体'>似为“看”，当无动作结果</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>你，而他的头发好象是睡眠者的头发。这多么舒适。我就</span></b><span style='font-family:
+
+宋体'>此“就”字的情态，原文的句式、遣词，犹不具备</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>坐在这里，我有一个诗人。是怎样的一个命运。现在大厅里大约有三百人在读书；但这是不可能的，他们每个人都有一个诗人。（上帝晓得，他们读的是什么。）不会有三百个诗人。但是看呀，怎样的一个命运，我，也许是这些读者中最可怜的</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>arms&auml;ligste</span><span
+
+style='font-family:宋体'>”，与后句“</span><span lang=EN-US>obwohl ich arm bin</span><span
+
+style='font-family:宋体'>”（虽然我贫穷）句中的“</span><span lang=EN-US>arm</span><span
+
+style='font-family:宋体'>”同源，皆有“可怜、贫穷”意，此处的词义取舍犹当统一</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>一个，一个外国人：我有一个诗人。虽然我贫穷。虽然我天天穿着的衣服已开始露出几处破绽</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>gewisse Stellen zu bekommen</span><span
+
+style='font-family:宋体'>”</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>；虽然我的鞋有几处能使人指责。可是我的领子是洁净的，我的衬衫也洁净，我能够象我这样走过任何一个糖果店，尽可能</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>wom&ouml;glich</span><span
+
+style='font-family:宋体'>”，译“尽可能”，语义没有问题，语气于全句，似乎不畅</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>是在繁华的街道上，还能够用我的手大胆地</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>getrost</span><span
+
+style='font-family:宋体'>”的词源是“</span><span lang=EN-US>tr&ouml;sten</span><span
+
+style='font-family:宋体'>”，似与“胆（量）”（</span><span lang=EN-US>Mut</span><span
+
+style='font-family:宋体'>）无关</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>伸向一个点心碟，去拿一些点心。人们对此也许不会觉得突然，不会骂我，把我赶出去，因为无论如何那是一只上层社会的手，一只天天要洗四五遍的手。是的，指甲里没有泥垢，握笔的手指上没有墨痕，尤其是手腕</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Gelenk</span><span
+
+style='font-family:宋体'>”，此处似指称手部各个“关节”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>也无可疵议。穷人们只洗到手腕为止，这是众所周知的事实。人们能够从它的清洁推断出一定的结论。人们也是这样推断的。商店里就是如此。可是有那么几个生存者</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Existenz</span><span
+
+style='font-family:宋体'>”，</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典此词条阙如，</span><span lang=EN-US>Duden</span><span
+
+style='font-family:宋体'>大词典有种解释：“</span><span lang=EN-US>(mit abwertendem
+
+Attribut) Mensch</span><span style='font-family:宋体'>”，贬义，詈骂语也</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，例如在圣米色大街（</span></b><b><span
+
+lang=EN-US style='font-size:16.0pt'>Boulevard Saint-Michel</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>）</span></b><span style='font-family:
+
+宋体'>“</span><span lang=EN-US>Saint Michel</span><span style='font-family:宋体'>”，犹指新约《启示录》里与龙争战的大天使，国语和合本名为“米迦勒”，思高本译为“弥额尔”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>和拉辛路（</span></b><b><span lang=EN-US
+
+style='font-size:16.0pt'>Rue Racine</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>），他们不受迷惑，看不起这手腕问题。他们望着我，知道底细。他们知道，我本来是他们中的一个，我不过是串演一些喜剧</span></b><span
+
+style='font-family:宋体'>里氏原句为“</span><span lang=EN-US>da&szlig; ich nur ein bi&szlig;chen
+
+Kom&ouml;die spiele</span><span style='font-family:宋体'>”，</span><span lang=EN-US>Duden</span><span
+
+style='font-family:宋体'>的</span><span lang=EN-US>Redewendungen</span><span
+
+style='font-family:宋体'>词典有“</span><span lang=EN-US>Kom&ouml;die spielen</span><span
+
+style='font-family:宋体'>”条，释义为“</span><span lang=EN-US>jmdm. etwas vort&auml;usche</span><span
+
+style='font-family:宋体'>”；即或直译，汉语的“喜剧”与“滑稽剧”犹有区别</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。这正是化装禁食节</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Fasching</span><span
+
+style='font-family:宋体'>”，即“</span><span lang=EN-US>Fastnachtsfest</span><span
+
+style='font-family:宋体'>”，此句似乎为感叹句——“这真是（一场）狂欢节啊”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。他们不愿戳穿我这个把戏；他们只龇一龇牙，眨一眨眼。也没有人看见。此外他们看待我象是一个老爷。只要有人在附近，他们甚至做出卑躬屈节的样子。好象我穿着一件皮衣，我的车跟在我的后边。有时我给他们两个小钱，我颤栗着怕他们拒绝接受；但是他们接受了。并且一切都会平安无事，如果他们不再龇一龇牙、眨一眨眼了</span></b><span
+
+style='font-family:宋体'>犹“如果他们不再龇一龇牙、眨一眨眼，一切都会平安无事了”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。这些人都是谁呢？他们要向我要什么呢？他们在等候我吗？他们怎么认识我？那是真的，我的胡子显得有些长了，这完全有一些使人想到他们那生病的、衰老而黯淡的、永远给我留下印象的胡须</span></b><span
+
+style='font-family:宋体'>犹“使人想到他们那永远给我留下印象的、生病的、衰老而黯淡的胡须”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。但是我就没有权利，对于胡子有点忽略吗？许多忙人都不常刮脸，却也没有人想起，因此就把他们列入被遗弃者的队伍。我明白了，他们是被遗弃者，不只是乞丐；不对，他们本来就不是乞丐，人们必须分清楚。他们是些渣滓，命运吐出来的人的皮壳。他们被命运的唾液濡湿，沾在墙边、路灯下、广告柱旁，或是身后拖着一个阴暗而污秽的痕迹慢慢地从小胡同里溜下来。茫茫宇宙</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>in aller Welt</span><span
+
+style='font-family:宋体'>”，</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典有解释“</span><span lang=EN-US>früh erscheint welt als
+
+blosze steigerungspartikel (s. auch unter den kompos.-typen A 1 b ζ und vgl. weltall
+
+2 e)</span><span style='font-family:宋体'>”，同此，</span><span lang=EN-US>Duden</span><span
+
+style='font-family:宋体'>大词典的解释是“</span><span lang=EN-US>ugs.; in Frages&auml;tzen zum
+
+Ausdruck der Verwunderung, der Beunruhigung, des Unwillens: ... denn überhaupt</span><span
+
+style='font-family:宋体'>”，冯如此译法，</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>不禁想起汉语里的“悠悠苍天，此何人哉？”</span><b><span style='font-size:
+
+16.0pt;font-family:宋体'>，这个老太婆向我要什么呢？她从某一个窟窿里爬出，手里捧着一个床头几的抽屉，里边乱滚着一些纽扣和针。为什么她总挨着我走，注意我呢？仿佛她要用她流泪的眼</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Triefauge</span><span
+
+style='font-family:宋体'>”，</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典的解释是“</span><span lang=EN-US>seit dem 16. jh. bezeugt,
+
+wie auch trief&auml;ugig (s. u.). 1) ein auge, welches rinnt; 2) ein mensch, 'der
+
+trieffende oder rünnende, flüssige augen hat, lippus' MAALER (1561) 408a; literarisch nur in übersetzungsliteratur aus der antike.</span><span style='font-family:宋体'>”马君武《德华字典》作“湿眼”；商务印书馆民国九年版的瞿侃、黄异、余云岫编《德华大字典》为“【医】烂眼”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>来认识我，那双眼好象是一个病人把黄痰唾在这血红的眼皮上。还有那时候那苍白瘦小的女人</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>jene graue, kleine Frau</span><span
+
+style='font-family:宋体'>”，同样是颜色形容词修饰人，第</span><span lang=EN-US>14</span><span
+
+style='font-family:宋体'>章“</span><span lang=EN-US>leichte, wei&szlig;e, schlafende
+
+W&ouml;chnerinnen</span><span style='font-family:宋体'>”句的翻译（“轻轻睡眠着、翕止了的白衣产妇”）却天地渊别</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>是怎么回事呢，在一面橱窗前站在我的身旁有一刻钟之久，同时她给我看一支长的旧铅笔，那笔是非常缓慢地从她紧紧握在一起的枯瘦的双手里推动出来的。我做出观看橱窗里陈列的商品、毫无觉察的样子。但是她知道我看见了她，她知道我站着并且思索，</span></b><span
+
+style='font-family:宋体'>此逗号似当去掉</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>她到底干什么。因为我了解，这不是关于铅笔的事：我觉得，这是一个记号，一个对于内行人的记号，一个被遗弃者们所晓得的记号；我预感到，她向我示意，我必须到某个地方去，或者</span></b><span
+
+style='font-family:宋体'>如补充原文省略的“必须”，更善</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>做些什么。最奇怪的是，我总不能摆脱这种感觉：实际上会成为某一种约会</span></b><span
+
+style='font-family:宋体'>似乎将此句主语“</span><span lang=EN-US>es</span><span
+
+style='font-family:宋体'>”（即从句中的“</span><span lang=EN-US>dieses Zeichen</span><span
+
+style='font-family:宋体'>”）当作形式主语而省略</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，这个记号就是为了这个约会</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>zu der dieses Zeichen geh&ouml;rte</span><span style='font-family:宋体'>”是“</span><span
+
+lang=EN-US>geh&ouml;ren… zu</span><span style='font-family:宋体'>”结构，并无目的“为了……”义；而且，冯前面译文“（他们知道）我本来是他们中的一个”（</span><span
+
+lang=EN-US>da&szlig; ich eigentlich zu ihnen geh&ouml;re</span><span style='font-family:
+
+宋体'>）尚译作“是”（属于……）</span><b><span style='font-size:16.0pt;font-family:宋体'>；这一幕根本会成为轮到我身上的一些事</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>was ich h&auml;tte erwarten müssen</span><span
+
+style='font-family:宋体'>”，翻查了一下德语词典，“</span><span lang=EN-US>erwarten</span><span
+
+style='font-family:宋体'>”（等待、逆料）前后以“</span><span lang=EN-US>erw</span><span
+
+style='font-family:宋体'>”开始的单词没有找到与“轮到”有关词条，似乎是“（排队）等待”推演</span> <span
+
+style='font-family:宋体'>成“（排队）等到”再推演成的“（排队）轮到”；此句虚拟式的情态如此翻译，也似乎没有表述清晰</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>这是在两星期以前。如今几乎没有一天没有这样的遇合。不只在黄昏时候，就是在中午人烟稠密的街上，也会忽然有一个矮小的男人或是老妇，点点头，给我看一些东西，随后又走开了，好象一切重要的事</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>alles N&ouml;tige getan</span><span
+
+style='font-family:宋体'>”，“</span><span lang=EN-US>n&ouml;tig</span><span
+
+style='font-family:宋体'>”与“</span><span lang=EN-US>wichtig</span><span
+
+style='font-family:宋体'>”似乎应有所区别</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>都做完了。这是可能的，他们有一天会想起，走到我的小屋里来，他们一定知道我住在哪里，并且他们早已安排好，门房不会阻止他们</span></b><span
+
+style='font-family:宋体'>此句犹属意译</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>。但是在这里，我的亲爱的人们，你们是闯不过来的</span></b><span style='font-family:
+
+宋体'>“</span><span lang=EN-US>hier bin ich sicher vor euch</span><span
+
+style='font-family:宋体'>”，意译，但很好地承接了前句；而前句的“</span><span lang=EN-US>kommen</span><span
+
+style='font-family:宋体'>”译成“走（到我的小屋里来）”，却又显得薄弱</span><b><span style='font-size:
+
+16.0pt;font-family:宋体'>。人们必须有一个特殊的阅览证</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>eine besondere Karte</span><span style='font-family:宋体'>”，将“</span><span
+
+lang=EN-US>besondere Karte</span><span style='font-family:宋体'>”（特殊的卡片）延伸为“</span><span
+
+lang=EN-US>Lesekarte</span><span style='font-family:宋体'>”（借阅卡），似无不可，但“特殊的阅览证”，犹“普通阅览证进不得（这个大厅）”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，才能进这个大厅。这张阅览证我已先你们而有了</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Diese Karte habe ich vor euch
+
+voraus</span><span style='font-family:宋体'>”，</span> <span lang=EN-US>Duden</span><span
+
+style='font-family:宋体'>大词典“</span><span lang=EN-US>voraushaben</span><span
+
+style='font-family:宋体'>”条释文引用有里尔克此句：“</span><span lang=EN-US>in der Wendung <b>jmdm./vor
+
+jmdm. etw. v.</b> (<i>im Unterschied zu jmdm., der nicht darüber verfügt, etw. </i></span><i><span
+
+lang=DE>Bestimmtes haben</span></i><span lang=DE>): dass ich in ihren St&auml;dten
+
+... manches sah, das mich mit Bewunderung erfüllte und das sie uns voraushaben
+
+(Hagelstange, Spielball 49); Man muss eine besondere Karte haben, um in diesen
+
+Saal eintreten zu k&ouml;nnen. Diese Karte habe ich vor euch voraus (<span
+
+style='color:black'>Rilke, Brigge 32</span>).</span><span style='font-family:
+
+宋体'>”据此，冯译误也</span><b><span style='font-size:16.0pt;font-family:宋体'>。人们能想象到</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>wie man sich denken kann</span><span
+
+style='font-family:宋体'>”，此处改换原文的语序，似有歧义；省略连词“</span><span lang=EN-US>wie</span><span
+
+style='font-family:宋体'>”，犹缺情态</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>我走过大街有些胆怯</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>但终于站在一个玻璃门前</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>aber</span><span style='font-family:宋体'>”的转折既已译出，原文省略的与“胆怯”相反的情态犹当补足</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>推开它</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>好象在家里一样</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>在第二道门拿出阅览证给人看</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>（</span></b><b><span style='font-size:16.0pt;font-family:宋体'>完全象你们给我看东西似的</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>只是有这个区别</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>人们了解而且懂得我的心意</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>——），</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>于是我置身于这些书的中间</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>脱离了你们</span></b><span style='font-family:宋体'>“</span><span
+
+lang=DE>bin euch weggenommen</span><span style='font-family:宋体'>”，后面第</span><span
+
+lang=DE>25</span><span style='font-family:宋体'>章尚“</span><span lang=DE>Sie sind </span><span
+
+style='font-family:宋体'>（</span><span lang=DE>da und wieder fort, hingestellt
+
+und</span><span style='font-family:宋体'>）</span><span lang=DE>weggenommen wie
+
+Bleisoldaten</span><span style='font-family:宋体'>”句，宜将被动语态译出</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>象是死了</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>我坐着读一个诗人的作品</span></b><span
+
+style='font-family:宋体'>“</span><span lang=DE>und sitze und lese einen Dichter</span><span
+
+style='font-family:宋体'>”，此句与本章第一句“</span><span lang=DE>Ich sitze und lese einen
+
+Dichter</span><span style='font-family:宋体'>”是一致的</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。</span></b></p>
+
+
+
+<p class=MsoNormal><b><span lang=DE style='font-size:16.0pt'>&nbsp;&nbsp;&nbsp;
+
+</span></b><b><span style='font-size:16.0pt;font-family:宋体'>你们不知道</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>这是什么</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>；</span></b><span style='font-family:宋体'>不该使用分号</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>一个诗人</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>？——</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>魏尔伦</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>……</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>没有啦</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>？</span></b><b><span style='font-size:16.0pt;font-family:宋体'>想不起来啦</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>？</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>想不起</span></b><span style='font-family:宋体'>“</span><span
+
+lang=DE>Ihr wi&szlig;t nicht, was das ist, ein Dichter? - Verlaine . . . Nichts?
+
+Keine Erinnerung? Nein.</span><span style='font-family:宋体'>”</span><span
+
+style='font-family:宋体'>大约可以转写为</span><span style='font-family:宋体'>：</span><span
+
+lang=DE>&#8222;Ihr wi&szlig;t nicht, was das ist, ein Dichter?“- &#8222;Verlaine...“&#8222;Nichts.“(od.
+
+&#8222;Verlaine... Nichts?“) &#8222;Keine Erinnerung?“&#8222;Nein.“</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。在你们晓得的诗人犹当</span></b><span
+
+style='font-family:宋体'>“</span><span style='font-family:宋体'>人</span><span
+
+style='font-family:宋体'>”</span><span style='font-family:宋体'>而非</span><span
+
+style='font-family:宋体'>“</span><span style='font-family:宋体'>诗人</span><span
+
+style='font-family:宋体'>”</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>中间你们没有把他区分出来</span></b><b><span style='font-size:16.0pt;font-family:宋体'>？</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>我知道</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>你们不懂得区分。但是</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>我读的是另一个诗人</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>他不住在巴黎</span></b><b><span style='font-size:16.0pt;
+
+font-family:宋体'>，</span></b><b><span style='font-size:16.0pt;font-family:宋体'>完全是另一个。一个诗人</span></b><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，</span></b><b><span style='font-size:
+
+16.0pt;font-family:宋体'>他在山里有一所寂静的房子。他发出的声音象是净洁的晴空里的一口钟</span></b><span
+
+style='font-family:宋体'>冯在前面</span><span style='font-family:宋体'>“</span><span
+
+lang=DE>es ist ein ander</span><span lang=EN-US>er Dichter, den ich lese</span><span
+
+style='font-family:宋体'>”（我读的是另一个诗人）时已经添加译注“指耶麦”，此句后至“</span><span lang=EN-US>O
+
+was für ein glückliches Schicksal</span><span style='font-family:宋体'>”（怎样一个幸福的命运）句之前，不妨到</span><span
+
+lang=EN-US>Francis Jammes</span><span style='font-family:宋体'>（今通译“雅姆”）的诗集“</span><span
+
+lang=EN-US>De l' Angelus de l'aube à l'Angelus du soir</span><span
+
+style='font-family:宋体'>”（从早晨三钟经到傍晚三钟经）里寻找根源（</span><span lang=EN-US>Dasha</span><span
+
+style='font-family:宋体'>尝在网络上发布过此诗集法语的双层</span><span lang=EN-US>PDF</span><span
+
+style='font-family:宋体'>）或者参看：</span><span lang=EN-US>Chopin, Isabelle: Rainer
+
+Maria Rilke und Francis Jammes. </span><span lang=DE>Eine Studie zu Symbolismus,.
+
+Thematik und ihrer Dichtung. Frankfurt a. M. u. a. 1996</span><span
+
+style='font-family:宋体'>。《冯至年谱》记载“</span><span lang=EN-US>1932</span><span
+
+style='font-family:宋体'>年，在柏林大学学习，开始学习法语”，从如下译文看，冯似未读过此诗集</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。一个幸福的诗人，他述说他的窗子和他书橱上的玻璃门，它们沉思地照映着可爱的、寂寞的旷远。正是这个诗人，应该是我所要向往的；因为他关于少女知道得这么多，我也知道这样多才好</span></b><span
+
+style='font-family:宋体'>此句与前句“</span><span lang=EN-US>der ich h&auml;tte werden
+
+wollen</span><span style='font-family:宋体'>”情态相同，且“</span><span lang=EN-US>und ich
+
+h&auml;tte auch viel von ihnen gewu&szlig;t</span><span style='font-family:宋体'>”并非独立“愿望句”，不带“</span><span
+
+lang=EN-US>wenn</span><span style='font-family:宋体'>”的愿望句，语序当为“</span><span
+
+lang=EN-US>h&auml;tte ich auch viel von ihnen gewu&szlig;t</span><span style='font-family:
+
+宋体'>”</span><b><span style='font-size:16.0pt;font-family:宋体'>。他知道生活在百年前的少女；她们都死去了，这不关紧要，因为他知道一切。这是首要的事。他说出她们的名字，那些饰着旧式花纹用瘦长的字母写出的轻盈秀丽的名字</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>diese leisen,
+
+schlankgeschriebenen Namen mit den altmodischen Schleifen in den langen
+
+Buchstaben</span><span style='font-family:宋体'>”，犹有若干疑误，涉及到西方字母文字的书法艺术细节（比如</span><span
+
+lang=EN-US>Handschrift</span><span style='font-family:宋体'>），不复多言</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，还有她们年长的女友们成年的名字，这里已经有一些儿命运在共鸣，一些儿失望和死亡。也许在他的桃花心木书桌的一个格子里存有她们褪色的信简和日记的散页，里边记载着诞辰、夏游、诞辰。或者可能在他寝室后方</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Hintergrund[e]</span><span
+
+style='font-family:宋体'>”犹非“后方”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>腹形的抽屉桌有一个抽屉，其中保存着她们早春的衣裳</span></b><span style='font-family:
+
+宋体'>“</span><span lang=EN-US>Frühjahrskleider</span><span style='font-family:
+
+宋体'>”，“</span><span lang=EN-US>Frühjahr</span><span style='font-family:宋体'>”，</span><span
+
+lang=EN-US>Grimm</span><span style='font-family:宋体'>词典：“</span><span
+
+lang=EN-US>die erste der vier jahreszeiten, welche bei uns nach den
+
+bestimmungen der sternkundigen den 20. oder 21. merz beginnt und den 21. oder
+
+22. juni endigt</span><span style='font-family:宋体'>”；</span><span lang=EN-US>Duden</span><span
+
+style='font-family:宋体'>解释为“</span><span lang=EN-US>Abschnitt des Jahres
+
+zwischen Winterende und Ende des Frühling</span><span style='font-family:宋体'>”——春季。“早春”的德语似为“</span><span
+
+lang=EN-US>Vorfrühling</span><span style='font-family:宋体'>”；“</span><span
+
+lang=EN-US>Kleid</span><span style='font-family:宋体'>”，此处既属“她们”，德语乃特指“</span><span
+
+lang=DE>zur Oberbekleidung von Frauen u. M&auml;dchen geh&ouml;rendes, einteiliges
+
+Kleidungsstück, das den Ober- u. Unterk&ouml;rper [sowie die Arme] u. die Beine (in
+
+unterschiedlicher L&auml;nge) bedeckt</span><span style='font-family:宋体'>”，则犹当另行斟酌——“毛传”云“上为衣下为裳”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>；复活节初次穿过的白色的衣裳；用印染着斑点的轻纱制成、本来是属于那焦急等待着的夏日的衣裳。啊，是怎样一个幸福的命运</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>O was für ein glückliches
+
+Schicksal, zu sitzen...</span><span style='font-family:宋体'>”至本自然段结束，皆为“带</span><span
+
+lang=EN-US>zu</span><span style='font-family:宋体'>的动词不定式”定语，修饰名词“</span><span
+
+lang=EN-US>Schicksal</span><span style='font-family:宋体'>”；其中，“</span><span
+
+lang=EN-US>und zu denken, da&szlig;…</span><span style='font-family:宋体'>”起，亦同，“</span><span
+
+lang=EN-US>und</span><span style='font-family:宋体'>”当为省略“</span><span
+
+lang=EN-US>was für ein glückliches Schicksal</span><span style='font-family:
+
+宋体'>”</span><b><span style='font-size:16.0pt;font-family:宋体'>，在一所祖传房子的寂静的小屋里，置身于固定安静的物件中间，外边听见嫩绿的园中有最早的山雀的试唱</span></b><span
+
+style='font-family:宋体'>反身代词“</span><span lang=EN-US>sich</span><span
+
+style='font-family:宋体'>”省略，省略了“</span><span style='font-family:宋体'>时有乳鸠相对鸣</span><span
+
+style='font-family:宋体'>”之情境</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>，远方有村钟鸣响</span></b><span style='font-family:宋体'>“</span><span lang=EN-US>und
+
+in der Ferne die Dorfuhr</span><span style='font-family:宋体'>”犹可改写为“</span><span
+
+lang=EN-US>zu h&ouml;ren die Dorfuhr in der Ferne</span><span style='font-family:
+
+宋体'>”</span><b><span style='font-size:16.0pt;font-family:宋体'>。坐在那里，注视一道温暖的午后的阳光，知道往日少女的许多往事，作一个诗人。我想</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>und zu denken, da&szlig;…</span><span
+
+style='font-family:宋体'>”，此后至本自然段结束，当皆为此句式引导的并列句（“</span><span lang=EN-US>denken</span><span
+
+style='font-family:宋体'>”的宾语从句），皆“过去完成时虚拟式”，表示“非现实性”或者说“假设”（王兆渠等编《现代实用德语语法》称“表示不真实的假设”，</span><span
+
+lang=EN-US>Dasha</span><span style='font-family:宋体'>不懂，“假设”尚有“真实”的？），因此，是否皆为一种“愿望”，犹待考察（请详读唐进伦《德语语法重点与难点》</span><span
+
+lang=EN-US>S.85</span><span style='font-family:宋体'>之</span><span lang=EN-US>Beispiele</span><span
+
+style='font-family:宋体'>）</span><b><span style='font-size:16.0pt;font-family:
+
+宋体'>，我也会成为这样一个诗人，若是我能在某一个地方住下，在世界上某一个地方，在许多无人过问的、关闭的别墅中的一所。我也许只用一间屋（在房顶下</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Giebel</span><span
+
+style='font-family:宋体'>”，此词</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>兄弟都叹息：“</span><span lang=EN-US>das wort ist auf das
+
+deutsche sprachgebiet im weiteren sinne beschr&auml;nkt</span><span
+
+style='font-family:宋体'>”，马君武《德华字典》犹解释为“上顶，屋顶，三角形墙”。但，平房（仅一层的建筑物）就会因此更有歧义</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>明亮的那间）。我在那里生活，带着我的旧物、家人的肖像和书籍。我还有一把靠椅、花、狗，以及一根走石路</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>die steinige[n] Wege</span><span
+
+style='font-family:宋体'>”，犹“多石的路”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>用的坚实的手杖。此外不要别的。一册浅黄象牙色皮装、镶有花型图案</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>in gelbliches,
+
+elfenbeinfarbiges Leder gebunden mit einem alten blumigen Muster als Vorsatz</span><span
+
+style='font-family:宋体'>”，“镶”，意为“以物相配合”，德语有“</span><span lang=EN-US>einsetzen</span><span
+
+style='font-family:宋体'>”、“</span><span lang=EN-US>einfassen</span><span
+
+style='font-family:宋体'>”等，而“</span><span lang=EN-US>binden</span><span
+
+style='font-family:宋体'>”（</span><span lang=EN-US>gebunden</span><span
+
+style='font-family:宋体'>）在书籍领域内，指“装订”；“</span><span lang=EN-US>blumig</span><span
+
+style='font-family:宋体'>”，</span><span lang=EN-US>Grimm</span><span
+
+style='font-family:宋体'>词典：“</span><span lang=EN-US>floridus, floreus, oft mit
+
+dem begrif von bunt</span><span style='font-family:宋体'>”，拉丁语“</span><span
+
+lang=EN-US>floridus</span><span style='font-family:宋体'>”：满布花香、华丽、荣耀、兴隆，拉丁语“</span><span
+
+lang=EN-US>floreus</span><span style='font-family:宋体'>”：彩饰华丽者、饰鲜花者、荣耀显著者；“</span><span
+
+lang=EN-US>Vorsatz</span><span style='font-family:宋体'>”，</span><span
+
+lang=EN-US>Grimm</span><span style='font-family:宋体'>词典释义有“</span><span
+
+lang=EN-US>bei den buchbindern das leere papier vor der ersten lage des buches,
+
+dann auch das am ende angebrachte (vgl. vorsatzpapier)</span><span
+
+style='font-family:宋体'>”，“</span><span lang=EN-US>vorsatzpapier</span><span
+
+style='font-family:宋体'>”或“</span><span lang=EN-US>vorsatzblatt</span><span
+
+style='font-family:宋体'>”，书籍之“衬页”</span><b><span style='font-size:16.0pt;
+
+font-family:宋体'>的书</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>Buch</span><span style='font-family:宋体'>”，前文已经有“带着我的旧物、家人的肖像和书籍”（</span><span
+
+lang=EN-US>mit meinen alten Dingen, den Familienbildern, den Büchern</span><span
+
+style='font-family:宋体'>），何需再云“一册书是不可少的”；书，大抵是指已完成的著作，如何再“在那书里写”</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>是不可少的：我该在那书里写</span></b><span
+
+style='font-family:宋体'>此句“</span><span lang=EN-US>dahinein h&auml;tte ich
+
+geschrieben</span><span style='font-family:宋体'>”与后句“</span><span lang=EN-US>Ich
+
+h&auml;tte viel geschrieben</span><span style='font-family:宋体'>”（我会写出许多），情态、语态、时态、句式、文义，犹一致</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。我会写出许多，因为我有许多思想和许多回忆</span></b><span
+
+style='font-family:宋体'>“</span><span lang=EN-US>Erinnerung[en]</span><span
+
+style='font-family:宋体'>”此处为可数名词复数，与只有不可数的“回忆”犹有不同</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>。</span></b></p>
+
+
+
+<p class=MsoNormal style='text-indent:32.4pt'><b><span style='font-size:16.0pt;
+
+font-family:宋体'>但是并没有这样</span></b><span style='font-family:宋体'>“</span><span
+
+lang=EN-US>Aber es ist anders gekommen</span><span style='font-family:宋体'>”，此句“</span><span
+
+lang=EN-US>es</span><span style='font-family:宋体'>”犹非形式主语，似当译出</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，上帝知道</span></b><span style='font-family:
+
+宋体'>“</span><span lang=EN-US>Gott wird wissen</span><span style='font-family:
+
+宋体'>”，将来时犹被忽略</span><b><span style='font-size:16.0pt;font-family:宋体'>是什么缘故。我的旧家具放在仓库里都腐烂了</span></b><span
+
+style='font-family:宋体'>“仓库”的定语从句“</span><span lang=EN-US>in die ich sie habe
+
+stellen dürfen</span><span style='font-family:宋体'>”中的情态动词“</span><span
+
+lang=EN-US>dürfen</span><span style='font-family:宋体'>”未被译出</span><b><span
+
+style='font-size:16.0pt;font-family:宋体'>，而我自己，啊，我的上帝，我的头上没有屋顶，雨落在我的眼里。</span></b></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+
+
+<p class=MsoNormal><span style='font-family:宋体'>德语原文：</span><span lang=EN-US><a
+
+href="http://www.myrilke.com/text.asp?ID=911">http://www.myrilke.com/text.asp?ID=911</a></span></p>
+
+
+
+</div>
+
+
+
+</body>
+
+
+
+</html>
+
