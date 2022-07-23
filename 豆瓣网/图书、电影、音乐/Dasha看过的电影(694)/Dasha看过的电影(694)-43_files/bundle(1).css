@@ -1,0 +1,256 @@
+body, td, th {
+  font: 12px Helvetica,Arial,sans-serif;
+  line-height: 1.62; }
+
+input, button, textarea, select, optgroup, option {
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit; }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+ul, ol {
+  list-style: none; }
+
+input {
+  font-size: 12px;
+  margin-right: 3px;
+  vertical-align: middle; }
+
+a {
+  cursor: pointer; }
+
+.nav {
+  width: 100%;
+  min-width: 1040px;
+  overflow: hidden;
+  zoom: 1;
+  margin-bottom: 40px; }
+  .nav .nav-wrap {
+    border-bottom: 1px solid #e5ebe4; }
+  .nav .nav-primary {
+    width: 1040px;
+    margin: 0 auto;
+    overflow: visible !important;
+    position: relative;
+    padding: 10px 0 5px;
+    zoom: 1; }
+  .nav .nav-logo {
+    float: left;
+    height: 56px;
+    width: 145px;
+    margin: 0 13px 0 0; }
+    .nav .nav-logo a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      line-height: 100em; }
+      .nav .nav-logo a:hover, .nav .nav-logo a:active {
+        background: none !important; }
+
+legend {
+  color: #000; }
+
+label {
+  font-family: Tahoma;
+  vertical-align: middle; }
+
+fieldset {
+  border: 1px solid #ddd;
+  padding: 0 10px;
+  margin-bottom: 15px; }
+  fieldset img {
+    border: 0; }
+  fieldset legend {
+    color: #666;
+    padding: 0 5px; }
+
+.nav-search {
+  margin-left: 145px;
+  overflow: visible !important;
+  position: relative;
+  zoom: 1;
+  padding: 10px 0 15px 0; }
+  .nav-search fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+    position: static; }
+  .nav-search legend {
+    display: none; }
+  .nav-search label {
+    position: absolute;
+    left: 11px;
+    top: 10px;
+    line-height: 30px;
+    cursor: text;
+    color: #bbb;
+    width: auto; }
+  .nav-search .inp {
+    float: left;
+    width: 470px;
+    height: 34px;
+    text-align: center;
+    margin-right: -3px;
+    cursor: text; }
+    .nav-search .inp input {
+      background: #fff;
+      width: 96%;
+      margin: 0;
+      text-align: left;
+      height: 30px;
+      padding-left: 10px;
+      height: 28px\9;
+      line-height: 28px\9;
+      outline: none; }
+  .nav-search input {
+    -webkit-appearance: none;
+    border: none;
+    background: transparent; }
+  .nav-search .inp-btn {
+    position: relative;
+    left: -1px;
+    width: 37px;
+    height: 34px;
+    zoom: 1;
+    overflow: hidden; }
+    .nav-search .inp-btn input {
+      width: 100%;
+      height: 100%;
+      font-size: 0;
+      padding: 35px 0 0 0;
+      overflow: hidden;
+      color: transparent;
+      cursor: pointer; }
+
+form {
+  margin: 0;
+  padding: 0;
+  border: 0px; }
+
+.nav-secondary {
+  width: 1040px;
+  margin: 0 auto;
+  padding-bottom: 0;
+  overflow: hidden;
+  zoom: 1; }
+  .nav-secondary .nav-items {
+    float: none;
+    zoom: 1;
+    font-size: 14px; }
+  .nav-secondary:after {
+    content: '\0020';
+    display: block;
+    clear: both; }
+  .nav-secondary ul {
+    margin: 9px 0; }
+  .nav-secondary li {
+    display: inline;
+    margin-right: 25px; }
+
+@media (max-width: 1024px) {
+  .nav {
+    min-width: 1024px; }
+  .nav .nav-primary,
+  .nav .nav-secondary {
+    width: 1000px; } }
+
+.nav-srh .inp {
+  position: relative;
+  z-index: 40; }
+
+#search_suggest {
+  background: #fff;
+  border: 1px solid #ddd;
+  position: absolute;
+  z-index: 99;
+  top: 32px;
+  width: 302px;
+  border-top: 0 none; }
+  #search_suggest li {
+    border-bottom: 1px solid #eee;
+    overflow: hidden; }
+    #search_suggest li:last-child {
+      border-bottom: 0 none; }
+    #search_suggest li.curr_item {
+      background: #efefef; }
+    #search_suggest li a {
+      color: #999;
+      display: block;
+      overflow: hidden;
+      padding: 6px;
+      zoom: 1; }
+      #search_suggest li a:link, #search_suggest li a:visited {
+        text-decoration: none; }
+      #search_suggest li a:hover {
+        background: #f9f9f9;
+        color: #999; }
+      #search_suggest li a em {
+        font-style: normal;
+        color: #369; }
+    #search_suggest li p {
+      margin: 0;
+      zoom: 1;
+      overflow: hidden; }
+    #search_suggest li img {
+      float: left;
+      margin-right: 8px;
+      margin-top: 3px; }
+    #search_suggest li.over {
+      background: #fbfbfb; }
+
+#search_suggest {
+  width: 468px;
+  margin-left: -5px;
+  margin-top: 2px; }
+
+#db-nav-movie {
+  position: relative;
+  background-color: #f0f3f5; }
+  #db-nav-movie .nav-wrap {
+    border-color: #e3ebec; }
+  #db-nav-movie .nav-logo {
+    background: url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie_a12_2.png) no-repeat 0 12px;
+    background-image: -webkit-image-set(url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie_a12_2.png) 1x, url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie@2x.png) 2x);
+    background-image: -moz-image-set(url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie_a12_2.png) 1x, url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie@2x.png) 2x);
+    background-image: -ms-image-set(url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie_a12_2.png) 1x, url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie@2x.png) 2x);
+    background-image: -o-image-set(url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie_a12_2.png) 1x, url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/lg_movie@2x.png) 2x); }
+  #db-nav-movie a:link, #db-nav-movie a:visited {
+    color: #27a;
+    text-decoration: none; }
+  #db-nav-movie a:active, #db-nav-movie a:hover {
+    background-color: #27a;
+    color: #fff; }
+  #db-nav-movie a.standbyme {
+    height: 96px;
+    width: 87px;
+    position: absolute;
+    top: 9px;
+    left: 50%;
+    margin-left: 220px;
+    background: url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/standbyme_nav.png?s=1) no-repeat;
+    background-size: 100%;
+    background-color: transparent; }
+    #db-nav-movie a.standbyme:hover, #db-nav-movie a.standbyme:visited, #db-nav-movie a.standbyme:active {
+      background-color: transparent; }
+  #db-nav-movie a.movieannual {
+    position: absolute;
+    width: 186px;
+    height: 96px;
+    top: 10px;
+    left: 50%;
+    margin-left: 200px;
+    background: url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/annual_2021.png) center/contain no-repeat; }
+    #db-nav-movie a.movieannual:hover, #db-nav-movie a.movieannual:visited, #db-nav-movie a.movieannual:active {
+      background-color: transparent; }
+
+.nav-search .inp {
+  background-image: url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/nav_mv_bg.png?s=1); }
+
+.nav-search .inp-btn input {
+  background: url(//img3.doubanio.com/dae/accounts/resources/3e96b44/movie/assets/nav_mv_bg.png?s=1) no-repeat 0 -40px; }

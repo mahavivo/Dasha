@@ -1,0 +1,31 @@
+
+              Do(function(){
+                $("html").delegate(".thing-like-note-fav .btn-fav","click",function(d){var c=$(this);var a=c.attr("data-object_id");var b=c.hasClass("fav-cancel")?1:0;if(c.hasClass("stat-processing")){return}$.ajax({type:b?"delete":"post",url:"/j/note/like_thing_note",data:{note_id:a,ck:get_cookie("ck")},dataType:"json",success:function(e){}})});
+              });
+            ;
+    
+  Do(function() {
+    $(document).delegate('.mod-usercard .lnk-contact-add', 'click', function(e) {
+        e.preventDefault();
+        var el = $(this);
+        if(window._USER_ABNORMAL) {
+          window.show_abnormal && window.show_abnormal()
+          return
+        }
+        if (el.hasClass('processing')) {
+            return;
+        }
+        el.addClass('processing');
+        $.post_withck('/j/contact/addcontact', {
+        people: el.data('id'),
+        from: el.data('source')
+        }, function(r) {
+            el.removeClass('processing');
+            if (!r.result) {
+                return;
+            }
+            el.replaceWith('<span class="usercard-followed">已关注</span>');
+        }, 'json');
+    });
+  });
+

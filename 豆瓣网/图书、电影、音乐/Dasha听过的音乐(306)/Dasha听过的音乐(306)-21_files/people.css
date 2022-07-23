@@ -1,0 +1,648 @@
+.list-s {
+    clear: both;
+    margin-bottom: 8px;
+    padding-left: 0;
+}
+
+.list-s li {
+    float: left;
+    text-align: center;
+}
+
+.list-m li {
+    border-bottom: 0;
+    padding-bottom: 18px;
+}
+
+.list-m li p {
+    padding-bottom: 5px;
+}
+
+.list-m li .dl-title:hover {
+    color: #fff;
+}
+
+.songlist-head {
+    padding:2px 0px;
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 0px;
+    *display: inline;
+    *zoom: 1;
+}
+
+#programme-question{
+    position: relative;
+    display: inline-block;
+    color: #259;
+}
+
+.no-songlist {
+    margin-top: 5px;
+    color: #666;
+}
+
+#programme-question .left-arrow {
+    top: 10px;
+    left: -7px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+
+    border-right:7px solid #3f4543;
+}
+
+#programme-answer{
+    position: absolute;
+    left: 80px;
+    top: -8px;
+    color: #fff;
+    width: 280px;
+    background-color: #3f4543;
+    opacity: 0.9;
+    padding: 5px;
+    font-size: 13px;
+    line-height: 14px;
+}
+
+.home-create-link {
+    float: right;
+    font-size: 13px;
+    height: 16px;
+    background: url(/f/music/52d379fae09d0daa16458613bd84ce8319996a75/pics/music/subject/icon_play.png) no-repeat -16px -31px;
+    _background: url(/f/music/cb6be1041773f76d0dd73f037b56949624b72159/pics/music/subject/icon_play_ie.png) no-repeat -16px -31px;
+
+}
+
+.home-create-link a {
+    margin-left: 13px;
+}
+
+.songlist-nav {
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px dashed #ccc;
+    padding: 5px 0px;
+    *display: inline;
+    *zoom: 1;
+}
+
+.songlist-nav li {
+    float: left;
+}
+
+.songlist-nav .now a{
+    color: #111;
+    text-decoration: none;
+    background-color: transparent;
+    cursor: text;
+}
+.songlist-nav .first {
+    padding-right: 10px;
+}
+
+.songlist-nav .second {
+    padding-left: 10px;
+}
+
+.songlist-nav .create-link {
+    float: right;
+    font-size: 13px;
+    background: url(/f/music/52d379fae09d0daa16458613bd84ce8319996a75/pics/music/subject/icon_play.png) no-repeat -15px -33px;
+    _background: url(/f/music/cb6be1041773f76d0dd73f037b56949624b72159/pics/music/subject/icon_play_ie.png) no-repeat -15px -33px;
+}
+
+.songlist-nav .create-link a {
+    margin-left: 17px;
+}
+
+.songlist {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+.songlist li {
+    width: 100%;
+    padding: 22px 0;
+    border-bottom:1px dashed #ccc;
+    display:inline-block;
+    *display:inline;
+    *zoom:1;
+    margin-top: -6px;
+}
+
+.delete-sl-btn {
+    display: none;
+    float:right;
+    padding: 1px 3px;
+}
+
+.songlist .songlist-pic {
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+.songlist .songlist-pic .hover-tip{
+    display: none;
+    height:40px;
+    width: 40px;
+    background: #222 url(/f/music/f37636a8e1f529b189352fa39c916cb8fc7a1747/pics/music/songlist/icon_mine.png) no-repeat 0 0;
+    _background: #222 url(/f/music/aad585ab1bb722f598a80a21492cc0070d991305/pics/music/songlist/icon_mine_ie.png) no-repeat 0 0;
+    opacity: 0.85;
+    cursor: pointer;
+    filter:alpha(opacity=85);
+}
+
+.songlist .songlist-info {
+    margin-left: 18px;
+    display: inline-block;
+    width: 510px;
+    *display: inline;
+    *zoom: 1;
+}
+.songlist .songlist-info .title {
+    font-size: 15px
+}
+
+.songlist .songlist-info .count{
+    color: #999;
+    font-size: 15px;
+}
+
+.songlist .songlist-info .intro {
+    color: #666;
+    line-height: 18px;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    margin-top:16px;
+    margin-bottom: 2px;
+    word-break: break-word;
+}
+
+.songlist .songlist-info .sl-meta {
+    color: #999;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+.songlist .songlist-info {
+    color: #999;
+}
+
+.sub-list .list-s li {
+    width: 115px;
+    height: 155px;
+    *height: 154px;
+    text-align: left;
+}
+
+.musician-sub-list .list-s li {
+    width: 80px;
+    *height: 44px;
+}
+
+.info li span {
+    
+    
+}
+
+.item .title {
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+.gray-font {
+    color: #666666;
+}
+
+.grid-view {
+    border-top: 1px solid #d9d9d9;
+    padding-top: 21px;
+}
+
+.gray-bottom-border {
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.grid-view .item .pic {
+    width: 120px;
+}
+
+.grid-view .item .pic img {
+    max-height: 100px;
+    max-width: 80px;
+}
+
+.grid-view .item .info {
+    width: 462px;
+    padding-right: 8px;
+}
+
+.grid-view .item .info .title{
+    font-size: 17px;
+}
+
+.grid-view .item {
+    border-bottom: 0;
+    margin: 0 0 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #ddd
+}
+
+#music-update .item .info {
+    float: left;
+}
+
+#music-update .item .info .start-radio {
+    width: 48px;
+    height: 18px;
+    display: inline-block;
+    float: right;
+    margin-right: 30px;
+    background: url(/f/music/6b5839f7fb1e9e14057315f4277ca061575093a7/pics/music/radio_8_gray-1.jpg) no-repeat transparent;
+}
+
+#music-update .item .info li {
+    padding-top: 6px;
+    padding-left: 22px;
+}
+
+#music-update .item .info .title {
+    font-size: 13px;
+    padding-left: 0;
+}
+
+.comment-item {
+    margin-bottom: 30px;
+}
+
+.comment-item .pic {
+    width: 80px;
+    margin-right: 10px;
+}
+
+.comment-item .pic img {
+    max-width: 80px;
+}
+
+.comment-m .comment-item h3 {
+    background: url(/f/music/70a9038a4896673ada4333447634566da3c2a7f9/pics/topicbar.gif) scroll 10px 0 transparent;
+    height: 24px;
+    padding: 3px 0 0 11px;
+    margin-left: 13px;
+}
+
+.comment-m .comment-item .review-album-title {
+    margin: 13px 0 24px 13px;
+}
+
+.comment-m .comment-item p {
+    margin: 0 0 0 13px;
+}
+
+.comment-m .comment-item .review-create-time {
+    float: right;
+    color: #797979;
+}
+
+.comment-m .comment-item .review-comment {
+    margin: 15px 0 15px 13px;
+}
+
+.comment-m .comment-item .review-stat {
+    margin: 15px 0 15px 13px;
+}
+
+.comment-m .comment-item .review-stat .rec-review {
+    float: right;
+}
+
+.comment-m .comment-item .review-stat .rec-review .rec-review-mix {
+    display: inline;
+}
+
+.comment-m .comment-item .review-stat .rec-review .rec-sec {
+    display: inline;
+}
+
+.comment-m .comment-item .content img { margin-right: 10px }
+
+.review-title .title {
+    float: left;
+}
+
+#db-music-mine .mod {
+    margin-bottom: -2px;
+}
+
+#db-music-mine #artists,
+#db-music-mine div.singles,
+#db-music-mine div.doulist {
+    margin-bottom: 38px;
+}
+
+#db-music-mine #artists dl {
+  margin: 0 21px 10px 0;
+  width: 95px;
+}
+#db-music-mine #artists dl:last-child {
+  margin-right: 0;
+}
+
+.collected_single a {
+ font-size: 13px;
+}
+
+#db-music-mine .list-s {
+}
+
+#db-music-mine .list-s li {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    margin-bottom: 38px;
+    padding-right: 25px;
+    _float:none;
+}
+
+#db-music-mine .album-img {
+    max-width: 115px;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
+
+#db-music-mine .list-s .interest-right {
+    padding-right: 0;
+}
+
+#db-music-mine #artists .list-s li {
+    display:inline-block;
+    *display:inline;
+    zoom: 1;
+    width: 306px;
+    padding-right: 0;
+    overflow: hidden;
+}
+
+#db-music-mine #artists .list-s .artist-right {
+    width: 280px;
+    height: 80px;
+    padding-right: 0;
+}
+
+#db-music-mine #artists .list-s li .artist-pic {
+    width: 80px;
+    height: 80px;
+    margin-right: 16px;
+    display: inline;
+    zoom: 1;
+    float: left;
+}
+
+#db-music-mine #artists .list-s li .artist-brief {
+    overflow: hidden;
+    zoom: 1;
+}
+
+#db-music-mine #artists .list-s li .artist-brief a,
+#db-music-mine #musicians .list-s li a {
+    text-align: left;
+}
+
+#db-music-mine #artists .list-s li .artist-brief a:hover,
+#db-music-mine #musicians .list-s li a:hover {
+    color: #fff;
+}
+
+#db-music-mine #artists .list-s li .artist-brief p {
+    width: 190px;
+    _width: 180px;
+    text-align: left;
+    color: #797979;
+    margin-top: 2px;
+    overflow: hidden;
+}
+
+#db-music-mine #musicians .list-s li {
+    width: auto;
+    padding-right: 15px;
+}
+
+#db-music-mine h3 {
+    height: 30px;
+    color: #000;
+    margin: 0;
+    font-size: 13px;
+    background: none;
+}
+
+#db-music-mine h3 em {
+    float: left;
+    font-style: normal;
+    height: 20px;
+    padding: 0 10px;
+    background-color: #f2faf0;
+}
+
+#db-music-mine .album-title {
+    text-align: left;
+    padding-top: 9px;
+    height: 30px;
+    overflow: visible;
+}
+
+
+.music-user-profile {
+    background-color: #fff6ed;
+    padding: 18px 18px 15px 18px;
+    position: relative;
+    _zoom: 1;
+}
+
+.music-user-profile .username {
+    font-size: 17px;
+    display: inline;
+    position: absolute;
+    padding-left: 13px;
+}
+
+.music-user-profile .user-join-date {
+    font-size: 13px;
+    color: #797979;
+    display: inline;
+    position: absolute;
+    padding-left: 13px;
+    padding-top: 22px;
+}
+
+.music-user-profile .basic-info {
+    border-bottom: 1px solid #F5E9DB;
+    padding-bottom: 5px;
+}
+
+.music-user-profile .number-accumulated {
+    margin-bottom: 23px;
+    padding-top: 14px;
+    min-height: 1.5em;
+    _height: 1.5em;
+}
+
+.music-user-profile .number-item {
+    display: inline;
+    margin-right: 0.8em;
+}
+
+.music-user-profile .link-to-people-page {
+    color: #000000;
+    background-color: #FFE6CE;
+    border: 1px solid #D6B79D;
+    padding: 0 10px 0 10px;
+    margin-right: 13px;
+    height: 21px;
+    line-height: 21px;
+}
+
+.stream-more {
+    background: -moz-linear-gradient(-90deg, #FAFAFB 0pt, #F5F6F8 100%) repeat scroll 0 0 #F5F6F8;
+    cursor: pointer;
+    float: left;
+    font-size: 15px;
+    padding: 12px 0;
+    text-align: center;
+    width: 590px;
+}
+
+.stream-more img {
+    margin: 0 0 -2px 10px;
+}
+
+blockquote {
+    background: url(/f/music/3aa1569bf2c602f12f5744a65ff458d179c4c765/pics/quotel.gif) no-repeat left 2px;
+    margin: 0;
+}
+
+blockquote p {
+    display: inline;
+    background: url(/f/music/255fcb358bc814a4ee4eae37905c2a565da58ee9/pics/quoter.gif) no-repeat right top;
+    padding: 0 12px 0 0;
+    word-wrap: break-word;
+}
+
+#timeline-list blockquote {
+    margin: 0;
+}
+
+#timeline-list .status-text {
+    display: inline;
+    zoom: 1;
+    float: left;
+    width: 240px;
+    height: auto;
+    margin-bottom: 17px;
+}
+
+#timeline-list .status-text a {
+    float: none;
+}
+
+#timeline-list .status-text .start-radio {
+    width: 48px;
+    height: 18px;
+    float: right;
+    background: url(/f/music/6b5839f7fb1e9e14057315f4277ca061575093a7/pics/music/radio_8_gray-1.jpg) no-repeat transparent;
+}
+
+#timeline-list .status-img {
+    display: inline;
+    zoom: 1;
+    float: right;
+    width: 60px;
+}
+
+#timeline-list .status-quote {
+    color: #000;
+}
+
+.aside .doulist {
+    padding-top: 20px;
+}
+
+.aside .doulist p {
+    _float: left;
+}
+
+.aside h2 {
+    padding-bottom: 8px;
+}
+
+.dj_hzlist{
+
+}
+.dj_hzlist li{
+    position:relative;
+    height:20px;
+    line-height:20px;
+    border-bottom:1px dashed #ccc;
+    margin-top:10px;
+    white-space:nowrap;
+    overflow: hidden;
+}
+.dj_hzlist li em{
+    position: absolute;
+    height:20px;
+    line-height:20px;
+    padding:0 5px;
+    background:#fff;
+    top:0;
+    right:0;
+    text-align:right;
+    color:#aaa;
+}
+
+.fm-info-list .fm-info-icon {
+    float: left;
+    height: 26px;
+    width: 26px;
+}
+
+.fm-info-list li {
+    padding: 22px 0;
+    border-bottom: 1px dashed #ccc;
+}
+
+.fm-info-list li div {
+    line-height: 26px;
+}
+
+.fm-info-list li .fm-info-url {
+    font-size: 13px;
+    color: #1a1a1a;
+    margin-left: 10px;
+}
+
+.fm-info-list li .fm-info-url:hover {
+    color: #1a1a1a;
+    border-bottom: 1px solid #1a1a1a;
+    background: transparent;
+}
+
+.fm-info-list li:hover {
+    background-color: #f4fcf9;
+}
+
+.fm-info-head {
+    padding:2px 0px;
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 0px;
+}
+
+.review_short {
+    margin: 0 13px;
+}
+
+.review_full {
+    margin: 13px;
+}
