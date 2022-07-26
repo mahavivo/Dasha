@@ -1,0 +1,93 @@
+李魁贤译《三圣王》勘误
+
+Dasha 2008-07-29 01:14:06
+
+再说李魁贤，上次粗率阅读时，并未详细指出其具体讹误，正好今天（28日）下午Dasha修订完4年前的《三王来朝》旧译，好奇地看了一下他的《三圣王》，乃不揣揜陋，挑剔一下，亦可再次检查一下自己的阅读：
+
+曾经在荒漠的边界
+神的手掌张开
+如一枚果实，在夏季
+裸露其核仁，
+那是一桩奇迹：远方
+【起首是“Einst als”引出时间状语从句，此处以“da”引起为主句，“那是”的“那”，根据汉语阅读，变成了前面“神的手掌张开”，而德语原意是冒号后面的为“奇迹”】
+三圣王及一颗星
+认出了，且一路膜拜。
+【“认出了”，阙宾语，实际上是“互相认出”（erkannten sich）；“一路膜拜”，是错读了“begrüß[t]en sich”（互致问候）】
+
+途中的三王
+及照被万方的星，
+【“照被万方的星”，可以说是误读“der Stern Überall”，“Überall”和“der Stern”是同位语，那个星的名字叫“Überall”】
+星引导全体（不可思议！）
+【“引导”，似乎是将原文“zogen”（ziehen）读成了“zeigen”，此外，“（一颗）星”做主语，应该是没有读出“zogen”所表达的复数；“überlegs”（=überlege es），并非“不可思议”】
+右翼一王，左翼一王，
+指向一间寂静的马厩。
+【“指向”，估计是为了翻译出那个介词“zu”，但是，此句实际上是“die alle zogen zu einem stillen Stall”，“zu … ziehen”是“向……移动”】
+
+朝临伯利恒马厩
+携带的礼品何等齐全！
+【“Was brachten die nicht alles mit”，新德汉S. 833“nicht”条“加强惊叹的语气”： Was es nicht alles gibt! Was du nicht alles kanst!，所以，此句汉语应该是“他们真是把一切都带向……”】
+一步一声地前行，
+骑在黑马背上的，
+坐得好柔软舒适。
+走在右侧的
+是一位金光闪闪的男子，
+走在左侧的，开始
+随着晃荡又晃荡，
+且叮当又叮当，
+从悬挂在摇摆不定的指环上，
+一件圆状的银白事物，
+吸吐著全然的青烟。
+【“rauchen”的主语被他改成了介词“aus”所带的宾语“einem runden Silberding”。此外，此处的“ganz blau”，Dasha个人认为是状语，修饰“rauchen”的。手中两种英译却都像李魁贤一样读作“蓝色的烟”】
+照被万方的星
+【同第二节第二行】
+那么希奇地笑他们，
+且先行奔驰，而停在马厩上方，
+对马利亚说道：
+
+从非常陌生的国度
+我带来一群旅客。
+【“vieler Fremde”是“许多外国人”而不是“非常陌生的国度”；“Wanderschaft”是“旅行见闻”而不是“旅客”（Wanderer，漫游者）】
+掌权的三王，
+载重著黄金与水晶
+【因黄金与红璧玺（Topas不是Kristall）而schwer】
+沿路晒得脸黑而憔悴，——
+【“und dunkel, tumb und heidenhaft”，整句全错，比较为难他的应该是“heidenhaft”（=heiden+haft）】
+不太令我惊讶。
+【“erschrick”是命令式】
+三王在家乡一共有
+十二千斤，单缺一个儿子，
+所以恳请你交出你的独子
+做为他们青空的太阳
+并安慰他们的王冠。
+【显然将“Thron”（王座）看成了“Krone”（王冠）】
+但你千万不可以为：
+你的儿子，仅是
+一位火花王子，异教酋长。
+【“Funkelfürst und Heidenscheich”：“funkel[n]”（闪烁）不是“Funke”（火花）；“Heidenscheich”（Heiden+scheich），穆斯林称之为“大教长”】
+想想看，路程遥远。
+他们长途跋涉，和牧者一般，
+当其时，他们的王国
+天晓得，竟在国内瓜熟蒂落。
+【Duden大词典“Schoß”条有例句：jmdm. in den S. fallen (jmdm. zuteil werden, ohne dass er sich darum zu bemühen brauch)】
+而当此马厩中，牡马对著耳朵
+【“während hier”的“während”是表示时间的介词；“der Ochs”是“公牛”不是“公马”（牡）】
+嘘气，如像西风般暖和，
+或许他们已一贫如洗，
+好像是群龙无首。
+为此以你的微笑
+减轻他们惑乱的负担，
+【应该是将原文的“licht”（“明亮的”，此处犹引申为“清醒的”）读成了“leicht”（轻的）】
+把你的颜面转向
+攀升的方向和你的儿子；
+【“Aufgang”是“通往入口的楼梯”、“上坡”、“上升[动作“上升”的名词]”】
+放在那边青丝中的，
+【“in blauen Linien”大意应该是“排成蓝色的一排排”】
+是遗留给你的礼品：
+【“verließ”（verlassen）是“抛弃”，不是“留下”】
+翡翠、宝石
+和满山满谷的土耳其玉。
+【三种宝石名，没有一种是准确的；“满山满谷的土耳其玉”（die Tale von Türkis）的“满”，也似乎是将“von”读成了“voll”】
+
+傻按：
+李魁贤译文出自：http://www.douban.com/subject/1361725/，106-110页
+里尔克原文参见：http://de.wikisource.org/wiki/Legende

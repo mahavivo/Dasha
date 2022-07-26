@@ -1,0 +1,206 @@
+部分里尔克诗歌汉译阅读札记
+
+Dasha 2008-06-28 15:49:23
+
+如下为Dasha个人观感，因学养有限，并非评判，仅为一家之言。
+
+民谣（绿原）：
+
+故乡之歌（绿原）：
+似乎绿原比较适合翻译里尔克早期诗歌，基本没有什么错误，但也没有了里尔克初为诗人那种音韵拘泥与辞采炫耀。
+
+催眠（陈敬容）：
+Zum Einschlafen zu sagen：陈据英译本转译，Dasha无意稽核其所据英译本以挑剔，仅比对德文（后同）与汉译的差异：“我愿向里里外外四下里倾听”（Und möchte horchen herein und hinaus），此处的“horchen...herein und hinaus”是在呼应第四行的“schlafaus und schlafein”，译成“里里外外四下”，并不能呼应前译“沉入又走出”。“时钟敲响着召唤每一个人”（Die Uhren rufen sich schlagend an），台湾郑秀陶骂绿原时（两人此前多番笔战，秀陶译里尔克，请参考李魁贤《里尔克诗集》(卷1) 第251页）专门分析过这首诗（http://www.myrilke.com/text.asp?ID=1385），此处正好是关键：“sich anrufen”是“互相呼唤”，“die Uhren”，是复数，整句是“钟呼唤钟”。“人们直看进时间的底蕴”（und man sieht der Zeit auf den Grund），“den Grund”，不仅像前面“夜凉如水”的“如水”一样涉嫌诠释过度，且失去了“底部”的具象。“惊起奇怪的犬吠数声”（und stört einen fremden Hund），同前，“一个陌生人惊扰了一只陌生狗”，本意全无。“他们轻轻扶着你让你离去”（und sie halten dich sanft und lassen dich los），“他们”，本指“双眼”，如此译法恐怕有歧义；此句原意是“握住你又放开你”，里尔克在同诗集“Das Buch der Bilder”里第一首最后一句有相同表述：lassen sie deine Augen zärtlich los。
+
+孤寂（杨武能）：
+Einsamkeit：“在深巷里昏暗的黎明”（wenn sich nach Morgen wenden alle Gassen），“sich wenden”没有译出。“当一无所获的身躯分离开来，/ 失望悲哀，各奔东西”（und wenn die Leiber, welche nichts gefunden, / enttäuscht und traurig von einander lassen），“各奔东西”为原文所无，同样，“这时孤寂如同江河，铺盖大地……”（dann geht die Einsamkeit mit den Flüssen...）也属于僭越原文。
+
+秋日（11种译本）：
+《秋日》汉译本：其中，“欧几”译本，为网友提供，后来考察PDG，发现正确名字为“欧凡”，《德语学习》杂志里频频出现的一个名字（遗憾的是Dasha修改了原帖，错讹却早已传播，始知小谬为害之烈）；译本出处：《中外现代抒情名诗鉴赏辞典》陈敬容主编  学苑出版社, 1989. 8. 第207页。此外，这个译本，至少还漏选了胡品清转译本（现代文学散论 / 胡品清撰. 文星书店, 1963年7月），可惜Dasha目前也未能搜集到。此外，冯至译本后，建议以发表前后为顺序排列：
+方思、[胡品清]、李魁贤、程抱一、施颖洲、陈敬容、绿原（邻笛集）、杨武能、飞白（外国名家诗选 / 邹绛编. 重庆: 重庆出版社, 1988年11月，第178页）、欧凡、北岛
+
+预感（杨武能）：
+Vorgefühl：“我犹如一面旗，在长空的包围中”（Ich bin wie eine Fahne von Fernen umgeben），“长空”原文为“Ferne[n]”（远方）。“我必须承受”（und muß sie leben），“leben”作为及物动词，Duden大词典释义：5. a) <mit einem Subst. des gleichen Stammes als Obj.> verbringen, zubringen; b) durchleben, vorleben, im Leben praktizieren.因此，译“承受”（tragen、übertragen）有些过分。
+
+三圣王（李魁贤）：
+Die Heiligen drei Könige：德语马太福音“Weisen aus dem Morgenland”对应的和合本文字是“博士来拜”，教徒通称“三王来朝”；“传说”：Legende，此处是“圣徒故事”（kurze, erbauliche religiöse Erzählung über Leben u. Tod od. auch das Martyrium von Heiligen）；正文，参考圣经，就能发现无数错译，兹随便举一例：“远方 / 三圣王及一颗星 / 认出了，且一路膜拜”（Fern / erkannten und begrüßten sich / drei Könige und ein Stern），“erkannten und begrüßten sich”中的“sich”此处不该作反身代词理解，应该理解为“彼此”，“彼此认出、彼此问候”，所以，“认出了，且一路膜拜”，不仅汉译失去了宾语，而且可以说没有弄清原文。至于“火花王子”（ein Funkelfürst）、“牡马对著耳朵 / 嘘气”（der Ochs ihr Ohr umschnaubt）等翻译，真的不知道该怎么评说了。
+其后的“最后的审判”（Das jüngste Gericht）许多神学专有名词皆有失准确，比如：“面包与葡萄酒”（Brot und Wein=饼与酒，荷尔德林的同名名诗的汉译亦因此满目错谬）、“而伤口般张开的教堂上方”（über Kirchen, die wie Wunden klaffen，Wunden=圣痕）。
+
+乞丐之歌（陈敬容）：
+Das Lied des Bettlers：“忽然间我宁愿把我的右耳 / 藏在我右手的掌心”（auf einmal leg ich mein rechtes Ohr / in meine rechte Hand），“宁愿”，原文无此情态，“藏”，原文为“legen”。“我的声音就好象无比陌生”（als hätt ich sie nie gekannt，我好像从不认识她[我的声音]）。
+
+早年的阿波罗（李魁贤）：
+Früher Apollo：“有如春日的晨曦常常 / 穿透过还是光秃的树枝”（Wie manches Mal durch das noch unbelaubte / Gezweig ein Morgen durchsieht, der schon ganz / im Frühling ist），“durchsehen”表达的并非“晨曦穿透树枝”。
+
+浪子出走（李魁贤）：
+Der Auszug des verlorenen Sohnes：“进入不稳的境界，/ 没有血缘的温暖的遥远大地，/ 在一切行为的背后有如布景 / 毫不动心”（Ins Ungewisse, / weit in ein unverwandtes warmes Land, / das hinter allem Handeln wie Kulisse / gleichgültig sein wird）；“这一切都是为自己争取而又放弃 / 也许把握的事物还是会掉落，/ 为了独自死去，不知道为什么——”（Dies alles auf sich nehmen und vergebens / vielleicht Gehaltnes fallen lassen, um / allein zu sterben, wissend nicht warum –），此二句，李犹未读通。
+
+佛（施颖洲）：
+Buddha：施颖洲据英译本转译此诗，是Dasha一直推崇有加的，但并不等于没有偏离原文之处。“我们屏气倾耳，寂无声息”（Wir halten ein und hören sie nicht mehr），大意应该是“我们停下脚步不再倾听她[远方]”，施颖洲自述据三种英译本，其一为“麦恩德《里尔克诗选》德英对照本”（Selected Poems: Bilingual Edition. tr. by C. F. MacIntyre），英译为“we draw back till we hear its depths no more”，施读英文犹误。“ein Tier”译成“龙象”，也有精研梵文或修习佛法的网友提出疑义。
+
+豹（冯至）：
+Der Panther（遗憾的是“der Panther”并非泛指普通的豹，而是通体黑色的性情凶猛的豹）：冯至此译文已成为大陆外国文学作品的经典必读。Dasha只有一个疑问：“在中心一个伟大的意志昏眩”（in der betäubt ein großer Wille steht），“betäubt steht”译成“僵立”还是“betäubt”形容词动用译成“昏眩”，更贴近里尔克此句的本意？程抱一在《和亚丁谈里尔克》93-97页有此诗的另种翻译与详细解析，可惜，此句翻译成“一个恍惚具有意志的中心”，却也乖违原文。
+
+欲盲的妇人（吴兴华）：
+Die Erblindende：“而且当人们最后立起来的时候，/ 谈着话，并且缓慢的就仿佛偶然 / 穿过许多的房间（人在喧笑，交谈）”（Und als man schließlich sich erhob und sprach / und langsam und wie es der Zufall brachte / durch viele Zimmer ging (man sprach und lachte), ），此整句方为“当……时候”。“在她明亮的双眸中充满了欢欣，/ 有外面投来的光明，如一池清水”（auf ihren hellen Augen die sich freuten / war Licht von außen wie auf einem Teich），整句可简化为“Licht war auf etw. wie auf einem Teich”，光（=die sich freuten）在她的眼睛上就像在池塘上。“她将要高飞，不再需两足的凭籍”（sie nicht mehr gehen würde, sondern fliegen），“两足的凭籍”（gehen），有些过度发挥了。
+
+蓝色绣球花（陈巍）：
+Blaue Hortensie：“宛如颜料坩锅里的最后一抹绿 / 叶子干瘪，枯萎，粗糙”（So wie das letzte Grün in Farbentiegeln / sind diese Blätter, trocken, stumpf und rauh），“颜料坩锅”（Farbentiegel）应该是汉语画家们不会说出的一个名词，准确译名，Dasha也没有查到。问过身边学过美术的朋友，他们说似乎也就是“油漆锅”、“颜料桶”什么的，没有定名；“diese Blätter”的“diese”不能省略。“Blütendolden”，“Dolde”是“伞形花序”，“Blütendolden”宜理解为“伞形花序的花朵”。“它们映出了蓝色哭泣过和大概的模样，/ 似乎想再度把它遗失”（Sie spiegeln es verweint und ungenau, / als wollten sie es wiederum verlieren），“sie”是“diese Blätter”，“es”是“ein Blau”，“它们”和“它”，在整句中可能指代不明；“蓝色哭泣过和大概的模样”，汉语大意似乎是“它们（叶片）流着泪、模糊（不精确）地映出它（蓝色）”。
+
+死亡（吴兴华）：
+Todes-Erfahrung（死亡经验）：“只要我们还挂念着人们的批评，/ 死亡也在演，却不管我们的厌恶”（Solang wir sorgen, ob wir auch gefielen, / spielt auch der Tod, obwohl er nicht gefällt），两个“gefallen”的翻译似乎不很准确。“然而当你离去，穿过一小条空隙 / 而离去，突然有一道真实的亮光 / 透入到我们舞台上”（Doch als du gingst, da brach in diese Bühne / ein Streifen Wirklichkeit durch jenen Spalt / durch den du hingingst），“da”起始后半句可简化为“ein Streifen Wirklichkeit brach in diese Bühne”，“一条真实穿过你所穿过的缝隙落到舞台上”。“一切绿色里 / 最真实的绿色，真实的林木，太阳”（Grün wirklicher Grüne, / wirklicher Sonnenschein, wirklicher Wald）犹让人误解为“绿色里有绿色、森林、阳光”，实际原文是“真绿的绿、真阳光、真森林”，此外，为押韵，将“Sonnenschein”（阳光）的位置后移，且转义为“Sonnen”（太阳），有些削足适履。“恐惧的背诵一些 / 困难学得的剧词”（Bang und schwer Erlerntes / hersagend），犹误译。“但你虽辽远不可接，/ 仿佛从我们剧本里用强力劫走，// 你的存在仍时时的将我们克服”（aber dein von uns entferntes, / aus unserm Stück entrücktes Dasein kann // uns manchmal überkommen），整句可简化为“dein Dasein kann uns überkommen”，“von uns entferntes”和“aus unserm Stück entrücktes”都是“Dasein”的定语——“überkommen”并非“überwinden”，而是“(von Empfindungen, Gefühlen) plötzlich u. mit großer Intensität ergreifen”；“von uns entferntes”，远离我们的不是“你”而是“你的存在”；“aus unserm Stück entrücktes”，“entrücken”犹无“用强力劫走”义。“使我们片刻就如同心神在空虚，/ 将生命演出”（so daß wir eine Weile hingerissen / das Leben spielen），“hingerissen”作为“hinreißen”的第二分词，表示“沉迷地”。
+
+最后的一夕（吴兴华）：
+Letzter Abend：“Letzter Abend”译成“最后的一夕”，犹可商榷。“Totenkopf”译成“死的头颅”很麻烦，“Totenkopf”应该是德军的“骷髅头”军徽，此军徽象征着一战中德国精锐“骷髅轻骑兵团”，因此，第一行很奥地利化的“der Train”（辎重队）没有译出也失去了指代涵义。整体“商籁”风格翻译得比较得体。
+
+最后的伯累若德大公逃出土耳其人的囚禁（吴兴华）：
+Der letzte Graf von Brederode entzieht sich türkischer Gefangenschaft：此处“letzt[e]”译“最后的”同上一首“Letzter Abend”一样，有待商榷。“像回到堡里人马向乱流中跃入”（es trug ihn in den Strom wie in sein Schloß），“驮着他进入潮流如同进入城堡”。
+
+罗马喷泉（李魁贤）：Römische Fontaine：“在古代的圆形大理石水盘 / 中央是互相重叠的二层器皿，/ 从上层流出的水缓缓 / 倾泻到下方承受的水面”（Zwei Becken, eins das andre übersteigend / aus einem alten runden Marmorrand, / und aus dem oberen Wasser leis sich neigend / zum Wasser, welches unten wartend stand），谨将第一节罗列，Dasha实在说不出其正确的地方。相较之下，此诗建议采用吴兴华译本（黎尔克诗选S.69）。
+
+转塔——卢森堡公园（吴兴华）：
+只是最后一行“an dieses atemlose blinde Spiel”的“Spiel”译成了“Spielzeug”，犹可挑剔。
+
+西班牙舞女（杨武能）：
+Spanische Tänzerin：“抽动着，展示出娴熟的舞姿”（ihr runder Tanz sich zuckend auszubreiten），杨将“ihr runder Tanz”（圆形的舞）理解为“娴熟的舞姿”。“她突然变成了一团火，千真万确”（Und plötzlich ist er Flamme, ganz und gar），此处的“er”并非指代“她”（舞女），“ganz und gar”的译法也很值得讨论。“那是她伸展的赤裸手臂，打着响板”（die nackten Arme wach und klappernd strecken），“wach und klappernd”的“wach”没有译成，所以将“klappern[d]”（蛇发出咝声）误读成“打着响板”。“随后，仿佛她嫌火焰太微弱”（Und dann: als würde ihr das Feuer knapp），“knapp”不是“微弱”，而是“[衣服]太紧”。相较之下，此诗建议采用吴兴华译本（黎尔克诗选S.75）。
+
+岛屿（绿原）：
+Die Insel:“这就是他们的目光接触到的所有， // 从童年时期起：对他们不适用的，/ 太大的，冷酷的，送来的，/ 这些进一步夸张了他们的孤独”（Und so ist alles was ihr Blick beschreibt // von Kindheit an: nicht auf sie Angewandtes, / zu Großes, Rücksichtsloses, Hergesandtes, / das ihre Einsamkeit noch übertreibt），整句话似乎绿先生没有读通。
+
+俄耳甫斯，欧律狄刻，赫耳墨斯（绿原）：
+Orpheus. Eurydike. Hermes：“在暗中看来沉重如班岩”（und schwer wie Porphyr sah es aus im Dunkel），第三行的“sein Dunkel”译成了“黑暗”，到这句“im Dunkel”（承接前面的“黑暗”）却又译成了“暗中”。“wesenlos”译成“空洞的”，有从德汉词典随意选出一个词义的嫌疑，并不符合诗中的意蕴。“Brücken über Leeres”译成“架空的桥”，犹违原意“架在虚空之上的桥”。此后译文，Dasha已无心校读。相较之下，建议采用吴兴华译本（黎尔克诗选S.79ff）。
+
+阿尔刻斯提斯（绿原）：
+绿原根本无力驾驭这样的长诗，相较之下，建议采用吴兴华译本（黎尔克诗选S.87ff）。
+
+扫罗在先知之间（吴兴华）：
+Saul unter den Propheten（扫罗列在先知中）：“此后有句俗语说，扫罗也列在先知中吗。”（撒上10:12； Jst Saul auch vnter den Propheten. Luther-Bibel 1545: 1Sam 10, 12）。“你难道以为这挫败他会肯承认”（Meinst du denn, daß man sich sinken sieht），犹与原文不符。“一直到后来神灵以如此的方式 / 降落到他身上，将他片片的撕开”（Erst da ihn der Geist auf solchen Wegen / überfiel und auseinanderriß），此句的“der Geist”不是“神灵”，更不是“圣灵”，而是“恶灵”（der böse Geist vom HERRN(Luther-Bibel 1545: 1Sam 19, 9)）。“他才向不受天佑的内心中凝视”（sah er sich im Innern ohne Segen），“天佑”，宜作“不受祝福”。“而他的血液在暗中悄悄地流开 / 仿佛迷信的奔向最后的审判去”（und sein Blut ging in der Finsternis / abergläubig dem Gericht entgegen），“in der Finsternis”译成“在暗中”，无法体现“暗黑”；“仿佛”，原文并无此种比喻；“Gericht”译成“最后的审判”（Das jüngste Gericht），擅自添加“最后的”，则完全扭曲了原意——“最后的审判”是基督对所有人的审判，而非对某一个人的审判。“现在他的嘴如向下滴水的预言”（Wenn sein Mund jetzt troff und prophezeite），“他的嘴此刻湿漉漉地，说着预言”。
+
+撒母耳显灵在扫罗面前（吴兴华）：
+Samuels Erscheinung vor Saul：“他自己已经像瞧见鬼魂的转回”（da war ihm schon, er hätte selbst gesehn），“鬼魂的转回”，不知何所据；应该是“扫罗没有等交鬼的妇人回答就看见了撒母耳本人”。“难道你因为上天已对你生嫌忌”（Willst du, weil dir die Himmel fluchen），“嫌忌”用词不妥。“想在我口里找寻得最后的胜利”（in meinem Mund nach einem Siege suchen），“最后的胜利”的“最后”属擅自添加。
+
+以斯帖（吴兴华）：
+Esther：“des Königs Macht”译“君王的威力”，不妥。“再加上君王的光亮变得更难担”（die schwerer wurden von des Königs Scheinen），“君王的光亮”，亦不妥。“而她昏迷的了解了，深深在心间”（und sie begriff es ohne Sinne, innen），“begriff es”此处应该解作“以斯帖便向前摸杖头”。
+
+海之歌（杨武能）：
+Lied vom Meer：“到不了人间”（du kommst zu keinem her），你来到这里，并不走向谁。“唯有孤独的失眠者， / 他必须考虑 / 如何将你承担”（wenn einer wacht, / so muß er sehn, wie er / dich übersteht），如果有谁还（在夜里）醒着，就一定要预想到怎样将你承受；“überstehen”不该译成“承担”（tragen）。“仿佛只为了巨岩”（nur wie für Ur-Gestein），“Ur”未译出。“啊，还有山顶上， / 目光中，一株繁茂的 / 无花果在全心将你体验”（O wie fühlt dich ein / treibender Feigenbaum / oben im Mondschein），一株无花果树在上方的月光中感受你。相较之下，建议采用林克译本（张玉书主编《外国抒情诗赏析辞典》1001-1002页）
+
+威尼斯的晚秋（李魁贤）：
+Spätherbst in Venedig：“可是从古老树木残骸的地面”（Aber vom Grund aus alten Waldskeletten），“Skeletten”不是“残骸”，是“骷髅”。“海军将领把军械库内部 / 奴隶船一下子增加倍数”（der General des Meeres die Galeeren / verdoppeln in dem wachen Arsenal），Dasha想都没想就知道这个“Arsenal”一定会错译成“军械库”，魏育青、绿原也是如此，“Arsenal”在威尼斯指称的是“造船厂”（Schiffswerft Venedigs）。“以便大舰队把翌日晨景 // 加以涂满，奋力荡桨前进 / 顺风扬着拂晓的旗帜， / 宿命地辐射般开驶”（um schon die nächste Morgenluft zu teeren // mit einer Flotte, welche ruderschlagend / sich drängt und jäh, mit allen Flaggen tagend, / den großen Wind hat, strahlend und fatal），错得离谱。如果能够容忍“Arsenal”的错译，魏育青、绿原译本应该比此译本强。
+
+蔷薇色绣球花（李魁贤）：
+Rosa Hortensie：“谁喜爱这些蔷薇色”（Wer nahm das Rosa an），“annehmen”没有“喜爱”义。“但在此蔷薇色下有绿意隐藏”（Doch unter diesem Rosa hat ein Grün / gehorcht），horchen＝倾听≠隐藏。
+
+火烈鸟（绿原）：
+Die Flamingos：除了有些费解，没有什么大错。
+
+苹果园（李魁贤）：
+Der Apfelgarten：“日落后就到苹果园来吧”（Komm gleich nach dem Sonnenuntergange），“到苹果园”为原文所无，添加也无大碍。“黄昏时草地的一片绿”（das Abendgrün des Rasengrunds），意译有些夸张。第二、三节翻译得比较乱，也只能怪里尔克写得太啰嗦。
+
+光荣的佛（李魁贤）：
+Buddha in der Glorie：此“die Glorie”是指佛教造像中头上的“光轮”；李魁贤错译甚多：“该受尊敬”（Sei gegrüßt=Sei mir gegrüßt）、“无穷远”（im Unendlichen）、“那边胀满浓厚的果汁几乎挤破”（dort steht der starke Saft und drängt）、“因为你的太阳正好在头上”（deine Sonnen=复数）、“可凌驾太阳存续的物象”（was die Sonnen übersteht；über+stehen=站在其上空？）。
+
+眼泪，我夺眶而出的眼泪（陈巍）：
+Tränen, Tränen, die aus mir brechen：“Träger meines Herzens”译“心灵的支架”，“Herzhalter”也译“心灵支架”——宜作区别。“倘若我也说话”（Wenn ich auch spräche），“wenn...auch”，“即使”、“虽然”。
+
+被弃于心之山（绿原）：
+Ausgesetzt auf den Bergen des Herzens. Siehe, wie klein dort：应该没有什么大问题。
+
+悲叹（绿原）：
+Klage：“immer gemiedener”被引申为“越来越孤单”，没错，却少了“被回避”的无奈。“也许更其徒劳”（Mehr noch vergebens vielleicht），绿将“vergebens”读成adv.，因此译成“徒劳”，但是，将“vergebens”读成adv.，则句子不完整，是以Dasha读成“es vergeben mehr”，即“vergebens”为“vergeben es”的连写。“Jubel[s]”不该译成“欢乐”，应该是“欢呼”（laute Bekundung großer Freude durch Rufen, Jauchzen, Schreien）；后句“欢乐之树薄！拔业目床患姆缇爸?/ 最美的部分，是你使我 / 为看不见的天使所认识”（Schönster in meiner unsichtbaren / Landschaft, der du mich kenntlicher / machtest Engeln, unsichtbaren.），此句翻译得有些乱了。
+
+音乐（陈敬容）：
+An die Musik：“致音乐”，陈酷爱自主增删：将“die Nacht war kalt”（夜曾是凉的）译成“夜凉如水”、将“Der Knabe”译成“青春的梦”。第一节，译的亦步亦趋，语义无从连贯。“高出我们之上，向外寻找出路”（das, uns übersteigend, hinaus drängt），没有稽核所据英译本，但知与德文相距颇远。
+
+奇妙的词语：打发时光（陈巍）：
+Wunderliches Wort: die Zeit vertreiben：“有谁不担忧”（wen ängstigts nicht），“wen ängstigt es nicht”。“在哪里停留 / 何处是万物之中的最终存在”（wo ist ein Bleiben, / wo ein endlich Sein in alledem），“ein Bleiben”的是“停留这个动作的名词”（如同下一个问句“Sein”是“存在这个动作的名词”）；“in alledem”不是“（在）万物之中”。“白昼延缓，相对于 / 夜晚过后取得它的空间”（der Tag verlangsamt sich, entgegen / jenem Raum, der ihn nach Abend nimmt），“白昼在空间面前慢下脚步”、空间是“黄昏之后收下白昼的空间”（因白昼被收起，所以天黑了）。“山峦静谧，群星璀璨”（Berge ruhn, von Sternen überprächtigt），山峦因群星而überprächtigt；此句很让Dasha想起“die Fremdlingin unter den Menschen / Über Gebirgeshöhn traurig und prächtig herauf”（Hölderlin: Brod und Wein）。“在我野性的心里，/ 永恒在露天度过一宿”（in meinem wilden Herzen nächtigt / obdachlos die Unvergänglichkeit），“obdachlos”强调的是“ohne Wohnung”（无家可归）的状态，而不是“度过”；“die Unvergänglichkeit”强调的是“永生、不死”（Unvergänglichkeit=immortality），与“永恒、永在”（Ewigkeit=eternity）还是有一定差异的。
+
+丰饶角（绿原）：
+Das Füllhorn：“永远与我们的理解不相称”（unsrer Fassung immer ungemäßes），对于我们的理解来说永远不相适应之物。“die Gestalt”（格式塔、完形）译成“轮廓”似有些偏差。“敢情是这类果实的造形模样”（wäre Form dem Ausguß solcher Frucht），极其口语化的“敢情”，放在这里极其别扭。“Blüten”译成集合名词“花卉”，完全失去了形象。“一切有如虚构，几乎不可证明，/ 而又存在着，有如感想”（alle kaum beweisbar, wie Erdenkung, / und vorhanden, wie Gefühl），开始不知所云。“向它所充满的心头”（auf die Herzen, die er überfüllt），此处的“er”恐怕绿原并不知道指代的是什么。“不，她长生不老，巍然 / 而立，她的羊角满得盛不了”（Nein, sie steht in überlebensgröße / hoch, mit ihrem Horn voll übermaß），又开始译得不明不白。
+
+爱神（魏育青）：
+Eros：这个爱神不是那个光身子的阿芙洛狄特（维纳斯），而是后来手持弓箭背生翅膀的小孩小爱神艾洛斯（丘比特）。不过，魏育青此诗译得比较流畅，也没有什么错误。
+
+魔法（陈巍）：
+Magie：“Gebilde”不宜译成“图画”（Bild），宜译成“形象”（etw., was gebildet worden ist, sich gebildet hat）。“Asche”，灰烬；“Staub”，灰尘，陈巍兄以单音节的“灰”统领二词，很有意味，赞一个。“Zauber[s]”对应于“Magie”，译成“巫术”好些，PCGames里，也多如此对应；“巫师、魔术师”为“Zauberer”。“der unsichtbaren Taube”中的“Taube”承接上句的“Tauber”（雄鸽），译成“雌鸽”比“女伴”似乎要好些。
+
+是时候了……（绿原）：
+Jetzt wär es Zeit：此诗Dasha以前没有读过，绿原的汉译让Dasha吃了大亏。本以为“是时候了”就是“es ist Zeit”什么的，结果，搜索电子版到最后，才找到，“Jetzt wär es Zeit”，“现在该是时候了”。因此，绿原的第一句话不错都不可能了。“现在是时候了，诸神走出了 / 被居留的万物”（Jetzt wär es Zeit, daß Götter träten aus / bewohnten Dingen），“现在该是诸神走出他们居住的事物里的时候了”。“万物身上的沉睡者”（Schläfer in den Dingen），事物内的沉睡者。“欢快地起身了”（die heiter aufstehn），这个“了”字放在这里，真让人绝倒。
+
+偶像（绿原）：
+Idol：“像猫打盹的的神或女神”（Gott oder Göttin des Katzenschlafs），既然“女神”都强调了，为什么不强调“男神”呢。“却将这个诡谲的神遣返”（entläßt diesen verlisteten Gott），。
+
+锣（绿原）：
+Gong：“流浪者的匆匆上路”（Wanderers Sturz in den Weg），“Sturz”译得不对。此外，意思都对，但汉语Dasha实在没有德语读得明白。
+
+杜伊诺哀歌·哀歌之一（林克）：
+“究竟有谁在天使的阵营倾听，倘若我呼唤”（Wer, wenn ich schriee, hörte mich denn aus der Engel / Ordnungen），“Ordnung[en]”译“阵营”（本义“军营”，引申义“为了共同的利益和目标而联合起来进行斗争的集团”）极其不妥；将“schrie[e]”（sehr laut, oft unartikuliert rufen）译成“呼唤”（召唤，≈rufen），亦不妥。“一位天使突然攫住我的心”（es nähme / einer mich plötzlich ans Herz），“jmdn. ans Herz nehmen”，“将某人揽入胸怀”。“一个习惯培养成忠实”（und das verzogene Treusein einer Gewohnheit），首先，汉语此句的主语是“习惯”，导致下一句“它”的误指；“verzogene（verziehen = aus seiner normalen, üblichen Form bringen）”译成“培养”，不妥。“Weltraum”、“Weltinnenraum”是里尔克诗歌的重要概念，后者被刘小枫名之为“世界内部空间”（刘小枫: 诗化哲学. 山东文艺, 1986. 54页），在汉语哲学界因袭至今，因此，前者也应相应地译成“世界空间”林克此处与后面的《致奥尔弗斯的十四行诗（下卷）第1首》第三行同，皆按照“德汉词典”译成了“宇宙空间”。“夜岂不留驻人寰，/ 让人渴望，又令人略感失望，/ 哪一颗心不是艰难地面临它”（wem bliebe sie nicht, die ersehnte, / sanft enttäuschende, welche dem einzelnen Herzen / mühsam bevorsteht），。“恋人会轻松一些”（Ist sie den Liebenden leichter），。“你难道还不相信”（Weißt du's noch nicht），“你还不知道它”。“一阵琴声悠悠传来”（gab eine Geige sich hin），“sich jmdm. hingeben”（sich eifrig widmen od. völlig überlasse）。“你不是始终分心于期望”（Warst du nicht immer / noch von Erwartung zerstreut），因期待而心神恍惚。“仿佛一切 / 向你预示了一个爱人的来临”（als kündigte alles / eine Geliebte dir an），“预示来临”（durch bestimmte Anzeichen sein Herannahen erkennen lassen）应该是将“ankündigen”读成反身动词。“你让她何处藏身”（Wo willst du sie bergen），将此处的“sie”译成“她”，不仅无法指代其所当指代的后一句中的“die großen fremden Gedanken”，反而容易被误导到前一句的“一个爱人”（eine Geliebte）。“你就歌唱恋人吧”（so singe die Liebenden），按照词典基本释义将“die Liebenden”译成“恋人（们）”就完全背离了里尔克的本意，里尔克在“布里格手记”中多次对立使用“die Geliebten”和“die Liebenden”，前者通常指“受爱的男性”，后者则是“施爱的女性”，十首哀歌中，用法依然。“难道这些最古老的痛苦竟不能 / 让我们开窍”（Sollen nicht endlich uns diese ältesten Schmerzen / fruchtbarer werden），“开窍”一词，不知何所据；“fruchtbarer”，更加果实累累。“强大的呼声”（der riesige Ruf），不妥，“Ruf”此处同后文“上帝的（恩召）声音”（daß du Gottes ertrügest / die Stimme）。“或者一段碑文对你有所寄托， / 你觉得崇高，譬如在圣玛利亚·福莫萨 / 刚刚见到的墓碑。”（Oder es trug eine Inschrift sich erhaben dir auf, / wie neulich die Tafel in Santa Maria Formosa），这句话译乱了。“诚然这很奇异”（Freilich ist es seltsam），“es”指代此后共七行的五个由“zu”构成的动词不定式短语，译成“这”，很有歧义。“不再赋予 / 玫瑰，以及其他独特允诺的事物 / 人类未来的意义；不再是人们从前所是，/ 在无限恐惧的手掌之中”（Rosen, und andern eigens versprechenden Dingen / nicht die Bedeutung menschlicher Zukunft zu geben; / das, was man war in unendlich ängstlichen Händen, / nicht mehr zu sein），磕磕绊绊，应该是没有读通。“alle Alter”译“一切在者”，很费思量。
+
+如上，是Dasha对林克译十首哀歌的一首的厘清，其余九首，可值商榷之处并不低于这第一首。比如《第八哀歌》：“恋人接近死亡并惊异…… / 仿佛出于疏忽，对方的身后 / 已为他们开启……可是越过他 / 无人再前行，世界复归于他”（Liebende, wäre nicht der andre, der / die Sicht verstellt, sind nah daran und staunen... / Wie aus Versehn ist ihnen aufgetan / hinter dem andern... Aber über ihn / kommt keiner fort, und wieder wird ihm Welt），林克仅仅用汉语的“他”代替德语阳性的“ihn, ihm”，语法上可能挑不出错误，语义上却根本让人无法读懂。说实话，多次探问了若干德国人，Dasha也只能对这段话做出一家之言的解读。
+精力有限，且尚未能够称得上完全读通十首哀歌，就不再不自量力地挑剔林克了。哀歌十首全译本，迄今计有李魁贤（曾转译自日、英译本）、绿原、林克、张索时（转译自英译本）、黄灿然（转译自英译本）、刘皓明六种，从译文的准确性和可读性来看，林克译本，尽管错讹不在少数，仍是六种中最好的。“第六哀歌”，则建议采用黄用、唐文标译本（我永远年轻：唐文标纪念集 / 关博文编. 北京: 三联书店, 1995年12月. 152-166页）。如果能附上唐文标对里尔克的贬低，更好——土生土长的中国人，是无论如何也无法完全跨越文化障碍而充分理解一个欧洲人的。此外，唐文标过于想在里尔克的诗中寻找情感、意象、“借事物交流主题”，却忘了里尔克早说过“诗并非情感”（Verse sind nicht, wie die Leute meinen, Gefühle），也因不甚精通德语而无法体味、乃至更无法顾及里尔克诗歌音韵的完美。
+
+致奥尔弗斯的十四行诗（上卷）第1首（林克）
+没有语义错误。
+
+致奥尔弗斯的十四行诗（上卷）第3首（李魁贤）
+除了倒数第二行“In Wahrheit singen”误译为“在真实中歌唱”（真理），基本没有语义错误。但最后三行的翻译，却不是最好的。刘小枫《诗化哲学》中所引译文（刘氏称“《诗化哲学》中里尔克的一些诗出自张旭东的译笔”（刘小枫著;《拯救与逍遥》; 上海三联书店, 2001.前言第9页））极佳，可惜不全整。
+
+致奥尔弗斯的十四行诗（上卷）第9首（冯至）
+
+这首诗是Dasha认为冯至译里尔克最精准、传神的作品，音、律、意，除去将“Ton”为契合尾韵而生造出“音素”（时至今日，容易被误解为语言学术语）外，可谓完美。
+
+致奥尔弗斯的十四行诗（上卷）第10首（林克）
+“二者在人类的脸上 / 烙下了踌躇的时刻”（Beides bildet die zögernde Stunde / in dem menschlichen Angesicht），“beide[s]”径译成“二者”，指代不明；“bilden”译成“烙下”，有些远离原意且很残忍。
+
+致奥尔弗斯的十四行诗（上卷）第17首（冯至）
+
+这是老年冯至1991年译8首里尔克之一。“那筑造一切的根源”（all der Erbauten / Wurzel），一切筑造的根源。“妇女像琵琶轻弹”（Frauen wie Lauten），“弯曲成古琴一座”（biegt sich zur Leier）：将“Lauten”（琉特）译成“琵琶”，将“Leier”（诗琴）译成“古琴”，想像一下，音乐神奥尔甫斯像敦煌伎乐天一样拿着琵琶、像嵇叔夜一样手挥五弦，会是一件何等滑稽的事。此外，古琴的量词是“张”而不是“座”。
+
+致奥尔弗斯的十四行诗（上卷）第18首（林克）
+“机器却宣称自己 / 美名远扬”（doch der Maschinenteil / will jetzt gelobt sein），机器部分却渴望此时得到赞扬。“它能否从我们获取力量，/ 使自己不再偏狂， / 造福并效劳”（Hat sie aus uns auch Kraft, / sie, ohne Leidenschaft, / treibe und diene），不是疑问句；第一行的“auch”已经申明第一句是“伪装形式让步从句”；因此，此三行汉译语义有误。
+
+
+致奥尔弗斯的十四行诗（上卷）第19首（林克）
+
+同样，刘小枫《诗化哲学》中所引译文的译笔极佳，可惜不全整。“唯你先前的歌声”（währt noch dein Vor-Gesang），“Vor-Gesang”，“序唱”（主歌的前序）。“远在死乡的事物”（und was im Tod uns entfernt），“entfernen”，不是反身动词，也不是形容词，林克此处，承袭了冯至的误读。
+
+
+致奥尔弗斯的十四行诗（上卷）第21首（李魁贤）
+“久已倔强的树干”（langen / schwierigen Stammen），明显错译。
+
+致奥尔弗斯的十四行诗（上卷）第22首（林克）
+“否则停驻的 / 焉能启迪我们”（denn das Verweilende / erst weiht uns ein），有误。“哦，少年，切莫将勇气 / 投入迅捷之中， / 投入飞的尝试”（Knaben, o werft den Mut / nicht in die Schnelligkeit, / nicht in den Flugversuch），第三行“投入飞的尝试”，有歧义。
+
+致奥尔弗斯的十四行诗（下卷）第1首（林克）
+“始终为谋求自己的存在 / 而纯粹被交换的宇宙空间”（Immerfort um das eigne / Sein rein eingetauschter Weltraum），此句德语似可转写为“der Weltraum, der immerfort um das eigne Sein rein eingetauscht”，“um”不应理解为“为了……”。“一切可能的海，你最俭约——”（sparsamstes du von allen möglichen Meeren），如此翻译，应该是没有弄通“von”。“满载一度属我的场位”（voll noch einst meiniger Orte），将“Ort”的“场所、位置”合并成了“场位”，至少容易混同极度数学的专有名词。
+
+致奥尔弗斯的十四行诗（下卷）第9首（绿原）
+
+“他来势汹汹，/ 容光焕发地四下扩张，一如所有神性”（Er käme gewaltig und griffe / strahlender um sich, wie Göttliche sind），“汹汹”，贬义词，形容“真正悲悯的神”（der Gott / wirklicher Milde）？“一如所有神性”（wie Göttliche sind），不知所据。“一个悄悄游戏的娃娃”（ein still spielendes Kind），姑且认为此译文基本正确（这首诗明显比前面林克所译的要简单得多），但实在无法认同这是一首诗。
+
+致奥尔弗斯的十四行诗（下卷）第10首（林克）
+“它凿岩更粗犷，致力更果敢的建设， / 荣耀的手，别再炫耀更美丽的延宕。”（Daß nicht der herrlichen Hand schöneres Zögern mehr prange, / zu dem entschlossenern Bau schneidet sie steifer den Stein.），“延宕”，拖延；“Zögern”，踌躇、犹豫；“荣耀的手，别再炫耀……”，可以判定林克没有认出“der herrlichen Hand”为阴性第二格（无法作主语）；“prangen”在此处也没有“炫耀”的意思。
+
+致奥尔弗斯的十四行诗（下卷）第15首（林克）
+“无穷地倾诉一句话，纯净”（der unerschöpflich Eines, Reines, spricht），永不枯竭的一个（口）、纯净的一个（口），在述说。“于是话语 / 沿着你颌下的苍老 // 汩汩注人眼前的水池”（das dann / am schwarzen Altern deines Kinns // vorüberfällt in das Gefäß davor），漏译“schwarzen”。
+
+致奥尔弗斯的十四行诗（下卷）第19首（冯至）
+“一个旁观者却最后惊讶地理解还称赞 / 它长久的持续”（Daß doch einer, ein Schauender, endlich ihren langen Bestand / staunend begriffe und rühmte），“daß”引出的独立句所具有的语态被消灭。整首诗没有什么可太挑剔的地方，但感觉不如林克译本通畅。
+
+致奥尔弗斯的十四行诗（下卷）第25首（冯至）
+说实话，正是因为这首诗，让Dasha感觉到冯至的老迈：“那如此常常 / 已经来过的如今回来，又像是 / 新鲜的事物”（Jenes so oft / dir schon Gekommene scheint dir zu kommen / wieder wie Neues），“那如此常常已经来过的”，“那……的”，Dasha是分析了很久主谓宾定状补才弄明白。此句大意应该是“那些已经到来过的事物，（曾）让你感到频频出现，（如今）它们让你感到像新事物一样再次到来”，此句林克译文是“那早已来过多次的， / 你觉得它走来，又焕然一新”，应该完胜冯至。因此，此诗建议采用林克译本。
+
+致奥尔弗斯的十四行诗（下卷）第29首（李魁贤）
+“在过度充溢的暗夜里 / 要成为你的感受辐辏的魅力”（Sei in dieser Nacht aus Übermaß / Zauberkraft am Kreuzweg deiner Sinne），“Kreuzweg”：“bildliche od. plastische Darstellung des Kreuzesweges in vierzehn Stationen in einer Kirche od. im Freien, die von den Gläubigen betend abgeschritten werden. © 2000 Dudenverlag”（参详：http://de.wikipedia.org/wiki/Kreuzweg），所以，《新德汉词典》解释有“（德国迷信传说中）鬼怪聚会处”，所以里尔克说“Zauberkraft am Kreuzweg”（十字路口处的巫术法力）；李氏的“辐辏的魅力”，似乎只能解释为“聚集（=辐辏）的鬼怪力量（=魅惑力）”。“向静谧的大地告诉：我流畅”（zu der stillen Erde sag: Ich rinne），“我流畅”，让人感觉极其不流畅，仿佛吃了个苍蝇一般——“流畅”无论古汉现汉，都是“顺畅”义，“rinnen”却是“流淌”义（sich stetig u. nicht sehr schnell in nicht allzu großer Menge fließend irgendwohin bewegen）。
+
+
+
+vivo(落葉半牀，狂花满屋。) 2008-06-29 02:24:39
+V很久没学过德语，现在认识的单词急遽退化，粗略浏览了一遍，非常佩服Dasha认真细致、眼里容不得一粒砂的严谨精神。
+
+Dasha 2008-07-10 01:32:01
+补充，关于秋日译本，又发现张索时有据英译本转译一种，在《里尔克的绝唱》（张索时译. 天津: 百花文艺出版社, 2003年7月）前言12-13页。
+则迄今Dasha找到13种：
+冯至、方思、胡品清、李魁贤、程抱一、施颖洲、陈敬容、绿原（邻笛集）、杨武能、飞白（外国名家诗选 / 邹绛编. 重庆: 重庆出版社, 1988年11月，第178页）、欧凡、张索时、北岛
+
+按：胡品清译本已经蒙子不兄扫描，不日将email来，感激，以铭记。

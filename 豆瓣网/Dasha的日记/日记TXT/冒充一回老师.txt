@@ -1,0 +1,63 @@
+冒充一回老师
+
+Dasha 2012-01-13 12:37:52
+
+ 现实生活中，Dasha也常常被称为“X老师”，其实Dasha的身份与教师、教授无关，也与演艺界遥隔天海。
+日剧パンドラ里曾有句台词，大意是，被称为“せんせい”（老师）时，不会回答的是政客和律师，会回答的是医生和老师。
+之所以想到冒充，因为忽然想起当年读书时，我们的作业、试卷是老师批改的。那么，现在的译者，其译出的文字，谁在给他们批改？尤其那些“大师”、“高人”？他们如果参加语言考试，能拿满分/高分吗？出版社的编辑大多没有充当“せんせい”的能力，尽管也常常会被人尊为“せんせい”。那么，这些人译文的质量，谁下的判断？大概可能也许差不多就是不通外语的读者。所以，那天Dasha在豆友adieudusk的一篇日记的回帖中感慨：
+【Dasha的泰水老丈母娘，英语的26个字母也都不全，但她却没事儿就评价小侄女的英语老师教得好不好，她的标准是什么？她的权利是什么？】
+这次冒充老师，就批改一下里尔克“马尔特手记”倒数第二章的半句话吧：
+原文：da tritt sie noch einmal im spannenden Vorhimmel ein Gestalteter an
+方瑜：在天国的门前，基督的形象再度向她们显现
+魏育青：却在洞开的天国之门外遇见一位造物主
+钱春绮：在紧张的天国门口，却有一位采取人的姿态者再走近她们
+徐畅：却突然又在敞开的天堂之门前面遇见一位造物者
+曹元勇：并在天国门前充满期待的时候，她们再次遇到了有着人之形象的造物者
+[曹自称所据Linton英译：once again, expectant at the gate of heaven, they meet a palpable form]
+麦湛雄：并在天国大门之前充满期盼的时候，她们和人形的造物者再次相遇
+
+【Dasha开评】：
+1. “spannenden”，方瑜不知所据，但漏译；魏育青错成“洞开”；钱春绮“紧张的”不算错，但有歧义，应该是“令人紧张的”；徐畅挪移魏育青，改“洞开”为“敞开”，但“突然”却是将“noch einmal”误读成了“auf einmal”；曹元勇，比较复杂，首先Linton英译本将定语“spannenden”变成了状语，所以曹译“充满期待”倒也无可厚非；但是，曹的这个时间状语，却明显是将Linton英译本前句“when they awaited nothing more but the endless road”一直读到了“they meet a palpable form”前，可以说英语本身有歧义【但德语毫无歧义，可以顺道批判一下转译】，也可以说曹有误读；而自称据德语译出的麦湛雄，却与曹元勇一致，Dasha无语。
+2. “Vorhimmel”，此句的重中之重。先解释一下，这个词在当代的德语词典里是查不到的，但里尔克“读”过的Grimm词典里有，根据Grimm词典解释“nach der meinung einiger kirchenväter ein geringerer vorbereitender grad der künftigen seligkeit, gleichsam der vordere theil des himmels, in welchen die seelen der ohne empfang der taufe verstorbenen kinder u. s. f. kommen sollen”，此词源于早期教父神学，是“对未来幸福的预备”，指“天国的前面部分”（der vordere theil des himmels），可以理解为“天国接待室”。Collins德英词典将“Vorhimmel”解作“first heaven”。或谓英语德语同源，所以不懂德语则可以相信英译，实在是一件一厢情愿的事，此词的诸家英译：“the gate of heaven”（Linton）、“heaven's gate”（Norton）、“space before heaven”（Stephen Mitchell）、“the arching antechamber of heaven”（Burton Pike）、“place at the gates of heaven”（Michael Hulse），只有Burton Pike正确，所以当年Dasha就说Burton Pike译本是“迄今最好的英译本”。因此，汉译无一正确，也是可想而知的事了。当年贾慧蝶教授就在论坛里劝告Dasha不要执著于“Scheinsatz”一词究竟是什么意思，也许可能大概差不多就行。另，受里尔克耳提面命指导的法语译者Maurice Betz将“Vorhimmel”径译成“le ciel”（天国），估计是他这句也没问里尔克，里尔克也没看这一句，所以就这么糊弄了。所以，亲受原作者指导，也是一个伪命题——原作者就算熟悉翻译的目的语言，也不可能达到母语程度；译者虽有原作者撑腰，但自以为准确而没有询问原作者而导致错译的情况应该比比皆是。
+3. “Gestalteter”，魏、徐、曹、麦皆译成了“造物主/造物者”，魏、徐明显是没有读出“gestaltet”的第二分词含译，想当然地以为是“Gestalter”，曹所据英译本是“a palpable form”，而曹此句却跟汉译本跑了，麦不过在规避挪移曹译的痕迹；方瑜的“基督的形象”，不知何所据，日译本基本都译作“人の姿した者”；倒是钱春绮与日译本一致，或谓钱是使用“独和词典”翻译德语，应该是可能的。至于“人の姿した者”是否正确，则另当别论，“Gestalteter”字面意思就是“被塑造者”。
+
+
+
+采采卷耳 2012-01-13 14:11:39
+我觉得，钱的翻译是比较准确的，字面意义上，我用英德词典看的
+
+Dasha 2012-01-13 14:22:31
+是吗？那么请冰淇淋兄将“Vorhimmel”与“Gestalteter”的英译释义贴出来我们比对一下
+
+采采卷耳 2012-01-13 16:22:38
+Vorhimmel： Vorhölle, angebliche Zwischenzustände zu dem Leben jenseits.
+
+这个只找到德语的，和英语里“limbo" 意思相近，大概是介于地狱和天堂之间的一个中间的状态。
+因为只有信耶稣的人才能进天堂，那么不至于下地狱又不信耶稣（比如在耶稣出生之前的伟人之类的）的人死后去哪里呢，就去limbo这个地方
+
+Gestalteter：其动词原型为 gestalten:  to form, to shape, to configure
+
+好了，班门弄斧完毕 
+
+Dasha 2012-01-13 17:33:28
+“limbo”汉语译成“灵簿狱”，呵呵，离天堂远了些吧。而钱春绮仅仅译作“天国门口”；
+Gestalteter，钱春绮译成“采取人的姿态者”
+此二处，兄译文钱准确？至少在Dasha看来，他都不如兄准确。
+
+艾洛 2012-01-14 19:56:06
+Dasha兄，天国前殿 用来翻译VORHIMMEL是否合适？
+
+艾洛 2012-01-14 20:00:55
+另外，Gestalteter用被塑造者，似乎不如被造者，或者从本义来，被赋形者，取造化赋形之意。
+
+艾洛 2012-01-14 20:03:02
+因为Gestalt与希腊人所讲之形体又有莫大关系，我想还是要把一个 形 字凸显出来。不知君意如何？
+
+Dasha 2012-01-15 01:18:03
+嗯，这个“赋形者”不错，总比“被格式塔者”强。至于“Vorhimmel”，Dasha还在奢望到汉语文献奇缺的教父神学著作中找寻。
+
+颓加荡者(世俗与精神对立是人类终极悲剧) 2012-01-24 16:58:05
+Dasha老师，请问茨威格谁的译本最好？
+
+Dasha 2012-01-25 14:05:58
+Krank兄，兄的ID表明兄懂德语，茨威格的文字并不太复杂，还是看原文吧。因为译本毕竟是译本，此外，比对原文看译本，可以轻易判断出哪个译本更好

@@ -1,0 +1,79 @@
+句读之不知惑之不解
+
+Dasha 2010-07-20 15:41:00
+
+读SW，再次让Dasha感到“句读之不知惑之不解”的痛苦。德语的句读啊。
+
+
+SW II S. 353 f.
+
+Siehe der Dichter: ihn trug das Geschaute
+weil er sich willig umschrieb und umschrieb
+bis er gelöst in die leichtesten Laute
+über der Tiefe vor der allen graute
+auf dem schweren Hingehn trieb.
+
+上文，仅有一个冒号、一个句号，第三行判断为非整句，仅仅依据的是“gelöst”作为第二分词尚缺助动词，汉语语法书所谓带连接词的从句谓语动词必须位于句末（框形结构）基本就是白说，介词短语放在谓语动词后的，在里尔克、特拉克尔等人那里比比皆是……然后，最要命的是第四行，über der Tiefe vor der allen graute，如果动词不是grauen，读成“在渊深上空面对一切恐惧”（über der Tiefe vor der allen  Graute）并无不可，只不过grauen常用于无人称句，所以，"vor der allen graute"的“der”是前面阴性名词“Tiefe”的第三格代词，整个从句只是：bis er...trieb.
+
+Siehe der Dichter: ihn trug das Geschaute{,}
+weil er sich willig umschrieb und umschrieb{,}
+bis er gelöst in die leichtesten Laute
+über der Tiefe{,} vor der allen graute{,}
+auf dem schweren Hingehn trieb.
+
+哀哉。时人常谓里尔克难懂，其实里尔克未必难懂，而是《里尔克全集》让人难懂，乃至擅改原文：
+http://www.douban.com/note/80774928/
+
+诗人啊看吧：他被观察背负着
+因为他甘愿将自己改写又改写
+直到他在艰难的离去中无拘地
+在令一切人感到恐惧的深渊上空
+飘入轻盈至极的琉特。
+
+
+蓝色不忧郁(Gate gate paragate) 2010-07-20 15:42:24
+德语达人Dasha
+
+Dasha 2010-07-20 15:49:29
+唉，要是Dasha真是德语达人，就轻易看懂了，就不必抱怨啦
+
+蓝色不忧郁(Gate gate paragate) 2010-07-20 15:52:30
+就冲你读Zarathustra那股认真劲儿，就看得出你的德语已经和native speaker一样好了
+
+Doris1123(绿色梦) 2010-11-27 00:11:57
+偶然路过，惊讶lz竟是里尔克的忠实fans。
+上面这一段，请教lz，不知从哪首诗歌中摘下来的？
+看了下lz的翻译，第一句 ihn trug das Geschaute，Geschaute是二分词的名词化形式，此处应该是被动之意，动词原形schauen意思很丰富，这里无上下文，那么姑且直译是“被张望的”，trug是tragen过去式，译为“承载”，所以lz的第一句意思和原文出入太大。
+第三句，er gelöst in die leichtesten Laute，“Laute”在这里不是琉特琴，是der Laut“声响”的复数，从前面的形容词词尾变化可以看出，所以直译是“最轻的声响”。
+
+若lz愿意，希望拜读下整首诗，因为最近在读哀歌原诗，读了几首感觉里尔克的诗歌，一方面深入了解本人的精神气质很重要，另外一方面语言加工也要细，否则会大大扭曲原诗的思想。
+
+Dasha 2010-11-27 13:37:35
+糟糕，改来改去忘了改这个帖子。感谢Doris兄，Doris指正的，正是Dasha当初阅读有误的（当初OCR后校对时随便读的，然后Dasha先弄了SW III中的早期诗歌，近日刚刚返回SW II）。总之，Dasha是错了。改正稿如下：
+
+诗人啊看吧：被观察之物背负着他，
+因为他甘愿将自己改写又改写，
+直到他在艰难的离去中无拘地
+在令一切人感到恐惧的深渊上空
+飘入轻盈至极的音声。
+
+整首诗？Dasha在首帖里已经注明出处：SW II S.353f.（可惜豆瓣相册的图片太小），即《里尔克全集》第二卷353-354页，是里尔克1906-1926年“Entwuerfe”中的一首，因为是“Entwuerfe”，应该找不到“整首诗”，或者说，这就是整首诗。
+
+Doris兄在读哀歌原文，很是欣喜，渴望与兄交流阅读哀歌的心得。兄说“语言加工也要细”，诚然，很想知道兄用那个汉语词语应对“第一哀歌”等诗里的“Weltraum”。不知兄使用的哀歌底本是哪种，建议使用第一版（至少第五哀歌第三行的“zuliebe”在SW里的拼写成"zu Liebe"曾经引起Dasha若干朋友的误读）。
+
+Doris1123(绿色梦) 2010-12-03 16:18:31
+谢谢dasha兄的仔细回复，dasha兄读里尔克的钻研精神实在让人敬佩。
+重读了这首Entwurf，其中几处我的理解还是有所不同：
+觉得第三行的geloest应取“被溶解”之意，与第一行呼应，这里使用了loesen的二分词，但loesen 表溶解其后in应支配第三格，所以in die leichtesten Laute应是承接umschreiben的，表示方向，“把自己改写直至最轻的声响”。那么最后两行也和weil相关了，承接第二行诗进一步道来缘由；
+还有，Hingehen一词，在里尔克的其他诗里也多次出现，比如Todes-Erfahrung 的第一行“Wir wissen nichts von diesem 
+Hingehen，das nicht mit uns teilt”，如Der Schwan 的第二行“Dieses Muehsal， 
+durch noch Ungetannes schwer und wie gebunden hinzugehen”。这个词是日常用语，hin有表示方向的意思，到那里去，平常语里会说wohin，Ich gehe dorthin.在这里的语境里它带有诗人的人生理解，有宗教色彩，或许用中文的“人生归处”表达要好些。
+      那么全诗我是这样理解的：
+      看吧，诗人：所察之物容纳了他，
+      因他愿把自己改写又改写
+      直至溶入最轻的声响；
+      他在众人畏惧的深渊上空，
+      漂泊在艰难的归途上。
+
+以上一些阅读体悟，在这里与dasha兄分享，我读里尔克时间不长，对他的生平和经历的细节在慢慢了解中，还请dasha兄多多指教。
+至于weltraum，我还没找到汉语的合适词汇对应，在原诗中这个词牵扯太多作者的宗教思想和个人创作的因素，感到很难对应，或许只有直译加创作，不知dasha兄怎么看的？

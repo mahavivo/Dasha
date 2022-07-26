@@ -1,0 +1,55 @@
+第155页
+Dasha      评论     德语诗歌名家名作选读  4  2008-07-18 10:55:04
+
+书中第429-435页“附录：德语诗歌格律简介”，节译自：http://www.douban.com/subject/2284807/。尽管诗歌术语不太规范，但毕竟是第一种大范围介绍德语诗歌格律的文字。
+
+不过，近日再看到第155页（当初就以他的解释为标准了），却疑窦陡升。问题出现在Dasha近日研读的里尔克的“An Hölderlin”，其第一句就是：
+Verweilung, auch am Vertrautesten nicht, 
+ist uns gegeben
+
+里尔克正是在模仿Hölderlin：
+Doch uns ist gegeben,
+  Auf keiner Stätte zu ruhn
+
+谭在书中第155页将“uns ist gegeben”解释为“我们是被命运注定的”，而上海译文“新德汉”S.449“geben”条IV：etw. ist jmdm. gegeben 某人善于做某事。DGW：1. geben.(etw. ist jmdm. gegeben (als Anlage, natürliche Fähigkeit mitgegeben, etw. liegt jmdm.); mir ist es nicht gegeben, die Dinge leicht zu nehmen.) 2. <Adj.> a) vorhanden, vorliegend, bestehend: aus -em Anlass; im -en Fall (1. in diesem Fall. 2. gegebenenfalls); unter den -en Umständen; etw. als g. (feststehend) voraussetzen; Wir können also wohl als g. annehmen, dass er Ihnen einen Gefallen tat (Kemelman [Übers.], Freitag 16); (Math.:) eine -e Größe; b) passend, geeignet: sie ist dafür die -e Frau; zu -er Stunde; Wir werden die Angelegenheit zu -er Zeit verfolgen (Bieler, Mädchenkrieg 362); <subst.:> das ist das Gegebene (das Nächstliegende, Beste).
+
+于是，Dasha跑到Rilke.de的论坛求助，其回答是：
+Einerseits hat der "Duden" natürlich recht, nämlich dann, wenn es um eine "Fähigkeit" geht.
+Andererseits heißt es ja nicht "mitgegeben", sondern "gegeben". Und damit stellt sich die Frage nach dem Zeitpunkt dieser "Gabe": ist "Verweilen" eine Fähigkeit, das uns von Geburt an als Anlage "gegeben" sein müßte, oder ist es etwas, das die Umwelt uns während unseres Lebens "geben" müßte, damit es uns möglich würde?
+Damit wird wohl auch hieraus eine Interpretationsfrage:
+Warum ist uns "Verweilung, auch am Vertrautesten nicht, ... gegeben"?
+Liegt es daran, daß uns als Menschen eine solche "Fähigkeit" nicht mitgegeben ist?
+Oder liegt es daran, daß die Gesetze der "Welt" ein solches "Verweilen" nicht zulassen?
+
+Rilke schreibt allerdings "ist uns gegeben" (Zustandspassiv) und nicht "wird uns gegeben" (Vorgangspassiv).
+So gesehen, finde ich die englische Übersetzung "permit" (die wohl von einem "Zulassen" durch die "Umwelt" ausgeht) ein wenig problematisch: denn "is permitted" würde im Deutschen mit "wird zugelassen" wiedergegeben, und nicht mit "ist zugelassen, ist gegeben".
+
+
+Ich finde im Moment die Übersetzung mit "vouchsafe", gewähren, nicht schlecht. Denn auch was uns von Geburt an "mitgegeben" ist, wäre uns ja "gewährt" von demjenigen, der es uns mitgegeben hat... und da derjenige, der uns alles gewährt hat, uns (dadurch) auch "für etwas bestimmt" hat, kann man natürlich auch diesen Ausdruck zur Übersetzung heranziehen.
+
+Allerdings gibt es ja das viel einfachere englische Wort "given". Das trifft es am allerbesten, eben weil es nach so vielen Richtungen "offen" ist...
+
+http://www.rilke.de/phpBB3/viewtopic.php?f=12&t=3079 （二楼）
+
+而Hölderlin的“Hyperions Schiksaalslied”此处据德文汉译的，大致结果如下：
+“命定”（冯至）、“注定”（杨业治）、“注定”（钱春绮）、“有”（张威廉，大概是将“ist gegeben”理解为了“es gibt”）、“注定”（飞白）、“注定”（孙坤荣）、“注定”（潘子立）。
+
+貌似过于远离了“Fähigkeit”，也无以体现“geben”。
+
+
+vivo(落葉半牀，狂花满屋。) 2008-07-18 12:25:42
+厉害，可以大段写德文啦。
+
+Dasha 2008-07-18 13:33:53
+哪里，都是基本句型，偶尔模仿着用些虚拟式，也不知道语法上是否通顺。想必即使错了，德国人也都能懂，就像我们对待洋人说汉语那样。
+
+能工巧匠沙门哥(贾鸟德·喉塞音) 2008-08-13 10:29:28
+此书何故给4星？
+
+Dasha 2008-08-13 12:20:59
+因为汉语“德语诗歌格律简介”只此一家，别无分号:-(
+
+Dasha 2010-04-04 20:44:30
+兄谬赞了，当代德语，Dasha只读过些Botho Strauss的，德新社的消息也不曾认真阅读过，所以，只好“偷意”上个世纪初以前德国人的文本。
+
+傻以为“被命运注定”，却不如“被赋予”，“ist gegeben”本身的主语是不在场的，Schicksal也好，GOtt也罢，总之是我们所无法逃避的。

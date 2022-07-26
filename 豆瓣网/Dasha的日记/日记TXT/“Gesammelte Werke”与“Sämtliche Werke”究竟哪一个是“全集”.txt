@@ -1,0 +1,74 @@
+“Gesammelte Werke”与“Sämtliche Werke”究竟哪一个是“全集”
+
+Dasha 2012-04-04 23:49:45
+
+“Gesammelte Werke”与“Sämtliche Werke”究竟哪一个是“全集”，此前一直困扰Dasha。比如目前汉语中提到的“海德格尔全集”、“伽达默尔全集”，都是“Gesammelte Werke”，如果“Gesammelte Werke”与“Sämtliche Werke”都是“全集”，那么二者有什么区别呢？为什么德国人不仅仅使用其一？
+于是乎，今日心血来潮，进行了一番查考。“德汉词典”依据上海译文《德汉词典》、《新德汉词典》（《德汉词典》修订本）、《新德汉词典》（第三版）。
+
+Werk条“与形容词连用”例句（《德汉》1410页，《新德汉》1341页、《新德汉》第三版1522页）：
+Goethes ausgewählte [gesammelte (或sämtliche)] Werke 歌德选［全］集
+而在sammeln条（《德汉》1041页，《新德汉》980页、《新德汉》第三版1117页）“gesammelt”下：Goethes gesammelte Werke 歌德文集
+
+【傻按】：
+根据：
+1. Duden德语大词典，gesammelt=konzentriert，所以gesammelt=集中=集；另杜登-牛津德英词典（Duden-Oxford - Großwörterbuch Englisch）将“gesammelte Werke”对应为英语的“collected works”。
+2. Duden德语大词典，sämtlich <Indefinitpron. u. unbest. Zahlwort> [mhd. same(n)tlich, zu samt]: nachdrücklich für all，所以，sämtlich=全
+
+推测：
+德汉“sammeln”条的编写者【Sammlung是“集，文集，汇编、丛书”】精研了“sammeln”的涵义，因此审慎地将“gesammelte Werke”译成“文集”；而“Werk”条不是同一位编写者，对“sammeln”没有前者擅长，因此轻率地将“gesammelte Werke”理解成了“全集”。
+
+结论：Gesammelte Werke=文集；Sämtliche Werke=全集
+
+附图：
+
+
+《德汉》1041页
+
+
+《德汉》1410页
+
+
+《新德汉》980页
+
+
+《新德汉》1341页
+
+
+【傻按】《新德汉》第三版1117页扔在办公桌里，不再手边，不便扫描，而超星的两种电子版1117页皆为1119页，是以不贴图了。
+
+
+《新德汉》第三版1522页
+
+     
+
+Dasha 2012-04-05 00:57:07
+许多二货译将英语的“collected works”弄成“全集”。英语的“collect”，本就是“收集/集”的意思。
+
+[ e c h o ] 2012-04-05 01:58:52
+也有过此疑问，过后又忘了。。。这下学习了，谢谢！
+好认真的学术态度~！
+
+Dasha 2012-04-05 03:57:53
+“选集”在英语里是“selected”，在德语里是“ausgewählt”；“collected”意思可以理解为“汇集/汇编”。
+所以：
+Sämtliche Werke=全集=Completed Works
+Gesammelte Werke=集=Collected Works
+Ausgewählte Werke=选集=Selected Works
+Werke=著作/作品=Works
+
+Tuck 2012-04-05 08:54:51
+是complete works吧。。。
+
+Dasha 2012-04-05 09:15:00
+嗯，是Complete Works，顺手多敲了个D，该死，敲字的时候英语的sh有时还是会顺手敲出sch，看来英语真的不行了
+
+Tuck 2012-04-05 12:59:18
+哈哈。最怕的是把s读成sch。。。
+
+potato 2012-04-05 14:42:14
+敬佩Dasha的认真。以前也注意过，没有细想。学习了。作点画蛇添足吧：我觉得，除了查字典外，实际上也可以从内容来判定。以海德格尔和伽达默尔为例，海德格尔的书还在不断编辑、出版过程中，编者怎么敢号称收集了所有手稿，用上全集一词？编者用Gesammelte Werke，大概既是种谦卑，也想说明这样一个情况。而伽达默尔我们目前通常所见的是10卷本，这是他本人根据自己的文著选编的，实际他还有好多文章和书籍没有收入，显然也算不得全集，用Gesammelte Werke我想也是从这种角度讲的。我想，大概只有作家去世很久，他的文稿、著作、版本等被人研究透了（比如作了详细地考订），确定收入了现存全部文著后，德国人才会审慎地用上Sämtliche Werke吧？Sämtliche Werke是否多半和考订有关？比如尼采的考订版文著全集和书信全集用的就是Sämtliche Werke。如果海德格尔的Gesammelte Werke出版齐全后，再经过专家若干时间考订，再出版时也许就会用上Sämtliche Werke。
+
+Dasha 2012-04-05 16:45:50
+嘿嘿，独国人Schlegel说：
+Die Deutschen, sagt man, sind, was Höhe des Kunstsinns und des wissenschaftlichen Geistes betrifft, das erste Volk in der Welt. Gewiß; nur gibt es sehr wenige Deutsche.
+谨举Dasha一直在纠结的里尔克的SW吧，SW不仅只收录了很少量的书信，还阙脱大量诗稿，比如里尔克给第一个未婚妻Valley的，而这些手稿，二战以后就已经现身图书馆，而里尔克的SW最初6卷本是1955-1966年出版的、发展到最后7卷本的SW，是在1997年，Dasha所说的这些，仍未收录。

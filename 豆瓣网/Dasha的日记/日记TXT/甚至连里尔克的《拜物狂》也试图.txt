@@ -1,0 +1,92 @@
+甚至连里尔克的《拜物狂》也试图
+
+Dasha 2009-12-21 02:28:39
+
+12月21日，Dasha收到一封Email，正文如下：
+
+亲爱的朋友：
+您好！
+我在阅读阿多诺的一篇论文时，看到他评论里尔克的《拜物狂》（应该是诗歌），但我在您的网站上没有找到。由于您是这方面的专家，所以我想请问您是否知道它的出处和原文？谢谢！
+
+Dasha一头水雾，然后祭起google与Duxiu，得获结果如下：
+
+不好意思，里尔克没有诗名为《拜物狂》。Dasha手中没有阿多尔诺（Theodor W. Adorno）这篇《谈谈抒情诗与社会的关系》（Rede über Lyrik und Gesellschaft）的原文，这一页：
+http://books.google.com/books?lr=&cd=21&num=100&hl=DE&as_brr=0&id=8x4QAQAAIAAJ&dq=%22Auch+Rilkes+Dingkult+geh%C3%B6rt+in+den+Bannkreis%22&q=%22Auch+Rilkes+Dingkult%22
+无法显示“Dingkult”所在那一行，不知是“引号”还是“斜体”（标题）。但是，其后的“Dingkult”却是正常字体，所以，不该是诗歌标题：
+http://books.google.com/books?lr=&cd=21&num=100&hl=DE&as_brr=0&id=8x4QAQAAIAAJ&dq=%22Auch+Rilkes+Dingkult+geh%C3%B6rt+in+den+Bannkreis%22&q=%22die+%C3%A4sthetische+Schw%C3%A4che+dieses+Dingkults%22
+ 
+Dasha在这本书这一页找到你所读到的关于里尔克的引文：
+http://books.google.com/books?id=daCBQ9J5-5wC&pg=PA11&lpg=PA10&num=100&as_brr=0&hl=DE
+原文如下（126发信到你那里可能有部分乱码，请参考上页图片）：
+Die Idiosynkrasie des lyrischen Geistes gegen die Übergewalt der Dinge ist eine Reaktionsform auf die Verdinglichung der Welt, der Herrschaft von Waren über Menschen, die seit Beginn der Neuzeit sich ausbreitet, seit der industriellen Revolution zur herrschenden Gewalt des Lebens sich entfaltet hat. Auch Rilkes Dingkult gehört in den Bannkreis solcher Idiosynkrasie als Versuch, noch die fremden Dinge in den subjektiv-reinen Ausdruck hineinzunehmen und aufzulösen, ihre Fremdheit metaphysisch ihnen gutzuschreiben; und die ästhetische Schwäche dieses Dingkults, der geheimnistuerische Gestus, die Vermischung von Religion und Kunstgewerbe, verrät zugleich die reale Gewalt der Verdinglichung, die von keiner lyrischen Aura mehr sich vergolden, in den Sinn einholen läßt.
+ 
+此段对应的“伍蠡甫、胡经之的《西方文艺理论名著选编（下卷）》 ”汉译就是：
+抒情诗对物的超暴力的强烈憎恶和反感，是对人的世界被物化的一种反抗形式。自近代以来，商品对人的统治不断漫延，工业革命以后，这种统治已发展成为一股社会生活里左右一切的强大的势力。甚至连里尔克的《拜物狂》也试图纯粹主观地表现和剖析这种对人来说陌生的物；把它们比喻为美好的东西。《拜物狂》在审美意义上看是贫弱的，它具有一种诡秘的味道，把宗教与艺术杂揉在一起，但同时它也显示了物化世界的真正压力。没有任何抒情诗的神力能够赞美这种物化世界，使之重新变得有意义。
+ 
+“甚至里尔克的《拜物狂》”=“Auch Rilkes Dingkult”，这里，这个“Dingkult”应该指的是里尔克以《黑豹》（Panther，冯至译作《豹》）为代表的“Dinggedichte”（thing-poem，物诗，事物诗），而不是里尔克有诗名为“Dingkult”。
+ 
+好了，Dasha也就只能解释这些了，有什么疑问，请再来信。
+
+傻按：译者蒋芒，校订刘小枫 （李）伯杰
+
+
+甚至连里尔克的《拜物狂》……
+
+
+Auch Rilkes Dingkult gehört...
+
+
+蒋芒 译 刘小枫 伯杰校
+
+
+
+何家炜 2009-12-21 10:09:35
+关于里尔克的“Dinggedichte”（thing-poem，物诗，事物诗）之诗歌观念，查到一段译文："The thing is definite, the art-thing must be still more definite; removed from all accident, reft away from all obscurity, withdrawn from time and given over to space, it has become enduring capable of eternity. The model seems, the art-thing is." (from a letter to Andreas-Salomé, 8 August 1903)。
+
+在罗丹身边工作，一定发展了里尔克这一诗观。也更有“发现”法国象征派诗歌之“la poésie objective”（客观的诗）的不约而同、一拍即合。（不知里尔克第一次提到Dinggedichte是否就是给1903年给Andreas-Salomé的这封信，也不知道他怎么一来就写下了这个词，这里顺便请教dasha兄。盼有解啊！）
+
+关于“客观的诗”（la poésie objective），倒至少可追溯到兰波第一封“通灵人书信”（致其师乔治·伊藏巴尔，1871年5月13日）： 
+ 
+Un jour, j'espère, ——bien d'autres espèrent la même chose, ——je verrai dans votre principe la poésie objective, je la verrai plus sincèrement que vous ne le feriez! 
+（我希望有一天，——其他许多人也在期待着同样的东西，——我将在您的准则范围内看到客观的诗，我对待这种诗比您要来得更真诚！） 
+
+究竟什么是“客观的诗”，由兰波在通灵人书信里对“通灵诗人”的排名以及这句话自可得见：“然而窥察那不可见，谛听那不可闻，并不等于去再现死去的事物的精神，鉴于这一点，只有波德莱尔才是第一位通灵人，诗人之王，一位真正的神。” 
+
+何家炜 2009-12-21 10:36:08
+这段英译来自http://www.kirjasto.sci.fi/rmrilke.htm，其中thing、art-thing是斜体，斜体作用相当于“thing”、"art-thing"。不过这同一篇文字的开篇就说：Rilke created the "object poem" as an attempt to describe with utmost clarity physical objects. 
+被弄得有点糊涂了，如果里尔克“创造”的“Dinggedichte”就是“object poem”，那就是直译自poésie objective了。那么1903年之前，里尔克读了哪些法国象征派诗人或诗论文字？或者，这封写给Andreas-Salomé的信不是在这一年？ 
+再请教dasha兄！ 
+
+何家炜 2009-12-21 10:51:54
+还有个问题，好像在哪里看到“里尔克的咏物诗……”之类的说法，推想应是来自Dinggedichte；如果里尔克写的就是“咏物诗”，他还需要造出一个词来吗？
+
+Dasha 2009-12-21 10:58:59
+关于“Dinggedicht”，Kurt Oppert有“Das Dinggedicht: ein Kunstform bei Mörike, Meyer und Rilke”（物诗：莫里克、梅耶与里尔克的艺术形式，http://books.google.com/books?id=yyisPgAACAAJ）发表在1926年的《Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte, Band 4》（http://books.google.com/books?id=E4UUAAAAIAAJ&q=Dinggedicht&dq=Dinggedicht&lr=&hl=DE&cd=14），Dasha手中的《里尔克作品注疏集》第一卷（KA I）里有文“›Dinglyrik‹, sprachlicher Prozeß und Gedichtform”（“物抒情诗”，语言的进程与形式，http://books.google.com/books?id=7wJcAAAAMAAJ&q=Dinglyrik&dq=Dinglyrik&lr=&hl=DE&cd=2），文中指出，里尔克在1899年未出版的《时辰祈祷》（Das Stunden-Buch，Book of Hours）第一部“修士生活”（Das Buch vom Mönchischen Leben，The Book of Monastic Life）的最终稿里说：
+Als der Mönch die Bibel las an einem stürmischen Abende, da fand er, daß vor allem Tode die Ermordung Abels geschah. Und er erschrak tief im Herzen. Und der Mönch ging, da ihm sehr bange war, hinaus in den Wald und ließ alles Licht herein und allen Duft und die vielen frommen Geräusche des Waldes[,] welche lauter sangen[,] als seiner Gedanken wirre Reden waren. Und er hatte in einer nahen Nacht diesen Traum, für welchen er Verse erfand:
+初稿前有文：一个狂风大作的傍晚，修士阅读圣经时发现，亚伯谋杀事件发生在一切死亡之前。因此心中深感恐惧。惊恐万状之际，他走出去，走进林中，让一切光、一切清香和无数虔诚的森林之声进入身内，森林在高歌，仿佛在讲述纷乱的思想。当夜梦中，他得获如下诗句：
+
+“梦中，他得获如下诗句”（diesen Traum, für welchen er Verse erfand），被认为是里尔克最早形成“Dinggedicht”观念的文本。
+
+何家炜 2009-12-21 11:26:53
+好啊，原来里尔克的Dinggedicht这样来的！
+看来，当年里尔克似为着写一本罗丹的书而去巴黎，却迷恋上象征派诗歌，是有点冥冥中早几年前就注定了。
+好玩的是，这里的P705最后一行是“我不谈中国、日本和阿拉伯的抒情诗，因为我读不懂它……”这段译文虽未完整，逻辑上却已显得不清晰，由此让我联想到：Theodor W. Adorno在这里是否在回应某人的某文提到的中国、日本和阿拉伯的抒情诗与里尔克Dinggedicht之论述，而在中国来说，这类抒情诗就是叫“咏物诗”？因为，里尔克确实阅读过“中国、日本和阿拉伯的抒情诗”，但那是在接触poésie objective、更在“梦中，他得获如下诗句”多年之后了。
+
+Dasha 2009-12-21 11:28:10
+卫茂平有《“咏物诗人”里尔克》（http://www.myrilke.com/text.asp?ID=1654）。对于这种诗艺形式，KA I里那篇文字表述为：
+Wie der Bildhauer bei der Arbeit seine Modelle vor sich hat, so stellt sich der Dichter jetzt die unterschiedlichsten ›Dinge‹ der Welt vor Augen...
+如雕刻家在工作（傻按：承袭冯至的“工作而等待”，实际就是“劳动”、“创作”）中拥有模特一样，诗人也同样将最具差别的世界之“物”置于眼前……
+
+也就是说，里尔克试图将“语言”当作“造型艺术”的“材料”，进行“语言雕塑/造型”，这就是“物诗”（Dinggedicht）。“物诗”，而不是“咏物诗”（Gedicht auf das Dinge），更不同于我们古人的“托物言志”（Mit Dingen den Wille zu sagen）。
+
+Dasha 2009-12-21 11:39:40
+唉，为了修订《时辰祈祷》，Dasha扫描、并OCR了《里尔克全集》（SW）第三卷的“Gebet (1899, Ursprüngliche Fassung von Das Buch vom mönchischen Leben)”（祈祷，《修士生活》原始版本），也做了初步试译。
+
+Dasha 2009-12-21 12:04:08
+被弄得有点糊涂了，如果里尔克“创造”的“Dinggedichte”就是“object poem”，那就是直译自poésie objective了。
+
+英美人的研究，也就“so la la”，昨夜刚刚Dasha翻看某美人说“Frederick the Great (1194-1240)写出了‘驯鹰’的论文”，其实，“Frederick the Great ”指的是“Friedrich II”（http://en.wikipedia.org/wiki/Frederick_II_of_Prussia），而不是“Friedrich II”（http://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor），“玩鹰‘丧志’”的皇帝并未得获“der Große”（the Great）的谥号。
+
+何家炜 2009-12-21 13:27:27
+dasha兄辛苦了！
+关于Dinggedicht、la poésie objective、“物诗”，有空再讨论。——私下觉得这是个“现代诗”的关键词，乃至到上世纪后半叶的其他文学领域都有衍射。

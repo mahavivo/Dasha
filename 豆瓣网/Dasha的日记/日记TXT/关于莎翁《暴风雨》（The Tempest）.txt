@@ -1,0 +1,108 @@
+关于莎翁《暴风雨》（The Tempest）
+
+Dasha 2011-03-30 17:08:25
+
+Rilke1913年初在Ronda写了一首诗《Der Geist Ariel》，是阅读莎翁《暴风雨》的结果。根据里尔克的引文：
+Abtun, bloßes Dastehn
+mit nichts als eigner Kraft: »und das ist wenig.«
+可以断定，不懂英语的里尔克阅读的是August Wilhelm Schlegel的德语译本。《暴风雨》的《终场辞》（Epilogue），Schlegel的德语翻译如下：
+Epilog
+von Prospero gesprochen
+
+Hin sind meine Zauberei'n,
+Was von Kraft mir bleibt, ist mein,
+Und das ist wenig: nun ist's wahr,
+Ich muß hier bleiben immerdar,
+Wenn ihr mich nicht nach Napel schickt.
+Da ich mein Herzogtum entrückt
+Aus des Betrügers Hand, dem ich
+Verziehen, so verdammet mich
+Nicht durch einen harten Spruch
+Zu dieses öden Eilands Fluch.
+Macht mich aus des Bannes Schoß
+Durch eure will'gen Hände los.
+Füllt milder Hauch aus Euerm Mund
+Mein Segel nicht, so geht zu Grund
+Mein Plan; er ging auf eure Gunst.
+Zum Zaubern fehlt mir jetzt die Kunst;
+Kein Geist, der mein Gebot erkennt;
+Verzweiflung ist mein Lebensend',
+Wenn nicht Gebet mir Hülfe bringt,
+Welches so zum Himmel dringt,
+Daß es Gewalt der Gnade tut
+Und macht jedweden Fehltritt gut.
+
+Wo ihr begnadigt wünscht zu sein,
+Laßt eure Nachsicht mich befrein.
+可参看：http://www.zeno.org/Literatur/M/Shakespeare,+William/Kom%C3%B6dien/Der+Sturm/Epilog
+
+莎翁的“First Folio Edition”如下：
+Epilogve
+Spoken by Prospero
+
+Now my Charmes are all ore-throwne,
+And what strength I haue's mine owne.
+Which is most faint: now 'tis true
+I must be heere confinde by you,
+Or sent to Naples, Let me not
+Since I haue my Dukedome got,
+And pardon'd the deceiuer, dwell
+In this bare Island, by your Spell,
+But release me from my bands
+With the helpe of your good hands:
+Gentle breath of yours, my Sailes
+Must fill, or else my proiect failes,
+Which was to please: Now I want
+Spirits to enforce: Art to inchant,
+And my ending is despaire,
+Vnlesse I be relieu'd by praier
+Which pierces so, that it assaults
+Mercy it selfe, and frees all faults.
+    As you from crimes would pardon'd be,
+    Let your Indulgence set me free.
+至于“Which is most faint”译成德语后变成“Und das ist wenig”，用“wenig”对应“faint”，翻看了半天格林词典，Dasha有些气馁。
+
+莎翁《暴风雨》，目前汉译本大抵四种：
+
+
+                
+1. 朱生豪译本
+
+  
+                
+2. 梁实秋译本
+
+                
+                
+3. 孙大雨译本
+
+ 
+                
+4. 方平译本
+
+比照之后，Dasha最喜孙大雨译本，最憎梁实秋译本，《暴风雨》是朱生豪汉译莎剧的第一种，貌似不太成熟，而方平做了多年的朱译莎士比亚的校订工作，字里行间，基本是朱生豪的影子（为规避“爱丽儿”而改译“爱丽尔”也于事无补）。
+
+
+
+erophobia 2011-03-30 17:42:00
+
+确实用schwach会更合适，中文的话我会用 衰微 吧。
+
+SCHLEGEL译本的初版本我在国内淘到过。。。他用wenig确实是用描述代替了描摹，不过问题也不大啦。
+
+Dasha 2011-03-30 18:00:59
+wenig到Duden时代就剩下“数量少”的意思了（Grimm词典里很复杂），看来德国人读Schlegel译本还需要从德语再译成德语啦。
+
+withinbeyond(我善养吾中二之气) 2011-03-31 00:50:52
+莎翁的“First Folio Edition”如下：
+Epilogve
+Spoken by Prospero
+===================
+
+应该是Epilogue吧。
+
+withinbeyond(我善养吾中二之气) 2011-03-31 01:13:06
+啊我错了，原文果然是Epilogve。
+
+Dasha 2011-04-01 14:51:41
+Tempest是莎士比亚最后一部戏剧，这段Epilogue，似乎也可以读成莎士比亚对舞台的最后的道别。
