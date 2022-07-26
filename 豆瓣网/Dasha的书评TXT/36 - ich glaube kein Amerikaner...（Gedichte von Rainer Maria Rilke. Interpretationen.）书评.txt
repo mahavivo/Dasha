@@ -68,8 +68,6 @@ Dasha 2010-06-06 17:48:57
 “粉丝”的功力很令人敬佩：）
 不过，纠正一下标题的语法：Ich glaube keinem Amerikaner
 
-
-
 蓝色不忧郁(Gate gate paragate) 2010-09-16 22:21:45
 Dasha也会犯语法错误？
 
@@ -240,8 +238,8 @@ Dasha 2010-09-21 23:05:37
 借用Dasha年初请教过的另一位网友的回答继续讨论，蓝色忧郁兄不加入吗：
 这个问题不简单（我本人还没读到II 23）。
 初步分析：一种可能：Kurven des Flugs durch die Luft 和 die, die sie fuhren 是等值并列的主语。这个情况下，die不可能是Luft。sie是 Kurven。
-              另一可能：Kurven des Flugs durch die Luft und die...   "die Luft und die.."是等值同位的四格宾语. 这个情况下die是谁仍然不能确定，但是个被kurven既fuhren又穿过（durch）的物体。
-                durch 还得问：是“穿过“的意思还是“通过。。手段“的意思。这样全句的翻译又不同了。
+另一可能：Kurven des Flugs durch die Luft und die...   "die Luft und die.."是等值同位的四格宾语. 这个情况下die是谁仍然不能确定，但是个被kurven既fuhren又穿过（durch）的物体。
+durch 还得问：是“穿过“的意思还是“通过。。手段“的意思。这样全句的翻译又不同了。
 
 要确定答案当然还得更深入地分析。不过目前的分析显示了一点：里尔克的语法很困难，在语法很困难的情况怎么能确定意义和意境？中文翻译里尔克需要全新的解决方法。
 

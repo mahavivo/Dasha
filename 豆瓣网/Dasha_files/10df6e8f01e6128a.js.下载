@@ -1,0 +1,112 @@
+
+
+
+    
+    Douban.init_usr_donate = function(o) {
+      var donateUrl = $(o).attr('href'),
+      dlgWidth = 420,
+      dlgContent = '<div class="dlg-hd"><h3>{TITLE}</h3><a href="#" class="bn-dlg-close">x</a></div><iframe id="ifm-donate" src="' + donateUrl + '" frameborder="0" width="' + dlgWidth + '" height="230" scrolling="no">',
+      handleClick = function(e){
+        e.preventDefault();
+        show_dialog(dlgContent.replace('{TITLE}', '送小豆给' + this.getAttribute('data-user')), dlgWidth);
+        $('#dialog .bn-dlg-close').click(handleCloseClick);
+        return false;
+      },
+      handleCloseClick = function(e){
+        e.preventDefault();
+        close_dialog();
+      };
+      $(o).click(handleClick);
+    };
+
+
+;
+  Do(function(){var a=['<div class="popup-container hide">','<div class="popup-wrap">','<div class="popup-small">','<a class="close"></a>','<p class="popup-info">为确保你的帐户安全，并依《网络安全法》要求，<br/>操作前请先验证手机号。</p>','<div class="popup-btns">',' <a class="btn" href="javascript:;" target="_blank">前往验证</a>',"</div>","</div>","</div>","</div>"].join("");$("body").delegate(".js-verify-account","click",function(e){var t=$(this),i=t;if(window._USER_ABNORMAL)return e.preventDefault(),void(window.show_abnormal&&window.show_abnormal());var o=$(".popup-container"),r=i.attr("data-is-verified"),n=i.attr("data-verify-url");r&&"false"!=r.toLowerCase()?i.attr("href")&&i.attr("href").length&&(location.href=i.attr("href")):(e.preventDefault(),o.size()<1&&($("body").append(a),o=$(".popup-container")),o.find(".btn").attr("href",n),o.removeClass("hide"))}).delegate(".popup-container .close","click",function(){$(".popup-container").addClass("hide")})});
+;
+$(function(){
+    var intro_form = $('form[name="edit_intro"]')[0];
+    var intro_error = $('#intro_error');
+    var intro_disp = $('#intro_display');
+    var intro_action = $('#intro_disp_act');
+    var intro_action_a = $('#intro_disp_act a');
+    var intro_textarea = $('textarea[name="intro"]');
+    var intro_submit = $('#intro_submit');
+    var intro_cancel = $('#intro_cancel');
+
+    var introShow = function(t){
+            if(t != undefined){
+                intro_disp.html(t);
+                if (intro_disp.text() === ''){
+                    intro_action_a.text('添加自我介绍');
+                }else{
+                    intro_action_a.text('编辑');
+                };
+            }
+            $(intro_form).hide();
+            intro_disp.show();
+            intro_action.show();
+            intro_error.css('display', 'none');
+        }
+
+    var myEnableForm = function(){
+        $(intro_form).attr('disabled', 0);
+        $(intro_form).children('input,textarea').attr('disabled', 0);
+        intro_textarea.focus();
+    }
+
+    intro_textarea.elastic();
+
+    $(intro_form).submit(function(e){
+        e.preventDefault();
+        remote_submit_json(intro_form, function(r){
+            if (r.r === '0') {
+                introShow( r.intro );
+                intro_error.css('display', 'none');
+                intro_disp.css('font-style', 'normal');
+            } else {
+                intro_error.text(r.error);
+                intro_error.css('display', 'inline');
+                myEnableForm();
+            }
+        });
+        return false;
+    });
+
+    intro_cancel.click(function(e){
+        e.preventDefault();
+        $(intro_form).hide();
+        intro_disp.show();
+        intro_action.show();
+        intro_error.css('display', 'none');
+    });
+
+    intro_action_a.click(function(e){
+        e.preventDefault();
+        if(window._USER_ABNORMAL) {
+            window.show_abnormal && window.show_abnormal()
+            return
+        }
+        intro_disp.hide();
+        intro_action.hide();
+        $(intro_form).show();
+
+        myEnableForm();
+        intro_textarea.elastic();
+    });
+
+    $('.medal').each(function() {
+        var timer = 0;
+        $(this).hover(function() {
+            clearTimeout(timer);
+            $('.medal-bd').css('zIndex', 2);
+            $(this).find('.medal-bd').show()
+                                     .css('zIndex', 10);
+        }, function() {
+            var $this = $(this);
+            timer = setTimeout(function() {
+                $this.find('.medal-bd').fadeOut();
+            }, 500);
+        });
+    });
+
+});
