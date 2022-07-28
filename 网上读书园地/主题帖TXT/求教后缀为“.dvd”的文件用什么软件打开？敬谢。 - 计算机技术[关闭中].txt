@@ -1,0 +1,79 @@
+Gossudar 2006-9-27 12:51:14
+
+比如，Gossudar解压缩出如下文件：
+25000 Meisterwerke.000
+25000 Meisterwerke.001
+25000 Meisterwerke.002
+25000 Meisterwerke.003
+25000 Meisterwerke.004
+25000 Meisterwerke.005
+25000 Meisterwerke.006
+25000 Meisterwerke.007
+25000 Meisterwerke.dvd
+
+但找不到相应程序，仰望高手搭救。扩展名   说明
+DAT: 数据文件；WrodPerfect合并数据文件；用于一些MPEG格式的文件
+DB: Borland的Paradox 7表
+DBC: Microsoft Visual FoxPro数据库容器文件
+DBF: dBASE文件
+DBX: DataBearn图像；Microsoft Visual FoxPro表格文件
+DCM: DCM模块格式文件
+DCS: 桌面颜色分隔文件
+DCT: Microsoft Visual FoxPro数据库容器
+DCU: Delphi编译单元文件
+DCX: Microsoft Visual FoxPro数据库容器；基于PCX的传真图像；宏
+DEM: 用于表示数字高度模型的USGS基准的文件
+DER: 认证文件
+DEWF: Macintosh Sound Cap/Sound Edit录音设备格式
+DIB: 设备无关位图
+DIC: 目录
+DIF: 可进行数据互换的电子表格
+DIG: DigiLink格式；Sound DesignerⅠ音频文件
+DIR: Macromedia Director文件
+DIZ: 描述文件
+DLG: C++对话框脚本文件
+DLL: 动态链接库
+DLS: 可下载声音文件
+DMD: Visual dBASE数据模块文件
+DMF: X-Trakker音乐模块（MOD）文件
+DOC: Word文档
+DOT: Microsoft Word文档模板
+DRAW: Acorn的基于对象的矢量图像文件
+DRV: 驱动程序
+DRW: Micrografx Designer/Draw；Pro/E绘画文件
+DSF: Micrografx Designer VFX文件
+DSG: DOOM保存的文件
+DSM: Dynamic Studio音乐模块（MOD）文件
+DSP: Microsoft Developer Studio工程文件
+DSQ: Corel QUERY（查询）文件
+DSW: Microsoft Developer Studio工作区文件
+DTD: SGML文档类型定义（DTD）文件
+DUN: Microsoft拔号网络导出文件
+DV: 数字视频文件（MIME）
+DXF: 可进行互交换的绘图文件格式，二进制的DWG格式的文本表示；数据交换文件
+DXR: Macromedia Director受保护（不可编辑）电影文件
+
+
+qsuo 2006-9-27 13:47:06
+
+好象是DVD用cloneCD抓出的文件！
+可以用DAEMON Tools虚拟出来！
+
+没实际操作，楼主可以试试！
+
+
+Gossudar 2006-9-29 08:53:31
+
+唉，谢谢楼上跟帖。最后是用英语google出的结果，乃Unix、Linux类系统的分割文件：For a Linux server which has no high-capacity tape drive fitted but which does have access to a CD or DVD burner (either on-board or via another networked machine), and plenty of spare disc for some large temporary files, a useful and convenient alternative is to use multiple CDs or DVDs instead. 
+
+Although originally written for use with CDs, as of version 4.20 (and fsplit version 2.2), backup will now handle DVDs (using the -s size parameter). So wherever you see the abbreviation CD, just read that as CD or DVD, as appropriate. 
+
+
+Backup is a shell script that makes use of standard unix utilities such as find, sed, and cpio, plus a small file-splitter called fsplit (#) (source and Linux x86 executable included) to create a cpio backup archive of your system. The archive is created on your hard drive in the form of a series of files which can then be burned onto separate CDs or DVDs. 
+
+The default fragment size is still currently set to around 640 Mb so they can fit onto normal CDs, but as of version 4.20, this can be changed via "-s " to suit common DVDs (eg: -s 4.7). The chunk files are automatically named by backup by appending 000, 001 etc onto a date-derived file name base. 
+
+http://www.bluehaze.com.au/unix/cdbkup.html
+解决办法，用赫赫有名的ISOBuster  ：- Support Multi volume Image-file-format *.000, *.001, *.002, *.003, (made by Unix DD (or so they say))
+
+http://www.videohelp.com/tools?tool=ISOBusterISObuster目前最新版本1.9.1.1，特附注册机，已经用瑞星查杀，无病毒。

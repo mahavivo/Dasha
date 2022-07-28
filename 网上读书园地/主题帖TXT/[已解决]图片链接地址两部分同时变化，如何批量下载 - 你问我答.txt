@@ -1,0 +1,73 @@
+Gossudar 2008-11-30 11:38:02
+
+如下
+http://bible.fhl.net/new/gm.php?fn=b006/m00_001_000_001_000.jpg 
+- 
+http://bible.fhl.net/new/gm.php?fn=b006/m00_129_000_129_000.jpg 
+如何用迅雷、快车等批量下载。拜谢。
+
+
+啊cr 2008-11-30 11:53:06
+
+老马的
+HtmlOrder
+http://www.comicer.com/stronghorse/software/#HtmlOrder
+或者
+AD（AutoDownload）
+http://www.readfree.net/bbs/read.php?tid=179714&fpage=4
+
+如需合并可使用
+jpegjoiner
+
+
+Gossudar 2008-11-30 12:34:05
+
+不妙，Dasha碰到了4个变量同时变化的：
+http://bible.fhl.net/new/gm.php?fn=b047/m00_000_000_000_000.jpg
+http://bible.fhl.net/new/gm.php?fn=b047/m00_098_098_098_098.jpg
+老马大侠的只能支持2个变量，AD只能下载3个变量，救命。
+
+
+啊cr 2008-11-30 12:39:47
+
+引用第2楼Gossudar于2008-11-30 12:34发表的 : 
+不妙，Dasha碰到了4个变量同时变化的： 
+ 
+ 
+老马大侠的只能支持2个变量，AD只能下载3个变量，救命。
+try Excel
+
+
+dudu12345679 2008-11-30 13:16:44
+
+我的嘎嘎可以干这个活
+
+
+Gossudar 2008-11-30 13:40:17
+
+嘎嘎，Dasha买过的，刚刚尝试使用4个变量，提示“out of memory”  
+m00_001_001_001_001.jpg
+m00_002_002_002_002.jpg
+m00_003_003_003_003.jpg
+…… …… ……
+98取4，这数列:-(
+
+
+lforl 2008-11-30 15:48:08
+
+这个用excel最合适，分为几个列，往下一拉。
+
+
+dudu12345679 2008-11-30 17:53:53
+
+生成的1.txt里面是下载地址。 我记得快车的导入列表后缀是lst吧 ， 你自己修改一下后缀吧。
+
+
+game1898 2008-12-1 16:45:50
+
+强，学了一招。
+
+
+0@_@0 2008-12-1 21:52:10
+
+好帖，值得一看。多谢楼上诸位 

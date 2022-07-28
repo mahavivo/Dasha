@@ -1,0 +1,328 @@
+Gossudar 2007-8-8 09:27:46
+
+昨夜，Dasha在CNKI上翻找因为找吴晓樵先生的《荷尔德林早期的中国知音》的原文扫描图片，不知怎么，翻到了以里尔克的名义翻译出的这样的标题：《身居绵延轨道中》。Dasha阅读德文里尔克，拖拖拉拉也有五、六年了，却毫无这样的印象，于是一路看了下去：
+
+1. 让Dasha感到分外陌生的里尔克诗的汉译：
+身居绵延轨道中
+程晏萍／译注
+
+身居绵延轨道中，
+超越尘寰遨游迥。
+雄心壮志未必酬，
+膺填抱负竭鄙诚。
+我绕上帝御风行，
+萦环古塔现吾影，
+千载追寻踵接踵。
+百思其解尚未明，
+我似猎鹰击长空？
+宛若狂飙挟骤雨？
+抑或壮歌震苍穹？
+
+Notes：① 题目是译者加的。
+    ② Rainer Maria Rilke(1875～1926)――雷纳・玛瑞亚・瑞尔克，德国作家，生于布拉格，以其诗作闻名于世，《献给奥菲厄斯的十四行诗》为其代表作之一。
+
+傻按：①Rilke的“ri”就是按照英语音译规范，也应该是“里”，参详新华通讯社译名室编《世界人名翻译大辞典》(中国对外翻译出版公司, 1993)附录二“55种译音表”，请参看附件；②“《献给奥菲厄斯的十四行诗》”的“奥菲厄斯”同样没有规范音译，Orpheus。
+
+
+2. 译者提供的英译文本：
+I live my life in growing orbits,
+Which move out over the things of the world.
+Perhaps I can never achieve the last,
+But that will be my attempt
+I am circling around God,
+Around the ancient tower,
+And I have been circling for a thousand years.
+And I still don&#39;t know
+If I am a falcon,
+Or a storm,
+Or a great song.
+
+傻按：此时，Dasha已经知道德语原文的模样（因为Dasha尝试翻译过），不知道什么原因，汉译者要将英译文本排列成这样，而且，这样的排列反而使诗的节奏更加零碎，汉译者却偏偏要译成工工整整的七言。
+
+
+3. Dasha翻检手中纸本，没有找到，于是Google了一下，英译原始应该如下：
+I live my life in growing orbits,
+which move out over the things of the world.
+Perhaps I can never achieve the last,
+but that will be my attempt.
+
+I am circling around God, around the ancient tower,
+and I have been circling for a thousand years.
+And I still don&#39;t know if I am a falcon,
+Or a storm, or a great song.
+
+translated by Robert Bly
+
+傻按：译者Robert Bly，记得秀陶在“中国有人？中国无人！――绿原译《里尔克诗选》读后”里提到过，于是找来：“又绿原先生在前言之尾提及借助了几位专家的英译，其中提到了罗伯特・布莱，这位诗人在美国一直被拒于诗之正统之外，一九八一年出版的一本里尔克选集声誉也不大好，与其他译家相较颇有不够严谨之处。”（原始文档：http://poemfile.heshan.net/57/XiuTao57Es.txt，但“新大陆诗库（New World Poetry）”似乎已经改换门庭，或可参考Dasha当年保存的文本：http://www.myrilke.com/text.asp?ID=1385）诚如郑秀陶所言，关键的这一个“orbit”，诱导汉译者远离了里尔克。里尔克所使用的“Ring”，无论如何，在英语里也距这个“orbit”远隔千山万水。比如Duden的《德英大词典》：
+Ring // der; Ring[e]s, Ringe a) ring; die Ringe tauschen od. wechseln (geh.) exchange rings; an den Ringen turnen perform or exercise on the rings; 10 Ringe schieen shoot or score a ten; einen Ring bilden <spectators etc.> form a ring or circle; <stones, road> form a ring; 
+b) (Ringstrae) ring road; den Ring fahren take the ring road; 
+c) (Boxring) ring; Ring frei zur zweiten Runde seconds out for the second round; 
+d) (Vereinigung) ein Ring für Theaterbesuche a theatre-going circle; ein Ring von Hndlern a ring of dealers; 
+e) (Wurfring) hoop
+Duden-Oxford - Growrterbuch Englisch. 2. Aufl. Mannheim 1999. (CD-ROM).
+
+
+4. 里尔克的德语原文，“时辰祈祷”（Das Stunden-Buch）第一部“修士生活”（Das Buch vom Mnchischen Leben）第二首：
+Ich lebe mein Leben in wachsenden Ringen,
+die sich über die Dinge ziehn.
+Ich werde den letzten vielleicht nicht vollbringen,
+aber versuchen will ich ihn. 
+
+Ich kreise um Gott, um den uralten Turm,
+und ich kreise jahrtausendelang;
+und ich wei
+
+
+fenglong88 2007-8-8 09:48:37
+
+5. 2002-2003年Dasha的的试译：
+我生活我的生命在生长的圆里，
+圆在物之上伸张。
+或许我无法最终完成，
+但我愿将之试尝。
+
+围绕着上帝，围绕着古老的钟楼，
+我旋转了千年；
+而我依然不知道：我是鹰，是风暴
+抑或是一首宏大的诗篇。
+
+看这首诗想起了前两天写的一点内容与之相似。
+
+ 　　以前有人用圆来比喻人所知道的知识，那是在平面上的设喻，既然现在知识具备了“三维”的特征，那么就应该有所变化。三维目标所完成的是固定立体的知识点的任务，但众多的三维目标最终的面貌是什么样的呢？应该是一个立体的球，在这个球中，每个人均处在属于自己的那个球的中心，而在球的表层则是以“动态的认知为经（过程、能力），以静态的知识为纬（方法、知识）”所构成的各个三维目标形成的球面，而每个人从中心的向某一个三维目标发出的球半径则体现出个人对该目标认识的深度和厚度。如果这个人在某些目标上的认识不完整，那么最终的球面就会坑洼不平，也就显示着这个人的知识结构的具体面貌。不过光有这个还不够，因为这个球不是静止不变的，而是在不断运动、不断扩张的。 
+
+　　我们经常会听到这样一个说法，“人的认识是呈螺旋上升趋势的”，这种说法是对的。但如果我们仔细审查这句话的话，我们会发现，虽然前面加上了一个“人”字，但这句话说的并不是以人为中心的认识过程，而只是说出了“认识具有反复性”的特征。也就是说，我们必须对这句话呈现的动态过程加以改造。这样的改造一般很难做，但如果我们把人的认知结构看作是一个球的话，就很容易来说明了： 
+
+每一个知识球都通过在时间轨道上的滚动来重复碾压球面上的各个点并逐渐增加各个点的厚度。 
+
+这样表述的好处有三点，一，体现了以人为中的知识结构特征；二，继承和发展了螺旋上升提法中的“认识的反复性”这一特征，强调了是在相同点上的重复和加深；三、可以体现出来个人知识成动态向外扩张的状态。
+
+里尔克的这首诗是不是也在探寻自己的出路呢？上帝、钟楼、千年代表着永恒的观念，而一个人的成就在于他的滚动，而这种滚动的成果（建设也好，破坏也好）并不是自己的能够预料的。
+
+
+白马西北驰 2007-8-8 10:33:40
+
+[quote] 
+I live my life in growing orbits, 
+which move out over the things of the world. 
+Perhaps I can never achieve the last, 
+but that will be my attempt. 
+
+I am circling around God, around the ancient tower, 
+and I have been circling for a thousand years. 
+And I still don&#39;t know if I am a falcon, 
+Or a storm, or a great song. 
+
+
+Ich lebe mein Leben in wachsenden Ringen, 
+die sich über die Dinge ziehn. 
+Ich werde den letzten vielleicht nicht vollbringen, 
+aber versuchen will ich ihn. 
+
+Ich kreise um Gott, um den uralten Turm, 
+und ich kreise jahrtausendelang; 
+und ich wei
+
+
+黄金蠹鱼 2007-8-8 11:13:49
+
+“生活我的生命”这样的说法听起来很别扭。。
+
+可否意为“在无尽反复的循环里，我的生命在生长”
+
+外行话。。。大家莫笑，呵呵
+
+
+苏鲁支 2007-8-8 12:36:49
+
+生长的圆是否指“永恒轮回”？
+圆指轮回，第二句中的轮回是名词，旋转也指轮回，但却是动词。
+dasha兄以为呢？
+
+
+Gossudar 2007-8-8 13:16:31
+
+引用第4楼苏鲁支于2007-08-08 12:36发表的 :
+生长的圆是否指“永恒轮回”？
+圆指轮回，第二句中的轮回是名词，旋转也指轮回，但却是动词。
+dasha兄以为呢？苏兄，据Dasha根据手中的里尔克传记，里尔克写作此诗的时候，正在俄罗斯之旅（与莎乐美），感兴趣的是东正教，尚未接触到佛教，里尔克描过Buddha，那是后来在《新诗集、新诗二集》里，计3首。
+
+傻以为，翻译并非从词典里、记忆里，找到大概差不多的、美好的母语文字替换待译文字即可――就像Dasha在首贴里说，我们还要留意作者的遣词造句（文体）、文化背景（渊源）、心理状态（情绪）……所升华成的“风格”；而更不可以像前面那位女士那样，以一己之情趣，恣意扭曲他人原意――翻译并非是在炫耀译者自己的文采。好的译者应该是好的乐师，面对已经固化的乐谱，能够参透作曲者的本意，并以自己多年修炼的乐器技术，忠实并完美地将之传达。
+
+
+苏鲁支 2007-8-8 13:41:31
+
+谢谢dasha兄指教！ 
+好的译者应该是好的乐师，面对已经固化的乐谱，能够参透作曲者的本意，并以自己多年修炼的乐器技术，忠实并完美地将之传达。――赞 
+
+不过，我说永恒轮回的时候想到的是尼采，而非佛教。
+翻译就是这样，意思有时靠猜，猜到了还要准确说出来。有时相似的意思，怎么说很有讲究。如dizzy 一词，原意晕眩，但有得诗中却是指怀疑。直译虽不错，但不精确。不知道里尔克有否受过尼采影响？总之就我对尼采哲学的了解来说，里尔克这首诗很有永恒轮回的意思在。妄言一二，呵呵
+
+
+Gossudar 2007-8-8 13:50:00
+
+莎乐美是尼采追求过的女弟子，然后结识的里尔克，应该少不了向里尔克诉说尼采事。德人有论里尔克与尼采之关系的，Dasha暂时没有读出来，只从里尔克的文字里看到他化用叔本华《作为意志和表象的世界》里面的段落――叔本华也有佛教倾向。里尔克在法国国家图书馆读了巨多的书，天知道他都读了些什么。不过，写作《时辰祈祷》第一、二部的时候，他还未到巴黎，也还未给罗丹当秘书，所以，佛的问题，一定是后话。诗翁施颖洲曾不无炫耀地说：《佛》一诗，我不但尽量采用佛家用语，而且曾向一位熟谙新旧诗的乘如法师请教。”用心良苦、方法可鉴。而且，所译出的“入定”（bliebe tief）、“龙象”（ein Tier），也确实是可称上品。
+
+
+苏鲁支 2007-8-8 14:05:47
+
+刚想说莎乐美，呵呵，dasha兄就先提到了。 
+
+佛家的轮回观念远承《吠陀》思想。我当时读《五十奥义书》时便想，这种轮回其实是大梵显体的变化，所以死即更生。神秘意味很浓。而尼采所谓永恒轮回似从历史眼光观照。意指“生长”的回归，与佛家所说似不同。dasha兄对尼采极有心得，很想听听兄的看法。
+
+
+Gossudar 2007-8-8 15:10:06
+
+引用第8楼苏鲁支于2007-08-08 14:05发表的 :
+刚想说莎乐美，呵呵，dasha兄就先提到了。 
+
+佛家的轮回观念远承《吠陀》思想。我当时读《五十奥义书》时便想，这种轮回其实是大梵显体的变化，所以死即更生。神秘意味很浓。而尼采所谓永恒轮回似从历史眼光观照。意指“生长”的回归，与佛家所说似不同。dasha兄对尼采极有心得，很想听听兄的看法。
+苏兄鲁支，关于尼采，Dasha只完整阅读过德文的《苏鲁支语录》，因此，已经不敢妄言。此外，Dasha于佛教谨限于六朝的禅，因此更不敢妄言。Dasha倒是原意搬来小板凳，手托下巴，听苏兄宣讲佛法。德国人对于佛，恐怕多有精进，徐先生梵澄，最初就是在德国学的梵语，而后方在印度深造。而曲学阿世的季XX者流，也就凭着从德国人那里学来的梵文招摇过市、名动天下。
+
+Dasha手中只有DIRECTMEDIA Publishing GmbH出版的电子图书Digitale Bibliothek中的两种：“Asiatische Philosophie - Indien Und China”(亚洲哲学：印度与中国)和“Klassiker der ind. Philosophie”(印度哲学经典人物)。一直有心参考汉语佛典，学些梵文，可惜，Dasha太懒啦
+
+
+苏鲁支 2007-8-8 17:10:20
+
+三藏大备于我土，欲观佛法，汉藏属第一。其它语藏经之要者，惟藏文殊多汉译无者。然我好者在佛法，不在宗教，所以只觉其中陈那《七论》最可宝，不知何时能出汉译。禅宗虽高卓，过爱不言之教，即有公案、语录，亦恐阅之不能深透。诸佛法宗派，我最看重瑜伽行派，以其佛理卓绝无匹也。故以为《瑜伽师地论》为三藏至要。稍次者则《成唯识论》、《大乘起信论》等。然瑜伽行派之论精奥繁复，殊不易解，尚需先通因明而后可深入。故我虽读过一些经论，究竟所得甚少甚浅。 
+尼采乃我最钦佩大哲之一，浸淫多年，略有心得。然无力深究原文，故所得决不敢言深确。 
+德国梵典研究自是精湛，我也一直有心前往求学。不知何时能偿宿愿。dasha兄兼有数利，何不动志尼采之说，而往求德国之学？
+
+
+benchren 2007-8-8 20:34:50
+
+俺觉得外国诗不必都要用白话文译,用中国的旧体诗译亦未尝不可,前提是信、达、雅――借用严复的话，还有一个不容忽视的问题是译者本身的古诗词修养和阅读者的欣赏趣味。比如钱钟书的一些译句俺就觉得不错。
+
+
+Gossudar 2007-8-8 22:24:22
+
+引用第11楼benchren于2007-08-08 20:34发表的 :
+俺觉得外国诗不必都要用白话文译,用中国的旧体诗译亦未尝不可,前提是信、达、雅――借用严复的话，还有一个不容忽视的问题是译者本身的古诗词修养和阅读者的欣赏趣味。比如钱钟书的一些译句俺就觉得不错。Dasha从来不反对用旧体诗翻译国外文字，相反，甚至在极力鼓吹：民国版的德语文学，Dasha推荐您应时（溥泉）自费刊印的《德诗汉译》，比如其译豪夫的诗：“映B映B / 照我速死乎 / 臾鼓角 / 判向沙鎏畲塑| / 我有火伴c之俱”。豪夫，目前大陆只流行其童话。格林兄弟也是，其实，豪夫、格林兄弟，其成就、影响不独在童话，只能说汉语界用力不够。
+
+林凡的转译的译本都能出版，而应溥泉却需要自费，只能说明那个时代的风气亦不很端正，因此也没有必要太艳羡；林凡的书之所以被人淡忘，应时又每每有人提起，恐怕只能说，时间（历史）是公正的：荷尔德林没有得到歌德的一句好话，但荷尔德林如今即使还不能够在诗名上超越歌德，却绝对是一位不逊于歌德的德语诗人。[url]http://www.stph.com.cn/mybbs/Announce/Announce.asp?BoardID=15&ID=111028[url]，在“第12楼”
+因此，Dasha一直心仪徐先生梵澄以“骚体”译“ 薄伽梵歌 ”。但是，问题在于，译文应该考虑原始文本所具有的语言的时代性――Dasha在首贴里已经说过“其中更需要留意的是语言的时代风格、作家的语言特色、作品的文体区别……”。我们今天的学界，往往在该用“旧体”的时候不旧，比如那林林总总的“史诗”的汉语译本，比如冯象译Beowulf、旧约；也往往该新的时候不新，比如孙周兴译过的里尔克，比如上面这位从英译本转译的里尔克。
+
+昔年网络有名的才女莲波曾用诗经的四言体式译过民歌“绿袖子”、西蒙和加芬克尔的“斯卡布罗市场”，文采斐然、古意森森。“绿袖子”尚可激赏，但后者，只能算是游戏之作中的精品而已――当年身背民谣吉他在校园里低吟浅唱的两个大男孩，张口“岂曰无衣”，恐怕就很滑稽啦。
+
+
+苏鲁支 2007-8-8 23:20:45
+
+给楼上二兄看首译作，是我非常欣赏的,并且窃思译诗恐在原作之上……：
+K曼殊译拜轮去国行
+译拜轮去国行
+行行去故国，濑远苍波来。鸣湍激夕风，沙鸥声凄其。落日照远海，游子行随之。须臾与尔别，故国从此辞。日出几刹那，明日瞬息间。海天一清啸，旧乡长弃捐。吾家已荒凉，炉灶无余烟。墙壁生蒿藜，犬吠空门边。童仆尔善来，恫哭亦胡为。岂惧怒涛怒，抑畏狂风危。涕泗勿滂沱，坚船行若飞。秋鹰宁为疾，此去乐无涯。童仆前致辞，敷衽白丈人。风波宁足惮，我心谅苦辛。阿翁长别离，慈母平生亲。茕茕谁复愿，苍天与丈人。阿翁祝我健，殷勤尚少怨。阿母沉哀恫，嗟尤来无远。童子勿复道，泪注盈千万。我若效童愚，流涕当无算。火伴尔善来，尔颜胡惨白。或惧法国仇，抑被劲风赫。火伴前致辞，吾生岂惊迫。念独闺中妇，容定枯瘠。贱子有妻孥，随公局泽边。儿啼索阿爹，阿母心熬煎。火伴勿复道，悲苦定何言。而我薄行人，狂笑去悠然。谁复信同心，对人阳太息。得新以弃旧，媚目生颜色。欢乐去莫哀，危难宁吾逼。我心绝⑩耄求泪反不得。悠悠仓浪天，举世无与忻。世既莫吾知，吾岂叹离群。路人饲吾犬，哀声或狺狺。久别如归来，啮我腰间。帆樯女努力，横赶幻泡k，此行任所适，故乡不可期。欣欣波涛起，波涛行尽时，欣欣荒野窟。故国从此辞。
+
+
+附：拜伦《去国行》原文：
+
+"Adieu, Adieu! My Native Shore"
+(From “Childe Harold’s Pilgrimage”,Canto the First, IV,
+“Childe Harold’s Good Night”)
+1
+Adieu, adieu! my native shore
+Fades o’er the waters blue;
+The night-winds sigh, the breakers roar,
+ And shrieks the wild sea-mew.
+Yon sun that sets upon the sea
+ We follow in his flight;
+Farewell awhile to him and thee,
+ My native Land - Good Night!
+    
+2
+A few short hours and he will rise
+ To give the morrow birth;
+And I shall hail the main and skies
+ But not my mother earth.
+Deserted is my own good hall,
+ Its hearth is desolate;
+Wild weeds are gathering on the wall;
+ My dog howls at the gate.
+    
+3
+’Come hither, hither, my little page!
+ Why dost thou weep and wail?
+Or dost thou dread the billows’ rage,
+ Or tremble at the gale?
+But dash the tear-drop from thine eye;
+ Our ship is swift and strong:
+Our fleetest falcon scarce can fly
+ More merrily along.’
+   
+4
+’Let winds be shrill, let waves roll high,
+ I fear not wave nor wind:
+Yet marvel not, Sir Childe, that I
+ Am sorrowful in mind;
+For I have from my father gone,
+ A mother whom I love,
+And have no friend, save these alone,
+ But thee - and one above.
+    
+5
+’My father bless’d me fervently,
+ Yet did not much complain;
+But sorely will my mother sigh
+ Till I come back again.’ -
+’Enough, enough, my little lad!
+ Such tears become thine eye;
+If I thy guileless bosom had,
+ Mine own would not be dry.
+    
+6
+’Come hither, hither, my staunch yeoman,
+ Why dost thou look so pale?
+Or dost thou dread a French foeman?
+ Or shiver at the gale?’ -
+’Deem’st thou I tremble for my life?
+ Sir Childe, I’m not so weak;
+But thinking on an absent wife
+ Will blanch a faithful cheek.
+    
+7
+’My spouse and boys dwell near thy hall,
+ Along the bordering lake,
+And when they on their father call,
+ What answer shall she make?’ -
+’Enough, enough, my yeoman good,
+ Thy grief let none gainsay;
+But I, who am of lighter mood,
+ Will laugh to flee away.’
+    
+8
+For who would trust the seeming sighs
+ Of wife or paramour?
+Fresh feeres will dry the bright blue eyes
+ We late saw streaming o’er.
+For pleasures past I do not grieve,
+ Nor perils gathering near;
+My greatest grief is that I leave
+ No thing that claims a tear.
+    
+9
+And now I’m in the world alone,
+ Upon the wide, wide sea:
+But why should I for others groan,
+ When none will sigh for me?
+Perchance my dog will whine in vain,
+ Till fed by stranger hands;
+But long ere I come back again
+ He’d tear me where he stands.
+    
+10
+With thee, my bark, I’ll swiftly go
+ Athwart the foaming brine;
+Nor care what land thou bear’st me to,
+ So not again to mine.
+Welcome, welcome, ye dark-blue waves!
+ And when you fail my sight,
+Welcome, ye deserts and ye caves!
+ My native Land - Good Night!
+
+
+benchren 2007-8-9 06:30:15
+
+引用第12楼Gossudar于2007-08-08 22:24发表的 :
+
+[url]http://www.stph.com.cn/mybbs/Announce/Announce.asp?BoardID=15&ID=111028[url]，在“第12楼”
+因此，Dasha一直心仪徐先生梵澄以“骚体”译“ 薄伽梵歌 ”。但是，问题在于，译文应该考虑原始文本所具有的语言的时代性――Dasha在首贴里已经说过“其中更需要留意的是语言的时代风格、作家的语言特色、作品的文体区别……”。我们今天的学界，往往在该用“旧体”的时候不旧，比如那林林总总的“史诗”的汉语译本，比如冯象译Beowulf、旧约；也往往该新的时候不新，比如孙周兴译过的里尔克，比如上面这位从英译本转译的里尔克。
+
+昔年网络有名的才女莲波曾用诗经的四言体式译过民歌“绿袖子”、西蒙和加芬克尔的“斯卡布罗市场”，文采斐然、古意森森。“绿袖子”尚可激赏，但后者，只能算是游戏之作中的精品而已――当年身背民谣吉他在校园里低吟浅唱的两个大男孩，张口“岂曰无衣”，恐怕就很滑稽啦。俺对诗及诗的翻译没什么研究.但俺觉得俺跟DASHA兄的看法大同小异.在译作质量保证的前提下,有的诗宜用古体诗译,有的宜用白话文译,有的二者皆可.

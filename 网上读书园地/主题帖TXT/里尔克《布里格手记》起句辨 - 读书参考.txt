@@ -1,0 +1,117 @@
+Gossudar 2006-9-18 12:20:29
+
+文章写作时起句的重要性毋庸多言。里尔克的伟大作品《Die Aufzeichnungen des Malte Laurids Brigge》（马尔特・劳里斯・布里格手记[①]）第一章就三易其稿，里尔克对起句的匠心昭然。然而，Dasha阅读了此作品若干年原文并若干译本，却一直没有找到适当的译文，尤其是汉语。里尔克终稿的原句是“So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier.”Dasha搜集到的各种译本罗列如下：
+
+1. M. D. Herter Norton:
+So, then people do come here in order to live; I would sooner have thought one died here.
+汉译：如此，人们为谋生来到这里；我倒不如理解为他们死在这里。（Dasha试译）
+from: The Notebooks of Malte Laurids Brigge. by Rainer Maria Rilke, trans. M.D. Herter Norton. W. W. Norton & Company; Reissue edition (April 1992)
+
+2. Stephen Mitchel:
+So this is where people come to live; I would have thought it is a city to die in.
+汉译：这里是人们为谋生而来的地方；我本该想到这里是一个提供死亡的城市。（Dasha试译）
+from: The Notebooks of Malte Laurids Brigge. by Rainer Maria Rilke, trans. Stephen Mitchel. Vintage; Vintage in edition (November 27, 1990)
+
+3. 大山定一：
+そう、では、ここに人びとがやってくるのは、生きるためなのか、だがぼくにはむしろ、死んでいくのではないかと思われるほどだ。
+汉译：是的，人们是为了生存下去才到了这里，但是我却觉得到这里就是在死亡的路上。（李振村译）
+（大山定一U: マルテの手, 新潮社; (1953/06)）
+
+4. V越敏：
+人々は生きるためにこの都会へ集まって来るらしい。しかし、Wはむしろ、ここではみんなが死んでゆくとしか思えないのだ。
+汉译：人们好像都是为了生活才集合在了都市[②]，但是我觉得，人们在这里只能走向死亡。（李振村译）
+（Rainer Maria Rilke、V越 敏: マルテ&#12539;ラウリス&#12539;ブリッゲの手, 未知谷 (2003/04)）
+
+5. 方瑜：
+不e，人到@Y硎了生活，但我更P心一人死在@Y的情景。
+（方瑜g《R泰手》，志文出版社民六十一年版，第二五）
+
+6. 魏育青：
+的确，人们来到这里是为了生活，而我却认为这里是死亡的地方。
+（叶廷芳、李永平编《上帝的故事：里尔克散文随笔集》，中国广播电视出版社2000年版，第311页）
+
+7. 钱春绮：
+确实，人们到这里来，是求生的，我到认为，这里是死路一条。
+（绿原、张黎、钱春绮译《里尔克散文选》，百花文艺出版社2001年版，第219页）
+
+8. 徐畅：
+应该说，人们到这里是来生活的，我却觉得，这里在死亡。
+（李永平编选《里尔克精选集》，北京燕山出版社2005版，第320页）
+
+9. 余中先转译自法语介绍文字：
+人们到这个地方真的是来活吗？我宁愿相信他们是到这儿来死的。
+（(法)贝・皮沃(Pivot, B)，(法)皮・蓬塞纳(Boncenne, P)编著; 余中先译《理想藏书》，光明日报出版社, 1996. 2，第7页）
+傻按：不知道余中先所见的法语文字是什么样，但法语有译文如此：
+Voilà, c&#39; est donc ici que les gens viennent pour vivre; je dirais plutt que l&#39; on se meurt ici. (Les notes de Malte Laurids Brigge. Traduction de Stefan Kaempfer)
+其汉译大意为：如此，人们这般为谋生到这里来；我倒不如认为他们将死在这里。
+里尔克这部小说的法语译名更多是“Les cahiers de Malte Laurids Brigge”和“Les carnets de Malte Laurids Brigge”。
+
+10.  吕理州、陈晓南转译自某种日译本：
+人们为了求生而来到大都市。但是依我看，他们是为了求死而来。
+黎尔克在他的《马尔德的手记》里，一开头就这么写着。
+（(日)森村诚一著; 吕理州, 陈晓南译《电话魔》，载《世界探案经典.日本卷》 / [日]森村诚一、松本清张等著; 赵博源等译, 珠海: 珠海出版社, 2001.1 第35页）
+
+例举至此，Dasha首先注意到的是M. D. Herter Norton的“would sooner”和法语的“plutt que”，其表述的句式都是“与其……不如”。在德语里，eher与als连用时，表示比较，汉语大致为“与其……不如”、“宁肯……也不”，比如“eher heute als morgen”（与其明天，不如今天）。但是，里尔克的拼写却是“also...eher...”。also的词源涵义是ganz so，从all从so；并无als+so的用法，尽管alsobald与alsbald通用。因此，只能从eher的根本词义来理解。
+第二，令Dasha眼睛一亮的译法是吕理州、陈晓南转译日译本的译法“他们是为求死而来”和余中先转译自法语的“我宁愿相信他们是到这儿来死的”。理由无需多说，且看Dasha尝试翻译此第一章：
+
+So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. 走在街上，我所看见的，是一家家医院。我看见一个男子，晃了晃、栽倒在地上。人们围了过去，省却了我余下的事情。我看见一位孕妇，沿着温暖的高墙吃力地挪动自己。不时，她用手摸一摸墙，似乎要确定一下自己是否还在那里。当然，她还在那里。那里的后面是什么呢？我查了一下手中的市区图，是Maison d&#39;Accouchement（妇产医院）。善哉，人们会为她接生的――这个人们会。再远一点儿，rue Saint-Jacques（圣雅各街）上，有一座高大的穹顶建筑，市区图上标示为Val-de-grce（圣宠谷），Hspital militaire（军医院）。这些，我本无需知道，不过，知道了也没有什么坏处。街道开始从各个角度散发出气味。能分辨出的有黄碘、pommes frites（炸薯条的油脂）和恐惧。所有城市在夏天都会散发出气味的。后来，我看见一座奇异的房子，样子仿佛患了白内障。是什么市区图里找不到，但门顶上的招牌还清晰可辨：Asyle de nuit（夜间收容所）。入口边上有价格，我读了一下，还不算贵。
+
+此外呢？此外我看见一个幼童在停着的童车里。幼童胖胖的、皮肤发绿，额头上有一块清晰的斑疹。显然，斑疹已经痊愈，不再疼痛。幼童在睡觉，嘴张着，呼吸着黄碘、pommes frites和恐惧。如此而已。至关重要的是，人活着。活着，是至关重要的。
+
+（傻按：除第一句外，其它西语词皆法语，故在括号内给出汉语大意。）
+
+
+原文：
+So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. Ich bin ausgewesen. Ich habe gesehen: Hospitler. Ich habe einen Menschen gesehen, welcher schwankte und umsank. Die Leute versammelten sich um ihn, das ersparte mir den Rest. Ich habe eine schwangere Frau gesehen. Sie schob sich schwer an einer hohen, warmen Mauer entlang, nach der sie manchmal tastete, wie um sich zu überzeugen, ob sie noch da sei. Ja, sie war noch da. Dahinter? Ich suchte auf meinem Plan: Maison d&#39;Accouchement. Gut. Man wird sie entbinden - man kann das. Weiter, rue Saint-Jacques, ein groes Gebude mit einer Kuppel. Der Plan gab an Val-de-grce, Hspital militaire. Das brauchte ich eigentlich nicht zu wissen, aber es schadet nicht. Die Gasse begann von allen Seiten zu riechen. Es roch, soviel sich unterscheiden lie
+
+
+zhoukaijian 2006-9-19 12:48:12
+
+Dasha对《布里格手记》起句译文的推敲，功夫之细，令人佩服！我不懂德语，只能从英文翻翻看,首先说明，我的译文算不得直译，意译的成分更多些。
+
+So this is where people come to live; I would have thought it is a city to die in.
+本人译文：在我眼里，人们来到这座城市原是要继续生活，可是，他们却更多地与死亡遭遇，长眠巴黎。
+
+我之所以把“to live”译为继续生活，而不是“谋生”，因为从全文看，这个意思不突出，生活的含义更广些。之所以首句用了“在我眼里”，是为了与《手记》整本书的内容有呼应，在此篇的后面，有一篇题目就是“学习观看”（从中文本看，百花版）。《手记》内容有强烈的存在主义色彩，对死亡的多次描述，并没有贬义，更多是中性，有时还是赞颂的基调，希望个体能够本真地面对死亡，使死亡也本己化，与生同在。
+上面是我自己的理解，也许太随意了，见笑！
+
+
+Gossudar 2006-9-19 17:10:26
+
+引用第1楼zhoukaijian于2006-09-19 12:48发表的“”:
+Dasha对《布里格手记》起句译文的推敲，功夫之细，令人佩服！我不懂德语，只能从英文翻翻看,首先说明，我的译文算不得直译，意译的成分更多些。
+
+So this is where people come to live; I would have thought it is a city to die in.
+本人译文：在我眼里，人们来到这座城市原是要继续生活，可是，他们却更多地与死亡遭遇，长眠巴黎。
+
+.......多谢兄弟闲来回帖。嘿嘿，兄是不是受Dasha那个帖子的影响，对Norton怀有戒心而不采纳？其实，Norton的英译应该说是准确、传神的。Norton习惯于“金山快译”式的直译，因此，英语上看来不道地，却能够某种程度上再现德语原文的特色。比如“in order to live”对应的是德语原文的“um zu leben”、“would sooner”紧扣原文德语的“würde eher”。所以，兄建筑在Stephen Mitchel偷巧意译上的理解，自然就成了空中楼阁。
+
+里尔克的这部作品的伟大，不会因为Dasha的偏爱而增光，更不会因为汉语学界的忽略、误置而减色。里尔克这部作品Dasha视之为奇书，是因为71部分零星琐碎的手记，在主题、艺术手段上，几乎全部囊括了里尔克死后光怪陆离的现代派、后现代派等文学先锋们的主题与手法，包括其译本缔造了中国文学一个精彩时代的马尔克斯。Gabriel García Márquez的《百年孤独》（Cien aos de soledad）中经典的起句“Muchos aos después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo.”相似的句式，在里尔克的“手记”中亦已出现。比如“Viel spter erst wird ihm klar werden, wie sehr er sich damals vornahm, niemals zu lieben, um keinen in die entsetzliche Lage zu bringen, geliebt zu sein.”
+
+Dasha不是说马尔克斯们学习、模仿或者剽窃了里尔克，也不是说里尔克的这部作品如何影响了西方文学（马尔克斯们也未必读过里尔克的这部作品），而是说，里尔克是一个孤独的先锋，一个歌唱着“爱与死”的孤独的“旗手”。
+
+Dasha之所以至爱里尔克的这部“手记”，当然也不仅仅因为这些。Dasha眼中的“手记”，向Dasha露出西方文化的门缝，是有心深入西方文化的Dasha应该案头必备的“向导”。像Marx曾在大英图书馆苦读一样，里尔克当年也在法国国家图书馆枯坐，“坐读一位诗人”。因此，里尔克“手记”里的每一句话，有可能就有极其深厚的渊源，所以，Dasha手中的“手记”注释本一种的作者Manfred Engel就说“Die Aufzeichnungen sind ein Text, der durch einen Kommentar viel gewinnen kann”。
+
+兄如果因Dasha上面的话欲体验一下里尔克，建议不读汉译本，汉译本乖舛不论，译者本身就没有进入里尔克的内心，译出的东西不过是产品说明书。或许读英译本会好些，比如Norton或者Linton。但是，不要像眼下一些外国文学爱好者，对英译本深信不疑。
+
+
+zhoukaijian 2006-9-19 21:44:25
+
+在没有大家认为比较可信的汉译本的情况下，人们宁愿采纳英译本，应该可以理解。但其准确性，又要看读者的英语理解及汉语感悟能力。其实，以前也听说过，英语对其他西方语言文学的翻译有时比较随意，甚至不及俄译本准确，在有些经典的西方哲学典籍中就是如此。我自己没怎细读过里尔克，冯至翻译里尔克的作品倒是大都看过。希望以后能见到你对其他一些作家译本的细评，如法国作家尤瑟纳尔！
+
+
+Gossudar 2006-9-20 16:42:29
+
+引用第3楼zhoukaijian于2006-09-19 21:44发表的“”:
+在没有大家认为比较可信的汉译本的情况下，人们宁愿采纳英译本，应该可以理解。但其准确性，又要看读者的英语理解及汉语感悟能力。其实，以前也听说过，英语对其他西方语言文学的翻译有时比较随意，甚至不及俄译本准确，在有些经典的西方哲学典籍中就是如此。我自己没怎细读过里尔克，冯至翻译里尔克的作品倒是大都看过。希望以后能见到你对其他一些作家译本的细评，如法国作家尤瑟纳尔！
+   哪里哪里，还有北岛那样的诗人们，愿意将自己根本不懂的文字，从自己不信任的各种汉语译本中再翻译成汉语，然后“提刀而立、为之四顾、为之踌躇满志”。
+
+法语的东西，Dasha如今哪敢置喙啊，还是留待贤者吧。
+
+
+Gossudar 2006-9-20 19:13:31
+
+Norton英译本第一章：
+so, then people do come here in order to live; i would sooner have thought one died here. i have been out. i saw: hospitals. i saw a man who swayed and sank to the ground. people gathered round him, so i was spared the rest. i saw a pregnant woman. she was pushing herself cumbrously along a high, warm wall, groping for it now and again as if to convince herself it was still there. yes, it was still there ... the street began to smell from all sides. a smell, so far as one could distinguish, of iodoform, of the grease of pommes frites, of fear. all cities smell in summer. then i saw a curiously purblind house; it was not to be found on the map, but above the door there stood, still fairly legible: asyle de nuit. beside the entrance were the prices. i read them. the place was not expensive.
+
+and what else? a child in a standing baby carriage. it was fat. greenish, and had a distinct eruption on its forehead. this was evidently peeling as it healed and did not hurt. the child slept, its mouth was open, breathing iodoform, pommes frites and fear. it was simply like that. the main thing was, being alive. that was the main thing.

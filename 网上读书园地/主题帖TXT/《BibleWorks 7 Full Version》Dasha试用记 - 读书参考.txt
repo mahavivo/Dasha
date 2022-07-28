@@ -1,0 +1,69 @@
+Gossudar 2006-4-10 13:56:40
+
+BibleWorks 7 
+$349.00
+Full BibleWorks 7 Product
+
+BibleWorks is a tightly integrated collection of software tools designed specifically for analyzing the texts of the Bible. BibleWorks was designed from the ground up to provide the best possible computer tools for scholarly study of the Bible. Included in the base package are capabilities for search and analysis, copying text to your word processor, displaying and comparing texts; 112 Bible translations spanning 30 languages; 14 original language texts; 18 morphology databases; 12 Greek lexicons and dictionaries; 5 Hebrew lexicons and dictionaries; 30 practical reference works (Greek/Hebrew sound files, Bible maps, critical apparati, NT diagrams); and more. Package includes five program CDs, including online manual and video tutorials CD, and a CD of over 20 available integrated add-on modules that can be unlocked individually for use at an additional fee. Free technical support. 30-day refund less shipping cost. (For Windows(R) computers only) 
+http://www.bibleworks.com/
+
+安装：最大需要5468MB，最小1105MB，请斟酌您的硬盘
+
+
+默认有哲人王兄钟爱的Liddell-Scott的Greek-English Lexicon：
+
+遗憾的是Bible文本中没有汉语的
+
+Liddell-Scott: Greek-English Lexicon的使用界面：
+
+
+方便的Lexicon取词和Word Analysis解释：
+
+
+德语LutherBibel 1545版的遗憾，上图的德语圣经，为马丁・路德1545年版，文字属于mhd（中古高地德语），可惜，在BibleWork7里被转写为现代德语了（只是GOtt一词保持了原貌）――汉语里Dasha就不习惯于阅读简体横排二十四史！我们阅读1545年版，就是要找1545年的感觉。
+特附DIRECTMEDIA Publishing GmbH出版的CDROM：Die Luther-Bibel所现LutherBibel 1545的相应上图Bible截图章节的原貌：
+
+此第一句的国语和合本圣经文本是：
+太初有道，道与上帝同在，道就是上帝。
+
+
+BibleWorks 7 Full Version 6CD的eMule下载地址：
+BibleWorks 7 CD 1.iso (648.38 MB)
+BibleWorks 7 CD 2.iso (648.42 MB)
+BibleWorks 7 CD 3.iso (648.42 MB)
+BibleWorks 7 CD 4.iso (648.42 MB)
+BibleWorks 7 CD 5.iso (296.12 MB)
+BibleWorks 7 CD 6.iso (72.63 MB)
+
+安装时所需的解除限制的Serial是：464725683464725683
+
+
+哲人王 2006-4-11 08:51:07
+
+从EMULE上全部下载完毕，晚上下班后V来试用，是不是必须要切换到英文系统下？谢谢dasha提供信息。好久每搜索，Liddell-Scott: Greek-English Lexicon的图片扫描文件也有了，网络世界可谓日新月异。
+
+
+哲人王 2006-4-11 20:43:54
+
+界面对于研习多种外语很有帮助:
+
+
+hero8151 2006-4-11 20:49:11
+
+怎么没有源呢？
+
+
+Gossudar 2006-4-12 09:31:47
+
+引用第3楼hero8151于2006-04-11 20:49发表的“”:
+怎么没有源呢？怎么会呢？是不是英雄的驴有驴脾气啦。Dasha一天两夜就下载了6CD，哲人王同志看样子也很快，而且，Dasha对这套CD喜欢得不得了，也一直在做源。不过，请尽量登录外国服务器，中国大陆应该没有几个人感兴趣的――Dasha发到VeryCD，险些被当作发抡功分子。
+
+
+hero8151 2006-4-12 12:00:54
+
+鸣鸣，不懂。就那样添加链接，可总是没源，自己笨啊
+
+
+哲人王 2006-4-12 12:47:35
+
+如果给出的链接不行，可以直接在emule上搜索“BibleWorks 7”，下载速度非常快，V大概用了一天一夜就大功告成。软件的功能也非常强大，待以后慢慢摸索。
