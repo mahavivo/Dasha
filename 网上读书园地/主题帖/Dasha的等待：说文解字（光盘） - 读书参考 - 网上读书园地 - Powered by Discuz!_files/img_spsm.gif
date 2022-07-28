@@ -1,0 +1,517 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>出错了_社会科学文献出版社_哲学社会科学学术出版平台</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="keywords" content="社科文献,学术出版,出版社,皮书,学术期刊,集刊" />
+    <meta name="description" content="欢迎访问社会科学文献出版社的官方网站。我们为您提供精选的人文社会科学学术资讯，专业的学术出版信息。这里有特价学术书、电子书，还提供新书预售、断货图书按需定制印刷等服务。" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+<script>
+window.localsForMebmer={
+	SiteID:"42",
+	SiteLink:"https://www.ssap.com.cn/",
+	FrontAppContext:"https://www.ssap.com.cn/ssapshop/"
+};
+window.localsForShopping={
+	SiteID:"42",
+	SiteLink:"https://www.ssap.com.cn/",
+	FrontAppContext:"https://www.ssap.com.cn/ssapshop/",
+	IsPreview:[false][0],
+	Prefix:"/"
+
+}
+</script>
+<link href="/favicon.ico" rel="shortcut icon">
+<link rel="stylesheet" href="/v3/css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/font-awesome.min.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/v3-framework.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/v3-common.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/v3-site.css" type="text/css" />
+<link type="text/css" rel="stylesheet" href="/css/zs_style.css" />
+<link href="/css/common.css" rel="stylesheet" type="text/css">
+<script src="/js/zcms_require.js" contextpath="https://www.ssap.com.cn/ssapshop/"></script>
+<script src="/v3/js/bootstrap.min.js"></script>
+
+<script>
+if(isIE && ieVersion<9 || isIE8){
+  importJS('../v3/js/ie/html5shiv.js')
+  if(!isIE6 && !isIE7){
+    importJS('../v3/js/ie/respond.min.js')
+  }
+  importJS('../v3/js/ie/excanvas.js')
+}
+if(/MSIE (6|7)\.0/.test(navigator.userAgent)){
+  importCSS('../v3/css/bootstrap-ie6.css')
+  importJS('../v3/js/ie/bootstrap-ie6.js')
+}
+if(inTouch){
+  importJS('../v3/js/ie/hammer.min.js')
+}
+window.jQuery.bootstrapFlag = true;
+</script>
+<link type="text/css" rel="stylesheet" href="/css/member.css" />
+<!-- --> <script src="https://www.ssap.com.cn/ssapshop/framework/main.js"></script>
+<script src="/js/common.js"></script>
+<link href="https://www.ssap.com.cn/ssapshop/framework/resources/dialogskins/zvingclassic/default.css" rel="stylesheet" type="text/css">
+    
+<link type="text/css" rel="stylesheet" href="/v3/css/bootstrap.min.css">
+<link type="text/css" rel="stylesheet" href="/css/slick.css">
+<link type="text/css" rel="stylesheet" href="/css/lib.css" />
+<link type="text/css" rel="stylesheet" href="/css/shop_style.css" />
+<link type="text/css" rel="stylesheet" href="/css/shop_style-rel.css">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/slick.min.js"></script>
+<script type="text/javascript" src="/js/jquery-select.js"></script>
+<script type="text/javascript" src="/js/shop_lib.js"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+$(function(){
+	$('.select1 .beautify_input').cssSelect();
+	$('.select2 .beautify_input').cssSelect();
+	$('.select3 .beautify_input').cssSelect();
+	$('.select4 .beautify_input').cssSelect();
+});
+</script>
+    <link rel="stylesheet" href="/css/style.css"/>
+    <link rel="stylesheet" href="/css/style-rel.css"/>
+  </head>
+  <body>
+    <!-- 顶部 -->
+    	
+<script>
+  Page.onReady(function(){
+    try {
+      loadJsonp("https://www.ssap.com.cn/sso/online?timestamp=" + new Date().getTime(), null, function(result) {
+        $("#span_myacount").css("display", result.Login ? "" : "none");
+        $("#span_mystore").css("display", result.Login ? "" : "none");
+        if (result.Login) {
+          $("#span_logout").css("display", "");
+          $("#span_login").css("display","none");
+          $("a.login_username").html(result.Name);
+          loadJsonp("https://www.ssap.com.cn/ssapshop/member/dologined?timestamp=" + new Date().getTime(), null, function(json) {
+            var shoplogin = $("#ShopNotLogined");
+            if(shoplogin){
+              $("#ShopNotLogined").css("display","none");
+              $("#ShopLogined").css("display","");
+            }
+            
+            //更新首页折扣价
+            if(typeof(needUpdateDiscountPrice) != "undefined"){
+              loadJsonp("https://www.ssap.com.cn/ssapshop/memberInfo/level?SiteID=42", null, function(json) {
+                if(json.LevelID){
+                  updateDiscountPrice(json.LevelID);
+                }
+              });
+            }
+          });
+        } else {
+          $("#span_logout").css("display", "none");
+          $("#span_login").css("display", "");
+          loadJsonp("https://www.ssap.com.cn/ssapshop/member/login?Action=logout&timestamp=" + new Date().getTime(), null, null);
+        }
+      });
+    } 
+    catch (e) {
+      $("#span_logout").css("display", "none");
+      $("#span_login").css("display", "");
+    }
+  });
+  
+  function logout(){
+    var localURL = window.location.href;
+    localURL = encodeURIComponent(localURL);
+    window.location.href = "https://www.ssap.com.cn/sso/ssologout?SiteID=42&Referer="+localURL;
+  }
+  
+  function login(){
+    _trackData.push(['addaction','顶部菜单', '登录']);
+    var localURL = window.location.href;
+    localURL = encodeURIComponent(localURL);
+         setTimeout(function(){
+           window.location.href = "https://www.ssap.com.cn/ssapshop/member/login?SiteID=42&Referer="+localURL;
+        }, 200);
+    
+  }
+  
+  function reg(){
+    _trackData.push(['addaction','顶部菜单', '注册']);
+    var localURL = window.location.href;
+    localURL = encodeURIComponent(localURL);
+     setTimeout(function(){
+           window.location.href = "https://www.ssap.com.cn/sso/regist?AppID=1&ZAS_referer="+localURL;
+        }, 200);
+   
+  }
+  
+  function searchSubmit(){
+    _trackData.push(['addaction','首页', '站内搜索', {'关键词':document.getElementById('Query').value}]);
+     setTimeout(function(){
+    $("#searchForm").submit();	
+       }, 200);
+  }
+  
+  
+  function memberinfo(){
+         _trackData.push(['addaction','顶部菜单', '个人中心']);
+        setTimeout(function(){
+          window.location.href = "https://www.ssap.com.cn/ssapshop/member/info?Current=PersonalInfo&SiteID=42";
+        }, 200);
+      }
+  
+  function hotSearch(word){
+    $("#hotQuery").val(word);
+    $("#hotsearchForm").submit();
+  }
+</script>
+<div id="top" class=" hidden-sm hidden-xs">
+  <div class="container">
+    <div class="top-l">
+      <span id="span_login">
+        <div class="wel"><a href="javascript:reg();">[注册]</a></div>
+        <div class="wel"><a href="javascript:login();">登录</a></div>
+      </span>
+      <span id="span_logout" style="display: none;">
+        <div class="wel">
+          您好！&nbsp;
+          <a target="_blank" class="login_username text-color1" id="login_username" href="javascript:memberinfo();"></a>
+        </div>
+        <div target="_blank" class="wel"><a class="text-color2" href="javascript:logout();">[退出]</a></div>
+      </span>
+      <div class="wel-m hidden-lg hidden-md hidden-sm hidden-xs">
+        <span>更多频道</span>
+        <ul class="list-unstyled">
+          <li><a href="/xszx_1/" id="000958" class="v1" target="_blank">学术中心</a></li>
+          <li><a href="/xwzx/" id="000942" class="v1" target="_blank">新闻资讯</a></li>
+          <li><a href="/szcb-1/" id="000995" class="v1" target="_blank">数字出版</a></li>
+          <li><a href="/gjcb/" id="000949" class="v1" target="_blank">国际出版</a></li>
+          <li><a href="/xsqk/" id="000944" class="v1" target="_blank">学术期刊</a></li>
+          <li><a href="/tsgfw/" id="000954" class="v1" target="_blank">服务专区</a></li>
+          <li><a href="/gywm/" id="000941" class="v1" target="_blank">关于我们</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="top-r hidden-sm hidden-xs">
+      <a href="javaScript:AddFav();">加入收藏</a>
+      <!--|<a target="_blank" class="buyCar" id="scrollCart" href="${FrontAppContext}shop/shoppingcart?SiteID=${Site.ID}">购物车（<span id="in_cart_num">0</span>）</a>-->
+      |<div class="wel-m hidden-sm hidden-xs" style="display:inline-block;padding:0 15px;">
+      <span><a href="https://www.ssap.com.cn/ssapshop/member/info?Current=PersonalInfo&SiteID=42">我的账户</a></span>
+      <ul class="list-unstyled">
+        <li><a href="https://www.ssap.com.cn/ssapshop/member/order/list?Current=MyOrder&SiteID=42" target="_blank">我的订单</a></li>
+        <li><a href="https://www.ssap.com.cn/ssapshop/member/product/list?Current=MyProduct&SiteID=42" target="_blank">已购商品</a></li>
+        <li><a href="https://www.ssap.com.cn/ssapshop/member/address/list?Current=MyAddress&SiteID=42" target="_blank">收货地址薄</a></li>
+        <li><a href="https://www.ssap.com.cn/ssapshop/member/scorelog/list?Current=ScoreLog&SiteID=42" target="_blank">我的积分</a></li>
+      </ul>
+      </div>
+      <!-- |<div class="wel-m hidden-sm hidden-xs" style="display:inline-block;padding:0 15px;">
+      <span><a href="javascript:void(0);">客户服务</a></span>
+      <ul class="list-unstyled">
+        <li>
+          <cms:article catalogalias="bzzx_1" count="1" begin=2>
+            <z:list>
+              <a target="_blank" href="${Article.Link}">帮助中心</a>
+            </z:list>
+          </cms:article>
+        </li>
+        <li><a target="_blank" href="#" target="_blank">在线服务</a></li>
+        <li>
+          <cms:catalog alias="scdb_shfw">
+            <a target="_blank" href="${Catalog.Link}">售后服务</a>
+          </cms:catalog>
+        </li>
+      </ul>
+      </div> -->
+      |<div class="wel-m hidden-sm hidden-xs" style="display:inline-block;padding: 0 15px;">
+      <span><a href="javascript:void(0);">网站导航</a></span>
+      <ul class="list-unstyled">
+        <li><a target="_blank" href="https://www.ssap.com.cn/">出版社官网</a></li>
+        <li><a href="http://www.ssapchina.com" target="_blank">English</a></li>
+        <li><a href="http://www.pishu.cn" target="_blank">中国皮书网</a></li>
+        <li><a href="http://www.jikan.com.cn" target="_blank">中国集刊网</a></li>
+        <!-- <li><a href="http://www.jiuhu.com" target="_blank">中国救护网</a></li> -->
+      </ul>
+      </div>  
+    </div>
+  </div>
+</div>
+
+<!-- 头部 -->
+<div id="hd" class=" hidden-sm hidden-xs">
+  <div class="container">
+    <a href="https://www.ssap.com.cn/" class="logo"><img src="/images/logo.png" alt=""></a>
+    <div class="soForm">
+      <form id="searchForm" action="https://www.ssap.com.cn/ssapshop/search/normal" method="post">
+        <div class="soBox">
+          <input id="SiteID" name="SiteID" type="hidden" value="42">
+          <input name="Query" id="Query" type="text" value="" class="so-inp" >
+          <input type="button" onclick="searchSubmit();" value="搜索" class="so-btn text-center" >
+         <!-- <a target="_blank" href="${FrontAppContext}search/advance">高级搜索</a> -->
+          <div class="select1">
+            <select name="Type" id="Type" class="beautify_input" style="display:none;">
+              <option selected="selected" value="">全部</option>
+              <option value="Books">图书</option>
+              <!--<option value="Qikans">期刊</option>-->
+              <option value="Article">资讯</option>
+            </select>
+          </div>
+          <div class="select2">
+            <select name="isTitle" id="isTitle" class="beautify_input" style="display:none;">
+              <option selected="selected" value="N">全部</option>
+              <option value="Y">标题</option>
+            </select>
+          </div>
+        </div>
+      </form>
+      <div class="words">
+        热门搜索：
+        
+          
+            <a href="javascript:hotSearch('事业单位');"><span>事业单位</span></a>
+            <a href="javascript:hotSearch('中国');"><span>中国</span></a>
+            <a href="javascript:hotSearch('人事');"><span>人事</span></a>
+            <a href="javascript:hotSearch('甲骨文');"><span>甲骨文</span></a>
+          <form id="hotsearchForm" target="_blank" action="https://www.ssap.com.cn/ssapshop/search/normal" method="get">
+            <input type="hidden" name="SiteID" value="42" />
+            <input type="hidden" id="hotQuery" name="Query" />
+          </form>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 导航 -->
+<div id="nv" class=" hidden-sm hidden-xs">
+  <div class="container">
+    <ul class="nav-ul list-unstyled">
+      <li><a target="_blank" href="https://www.ssap.com.cn/" class="v1">首页</a></li><li>|</li>
+      <li><a target="_blank" href="/xwzx/" id="000942" class="v1">新闻</a></li><li>|</li>
+      <li class="on fwzq">旗舰店
+        <ul style="width:114%;margin-left:-4px;">
+                    	<li class="hidden-xs hidden-sm"><a target="_blank" href="https://shkxwxcbs.tmall.com/"  class="v1">天猫旗舰店</a></li>
+                        <li class="hidden-xs hidden-sm"><a target="_blank" href="https://xianxiao.ssap.com.cn" class="v1">先晓书院</a></li>
+                          <li class="hidden-md hidden-lg"><a target="_blank" href="https://m.tb.cn/h.VXRluxs?sm=dbf73b"  class="v1">天猫旗舰店</a></li>
+                          <li class="hidden-md hidden-lg"><a target="_blank" href="https://xianxiao.ssap.com.cn" class="v1">先晓书院</a></li>
+                    </ul>
+        </li><li>|</li>                                               
+      <li><a target="_blank" href="/xszx_1/" id="000958" class="v1">学术中心</a></li><li>|</li>
+      <li><a target="_blank" href="/szcb-1/" id="000995" class="v1">数字出版</a></li><li>|</li>
+      <li><a target="_blank" href="/gjcb/" id="000949" class="v1">国际出版</a></li><li>|</li>
+      <li class="fwzq"><a href="javascript:void(0);" id=" " class="v1">服务专区</a>
+        <ul id="fwzqli">
+          <li><a target="_blank" href="/tsgfw/" id="000954" class="v1">图书馆服务</a></li>
+          <li><a target="_blank" href="/zzfw/" id="000946" class="v1">作者服务</a></li>
+          <li><a target="_blank" href="/jxsfw1/" id="000994" class="v1">经销商服务</a></li>
+        </ul>
+      </li>
+      <li>|</li>
+      <li>
+        
+          
+          <a target="_blank" href="/gywm/" id="000941|000961" class="v1">关于我们</a>
+        
+      </li>
+    </ul>
+  </div>
+</div>
+<!-- 手机头部 -->
+<div id="hd" class="visible-xs xisible-sm headerFixed">
+  <div class="container">
+    <span class="menuBtn hidden-lg hidden-md"></span>
+    <h3 id="catalogName" class="catalogName"></h3>
+    <a href="javascript:void(0);" class="btn topBtn">查询</a>
+    <!-- <form id="searchForm" action="${FrontAppContext}search/normal" method="post">
+<input id="SiteID" name="SiteID" type="hidden" value="${Site.ID}">
+<a href="javascript:void(0);" onclick="searchSubmit();" class="btn topBtn">查询</a>
+</form> -->
+  </div>
+  <div class="container">
+    <div class="soForm" style="display:none;">
+      <form id="searchForm" action="https://www.ssap.com.cn/ssapshop/search/normal" method="post">
+        <div class="soBox">
+          <input id="SiteID" name="SiteID" type="hidden" value="42">
+          <input name="Query" id="Query" type="text" value="" class="so-inp">
+          <input type="button" onclick="searchSubmit();" value="搜索" class="so-btn text-center">
+          <a target="_blank" href="https://www.ssap.com.cn/ssapshop/search/advance">高级搜索</a>
+          <div class="select3" name="Type" id="Type">
+            <select class="beautify_input" style="display:none;">
+              <option selected="selected" value="">全部</option>
+              <option value="Books">图书</option>
+              <option value="Qikans">期刊</option>
+              <option value="Article">资讯</option>
+            </select>
+          </div>
+          <div class="select4" name="isTitle" id="isTitle">
+            <select class="beautify_input" style="display:none;">
+              <option selected="selected" value="N">全部</option>
+              <option value="Y">标题</option>
+            </select>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="disHeight" style="height:50px;display:none;"></div>
+<!-- 手机导航 -->
+<div id="nav" style="display:none;">
+  <div class="container">
+    <ul class="nav-menu list-unstyled">
+      <li ><a target="_blank" href="https://www.ssap.com.cn/" class="v1">首页</a></li>
+      <li>旗舰店</li>
+      		 <li><a target="_blank" href="https://m.tb.cn/h.VXRluxs?sm=dbf73b" class="v1">天猫旗舰店</a></li>
+       <li><a target="_blank" href="https://xianxiao.ssap.com.cn" class="v1">先晓书院</a></li>
+      <li><a target="_blank" href="/xwzx/" class="v1">新闻</a></li>      
+      <li><a target="_blank" href="/xszx_1/" class="v1">学术中心</a></li>
+      <!-- <li><cms:catalog alias="shop"><a href="${Catalog.Link}" class="v1">图书频道</a></cms:catalog></li> -->                                  
+      <li><a target="_blank" href="/szcb-1/" class="v1">数字出版</a></li>                              
+      <li><a target="_blank" href="/gjcb/" class="v1">国际出版</a></li>                          
+      <li><a target="_blank" href="/qk/xsqk/" class="v1">学术期刊</a></li>                 
+      <li><a target="_blank" href="/tsgfw/" class="v1">服务专区</a></li>                 
+      <li><a target="_blank" href="/gywm/" class="v1">关于我们</a></li>
+    </ul>
+  </div>
+</div>
+<script type="text/javascript">
+  $(function(){
+    //栏目导航高亮
+    var innercode=$("#CatalogInnerCode").val();
+    //手机端头部的栏目名
+        $('.nav-ul a').each(function(){
+          var catalogIDCode = $(this).attr('id')+'';
+          catalogIDCode = catalogIDCode.substr(0,6);          
+          if(catalogIDCode == innercode){
+            $('#catalogName').html($(this).html());
+          }
+        })
+    if(innercode){
+      var $node=$("#nv ul li.on");
+      var $a=$("#nv ul li:not(.on) a");
+      for(var i=0;i<$a.length;i++){
+        var ids = $a[i].id.split("|");
+        for(var index = 0;index < ids.length;index++){
+          if(ids[index]!="" && innercode.startsWith(ids[index])){
+            $node.removeClass("on");
+            $($a[i]).parent("li").addClass("on");
+            break;
+          }
+        }
+      }
+    } 
+    var $b=$("#fwzqli li");
+    for(var i=0;i<$b.length;i++){
+      if($($b[i]).attr("class")=="on"){
+        //$($b[i]).removeClass("on");
+        $("#fwzqli").parent().addClass("on");
+      }
+    }
+    //头部搜索
+    $(".topBtn").click(function(){
+      $(".soForm").slideToggle();
+    })
+  });
+</script>
+    <!--高亮图书频道 -->
+    <input type="hidden" id="CatalogInnerCode" value="001007"/>
+    <!-- 主要内容 -->
+    <div id="bd" class="main">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 error text-center m-t-md m-b-md">
+            <img src="/images/error-img.jpg" width="100%" />
+            <div class="text-center">抱歉，您访问的页面不存在或者已删除 <a href="https://www.ssap.com.cn/" class="btn">返回首页</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 底部 -->
+    	
+		<div id="foot" style="font-weight: 100;">
+        <div class="footer-con hidden-sm hidden-xs">
+        	<div class="container">
+                <a target="_blank" href="https://www.ssap.com.cn/">首页</a>|
+                
+                
+	                <a target="_blank" href="/scdb/">帮助中心</a>
+	                |
+	                
+	                <a target="_blank" href="/dbxx/wzdt/">网站地图</a>
+	                |
+	                
+	                <a target="_blank" href="/dbxx/lxwm_12/">联系我们</a>
+	                |
+	                
+	                <a target="_blank" href="/dbxx/flsm/">法律声明</a>
+	                |
+	                
+	                <a target="_blank" href="/cpyc/">诚聘英才</a>
+	                
+	                
+                
+            </div>
+        </div>
+        <div class="footer-btm">
+        	<div>
+            	<p><span>北京市西城区北三环中路甲29号院3号楼“华龙大厦”A/B座13层、15层 </span><span>邮编:100029　企业证照信息</span></p>
+                <p><span>读者服务：400-8918866　发行部：010-59367028　</span><span>邮箱：duzhe@ssap.cn</span></p>
+                <p><span>媒体合作:010-59367221　作者服务：010-59367063　</span><span>网站管理：010-59366547</span></p>
+                                <p><span>电子书咨询:010-59366546　皮书俱乐部服务：010-59367096　</span></p>
+                <p><span>版权所有 社会科学文献出版社 <a href="https://beian.miit.gov.cn" target="_blank">京ICP备06036494号-5</a>　</span><span>新出网证（京）字094号</span></p>
+                <p><span><img src="/images/gaba_2019.png"/><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202008211">&nbsp;京公网安备 11010202008211号</a></span>
+              <!-- <cms:article catalogalias="zs"><p><z:list><span><a href="${Article.Link}">${Article.Title}</a></span> &nbsp &nbsp</z:list></p></cms:article> -->
+                <p><img src="/images/cnnic.png" /></p>
+            </div>
+        </div>
+    </div>
+<style>
+  .footer-btm a{
+    color: #FFFFFF;}
+  
+</style>
+    <div class="hidden-xs" style="position: fixed; right: 0px; width: 110px; height: 171px; top: 495px; z-index:999;">  
+<img src="/images/weixin.jpg" border="0"></div>
+
+<script type="text/javascript">var cnzz_protocol = "https://";document.write(unescape("%3Cspan id='cnzz_stat_icon_4317812'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D4317812' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?2f5d629cca4db8ee0ecc11e43981f26d";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<!-- PHPStat Start -->
+<script language="JavaScript" id="phpstat_js_id_10000019">
+var _trackDataType = 'web';
+var _trackData = _trackData || [];
+(function() {
+var phpstat_js = document.createElement('script'); phpstat_js.type = 'text/javascript'; 
+phpstat_js.charset = 'utf-8'; phpstat_js.id = 'phpstat_async_js_id_10000019'; phpstat_js.async = true;
+phpstat_js.src = '//webstat.ssap.com.cn/phpstat/count/10000019/10000019.js';
+var phpstat_cjs = document.getElementsByTagName('script')[0]; phpstat_cjs.parentNode.insertBefore(phpstat_js, phpstat_cjs);
+})();
+</script>
+<!--/PHPStat End -->
+
+
+
+  
+<script src="https://www.ssap.com.cn/ssapshop/stat/front/stat.js" type="text/javascript"></script>
+<script>
+if(window._zcms_stat)_zcms_stat("SiteID=42&CatalogInnerCode=001007&Type=null&Dest=https://www.ssap.com.cn/ssapshop/stat/dealer");
+</script>
+
+<!-- App=ssapshop(社科商城) 2.4.0.4032,CostTime=1,PublishDate=2022-07-26 09:45:32 -->
+</body>
+</html>
