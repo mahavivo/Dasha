@@ -7,7 +7,7 @@ Codices Palatini germanici (Cod. Pal. germ.)
 
 Cod. Pal. germ. 5
 
-Irmhart ser - Aderlabuch - Heinrich von Mügeln - Gmünder Chronik
+Irmhart 謘er - Aderla遙uch - Heinrich von Mügeln - Gmünder Chronik
 Bayern (?), 1. Viertel 15. Jhd. 
 
 Cod. Pal. germ. 14
@@ -20,7 +20,7 @@ Bibel (AT), Bücher Mose, Josua, Richter, Ruth
 Stuttgart (?), 1477 
 
 Cod. Pal. germ. 17
-Bibel (AT), Knige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob
+Bibel (AT), K鰊ige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob
 Stuttgart (?), 1477 
 
 Cod. Pal. germ. 18
@@ -32,11 +32,11 @@ Stuttgart (?), 1477
 
 Cod. Pal. germ. 19
 
-5-bndige Bibel (AT), Bücher Mose, Josua, Richter
+5-b鋘dige Bibel (AT), Bücher Mose, Josua, Richter
 Hagenau, 1441 - 1449 
 
 Cod. Pal. germ. 20
-Bibel (AT) Bücher der Knige, Paralipomenon I und II
+Bibel (AT) Bücher der K鰊ige, Paralipomenon I und II
 Hagenau, 1441 - 1449 
 
 Cod. Pal. germ. 21
@@ -63,7 +63,7 @@ Heidelberg, 1370
 Cod. Pal. germ. 27
 
 Otto von Passau: \"Die 24 Alten\"
-Straburg, 1418 
+Stra遙urg, 1418 
 
 Cod. Pal. germ. 40
 
@@ -81,7 +81,7 @@ http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html
 Codices Palatini germanici (Cod. Pal. germ.)
 --------------------------------------------
 Cod. Pal. germ. 5
-Irmhart ser - Aderlabuch - Heinrich von Mügeln - Gmünder Chronik
+Irmhart 謘er - Aderla遙uch - Heinrich von Mügeln - Gmünder Chronik
 Bayern (?), 1. Viertel 15. Jhd.
 http://www.ub.uni-heidelberg.de/ebind/docs/cpg5/cpg5(*).jpg
 166
@@ -99,7 +99,7 @@ http://www.ub.uni-heidelberg.de/ebind/docs/cpg16/cpg16(*).jpg
 582
 
 Cod. Pal. germ. 17
-Bibel (AT), Knige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob
+Bibel (AT), K鰊ige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob
 Stuttgart (?), 1477
 http://www.ub.uni-heidelberg.de/ebind/docs/cpg17/cpg17(*).jpg
 619
@@ -111,13 +111,13 @@ http://www.ub.uni-heidelberg.de/ebind/docs/cpg18/cpg18(*).jpg
 757
 
 Cod. Pal. germ. 19 
-5-bndige Bibel (AT), Bücher Mose, Josua, Richter
+5-b鋘dige Bibel (AT), Bücher Mose, Josua, Richter
 Hagenau, 1441 - 1449
 http://www.ub.uni-heidelberg.de/ebind/docs/cpg19/cpg19(*).jpg
 747
 
 Cod. Pal. germ. 20
-Bibel (AT) Bücher der Knige, Paralipomenon I und II
+Bibel (AT) Bücher der K鰊ige, Paralipomenon I und II
 Hagenau, 1441 - 1449
 http://www.ub.uni-heidelberg.de/ebind/docs/cpg20/cpg20(*).jpg
 507
@@ -148,7 +148,7 @@ http://www.ub.uni-heidelberg.de/ebind/docs/cpg24/cpg24(*).jpg
 
 Cod. Pal. germ. 27 
 Otto von Passau: "Die 24 Alten"
-Straburg, 1418
+Stra遙urg, 1418
 http://www.ub.uni-heidelberg.de/ebind/docs/cpg27/cpg27(*).jpg
 345
 

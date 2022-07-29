@@ -1,12 +1,12 @@
 Gossudar 2006-9-1 01:14:13
 
-傻按：至少，此兄的翻译比译林江宁康版要规范化、专业得多。唉，会一门外语，并不意味着此语种的任何文字都可以翻译。就说汉语吧，未必每个中国人都能正确理解。“凌晨一点钟”这样的说法能够大行其道，可见一斑矣。当然，对于哈罗德・布鲁姆的文学偏见，Dasha亦有偏见，其所舻列之目录，Dasha本来不屑。如今船载以入，只缘其毕竟是进入英语文学的一个可以参考的简易地图，但请阅读者不要被这位《影响的焦虑》的作者所影响（傻以为，他是没有资格奢谈整个西方的）。
+傻按：至少，此兄的翻译比译林江宁康版要规范化、专业得多。唉，会一门外语，并不意味着此语种的任何文字都可以翻译。就说汉语吧，未必每个中国人都能正确理解。“凌晨一点钟”这样的说法能够大行其道，可见一斑矣。当然，对于哈罗德·布鲁姆的文学偏见，Dasha亦有偏见，其所舻列之目录，Dasha本来不屑。如今船载以入，只缘其毕竟是进入英语文学的一个可以参考的简易地图，但请阅读者不要被这位《影响的焦虑》的作者所影响（傻以为，他是没有资格奢谈整个西方的）。
 
 原文在：
 http://evilbloom.spaces.live.com ... artqs=cat%3dLecture
 
 哈罗德&#8226;布鲁姆《西方正典：伟大作家和不朽作品》的附录：翻译初衷
-哈罗德・布鲁姆在《西方正典》后面附了一个长达几十页的经典书目，这个书目即便单独拿出来看也是非常出色的一个书目。阅读《西方正典》的时候觉得布鲁姆的阅读品位和我的相对而言还是比较接近的，所以，这样的书目对我而言是非常有意义的。我不想追寻布鲁姆的阅读路线，因为那绝对是个不可能的任务。他的书目里至少有一半的书在国内没有译本，这其中又有一部分甚至连作者和作品的名字都没有汉化，并且，这部分作品在西方大部分人的阅读里可能也是被忽略的，布鲁姆将它们列入书目正是为了唤起对它们的注意。而对于我们熟知的作家来说，布鲁姆依旧会以他的眼光选择一些长期被忽视但在他眼里是佳作的作品，这些对我们来说，依旧是很陌生的。以上两类作品占了这个书目的大部分，剩下的才是通常意义上的名家名作了。所以，与其说这个书目具备参考意义，不如说书目中体现的布鲁姆的阅读趣味更实际点，正是凭着这种好奇心，我希望能有稍微深入的研究而不是象通常那样一掠而过。
+哈罗德·布鲁姆在《西方正典》后面附了一个长达几十页的经典书目，这个书目即便单独拿出来看也是非常出色的一个书目。阅读《西方正典》的时候觉得布鲁姆的阅读品位和我的相对而言还是比较接近的，所以，这样的书目对我而言是非常有意义的。我不想追寻布鲁姆的阅读路线，因为那绝对是个不可能的任务。他的书目里至少有一半的书在国内没有译本，这其中又有一部分甚至连作者和作品的名字都没有汉化，并且，这部分作品在西方大部分人的阅读里可能也是被忽略的，布鲁姆将它们列入书目正是为了唤起对它们的注意。而对于我们熟知的作家来说，布鲁姆依旧会以他的眼光选择一些长期被忽视但在他眼里是佳作的作品，这些对我们来说，依旧是很陌生的。以上两类作品占了这个书目的大部分，剩下的才是通常意义上的名家名作了。所以，与其说这个书目具备参考意义，不如说书目中体现的布鲁姆的阅读趣味更实际点，正是凭着这种好奇心，我希望能有稍微深入的研究而不是象通常那样一掠而过。
 
 译林江宁康版已经把这个书目译出来了，但我不太满意，就我上述的名家名作部分尚且有误译，更不用说书目的偏僻作品的翻译了。于是我上网找了一个英文版的书目，准备自己校译一遍。这个工作现在刚完成1/3，发觉难度确实很大。太多的作者和作品名没有汉化，俺也能只能直译，因没有读过原著，俺完全没把握到底译的正确不正确。有些作品有好几个版本，我一般只取比较普及的版本的译名。作者的译名也是个很大的问题，俺现在考虑，著名的作者采用通用的译法，有名有姓或者有姓无名或有名无姓都保持原样，而不太著名的作者，通常还是把姓和名都列出来。
 
@@ -17,9 +17,9 @@ http://evilbloom.spaces.live.com ... artqs=cat%3dLecture
 
 哈罗德&#8226;布鲁姆《西方正典：伟大作家和不朽作品》(New York: Harcourt Brace, 1994)的附录 A-D
 
-A. The Theocratic Age: 2000 BCE-1321 CE 神权时代：公元前2000 C 公元1321
+A. The Theocratic Age: 2000 BCE-1321 CE 神权时代：公元前2000 – 公元1321
 B. The Aristocratic Age: 1321-1832 贵族时代：公元1321 - 公元1832
-C. The Democratic Age: 1832-1900 民主时代：公元1832 C 公元1900
+C. The Democratic Age: 1832-1900 民主时代：公元1832 – 公元1900
 D. The Chaotic Age: 20th Century 混乱时代：20世纪
 
 A. The Theocratic Age神权时代
@@ -220,7 +220,7 @@ The Servant of Two Masters 一仆二主
 &#8226; Vittorio Alfieri阿尔菲耶里
 Saul 扫罗
 Portugal葡萄牙
-&#8226; Luis de Camons卡蒙斯
+&#8226; Luis de Camo雗s卡蒙斯
 The Lusiads卢济塔尼亚人之歌
 &#8226; Antònio Ferreira费雷拉
 Poetry 诗歌
@@ -444,11 +444,11 @@ France法国
 &#8226; Jean Froissart 傅华萨
 Chronicles 闻见录
 &#8226; The Song of Roland 罗兰之歌
-&#8226; Franois Villon 维庸
+&#8226; Fran鏾is Villon 维庸
 Poems 诗集
 &#8226; Michel de Montaigne 蒙田
 Essays 随笔集
-&#8226; Franois Rabelais 拉伯雷
+&#8226; Fran鏾is Rabelais 拉伯雷
 Gargantua and Pantagruel 巨人传
 &#8226; Marguerite de Navarre 玛格丽特&#8226;德&#8226;纳瓦尔
 The Heptameron 七日谈
@@ -472,7 +472,7 @@ Nicomède 尼高梅德
 Horace 贺拉斯
 Cinna 西拿
 Rodogune罗多赓
-&#8226; Franois de La Rochefoucauld 拉罗什福科
+&#8226; Fran鏾is de La Rochefoucauld 拉罗什福科
 Maxims 箴言集
 &#8226; Jean de La Fontaine 拉封丹
 Fables 寓言
@@ -503,8 +503,8 @@ Athaliah 阿达莉
 Seven Comedies 喜剧七部
 &#8226; Jean-Jacques Rousseau 卢梭
 The Confessions 忏悔录
-mile 爱弥尔
-La Nouvelle Hélose 新爱洛漪丝
+蒻ile 爱弥尔
+La Nouvelle Hélo飐e 新爱洛漪丝
 &#8226; Voltaire 伏尔泰
 Zadig 查第格
 Candide 老实人
@@ -543,11 +543,11 @@ The Robbers 强盗
 Mary Stuart 玛丽&#8226;斯图亚特
 Wallenstein 华伦斯坦
 Don Carlos 唐&#8226;卡洛斯
-On the Nave and Sentimental in Literature论素朴的诗与感伤的诗
+On the Na飗e and Sentimental in Literature论素朴的诗与感伤的诗
 &#8226; Gotthold Lessing 莱辛
-Laocon 拉奥孔
+Laoco鰊 拉奥孔
 Nathan the Wise 
-&#8226; Freidrich Hlderlin 荷尔德林
+&#8226; Freidrich H鰈derlin 荷尔德林
 Hymns and Fragments 赞美诗与片段
 Selected Poems 诗选
 &#8226; Heinrich von Kleist 克莱斯特
@@ -590,13 +590,13 @@ Poems诗韵集
 Fortunata and Jacinta福尔图纳达和哈辛达
 &#8226; Leopoldo Alas (Clarín) 克拉林
 La Regenta 庭长夫人
-&#8226; José Maria de Ea de Queirós 埃萨&#8226;德&#8226;克罗兹
+&#8226; José Maria de E鏰 de Queirós 埃萨&#8226;德&#8226;克罗兹
 The Maias马伊亚一家
 France法国
 &#8226; Benjamin Constant 贡斯当
 Adolphe 阿道尔夫
 The Red Notebook 红色笔记
-&#8226; Franois-Auguste-René de Chateaubriand 夏多布里昂
+&#8226; Fran鏾is-Auguste-René de Chateaubriand 夏多布里昂
 Attala 阿达拉
 René 勒内
 The Genius of Christianity 基督教真谛
@@ -767,7 +767,7 @@ Selected Poems 诗选
 France法国
 &#8226; Anatole France 法朗士
 Penguin Island 企鹅岛
-Thas 黛依丝/苔依丝
+Tha飐 黛依丝/苔依丝
 &#8226; Alain-Fournier 阿兰-傅尼耶
 Le Grand Meaulnes 大个子莫尔纳/大摩尔纳/故梦
 &#8226; Marcel Proust 普鲁斯特
@@ -807,7 +807,7 @@ The Art of Poetry 诗的艺术
 Selected Writings 作品选
 &#8226; René Char 勒内&#8226;夏尔
 Poems 诗集
-&#8226; Paul luard 艾吕雅
+&#8226; Paul 蒷uard 艾吕雅
 Selected Poems 诗选
 &#8226; Louis Aragon 阿拉贡
 Selected Poems 诗选
@@ -863,7 +863,7 @@ The Royal Way 王家大道
 Man&#39;s Fate 人的命运
 Man&#39;s Hope 希望
 The Voices of Silence 沉默的声音
-&#8226; Franois Mauriac 弗朗索瓦&#8226;莫里亚克
+&#8226; Fran鏾is Mauriac 弗朗索瓦&#8226;莫里亚克
 Therese 黛蕾丝
 The Desert of Love 爱的荒漠
 The Woman of the Pharisees 伪善的女人
@@ -1045,7 +1045,7 @@ Nothing 虚无
 Loving 爱着
 Party Going 赴宴
 &#8226; Evelyn Waugh 伊夫林&#8226;沃
-A Handful of Dust 一g尘土
+A Handful of Dust 一抔尘土
 Scoop 独家新闻
 Vile Bodies 邪恶的躯体
 Put Out More Flags 多升几面旗
@@ -1202,13 +1202,13 @@ Stories of Three Decades 三十年间小说集
 Joseph and His Brothers约瑟和他的兄弟们
 Doctor Faustus 浮士德
 Confessions of Felix Krull, Confidence Man大骗子菲利克斯&#8226;克鲁尔的自白
-&#8226; Alfred Dblin 德布林
+&#8226; Alfred D鯾lin 德布林
 Berlin Alexanderplatz 柏林亚历山大广场
 &#8226; Hermann Hesse 黑塞
 The Glass Bead Game (Magister Ludi) 玻璃球游戏
 Narcissus and Goldmund纳尔齐斯和歌尔德蒙
 &#8226; Robert Musil 罗伯特&#8226;穆齐尔
-Young Trless青年特尔勒斯
+Young T鰎less青年特尔勒斯
 The Man Without Qualities 没有个性的人
 &#8226; Joseph Roth约瑟夫&#8226;洛特
 The Radetzky March 拉德茨基进行曲
@@ -1216,7 +1216,7 @@ The Radetzky March 拉德茨基进行曲
 Poems 诗集
 &#8226; Thomas Bernhard 托马斯&#8226;伯恩哈特
 Woodcutters 木刻家
-&#8226; Heinrich Bll海因里希&#8226;伯尔
+&#8226; Heinrich B鰈l海因里希&#8226;伯尔
 Billiards at Half-Past Nine九点半钟的台球
 &#8226; Ingeborg Bachmann英格褒&#8226;巴赫曼
 In the Storm of Roses 玫瑰风暴

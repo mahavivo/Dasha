@@ -1,6 +1,6 @@
 Gossudar 2006-9-18 12:20:29
 
-文章写作时起句的重要性毋庸多言。里尔克的伟大作品《Die Aufzeichnungen des Malte Laurids Brigge》（马尔特・劳里斯・布里格手记[①]）第一章就三易其稿，里尔克对起句的匠心昭然。然而，Dasha阅读了此作品若干年原文并若干译本，却一直没有找到适当的译文，尤其是汉语。里尔克终稿的原句是“So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier.”Dasha搜集到的各种译本罗列如下：
+文章写作时起句的重要性毋庸多言。里尔克的伟大作品《Die Aufzeichnungen des Malte Laurids Brigge》（马尔特·劳里斯·布里格手记[①]）第一章就三易其稿，里尔克对起句的匠心昭然。然而，Dasha阅读了此作品若干年原文并若干译本，却一直没有找到适当的译文，尤其是汉语。里尔克终稿的原句是“So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier.”Dasha搜集到的各种译本罗列如下：
 
 1. M. D. Herter Norton:
 So, then people do come here in order to live; I would sooner have thought one died here.
@@ -15,16 +15,16 @@ from: The Notebooks of Malte Laurids Brigge. by Rainer Maria Rilke, trans. Steph
 3. 大山定一：
 そう、では、ここに人びとがやってくるのは、生きるためなのか、だがぼくにはむしろ、死んでいくのではないかと思われるほどだ。
 汉译：是的，人们是为了生存下去才到了这里，但是我却觉得到这里就是在死亡的路上。（李振村译）
-（大山定一U: マルテの手, 新潮社; (1953/06)）
+（大山定一訳: マルテの手記, 新潮社; (1953/06)）
 
-4. V越敏：
-人々は生きるためにこの都会へ集まって来るらしい。しかし、Wはむしろ、ここではみんなが死んでゆくとしか思えないのだ。
+4. 塚越敏：
+人々は生きるためにこの都会へ集まって来るらしい。しかし、僕はむしろ、ここではみんなが死んでゆくとしか思えないのだ。
 汉译：人们好像都是为了生活才集合在了都市[②]，但是我觉得，人们在这里只能走向死亡。（李振村译）
-（Rainer Maria Rilke、V越 敏: マルテ&#12539;ラウリス&#12539;ブリッゲの手, 未知谷 (2003/04)）
+（Rainer Maria Rilke、塚越 敏: マルテ&#12539;ラウリス&#12539;ブリッゲの手記, 未知谷 (2003/04)）
 
 5. 方瑜：
-不e，人到@Y硎了生活，但我更P心一人死在@Y的情景。
-（方瑜g《R泰手》，志文出版社民六十一年版，第二五）
+不錯，人們到這裏來是爲了生活，但我更關心一個人死在這裏的情景。
+（方瑜譯《馬爾泰手記》，志文出版社民國六十一年版，第二五頁）
 
 6. 魏育青：
 的确，人们来到这里是为了生活，而我却认为这里是死亡的地方。
@@ -40,9 +40,9 @@ from: The Notebooks of Malte Laurids Brigge. by Rainer Maria Rilke, trans. Steph
 
 9. 余中先转译自法语介绍文字：
 人们到这个地方真的是来活吗？我宁愿相信他们是到这儿来死的。
-（(法)贝・皮沃(Pivot, B)，(法)皮・蓬塞纳(Boncenne, P)编著; 余中先译《理想藏书》，光明日报出版社, 1996. 2，第7页）
+（(法)贝·皮沃(Pivot, B)，(法)皮·蓬塞纳(Boncenne, P)编著; 余中先译《理想藏书》，光明日报出版社, 1996. 2，第7页）
 傻按：不知道余中先所见的法语文字是什么样，但法语有译文如此：
-Voilà, c&#39; est donc ici que les gens viennent pour vivre; je dirais plutt que l&#39; on se meurt ici. (Les notes de Malte Laurids Brigge. Traduction de Stefan Kaempfer)
+Voilà, c&#39; est donc ici que les gens viennent pour vivre; je dirais plut魌 que l&#39; on se meurt ici. (Les notes de Malte Laurids Brigge. Traduction de Stefan Kaempfer)
 其汉译大意为：如此，人们这般为谋生到这里来；我倒不如认为他们将死在这里。
 里尔克这部小说的法语译名更多是“Les cahiers de Malte Laurids Brigge”和“Les carnets de Malte Laurids Brigge”。
 
@@ -51,10 +51,10 @@ Voilà, c&#39; est donc ici que les gens viennent pour vivre; je dirais plutt qu
 黎尔克在他的《马尔德的手记》里，一开头就这么写着。
 （(日)森村诚一著; 吕理州, 陈晓南译《电话魔》，载《世界探案经典.日本卷》 / [日]森村诚一、松本清张等著; 赵博源等译, 珠海: 珠海出版社, 2001.1 第35页）
 
-例举至此，Dasha首先注意到的是M. D. Herter Norton的“would sooner”和法语的“plutt que”，其表述的句式都是“与其……不如”。在德语里，eher与als连用时，表示比较，汉语大致为“与其……不如”、“宁肯……也不”，比如“eher heute als morgen”（与其明天，不如今天）。但是，里尔克的拼写却是“also...eher...”。also的词源涵义是ganz so，从all从so；并无als+so的用法，尽管alsobald与alsbald通用。因此，只能从eher的根本词义来理解。
+例举至此，Dasha首先注意到的是M. D. Herter Norton的“would sooner”和法语的“plut魌 que”，其表述的句式都是“与其……不如”。在德语里，eher与als连用时，表示比较，汉语大致为“与其……不如”、“宁肯……也不”，比如“eher heute als morgen”（与其明天，不如今天）。但是，里尔克的拼写却是“also...eher...”。also的词源涵义是ganz so，从all从so；并无als+so的用法，尽管alsobald与alsbald通用。因此，只能从eher的根本词义来理解。
 第二，令Dasha眼睛一亮的译法是吕理州、陈晓南转译日译本的译法“他们是为求死而来”和余中先转译自法语的“我宁愿相信他们是到这儿来死的”。理由无需多说，且看Dasha尝试翻译此第一章：
 
-So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. 走在街上，我所看见的，是一家家医院。我看见一个男子，晃了晃、栽倒在地上。人们围了过去，省却了我余下的事情。我看见一位孕妇，沿着温暖的高墙吃力地挪动自己。不时，她用手摸一摸墙，似乎要确定一下自己是否还在那里。当然，她还在那里。那里的后面是什么呢？我查了一下手中的市区图，是Maison d&#39;Accouchement（妇产医院）。善哉，人们会为她接生的――这个人们会。再远一点儿，rue Saint-Jacques（圣雅各街）上，有一座高大的穹顶建筑，市区图上标示为Val-de-grce（圣宠谷），Hspital militaire（军医院）。这些，我本无需知道，不过，知道了也没有什么坏处。街道开始从各个角度散发出气味。能分辨出的有黄碘、pommes frites（炸薯条的油脂）和恐惧。所有城市在夏天都会散发出气味的。后来，我看见一座奇异的房子，样子仿佛患了白内障。是什么市区图里找不到，但门顶上的招牌还清晰可辨：Asyle de nuit（夜间收容所）。入口边上有价格，我读了一下，还不算贵。
+So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. 走在街上，我所看见的，是一家家医院。我看见一个男子，晃了晃、栽倒在地上。人们围了过去，省却了我余下的事情。我看见一位孕妇，沿着温暖的高墙吃力地挪动自己。不时，她用手摸一摸墙，似乎要确定一下自己是否还在那里。当然，她还在那里。那里的后面是什么呢？我查了一下手中的市区图，是Maison d&#39;Accouchement（妇产医院）。善哉，人们会为她接生的——这个人们会。再远一点儿，rue Saint-Jacques（圣雅各街）上，有一座高大的穹顶建筑，市区图上标示为Val-de-gr鈉e（圣宠谷），H魋pital militaire（军医院）。这些，我本无需知道，不过，知道了也没有什么坏处。街道开始从各个角度散发出气味。能分辨出的有黄碘、pommes frites（炸薯条的油脂）和恐惧。所有城市在夏天都会散发出气味的。后来，我看见一座奇异的房子，样子仿佛患了白内障。是什么市区图里找不到，但门顶上的招牌还清晰可辨：Asyle de nuit（夜间收容所）。入口边上有价格，我读了一下，还不算贵。
 
 此外呢？此外我看见一个幼童在停着的童车里。幼童胖胖的、皮肤发绿，额头上有一块清晰的斑疹。显然，斑疹已经痊愈，不再疼痛。幼童在睡觉，嘴张着，呼吸着黄碘、pommes frites和恐惧。如此而已。至关重要的是，人活着。活着，是至关重要的。
 
@@ -62,7 +62,7 @@ So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stür
 
 
 原文：
-So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. Ich bin ausgewesen. Ich habe gesehen: Hospitler. Ich habe einen Menschen gesehen, welcher schwankte und umsank. Die Leute versammelten sich um ihn, das ersparte mir den Rest. Ich habe eine schwangere Frau gesehen. Sie schob sich schwer an einer hohen, warmen Mauer entlang, nach der sie manchmal tastete, wie um sich zu überzeugen, ob sie noch da sei. Ja, sie war noch da. Dahinter? Ich suchte auf meinem Plan: Maison d&#39;Accouchement. Gut. Man wird sie entbinden - man kann das. Weiter, rue Saint-Jacques, ein groes Gebude mit einer Kuppel. Der Plan gab an Val-de-grce, Hspital militaire. Das brauchte ich eigentlich nicht zu wissen, aber es schadet nicht. Die Gasse begann von allen Seiten zu riechen. Es roch, soviel sich unterscheiden lie
+So, also hierher kommen die Leute, um zu leben, ich würde eher meinen, es stürbe sich hier. Ich bin ausgewesen. Ich habe gesehen: Hospit鋖er. Ich habe einen Menschen gesehen, welcher schwankte und umsank. Die Leute versammelten sich um ihn, das ersparte mir den Rest. Ich habe eine schwangere Frau gesehen. Sie schob sich schwer an einer hohen, warmen Mauer entlang, nach der sie manchmal tastete, wie um sich zu überzeugen, ob sie noch da sei. Ja, sie war noch da. Dahinter? Ich suchte auf meinem Plan: Maison d&#39;Accouchement. Gut. Man wird sie entbinden - man kann das. Weiter, rue Saint-Jacques, ein gro遝s Geb鋟de mit einer Kuppel. Der Plan gab an Val-de-gr鈉e, H魋pital militaire. Das brauchte ich eigentlich nicht zu wissen, aber es schadet nicht. Die Gasse begann von allen Seiten zu riechen. Es roch, soviel sich unterscheiden lie
 
 
 zhoukaijian 2006-9-19 12:48:12
@@ -86,7 +86,7 @@ So this is where people come to live; I would have thought it is a city to die i
 
 .......多谢兄弟闲来回帖。嘿嘿，兄是不是受Dasha那个帖子的影响，对Norton怀有戒心而不采纳？其实，Norton的英译应该说是准确、传神的。Norton习惯于“金山快译”式的直译，因此，英语上看来不道地，却能够某种程度上再现德语原文的特色。比如“in order to live”对应的是德语原文的“um zu leben”、“would sooner”紧扣原文德语的“würde eher”。所以，兄建筑在Stephen Mitchel偷巧意译上的理解，自然就成了空中楼阁。
 
-里尔克的这部作品的伟大，不会因为Dasha的偏爱而增光，更不会因为汉语学界的忽略、误置而减色。里尔克这部作品Dasha视之为奇书，是因为71部分零星琐碎的手记，在主题、艺术手段上，几乎全部囊括了里尔克死后光怪陆离的现代派、后现代派等文学先锋们的主题与手法，包括其译本缔造了中国文学一个精彩时代的马尔克斯。Gabriel García Márquez的《百年孤独》（Cien aos de soledad）中经典的起句“Muchos aos después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo.”相似的句式，在里尔克的“手记”中亦已出现。比如“Viel spter erst wird ihm klar werden, wie sehr er sich damals vornahm, niemals zu lieben, um keinen in die entsetzliche Lage zu bringen, geliebt zu sein.”
+里尔克的这部作品的伟大，不会因为Dasha的偏爱而增光，更不会因为汉语学界的忽略、误置而减色。里尔克这部作品Dasha视之为奇书，是因为71部分零星琐碎的手记，在主题、艺术手段上，几乎全部囊括了里尔克死后光怪陆离的现代派、后现代派等文学先锋们的主题与手法，包括其译本缔造了中国文学一个精彩时代的马尔克斯。Gabriel García Márquez的《百年孤独》（Cien a駉s de soledad）中经典的起句“Muchos a駉s después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo.”相似的句式，在里尔克的“手记”中亦已出现。比如“Viel sp鋞er erst wird ihm klar werden, wie sehr er sich damals vornahm, niemals zu lieben, um keinen in die entsetzliche Lage zu bringen, geliebt zu sein.”
 
 Dasha不是说马尔克斯们学习、模仿或者剽窃了里尔克，也不是说里尔克的这部作品如何影响了西方文学（马尔克斯们也未必读过里尔克的这部作品），而是说，里尔克是一个孤独的先锋，一个歌唱着“爱与死”的孤独的“旗手”。
 

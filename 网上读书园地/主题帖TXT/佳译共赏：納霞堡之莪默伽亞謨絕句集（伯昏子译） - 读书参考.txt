@@ -1,6 +1,5 @@
 Gossudar 2007-11-26 17:35:34
 
-
 據菲茨傑拉德第五版英譯本轉譯
 
 其一
@@ -315,7 +314,7 @@ Gossudar 2007-11-26 17:35:34
 
 2007-11-22
 
-伯昏子：此书国内有《鲁拜集》《柔巴依》《莪默^句集》等不同译名，分别译自英语、波斯语的译本多达20多种。其中按照绝句这一中国传统诗歌形式来翻译此部世界名作的译本并不太多，其中合乎旧诗格律的译本更少。而所谓“鲁拜”或“四行诗”这种诗歌格律形式，与汉诗的绝句罕见雷同，也不是偶然的。这也是本人不惮繁复，用与作者同时代的汉语，用中国传统的文学语言，用诸多与莪默齐辉并耀于世界诗坛的中国诗坛巨星所使用的诗歌语言，来重新翻译这部名作的主要原因。我觉得，这也是本译作值得公布于世的原因之一。
+伯昏子：此书国内有《鲁拜集》《柔巴依》《莪默絕句集》等不同译名，分别译自英语、波斯语的译本多达20多种。其中按照绝句这一中国传统诗歌形式来翻译此部世界名作的译本并不太多，其中合乎旧诗格律的译本更少。而所谓“鲁拜”或“四行诗”这种诗歌格律形式，与汉诗的绝句罕见雷同，也不是偶然的。这也是本人不惮繁复，用与作者同时代的汉语，用中国传统的文学语言，用诸多与莪默齐辉并耀于世界诗坛的中国诗坛巨星所使用的诗歌语言，来重新翻译这部名作的主要原因。我觉得，这也是本译作值得公布于世的原因之一。
 
 http://www.stph.com.cn/mybbs/announce/announce.asp?BoardID=15&ID=145918&aupflag=1&anum=1
 
@@ -1144,12 +1143,12 @@ TAMAM.
 　　◎吴剑岚、伍蠡甫 《鲁拜集》上海黎明书局 一九三五年
 　　◎孙毓棠，《鲁拜集》韵体译本，1939年全部刊于上海《西洋文学月刊》 
 　　◎柏丽汉译《怒湃译草》英汉对照插图本，，中国人民大学 1990年
-　　◎黄杲裕《柔巴依集》， 上海译文出版社 1982
+　　◎黄杲炘，《柔巴依集》， 上海译文出版社 1982
 　　◎潘家柏，《鲁拜集》新诗无韵体译本
 　　　依Le Gallienne Richard (1866-1947英国诗人)无韵散文诗体的英译本
 　　◎陈次云、孟祥森　狂歌集 晨钟出版社1971年
 　　◎黄克孙，鲁拜集 1986年 台北：书林
-　　◎张晖译 《柔巴依诗集》（波斯）欧玛尔・哈亚姆着，，湖南人民出版社1988年，有20多幅彩色、黑白插图,从波斯文直接译来的，共有一百八十九首。
+　　◎张晖译 《柔巴依诗集》（波斯）欧玛尔·哈亚姆着，，湖南人民出版社1988年，有20多幅彩色、黑白插图,从波斯文直接译来的，共有一百八十九首。
 　　◎虞尔昌（1985年）?????????
 　　◎孟祥森 鲁拜集　　　远景出版社1990年
 　　◎邢秉顺 鲁拜（载于人民文学出版社的《鲁达基海亚姆萨迪哈菲兹作品选》），
@@ -1157,9 +1156,9 @@ TAMAM.
 　　◎张鸿年 《鲁拜集》 ，2000年，波斯原著翻译的中译本(收380首)
 
 　　
-　　参考Y料
+　　参考資料
 　　◎慈恩 《三十五年鲁拜集翻译沧桑录》 
-　　◎黄杲 《 柔巴依集的汉译情况》 
+　　◎黄杲炘 《 柔巴依集的汉译情况》 
 　　◎莫渝 《鲁拜集---甲子翻译史》
 
 http://note.ssreader.com/show_to ... 5187&forumid=12
@@ -1189,7 +1188,7 @@ Gossudar 2007-11-27 12:32:46
 伯昏子兄在那厢说：
 本译文全部按照汉语历史音韵和近体诗的基本要求来处理格律与押韵。偶尔会邻韵通押，也是遵照近体邻韵分类原则来安排。格律上孤平力求避免，拗救可能未全面顾及。文字上也追求唐宋汉语的历史风貌，本质上就是以莪默时代的汉语来翻译莪默的诗。
 
-其实不一定是炫耀，傻看做是他再现鲁拜集时代感的努力。诗是语言艺术，不是翻译出大意就可的：古希腊、拉丁语，英语，法语，德语……诗歌的音韵是各不相同的：“长短”、“抑扬”、“阴阳”……都必须注意――英国人译古罗马诗时，将拉丁语的“短长”模写成英语的“抑扬”，于是乃形成英诗自己的品质……所以，汉译前辈有“以顿代步”的尝试。我辈对此岂能视而不见？
+其实不一定是炫耀，傻看做是他再现鲁拜集时代感的努力。诗是语言艺术，不是翻译出大意就可的：古希腊、拉丁语，英语，法语，德语……诗歌的音韵是各不相同的：“长短”、“抑扬”、“阴阳”……都必须注意——英国人译古罗马诗时，将拉丁语的“短长”模写成英语的“抑扬”，于是乃形成英诗自己的品质……所以，汉译前辈有“以顿代步”的尝试。我辈对此岂能视而不见？
 
 
 chaque 2007-11-27 14:39:15
@@ -1202,7 +1201,7 @@ Gossudar 2007-11-27 16:01:31
 引用第4楼chaque于2007-11-27 14:39发表的 :
 译品的水准先不提，单说"以莪默时代的汉语来翻译莪默的诗"，这个想法太奇特了，况且还是照着Fitzgerald的英文来做这件事！试想一下，如果Fitzgerald当年，也是按照"莪默时代的英语"来译莪默的诗，那还有大家今天读到的"莪默"吗？]"以莪默时代的汉语来翻译莪默的诗"，并不奇特，确实奇特的是：“照着Fitzgerald的英文来做这件事”。Dasha是始终反对转译的人，更何况Dasha阅读了大量并不负责任的英译本。
 
-Fitzgerald的“柔巴依”影响巨大，但并非英国人都认为其为佳译。如果菲氏按照"莪默时代的英语"来译莪默的诗，未必影响深远，但也未必不是佳译。梵澄先生“骚体”译“薄伽梵歌”，无论如何，也是让Dasha叹服的。李太白如果译鲁拜，结果会是怎样的呢？“刺勒川，阴山下，天似穹庐，笼盖四野。天苍苍，野茫茫，风吹草低见牛羊。”也是从蛮语里译过来的，真不知道黄杲匀绻找到了原文，会弄成什么样的“口语诗”。同样的例子就是西人的汉学著作，用现代汉语回译成的那些古代汉语引文，Dasha的评价则只有“呸”。j借此，再次对译《蒙古帝国史》的龚钺，对最近Dasha刚翻阅过的《琉璃宫史》的众译者表示景仰。
+Fitzgerald的“柔巴依”影响巨大，但并非英国人都认为其为佳译。如果菲氏按照"莪默时代的英语"来译莪默的诗，未必影响深远，但也未必不是佳译。梵澄先生“骚体”译“薄伽梵歌”，无论如何，也是让Dasha叹服的。李太白如果译鲁拜，结果会是怎样的呢？“刺勒川，阴山下，天似穹庐，笼盖四野。天苍苍，野茫茫，风吹草低见牛羊。”也是从蛮语里译过来的，真不知道黄杲炘如果找到了原文，会弄成什么样的“口语诗”。同样的例子就是西人的汉学著作，用现代汉语回译成的那些古代汉语引文，Dasha的评价则只有“呸”。j借此，再次对译《蒙古帝国史》的龚钺，对最近Dasha刚翻阅过的《琉璃宫史》的众译者表示景仰。
 
 
 klaustang 2007-11-27 16:15:09
@@ -1220,7 +1219,7 @@ klaustang 2007-11-27 16:15:09
 
 Luther的德译圣经，奠定了现代德语的基础，成为后来德国各城邦联系的最重要的纽带，不可谓不成功，但若以以古译古的观点衡量，则必不够忠实。新近K. Berger 与Ch.Nord将新约重译，其使用的德语自然比Luther的“年轻”，以上述标准衡量，则一没有必要二无人接受。然而苏黎世报评价如下 
 
-Dieser bersetzung geht es nicht um Worttreue, sondern ausschlielich um Verstndlichkeit. Sie nimmt den kulturhistorischen Abstand zwischen den christlichen Schriften der Antike der ersten zwei Jahrhunderte und dem heutigen Publikum ernst und versucht, die Fremdheit der Texte in die Zielsprache zu transferieren, aber so, da
+Dieser 躡ersetzung geht es nicht um Worttreue, sondern ausschlie遧ich um Verst鋘dlichkeit. Sie nimmt den kulturhistorischen Abstand zwischen den christlichen Schriften der Antike der ersten zwei Jahrhunderte und dem heutigen Publikum ernst und versucht, die Fremdheit der Texte in die Zielsprache zu transferieren, aber so, da
 
 
 chaque 2007-11-27 16:26:31
@@ -1232,7 +1231,7 @@ Gossudar兄又谈了很多有益的读、译心得，受教！
 2.Fitzgerald的翻译实践是：以近代英语来翻译11~12世纪的Omar诗。
 3.伯昏子采用Fitzgerald的译本转译Omar。
 
-1,2各自的情况，或许都各有可以言之成理之处；究竟该取哪一方的立场，这里不是做分别判断的地方。但两者显然是相互矛盾的，因此将双方捏合成3，就实在I格不通了。因为，如果你支持1，就只能反对2；认可2，就不能再按1的方式走下去。换句话说，我实在想不出，为什么一个主张“以莪默时代的汉语来翻译莪默的诗"的人，会选Fitzgerald为底本翻译。这好比是喝冰水驱寒、嚼辣椒止渴了。
+1,2各自的情况，或许都各有可以言之成理之处；究竟该取哪一方的立场，这里不是做分别判断的地方。但两者显然是相互矛盾的，因此将双方捏合成3，就实在扞格不通了。因为，如果你支持1，就只能反对2；认可2，就不能再按1的方式走下去。换句话说，我实在想不出，为什么一个主张“以莪默时代的汉语来翻译莪默的诗"的人，会选Fitzgerald为底本翻译。这好比是喝冰水驱寒、嚼辣椒止渴了。
 西人的汉学著作，用现代汉语回译成的那些古代汉语引文...我以为最佳办法是古代汉语原文附现代汉语回译或西文原文，这样也能让读者领略“西人”对中国典籍的妙解或误解。
 
 
@@ -1257,9 +1256,9 @@ woi55 2007-11-27 19:46:15
 引用第9楼swell于2007-11-27 17:23发表的 :
 路过顺便请教一下：各位，假如把《诗经》翻译成英文，采用什么年代的英文比较合适？？   History of the English Language
 
-The figure below shows the timeline of the history of the English language. The earliest known residents of the British Isles were the Celts, who spoke Celtic languages―a separate branch of the Indo-European language family tree. Over the centuries the British Isles were invaded and conquered by various peoples, who brought their languages and customs with them as they settled in their new lives. There is now very little Celtic influence left in English. The earliest time when we can say that English was spoken was in the 5th century CE (Common Era―a politically correct term used to replace AD).
+The figure below shows the timeline of the history of the English language. The earliest known residents of the British Isles were the Celts, who spoke Celtic languages—a separate branch of the Indo-European language family tree. Over the centuries the British Isles were invaded and conquered by various peoples, who brought their languages and customs with them as they settled in their new lives. There is now very little Celtic influence left in English. The earliest time when we can say that English was spoken was in the 5th century CE (Common Era—a politically correct term used to replace AD).
 
-In case you hadn’t made the connection, “England” <C “Engla Land” <C “Angle Land” (Land of the Angles, a people of northern old Germany). Their name lives on in the district of England named East Anglia, and also in the Anglican Church. In the present day there is still a region of Germany known as Angeln, which is likely the same area from which the original Angles came. Angeln lies in Schleswig-Holstein on the eastern side of the Jutland peninsula near the cities of Flensburg and Schleswig.
+In case you hadn’t made the connection, “England” <– “Engla Land” <– “Angle Land” (Land of the Angles, a people of northern old Germany). Their name lives on in the district of England named East Anglia, and also in the Anglican Church. In the present day there is still a region of Germany known as Angeln, which is likely the same area from which the original Angles came. Angeln lies in Schleswig-Holstein on the eastern side of the Jutland peninsula near the cities of Flensburg and Schleswig.
 
 
 
@@ -1297,9 +1296,9 @@ Gossudar 2007-11-27 20:27:45
 
 klaustang兄对Dasha的溢美，Dasha只有当作鞭策，继续努力了。兄提及“翻译策略”，傻不由想起哲人王Vivo前几天提到的“阅读策略”，多少有些功利性吧。傻不以翻译为业，只愿像Kafka私人写作那样“玩弄文字”。而兄贴中的“削足适履”，恐怕只能说译者的文字功力不足，唐诗、宋词……诗（词）人们哪一个不是“戴着镣铐舞蹈”。
 
-Swell问《论语》对应的同时代英语，船长说Celtic，傻则觉得该是Rune啦――像俺们的甲骨文，至少是石刻，嵇康曾经研究过的那种。对此，傻重复Dasha在2楼的话：“傻看做是他再现鲁拜集时代感的努力”。
+Swell问《论语》对应的同时代英语，船长说Celtic，傻则觉得该是Rune啦——像俺们的甲骨文，至少是石刻，嵇康曾经研究过的那种。对此，傻重复Dasha在2楼的话：“傻看做是他再现鲁拜集时代感的努力”。
 
-傻所谓的古文译古文（文风的模拟），当然基本同于chaque兄的“把译本语言处理得雅训、古朴一些”，比如莎士比亚不妨用明的话本或者再早一些的元曲――记得多年前看的《Growing Pains》里面有“他把莎士比亚翻译成英语”样的话，也就是说，Shakespeare的文字对于当代英语人士，至少像“国语合和本”对于我们当代的许多中国人吧。翻译不该是译者把自以为最美好的母语罗列在一起，对“待译文本”的风格不加考虑，恐怕不是无知，就是不负责任。
+傻所谓的古文译古文（文风的模拟），当然基本同于chaque兄的“把译本语言处理得雅训、古朴一些”，比如莎士比亚不妨用明的话本或者再早一些的元曲——记得多年前看的《Growing Pains》里面有“他把莎士比亚翻译成英语”样的话，也就是说，Shakespeare的文字对于当代英语人士，至少像“国语合和本”对于我们当代的许多中国人吧。翻译不该是译者把自以为最美好的母语罗列在一起，对“待译文本”的风格不加考虑，恐怕不是无知，就是不负责任。
 
 
 停云 2007-11-27 22:41:31
@@ -1328,9 +1327,9 @@ http://www.poetry-cn.com/blog/in ... 26&art_id=54565
 Gossudar兄认为这是一种"再现鲁拜集时代感的努力"，并打比方说，"不妨用明的话本或者再早一些的元曲"语言翻译莎士比亚。我看这是对伯昏子先生立场的一种回护或稀释（把"以莪默时代的汉语来翻译莪默的诗"这个几乎不可辩护的奇特原则给略加驯化了）。那么所谓古文译古文，或文风的模拟是不是一条全然自明，毫无争议的原则呢？我猜不一定。因为，固然有一部分"古文"在写作的时候就已经是雅训深奥，不易索解，可也有很多“古文”看上去古雅非凡，但其实这只是现代读者的感受，古人在当时大概只是我手写我口而已，并未存心一开口就古意盎然的。那么全力拟古的译者对“时代感”的“再现”，反而倒沦为一种基于现代立场的假再现了：他越拟古，离古人的真精神就越远。
 打个比方说，英译水浒的时候，究竟该用什么样的语言“再现时代感”？如果英译者也要采取“施耐庵时代的英语"，或者至少遵循"让英语读者体会21世纪汉语读者对水浒的陌生感"这个"以古译古"的原则，让李逵宋江诸位满口thou thee，我猜那结果只能是一场年代错误(anachronism)了。
 
-所以说，拟古的实质，是用一种特殊的、现成的文体装置，对表达加以陌生化、离间化，以期人为地制造出时代上的间隔感。不能说这个目的一定无法达成，但我们很容易看到，它与（通常认为的）翻译的本身任务是有抵触的。翻译意在渡引，拟古则力求分隔。更成问题的是，拟古者通常把目标语言的十八般兵器，缩减为其中一种固定的文体和装置（比如Omar时代的汉语之类），这样就限制了自己能够调用的技术资源――更几乎完全放弃了在翻译的过程中，用源语言本身的资源重新塑造目标语言的可能性。而这最后一种可能性（也就是路德通过翻译圣经重塑德语时所经历的那种可能性），我素来以为是翻译中最可珍视的经验。
+所以说，拟古的实质，是用一种特殊的、现成的文体装置，对表达加以陌生化、离间化，以期人为地制造出时代上的间隔感。不能说这个目的一定无法达成，但我们很容易看到，它与（通常认为的）翻译的本身任务是有抵触的。翻译意在渡引，拟古则力求分隔。更成问题的是，拟古者通常把目标语言的十八般兵器，缩减为其中一种固定的文体和装置（比如Omar时代的汉语之类），这样就限制了自己能够调用的技术资源——更几乎完全放弃了在翻译的过程中，用源语言本身的资源重新塑造目标语言的可能性。而这最后一种可能性（也就是路德通过翻译圣经重塑德语时所经历的那种可能性），我素来以为是翻译中最可珍视的经验。
 
-就我现在看到的成绩判断，拟古翻译的实际价值，其实在于它构成了一种风格练习，或者直言就是“炫耀”――真有好手艺又有什么不能炫耀的呢？比如早几年有人用诗经体翻译的Scaborough fair，或者钱钟书用佛经体翻译的希罗多德，都是这方面的好例子。在最好的情况下，这种练习本身就形成了不错的文学小品，但更通常的情况则是，做出的译本没有什么自在的价值，只是在与原本的比照下――这种比照本身肯定是不乏意趣的――能体现出译者的一番匠心罢了。
+就我现在看到的成绩判断，拟古翻译的实际价值，其实在于它构成了一种风格练习，或者直言就是“炫耀”——真有好手艺又有什么不能炫耀的呢？比如早几年有人用诗经体翻译的Scaborough fair，或者钱钟书用佛经体翻译的希罗多德，都是这方面的好例子。在最好的情况下，这种练习本身就形成了不错的文学小品，但更通常的情况则是，做出的译本没有什么自在的价值，只是在与原本的比照下——这种比照本身肯定是不乏意趣的——能体现出译者的一番匠心罢了。
 
 球赛开始之前恰好有点时间，不觉罗唣了这么多，就算是博各位方家一笑吧。
 
@@ -1350,19 +1349,19 @@ swell 2007-11-28 11:31:53
 
 cicerocicero 2007-11-28 13:26:03
 
-Peter Newmark做了个翻译制动要素图（The Dynamics of Translation， A Textbook of Translation，P4），谓考虑翻译有SL writer; SL norms; SL culture; SL setting and tradition; TL relationship; TL norms; TL culture; TL setting and tradition; The truth (the facts of the matter); Translator等十种要素参与，这与swell说的诸多可能――从接受以及接受者到语言策略――很有类似。不过，“翻译的可能”是一种在理论上根据个人（译者，或尤其是双语的旁观者）素质、才智、思考甚至目的等，可做无限衍生的东西，而“翻译的结果”是放在众人评说之下的特定的白纸黑字。从这一意义上看，翻译评价，常常是个由正向观之还是反向观之而萌发出来的问题：由结果到源头进行要素搜罗，或由源头到结果进行要素搜罗，相信两者之间错落交合的位置，就是分歧与同意的所在。
+Peter Newmark做了个翻译制动要素图（The Dynamics of Translation， A Textbook of Translation，P4），谓考虑翻译有SL writer; SL norms; SL culture; SL setting and tradition; TL relationship; TL norms; TL culture; TL setting and tradition; The truth (the facts of the matter); Translator等十种要素参与，这与swell说的诸多可能——从接受以及接受者到语言策略——很有类似。不过，“翻译的可能”是一种在理论上根据个人（译者，或尤其是双语的旁观者）素质、才智、思考甚至目的等，可做无限衍生的东西，而“翻译的结果”是放在众人评说之下的特定的白纸黑字。从这一意义上看，翻译评价，常常是个由正向观之还是反向观之而萌发出来的问题：由结果到源头进行要素搜罗，或由源头到结果进行要素搜罗，相信两者之间错落交合的位置，就是分歧与同意的所在。
 不忍心潜水的好帖，呵呵！希望不要介意我插上一嘴。大家继续。。。
 
 
 Gossudar 2007-11-28 14:55:36
 
-惨！“对伯昏子先生立场的一种回护或稀释”（chaque）――Dasha与伯昏子兄此前并不相识，Dasha不是在对伯昏子先生进行回护，Dasha是在对Dasha自己“拟古翻译立场”做些思考。
+惨！“对伯昏子先生立场的一种回护或稀释”（chaque）——Dasha与伯昏子兄此前并不相识，Dasha不是在对伯昏子先生进行回护，Dasha是在对Dasha自己“拟古翻译立场”做些思考。
 
 尝试举例，比如有这么一个电影或电视片段，一位美国老师给学生们上语文课，他先说，Beowulf的“Klaeber edition of the Old English”是这样的：
 
-HWT, WE GAR-DEna in geardagum, 
+HW芓, WE GAR-DEna in geardagum, 
 eodcyninga rym gefrunon, 
-hu a 纩elingas ellen fremedon!
+hu 餫 纩elingas ellen fremedon!
 
 然后，又说，Francis Gummere将之转写成的modern English是：
 
@@ -1386,7 +1385,7 @@ we have heard, and what honor the athelings won!
 
 
 
-译林1999年出版陈才宇据“一九九一年英国米德尔塞克斯出版的……采用古英语和现代英语排版……还参阅过一九七三年出版的《企鹅丛书》中的现代英语本和一九七年纽约出版的《诺顿文学选集》中的散文译文”的《贝奥武甫》译文如下：
+译林1999年出版陈才宇据“一九九一年英国米德尔塞克斯出版的……采用古英语和现代英语排版……还参阅过一九七三年出版的《企鹅丛书》中的现代英语本和一九七〇年纽约出版的《诺顿文学选集》中的散文译文”的《贝奥武甫》译文如下：
 
 
 

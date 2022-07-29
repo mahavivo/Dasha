@@ -1,6 +1,6 @@
 Gossudar 2007-8-9 10:15:01
 
-就像“Bibliothèque nationale de France”（法国国家图书馆）的电子书在http://www.bnf.fr/上踪迹，须到http://gallica.bnf.fr/处，方能够“芝麻开门”，电子化的典籍浩瀚恣肆，“sterreichische Nationalbibliothek”（奥地利国家图书馆）也是这般，在http://www.onb.ac.at/也是毫无电子图书的蛛丝马迹。有也只有电子化报纸ANNO的一些信息，不过，这ANNO的服务器下，不仅有Zeitung，更有隐藏起来的Digitalen Büchern，并且，其制作精良，不似Dasha日前举报的AOL那样（http://www.readfree.net/bbs/read-htm-tid-4498773.html）。可惜，Dasha按照正常网页浏览方式翻遍了http://anno.onb.ac.at/，一无所获，于是，乃依照其他方法获得的链接，手动检索NB电子化了的图书，但只找到文学类书籍，兹发布如下结果：
+就像“Bibliothèque nationale de France”（法国国家图书馆）的电子书在http://www.bnf.fr/上踪迹，须到http://gallica.bnf.fr/处，方能够“芝麻开门”，电子化的典籍浩瀚恣肆，“謘terreichische Nationalbibliothek”（奥地利国家图书馆）也是这般，在http://www.onb.ac.at/也是毫无电子图书的蛛丝马迹。有也只有电子化报纸ANNO的一些信息，不过，这ANNO的服务器下，不仅有Zeitung，更有隐藏起来的Digitalen Büchern，并且，其制作精良，不似Dasha日前举报的AOL那样（http://www.readfree.net/bbs/read-htm-tid-4498773.html）。可惜，Dasha按照正常网页浏览方式翻遍了http://anno.onb.ac.at/，一无所获，于是，乃依照其他方法获得的链接，手动检索諲B电子化了的图书，但只找到文学类书籍，兹发布如下结果：
 
 
 
@@ -120,7 +120,7 @@ Der Heizer. Ein Fragment. Leipzig: Wolff, 1913
 http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=315
 Das Urteil. Eine Geschichte. Leipzig: Wolff, 1916
 http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=316
-Ein Landarzt. Kleine Erzhlungen. München, Leipzig: Wolff, 1919
+Ein Landarzt. Kleine Erz鋒lungen. München, Leipzig: Wolff, 1919
 http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=317
 Ein Hungerkünstler. Vier Geschichten. Berlin: Verl. Die Schmiede, 1924
 http://anno.onb.ac.at/cgi-content/anno-buch?apm=0&aid=318
@@ -129,7 +129,7 @@ Der Proze
 
 hong 2007-8-9 10:54:57
 
-难得的资料，辛苦大大滴――赞一个！
+难得的资料，辛苦大大滴——赞一个！
 可惜偶连中文文章不少都看不明白，别说啥子德个立式 法格里希啦。。。。小时候不好好学习，真的“老大徒伤悲”啊。。。。。 
 
 
