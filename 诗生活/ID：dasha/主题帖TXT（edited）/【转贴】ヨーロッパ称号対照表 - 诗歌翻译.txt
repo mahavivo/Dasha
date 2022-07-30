@@ -1,0 +1,237 @@
+Dasha 2005-3-16 21:49:54
+
+【转贴】ヨーロッパ称号対照表
+
+<P class=margin 
+align=left>「西欧」の称号をまとめてみました。女性形がある場合は男性形の下に併記してあります。また、女性形には本人がその地位を持つ場合（女王、女公爵など）と、単なる配偶者である場合（王妃、伯妃など）があります。 
+</P>
+<DIV align=center>
+<TABLE 
+style="FONT-WEIGHT: normal; FONT-SIZE: 10pt; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal" 
+borderColor=#777777 cellSpacing=0 borderColorDark=#ffffff cellPadding=4 
+width=630 align=center border=1>
+  <TBODY>
+  <TR bgColor=#a7a7a7>
+    <TH noWrap>称号</TH>
+    <TH>英語</TH>
+    <TH>ドイツ語</TH>
+    <TH>フランス語</TH>
+    <TH>イタリア語</TH>
+    <TH>スペイン語</TH></TR>
+  <TR>
+    <TH 
+    style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal" 
+    bgColor=#cccccc colSpan=6>世俗君主</TH></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>皇帝</TH>
+    <TD>Emperor<BR>Empress</TD>
+    <TD>Kaiser<BR>Kaiserin</TD>
+    <TD>Empereur<BR>Impératrice</TD>
+    <TD>Imperator<BR>Imperatrice</TD>
+    <TD>Emperador<BR>Imperatriz</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>ヨーロッパにおける皇帝は、理念上は古代ローマ皇帝の継承者のこと。よって、「原則として」皇帝を名乗れるのは西ローマ皇帝を継承する神聖ローマ皇帝と東ローマ皇帝を継承するロシア皇帝の2人のみ。ナポレオンの登場以降はこの原則が崩壊した。 
+    </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>王</TH>
+    <TD>King<BR>Queen</TD>
+    <TD>König<BR>Königin</TD>
+    <TD>Roi<BR>Reine</TD>
+    <TD>Re<BR>Regina</TD>
+    <TD>Rey<BR>Reina</TD></TR>
+  <TR>
+    <TD colSpan=5>一民族の統治者の最高位。理念上は皇帝の下位におかれるが、事実上は対等な力を持つ。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>大公</TH>
+    <TD>Archduke<BR>Archduchess</TD>
+    <TD>Erzherzog<BR>Erzherzogin</TD>
+    <TD>Archiduc<BR>Archiduchesse</TD>
+    <TD>Arciduca<BR>Arciduchésse</TD>
+    <TD>Archiduc<BR>Archiduquesa</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>オーストリア公ルドルフ4世が「捏造」し、神聖ローマ皇帝フリードリヒ3世によって1453年に帝国法となった称号（非公式にはエルンスト鉄公が1414年より使用）。ハプスブルク家の成員のみに与えられる。 
+    </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>大公</TH>
+    <TD>Grand Duke<BR>Grand Duchesse</TD>
+    <TD>Großherzog<BR>Großherzogin</TD>
+    <TD>Grand-Duc<BR>Grande-Duchesse</TD>
+    <TD>Granduca<BR>Granduchéssa</TD>
+    <TD>Gran Duque<BR>Grande Duquesa</TD></TR>
+  <TR>
+    <TD colSpan=5>王と公の間の称号で、ハプスブルク家以外の大公はすべてこのスペル。ドイツでは「1806年以降」から使われるようになった。 
+    </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>選帝侯</TH>
+    <TD>Prince Elector</TD>
+    <TD>Kurfürst</TD>
+    <TD>Prince &Eacute;lecteur</TD>
+    <TD>Principe Eléttore</TD>
+    <TD>Principe Elector</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>神聖ローマ皇帝を決定する投票権を持った聖俗諸侯。投票権についての称号であり、実際の地位とは関係はない。よって、選帝「侯」といっても実際の地位は王、公、辺境伯、大司教などである。 
+    </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>公</TH>
+    <TD>Prince<BR>Princesse</TD>
+    <TD>Prinz<BR>Prinzessin</TD>
+    <TD>Prince<BR>Princesse</TD>
+    <TD>Principe<BR>Principessa</TD>
+    <TD>Principe<BR>Princesa</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>「親王」という訳もある。ただし、王族でない諸侯にもPrinceを名乗るものがあるため、このサイトでは暫定的に「公」で統一している。日本語に適当な訳がない典型例。 
+    </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>公</TH>
+    <TD>duke<BR>duchess</TD>
+    <TD>Herzog<BR>Herzogin</TD>
+    <TD>Duc<BR>Duchesse</TD>
+    <TD>Duca<BR>Duchessa</TD>
+    <TD>Duque<BR>Duquesa</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>「大公」とする書籍もある。ただし、本来の「大公」と区別できなくなるため、このサイトでは厳密に「公」を使用している。ローマ帝政期の軍事官職に由来する最も古い爵位の1つ。なお、イングランドの「公」はフランク由来のものではない。 
+    </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>侯</TH>
+    <TD>Marquess<BR>Marchioness</TD>
+    <TD>Fürst<BR>Fürstin</TD>
+    <TD>Marquis<BR>Marquise</TD>
+    <TD>Marchése<BR>Marchésa</TD>
+    <TD>Marqués<BR>Marquesa</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>公と伯の間の爵位として、後に新設された称号。「辺境伯」に由来する。15、6世紀ごろまでは貴族全体を「Fürst」と呼んだ。 
+  </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>辺境伯</TH>
+    <TD>Margrave<BR>Margravine</TD>
+    <TD>Markgraf<BR>Markgräfin</TD>
+    <TD>Margrave<BR>Margravine</TD>
+    <TD>Margràvio<BR>Margràvina</TD>
+    <TD>Margrave<BR>Margravina</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>帝国辺境の統治を任された伯。辺境防備のために通常の伯よりも強い権限が与えられ、地位も高かった。フランク王国時代からの称号。 
+  </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>方伯</TH>
+    <TD>Landgrave<BR>Landgravine</TD>
+    <TD>Landgraf<BR>Landgräfin</TD>
+    <TD>　</TD>
+    <TD>　</TD>
+    <TD>　</TD></TR>
+  <TR>
+    <TD colSpan=5>ドイツの各部族の長を帝国諸侯として承認したもの。1806年に廃止された。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>宮中伯</TH>
+    <TD>Count Palatine<BR>Countesse Palatine</TD>
+    <TD>Pfalzgraf<BR>Pfalzgräfin</TD>
+    <TD>Comte Palatin<BR>Comtesse Palatine</TD>
+    <TD>Cónte Palatino<BR>Contéssa Palatina</TD>
+    <TD>Conde Palatino<BR>Condesa Palatina</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>「帝領伯」とする例もある。皇帝の司法代理官で、その中のライン宮中伯は後に一般名詞化し、「プファルツ宮中伯」（プファルツ選帝侯）と呼ばれるようになった。 
+    </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>伯</TH>
+    <TD>Earl/Count<BR>Countesse</TD>
+    <TD>Graf<BR>Gräfin</TD>
+    <TD>Comte<BR>Comtesse</TD>
+    <TD>Cónte<BR>Contéssa</TD>
+    <TD>Conde<BR>Condesa</TD></TR>
+  <TR>
+    <TD 
+      colSpan=5>大陸の伯は、ローマ帝政期の5世紀ごろ地方支配の全権を付与されて配置された役人（comes）を起源とする。comesは都市を拠点に周辺地域を支配し、これを都市伯（comes 
+      civitatis）と呼ぶ。イングランドのEarlのみ起源が異なる。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>城伯</TH>
+    <TD>Burgrave<BR>Burgravina</TD>
+    <TD>Burggraf<BR>Burggräfin</TD>
+    <TD>Burgrave<BR>Burgravine</TD>
+    <TD>Burgràvio<BR>Burgràvina</TD>
+    <TD>Burgrave<BR>Burgravina</TD></TR>
+  <TR>
+    <TD colSpan=5>帝国直轄および諸侯領の城主。伯との上下関係は勉強不足のため保留。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>子爵（副伯）</TH>
+    <TD>Viscount<BR>Viscountess</TD>
+    <TD>Vizegraf<BR>Vizegräfin</TD>
+    <TD>Vicomte<BR>Vicomtesse</TD>
+    <TD>Viscónte<BR>Viscontéssa</TD>
+    <TD>Visconde<BR>Viscondeza</TD></TR>
+  <TR>
+    <TD colSpan=5>「vis」（副）＋「Count」（伯）、つまり伯の補佐、補助を起源とする爵位。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7>男爵</TH>
+    <TD>Baron<BR>Baroness</TD>
+    <TD>Freiherr<BR>Freiherrin</TD>
+    <TD>Baron<BR>Baronne</TD>
+    <TD>Barone<BR>Baronessa</TD>
+    <TD>Baron<BR>Baronesa</TD></TR>
+  <TR>
+    <TH noWrap bgColor=#a7a7a7>騎士&#12539;準爵士</TH>
+    <TD>Knight</TD>
+    <TD>Ritter</TD>
+    <TD>Chevalier</TD>
+    <TD>Cavalière</TD>
+    <TD>Caballero</TD></TR>
+  <TR>
+    <TH style="FONT: bold 11pt ''" bgColor=#cccccc colSpan=6>教会</TH></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>教皇（法王）</TH>
+    <TD>Pope</TD>
+    <TD>Papa</TD>
+    <TD>Pape</TD>
+    <TD>Papa</TD>
+    <TD>Papa</TD></TR>
+  <TR>
+    <TD colSpan=5>ローマ&#12539;カトリックの最高位。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>大司教<BR>大主教</TH>
+    <TD>Archbishop</TD>
+    <TD>Erzbischof</TD>
+    <TD>Archevêque</TD>
+    <TD>Arcivéscovo</TD>
+    <TD>Arzobispo</TD></TR>
+  <TR>
+    <TD colSpan=5>旧教は「大司教」、新教は「大主教」の訳を使う。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>司教<BR>主教</TH>
+    <TD>Bishop</TD>
+    <TD>Bischof</TD>
+    <TD>&Eacute;vêque</TD>
+    <TD>Véscovo</TD>
+    <TD>Obispo</TD></TR>
+  <TR>
+    <TD colSpan=5>旧教は「司教」、新教は「主教」の訳を使う。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7 rowSpan=2>枢機卿</TH>
+    <TD>Cardinal</TD>
+    <TD>Kardinal</TD>
+    <TD>Cardinal</TD>
+    <TD>Cardinale</TD>
+    <TD>Cardenal</TD></TR>
+  <TR>
+    <TD colSpan=5>ローマ教皇の最高顧問。教会行政の補佐を行う。ローマ教皇の候補でもある。 </TD></TR>
+  <TR>
+    <TH bgColor=#a7a7a7>修道院長</TH>
+    <TD>Abbot<BR>Abbess</TD>
+    <TD>Abt<BR>äbtissin</TD>
+    <TD>Abbé<BR>Abbesse</TD>
+    <TD>Abate<BR>Badéssa</TD>
+    <TD>Abad<BR>Abadesa</TD></TR>
+  <TR>
+    <TH></TH>
+    <TD></TD>
+    <TD></TD>
+    <TD></TD>
+    <TD></TD>
+    <TD></TD></TR></TBODY></TABLE></DIV>
+        </p>
+<p><a href=http://nekhet.ddo.jp/etcdata/titlespell.html target=_blank><b>ヨーロッパ称号対照表</b></a></p>

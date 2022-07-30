@@ -4,74 +4,37 @@ Sonetteorpheus 2005-2-27 02:07:26
 
 
 
-
-
-
-
 Die Einsamkeit ist wie ein Regen. 
-
 Sie steigt vom Meer den Abenden entgegen; 
-
 von Ebenen, die fern sind und entlegen, 
-
 geht sie zum Himmel, der sie immer hat. 
-
 Und erst vom Himmel f&auml;llt sie auf die Stadt. 
 
-
-
 Regnet hernieder in den Zwitterstunden, 
-
 wenn sich nach Morgen wenden alle Gassen 
-
 und wenn die Leiber, welche nichts gefunden, 
-
 entt&auml;uscht und traurig von einander lassen; 
-
 und wenn die Menschen, die einander hassen, 
-
 in einem Bett zusammen schlafen müssen: 
-
-
 
 dann geht die Einsamkeit mit den Flüssen...
 
 
-
-
-
     寂寞
 
-
-
     寂寞就像是场雨,
-
     迎向薄暮,从大海升起:
-
     从遥远偏僻的原野,飘入
-
     永久藏着寂寞的天空,
-
     从天空才落入城市.
 
 
-
-
-
     在两人的时刻如雨纷落,
-
     当所有的巷陌曲向黎明,
-
     当一无所获的身躯,
-
     彼此失望,彼此哀怨.
-
     当彼此怀恨的人,
-
     不得不共眠一床.
-
-
-
 
 
     此刻寂寞就与江河一同流淌…
@@ -92,74 +55,30 @@ dann geht die Einsamkeit mit den Flüssen...
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Sonetteorpheus 2005-2-27 01:51:33
 
 附友人译文之一种:  里尔克 <<寂寞>>
-
 <<寂寞>>
-
-
 
 里尔克
 
 
 
-
-
-
-
     寂寞就像一阵雨。
-
     迎着黄昏，从大海升起；
-
     从遥远偏僻的平原，
-
     飘向长久栖居的天际。
-
     从天际才降落到城市。
 
 
-
-
-
     如雨般在晦明时刻落下，
-
     当所有小巷迎向清晨，
-
     当身躯一无所获，
-
     失望哀伤，彼此分离
-
     当人们彼此憎恶，
-
     还要共卧一床：
 
-
-
     随即寂寞就如江河般流淌......
-
-
-
-
-
-
-
-
-
 
 
 
@@ -176,375 +95,194 @@ Dasha 2005-2-27 14:06:20
 
 程抱一等9种译本（含英译3种、Dasha一种）并同Pilger兄商榷“Zwitterstunden”1. 孤独（图象底书）
 
-
-
 孤独是濛濛细雨，
-
 生自海，向黄昏进行。
-
 越过荒原，迢遥、散失；
-
 在总能包容它的苍穹下，
-
 自空而降，落在城头上。
 
-
-
 孤独降落，在迷惘的时刻，
-
 凌晨，当新起的路弯转；
-
 当被疲惫及误解压缩的身躯
-
 各自分手，因欲望未足而阴郁；
-
 当相互憎恨的人们，必须
-
 同寝于一床，孤独啊，
-
 它改换了方向，沿着长河流逝。
-
-
 
 程抱一译（程抱一：《和亚丁谈里尔克》纯文学出版社民国六十一年版，第106－107页）
 
-
-
 2. 孤寂
 
-
-
 孤寂好似一场雨。
-
 它迎着黄昏，从海上升起；
-
 它从遥远偏僻的旷野飘来，
-
 飘向它长久气息的天空，
-
 从天空才降临到城里。
 
-
-
 孤寂的雨下个不停，
-
 在深巷里昏暗的黎明，
-
 当一无所获的身躯分离开来，
-
 失望悲哀，各奔东西；
-
 当彼此仇恨的人
-
 不得不睡在一起：
-
-
 
 这时孤寂如同江河，铺盖大地……
 
-
-
 杨武能译（杨武能：《里尔克抒情诗选》四川文艺出版社1988年版，第19页；臧棣编《里尔克诗选》中国文学出版社1996年版，第26页）
-
-
 
 3. 孤独
 
-
-
 孤独有如一场雨。
-
 走迎接黄昏，自海上升起；
-
 从朦胧而又遥远的地平线，
-
 迎向她经常属有的苍天。
-
 然后从此天空降落到城镇。
 
-
-
 有如一场雨下在暧昧的时辰，
-
 当所有的市街转向清晨
-
 而当肉体，发现了空无，
-
 徘徊于忧虑与觉悟；
-
 互相憎恶的人们，
-
 不得不挤在一张床上睡卧：
-
-
 
 这时，孤独就乘着江河东流……
 
-
-
 李魁贤译（李魁贤：《里尔克诗集》(III)桂冠图书股份有限公司1994年版，第72－73页）
-
 Dasha按：第二行“走迎接黄昏”，原文如此，疑为手民之误。
-
-
 
 4. 寂寞
 
-
-
 寂寞像一阵雨。
-
 它从大海向黄昏升去；
-
 从遥远而荒凉的平芜
-
 它升向了它久住的天国。
-
 它正从天国向城市降落。
 
-
-
 像雨一样降下来在暧昧的时刻，
-
 那时一切街道迎向了明天，
-
 那时肉体一无所得。
-
 只好失望而忧伤地分散；
-
 那时两人相互憎厌，
-
 不得不同卧在一张床上：
-
-
 
 于是寂寞滚滚流淌……
 
-
-
 （1902 年9 月21 日，巴黎）
-
-
 
 绿原译（绿原：《里尔克诗选》人民文学出版社1996版，第93页）
 
-
-
 5. 孤寂 
 
- 
-
 孤寂是一场雨。 
-
 它升起在海洋来同傍晚相会； 
-
 它升起在朦胧遥远的旷野 
-
 朝向天空，象凭着天生的权利。 
-
 由此它从高处降临在城市 
-
 它降临如雨在那个灰暗可疑的时刻： 
-
 当所有的街道都朝向黎明， 
-
 当那些躯体为所有的希望 
-
 都成泡影而独自悲哀； 
-
 当所有的人，彼此痛恨、匍匐 
-
 在一起同床而卧； 
-
 那时孤寂同河水一道向前流去……
-
-
 
 叶田译（http://wenxue.newyouth.beida-online.com/data/data.php3?db=wenxue&id=shkwqmx13-204-2）
 
-
-
 6. Solitude is like rain.
-
 it rises from the sea to meet the evening;
-
 it rises from the dim far distant plain
-
 Toward the sky , as by an old birthright.
-
 And thence falls on the city from the height.
 
-
-
 it falls like rain in that gray doubtful hour
-
 when all the streets are turning towards dawn,
-
 and when those bodies , with all hope foregone
-
 of what they sought , are sorrowfully alone;
-
 and when all men, who hate each other creep
-
 together in one common bed for sleep;
 
-
-
 the solitude flows onward the rivers....
-
-
 
 translated by C.F. MacIntyre (Rilke: Selected Poems, Univ of California Pr; Bilingua edition (June 1, 1940), p. 37)
 
 
-
-
-
 7. Solitude
 
-
-
 Solitude is like rain.
-
 it rises from the sea to meet the evening;
-
 from plain, which are distant and remote,
-
 it goes to the sky, which always has it.
-
 And only then it falls  from the sky on the city.
 
-
-
 it rains down in the in-between hours,
-
 when all the crooked streets turn towards morning,
-
 and when the bodies, with found nothing,
-
 leave each other feeling sad and disappointed;
-
 and when the people, who hate each other,
-
 have to sleep together in one bed:
 
-
-
 then solitude flows with the rivers....
-
-
 
 translated by Edward Snow (The Book of Images : Poems, North Point Press; Rev/Biling edition (June 1, 1994), p. 77)
 
 
-
-
-
 8. Loneliness  
 
-
-
 Being apart and lonely is like rain.
-
 It climbs toward evening from the ocean plains;
-
 from flat places, rolling and remote, it climbs
-
 to heaven, which is its old abode.
-
 And only when leaving heaven drops upon the city.
 
-
-
 It rains down on us in those twittering
-
 hours when the streets turn their faces to the dawn,
-
 and when two bodies who have found nothing,
-
 dissapointed and depressed, roll over;
-
 and when two people who despise eachother
-
 have to sleep together in one bed-
-
-
 
 that is when loneliness receives the rivers...
 
-
-
 translated by Robert Bly （惜Dasha手中无此纸本，copy于网上，无从校对）
-
 from: http://web.pitas.com/alinas/24_02_2003.html
-
       http://www.poetryconnection.net/poets/Rainer_Maria_Rilke/3197
-
       http://www.eliteskills.com/c/10986
-
       ... ...
-
-
-
 
 
 9. 寂寞
 
-
-
 寂寞如一阵雨。
-
 寂寞从大海升起，迎着黄昏，
-
 从偏远的荒原，
-
 升向久被拥有的天空。
-
 而后从天空落在城中。
 
-
-
 落雨在晦明时分，
-
 那时所有的街巷转向清晨，
-
 那时一无所获的肉体，
-
 彼此失望而忧伤地分开；
-
 那时互相憎恨的人，
-
 不得不同睡一张床：
-
-
 
 于是寂寞与江河同流……
 
-
-
 Dasha的试译，见：http://www.poemlife.com:9001/TranslateColoum/Dasha/article.asp?vArticleId=22786&ColumnSection=
-
-
 
 关于“Zwitterstunden”，Zwitter本意为“两性人、阴阳人，雌雄同体”，是以，里氏“第八哀歌”里“Nach der ersten Heimat /  ist ihm die zweite zwitterig und windig”句中与此同源的形容词“zwitterig”，刘皓明先生译成了“二尾的”。而Pilger兄解作“两人”，似不妥。Zwitter在Duden中的释义如下：
 
-
-
 Zwit|ter,  der; -s, - [mhd., ahd. zwitarn, 1.Bestandteil zu zwei, 2.Bestandteil H. u., wohl eigtl.= zweierlei; zweifach(er Rasse od. Abstammung)]: Hermaphrodit:
 
-
-
 (Duden das grosse Woerterbuch der deutschen Sprache 10 baende auf CD-ROM)
+
 
 Sonetteorpheus 2005-2-27 16:32:21
 
 对于Zwitterstunden的表达,思虑了许久.我将其理解为"男女相处的二人世界的时刻"----与Zwitter之原意颇有出入.
-
 而各位译者多将其译为"暧昧".
-
 各译本中,最喜欢的是李魁贤所译.
+
 
 张祈 2005-3-1 15:20:01
 
 有人说,这是里尔克没有才能的作品.我感觉却不是这样。
-

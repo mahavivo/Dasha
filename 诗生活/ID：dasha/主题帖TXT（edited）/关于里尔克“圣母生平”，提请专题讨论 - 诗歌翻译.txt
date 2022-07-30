@@ -1,0 +1,767 @@
+Dasha 2003-11-15 14:19:08
+
+关于里尔克“圣母生平”，提请专题讨论
+
+1. 宗教术语翻译标准：
+
+西方文学作品终涉及的宗教人名、地名、术语、典故，译成汉语时当依循新教（基督教）与和合本还是正教（天主教）与思高本？
+
+里尔克曾在一封信里说过，“在我所有的书中只有少数的几本是不能离身的，有两部书甚至无论我走到哪里都在我的行囊里。此刻它们也在我的身边：一部是《圣经》……”（冯至《给一个青年诗人的十封信（第二封信）》（Briefe an einen jungen Dichter）生活读书新知三联书店1994年版P10）那么，里尔克须臾不离身侧的是哪一部《圣经》呢？他的《马尔特·劳里茨·布里格札记》（Die Aufzeichnungen des Malte Laurids Brigge）中有一段《旧约·约伯记》的引文，经对照，近似马丁·路德德译本《圣经》（未修订）1545年版（Text der unrevidierten Lutherbibel 1545）；德文注释说这段引文引自路德1770年版，可惜Dasha目前没有此版本。路德宗以“因信称义”开创新教，据此里尔克的德文圣经引文与术语应该对应的是汉语基督教（新教）的和合本圣经。但是，资料显示，里尔克创作“生母生平”时受Malerbuch vom Berge Athos 和西班牙耶稣会士Pedro de Ribadeneira撰写一本“生母生平”的德译本启发，因此他的圣母形象兼具有东正教圣像画（Ikone）的影迹（与Lou Andreas-Salomé的俄罗斯之行对里尔克的影响许多专家已有论述）。而且，新教对圣母敬拜远远没有到“神”的境地，真正敬拜圣母的是天主教（正教）和东正教。
+
+2. 译诗如何保持西文的特性，而又如何让本土读者理解：
+
+翻译诗是将原始诗行翻译成明白畅晓的散文长句再折成与原诗行数，还是在必要的位置进行技术上的处理？比如将长后置定语从句转化为并列陈述句。后置的时间状语、条件状语从句如何处理？
+
+3. 请对Dasha的译文进行无情的批判：
+    
+Dasha罗列德语原文、英译本、前人汉译本，请诸位兄弟姊妹从任何可能的角度批评。鉴于论坛中英语高手居多，如果Dasha的汉译与英译本差异巨大时，请以德语原文为准。另，鉴于目前汉译文本尚无全译，在此Dasha谨罗列曾有汉语译本的Dasha的汉译本，全集其它汉译可浏览Dasha的“汉语里尔克”网站http://www.myrilke.com/katalog.asp?ID=1528
+
+绿原译文Dasha扫描自绿原译《里尔克诗选》（人民文学出版社1996年版，ISBN 7-02-002127-1/I521.24），原书中绿原的注释省略。
+吴兴华译文Dasha援引自臧棣编《里尔克诗选》（中国文学出版社1996年版，ISBN 7-5071-0326-9/I516.25），此书虽然出版时间比绿译本早三年，但吴兴华系转译自英译本，故位列绿后。另，哪位贤兄能提供吴兴华里尔克译文原始出处乃至更多译文，Dasha涕零。
+Franz Wright译文Dasha录入于The Unknown Rilke: Expanded Edition, translated by Franz Wright,
+Oberlin College Press; (March 1991), ISBN: 0932440568
+其它译文皆转贴自网上，另注出处。
+
+Dasha目前译文蒙yela女士初校，阿九兄建议（诸如“母亲将要因那个男孩而降生”、“圣母得慰”），由衷感激，并提请二位并众位贤达继续批评。
+
+
+Dasha 2003-11-15 13:23:41
+
+2. 圣母进殿（Dasha试译）
+
+为了领会她当时的情形，
+你须将自己呼唤到某处， 
+那里圆柱在你身内耸立；那里
+你能够与石阶同感；那里有危桥
+横跨在一个空间的深渊， 
+那深渊滞留在你身内，由片断
+堆积而成，你再也无法将它们
+从你里面取出，除非你将自己撕碎。
+直到那一刻，岩石、墙、阶梯、布道台 和穹隆
+全在你身内，于是你尝试
+将垂在面前的巨大帷幕
+用双手微微拉开一角：
+霎时间高大的物体华光四射，
+越过了你的呼吸和触摸。
+起起落落，殿堂层叠殿堂；
+栏杆迭涌栏杆，
+一直升上高处
+令你头晕目眩的边际。
+香案上升起一缕轻烟
+模糊了你的周围；最远之物
+透视成平直的线条扑面而来——，
+透明的火盆里流出的光焰
+闪动在缓缓临近的法衣：
+这些你如何能够承受？
+
+而她却来到这里，扬起
+目光，环顾着这一切。
+（一个孩子，妇人中间的一个小姑娘。）
+充满自信，她安详地登上
+极尽奢华的仪式：
+所有的人工建造就这样
+被她心中的赞美
+
+超越。被她奉献自己
+给身内印记的喜乐超越：
+父母打算将她抱上去，
+那个胸前缀满珠宝的人也威严地
+流露出接受的神情：尽管如此幼小，
+但她却走过众人，摆脱每一只手，
+踏入了自己的宿命，那个宿命，
+比庙堂更高峻，比殿宇更沉重。
+
+
+Dasha 2003-11-15 13:18:46
+
+［德语原文］Die Darstellung Mariae im Tempel［德语原文］
+
+Um zu begreifen, wie sie damals war, 
+mußt du dich erst an eine Stelle rufen, 
+wo Säulen in dir wirken; wo du Stufen 
+nachfühlen kannst; wo Bogen voll Gefahr 
+den Abgrund eines Raumes überbrücken, 
+der in dir blieb, weil er aus solchen Stücken 
+getürmt war, daß du sie nicht mehr aus dir 
+ausheben kannst: du rissest dich denn ein. 
+Bist du so weit, ist alles in dir Stein, 
+Wand, Aufgang, Durchblick, Wölbung -, so probier 
+den großen Vorhang, den du vor dir hast, 
+ein wenig wegzuzerrn mit beiden Händen: 
+da glänzt es von ganz hohen Gegenständen 
+und übertrifft dir Atem und Getast. 
+Hinauf, hinab, Palast steht auf Palast, 
+Geländer strömen breiter aus Geländern 
+und tauchen oben auf an solchen Rändern, 
+daß dich, wie du sie siehst, der Schwindel faßt. 
+Dabei macht ein Gewölk aus Räucherständern 
+die Nähe trüb; aber das Fernste zielt 
+in dich hinein mit seinen graden Strahlen -, 
+und wenn jetzt Schein aus klaren Flammenschalen 
+auf langsam nahenden Gewändern spielt: 
+wie hältst du’s aus? 
+
+Sie aber kam und hob 
+den Blick, um dieses alles anzuschauen. 
+(Ein Kind, ein kleines Mädchen zwischen Frauen.) 
+Dann stieg sie ruhig, voller Selbstvertrauen, 
+dem Aufwand zu, der sich verwöhnt verschob: 
+So sehr war alles, was die Menschen bauen, 
+schon überwogen von dem Lob 
+
+in ihrem Herzen. Von der Lust 
+sich hinzugeben an die innern Zeichen: 
+Die Eltern meinten, sie hinaufzureichen, 
+der Drohende mit der Juwelenbrust 
+empfing sie scheinbar: Doch sie ging durch alle, 
+klein wie sie war, aus jeder Hand hinaus 
+und in ihr Los, das, höher als die Halle, 
+schon fertig war, und schwerer als das Haus.
+
+
+zwischen dem 15. und 22.01.1912, Duino
+
+
+Dasha 2003-11-15 13:19:42
+
+［Franz Wright］The Presentation of Mary in the Temple
+
+In order to grasp what she was like at that time,
+you must first remember a place in yourself
+where pillars do their works; where you can sense
+stairways; where precarious arches
+span the abyss of a space
+which only remained in you, because it was built up
+from blocks that you can no longer lift
+out of yourself without toppling.
+When you are ready, when everything in you is stone,
+wall, door, view, vault - , then try
+to tear apart a little, with both hands,
+the great curtain you have in front of you:
+there high things give off a light
+which eclipses your feelings and breath.
+Upward, downward, palaces rise above palaces,
+broader parapets stream out of parapets
+and reappear abruptly, above, on such ledges
+that if you look you’re seized with vertigo.
+Meanwhile the clouds from incense burners
+overcast the area around you; but the farthest
+things aim right into you with their rays -, 
+and when the light from clear bowls of flames
+plays on the slowly approaching robes:
+how can you bear it?
+
+But she came though, and raised
+her eyes to take all of this in.
+(A child, a little girl among women.)
+Then quietly and full of self-possession
+she mounted towards all this displays: it let her
+have her way. Because the things men build
+were now completely surpassed by the praise
+in her heart, and by her desire to
+give herself up what she secretly knew:
+her parents fully intended to hand her over,
+the menacing one with the jeweled breast
+received her, apparently: and she walked right through them,
+small as she was, moving out of every hand
+into her own destiny which was finished now,
+higher than the hall, heavier than the house.
+
+
+Dasha 2003-11-15 13:20:54
+
+［Knut W. Barde］The Presentation of Mary in the Temple
+
+In order to understand how she was back then,
+you first have to call yourself to a place
+where columns are within you; where you can sense
+the steps; where arches full of danger
+bridge the abyss of a space
+that remained within you, because it was
+built up from such pieces that you can
+no longer remove from yourself: unless you tore yourself down.
+Once you have reached that place, and everything is stone within you,
+wall, staircase, vista, vault, - then try
+to pry open the large curtain before you 
+just a little, with both hands:
+then very exalted objects gleam
+and overcome your breath and touch.
+up and down, palace stands upon palace,
+banisters stream more broadly out of banisters
+and appear high up on such ledges
+that you are overcome by vertigo when you see them.
+A cloud from incense burners shrouds your space;
+but that which is most distant aims 
+directly at you with its straight rays -,
+and now that the glow from clear flaming chalices
+plays upon the slowly approaching robes:
+how can you stand it?
+
+But she came and lifted
+her eyes, to view all this.
+(a child, a little girl among women.)
+Then she climbed up calmly, full of self-confidence,
+towards the moving pampered pomp:
+showing already that everything that people are building
+was outweighed by the praise
+
+in her heart. By the joy of
+devoting herself to the inner signs.
+The parents thought they were lifting her up,
+the threatening figure with the bejeweled breast
+seemingly received her: But she went through all of them,
+as little as she was, and left every hand, walking
+towards her fate already formed, which was higher than the Hall
+and heavier than the house.
+
+http://www.recmusic.org/lieder/merge.cgi?62
+
+
+Dasha 2003-11-15 13:21:50
+
+［绿原译文］马利亚在庙堂显圣
+
+为了懂得她当时的状况，
+你必须先把自己召唤到一个地方，
+那儿圆柱竖在你心中；那儿你能
+与阶梯同感；那儿充满危险的桥拱
+跨过停在你心中的一段空间的深渊，因为它由
+这样一些片断堆积如塔，以致你再不能
+把它们从你身中拔出：除非你把自身拆毁。
+如果你到了这地步，你心中一切便是石头，
+墙壁，坡道，鸟瞰，拱顶——，于是尝试
+用双手掀开一点点
+你面前所有的大幕帷：
+这时十分高大的物件有光芒闪烁
+并超过你的呼吸与触摸。
+向上，向下，宫殿遥望宫殿，
+扶手不断地从扶手流出
+又高高显露在这样的边缘
+使你一望见它们就感到昏眩。
+这时从香架上升起一阵云烟
+使附近浑浊起来；但最远处却以其 
+笔直的光线向你内心射入——，
+如果现在明亮焰杯中的光华 
+嬉戏在缓缓走近的衣袍上：
+试问你如何经受得住？
+
+但是，她来了抬起
+目光来观看这一切。 
+（妇女中间的一个孩子，一个少女。）
+然后她静静上升，充满自信，
+走向由于讲究而延宕的富丽堂皇： 
+于是人类建造的一切
+早已为她心中的赞扬
+
+所压倒。由于喜悦
+把自己呈献给内心的征兆：
+双亲打算把她捧上去，
+那胸前满是珠玉的恫吓者
+似乎接受了她：但她走过了一切，
+她虽小，却从每人手里走出来
+走进了比殿堂更高、已经准备就绪
+而且比房屋更沉的她的宿命。
+
+（1912年1月15—22日，杜伊诺）
+
+
+Dasha 2003-11-15 13:23:01
+
+［吴兴华译文］圣玛丽亚被供献在庙中
+
+如果你真要了解她当时的情形， 
+你必须先召唤自己到某一地方： 
+那里的圆柱深入你心中，那里你 
+能追随阶梯的感觉；充满危险的 
+穹门像桥梁拱过了一大段在你 
+心里停留着的深渊，因为它是由 
+如此的碎片积成，以至你不能够 
+把它们推开而不把你自己摧毁。 
+当你达到了浑身是石头的阶段， 
+墙壁，楼梯，透视和圆顶——，那时你 
+可以试着用双手轻轻拉开一点 
+那在你面前深深低垂着的帷幕： 
+于是从崇高的物件放射出强光 
+把你连呼吸带触觉都一齐征服。 
+向上看，向下看，宫室遥望着宫室， 
+长廊迂折从长廊里更广的跃出 
+然后又如此高的在边缘上出现， 
+以至你一看见它们就感到晕眩。 
+同时香炉里向上升氤氲的香烟， 
+使近处全都模糊了，最远的地方 
+却以直截的光线投射入你内身——， 
+并且要在明亮的火杯中有光华 
+来去在许多缓缓步近的长袍上： 
+你如何能忍受？ 
+
+她却来到了举起 
+她的美目来观看这四围的一切。 
+（一个孩子，在众妇人中一个少女。） 
+然后她静静的登楼走向那仔细 
+让路给她的摆设品，充满了自信； 
+一切人类所能以建筑出的物品 
+早已被她心中的赞美歌 
+
+完全的淹没，被她的愿望 
+把自己交给那一些内在的记号： 
+她父母以为已把她奉献上去了， 
+看起来仿佛那胸际满是珠宝的 
+恐吓的人接受了她：然而虽然她 
+这样小，她却穿过了，摆脱了一切， 
+直步入她那已经预定的，比庙堂 
+更加高，比房屋更加沉重的运命。
+
+
+Dasha 2003-11-15 13:25:14
+
+5. 约瑟的忧疑（Dasha试译） 
+
+天使煞费苦心地
+对那个紧握双拳的男人说：
+难道你没有从她的衣褶 上看出，
+她清凉如上帝的早晨。
+
+而那个男人却阴郁地盯着天使，
+咕哝着：她怎么变成了这样？
+于是天使喊道：木匠，
+难道你还没有觉出，那是主上帝的行事？
+
+只因为你能做木活，你就狂傲，
+你就真的想要诘问他？
+他谦逊，却能让同样的木头
+生出枝叶，结出花蕾！
+
+他终于领悟了。当他惶恐地
+举目仰望，天使却早已
+起身离去。于是他慢慢
+摘下帽子，开口颂赞。
+
+
+Dasha 2003-11-15 13:25:54
+
+［德语原文］Argwohn Josephs
+
+Und der Engel sprach und gab sich Müh
+an dem Mann, der seine Fäuste ballte:
+Aber siehst du nicht an jeder Falte,
+daß sie kühl ist wie die Gottesfrüh.
+
+Doch der andre sah ihn finster an,
+murmelnd nur: Was hat sie so verwandelt?
+Doch da schrie der Engel: Zimmermann,
+merkst du’s noch nicht, daß der Herrgott handelt?
+
+Weil du Bretter machst, in deinem Stolze,
+willst du wirklich den zur Rede stelln,
+der bescheiden aus dem gleichen Holze
+Blätter treiben macht und Knospen schwelln?
+
+Er begriff. Und wie er jetzt die Blicke,
+recht erschrocken, zu dem Engel hob,
+war der fort. Da schob er seine dicke
+Mütze langsam ab. Dann sang er lob.
+
+
+zwischen dem 15. und 22.01.1912, Duino
+
+
+Dasha 2003-11-15 13:26:42
+
+［Franz Wright］Joseph's Suspicion
+
+The angel spoke and went to great trouble
+over this man with the clenched fists:
+Don't you see that in every fold
+she is as fresh as God’s morning?
+
+The other stared at him darkly,
+muttering: Well, what has changed her?
+Until the angel cried: Carpenter,
+don't you see the Lord’s hand in this yet?
+
+Because you make boards, are you proud
+enough to raise your voice to him
+who modestly makes buds and leaves
+grow from the same wood?
+
+He understood. And he looked up,
+very shaken, to see the angel
+who was gone. Then he slowly
+pushed off his cap. And sang in praise.
+
+
+Dasha 2003-11-15 13:27:32
+
+［绿原译文］约瑟的猜疑
+
+于是天使说着，煞费苦心
+于捏紧拳头的那人：
+但你没有见到每条皱纹，
+它凉冷有如神的清晨。
+
+那一个却阴沉地望着他，
+一面嘟囔着：她怎么变得这样？
+天使却喊道：木匠，
+你难道不知是上帝的做法？
+
+因为你刨制木板，你便骄傲，
+可你果真想质问那一位，
+他谦逊地从同样的木料
+发出了叶片，长满了花蕾？
+
+他领悟了。且看他现在
+分外惊恐，向天使抬起目光，
+可他走了。这时他慢慢推开
+他的厚帽。于是把赞歌高唱。
+
+（1912年1月15—22日，杜伊诺）
+
+
+Dasha 2003-11-15 13:28:54
+
+6. 天使报喜信给牧羊的人（Dasha试译） 
+
+ 抬头看呐，你们人类。火旁的人类，
+洞悉头上无尽天空的你们，
+占星的人，这里来！看吧，我是一颗
+升起的新星。我的一切在燃烧，
+在剧烈地闪耀，非凡地充满了光，
+浩瀚的苍穹已不再容得下我。 
+让我的光芒进入你们吧：
+你们的目光黑暗，你们的心黑暗，
+将你们充满的命运黑夜一般！
+牧人啊，在你们里面我是何其孤单。
+然而很快我就会拥有足够的空间。
+高大的面包果树投下一道浓荫，
+你们不感惊异？是的，那是因我而现。
+不知畏惧的人啊，你们可知道，
+将临的日子此刻正如何显现在
+你们凝望的脸？这强光里面，
+许多的事都将发生。我实在地告诉你们这个，
+因为你们会隐藏不言；正直虔信的人啊，
+这里的一切都在对你们诉说：云霞与飞雨，
+雁行与长风，并你们所是的一切。
+它们无一争强好胜损人利己。
+人啊，切莫为了烦扰万物，
+而将万物揽在胸膛。
+就像喜乐激荡在天使的身内一样，
+你们当让尘世的快乐翻涌在心中。
+如果一丛荆棘骤然燃烧，那当是
+亘古常在者还在将你们恩召；如果基路伯
+屈尊降临在你们的羊群旁，
+不是来将你们惊扰：你们当垂下面孔，
+俯伏敬拜，称这为世界。
+
+这是世界。但现在将有一个新来者，
+世界将因他而在争斗中变得更宽广。
+一束荆棘向我们显示的是：上帝临到了
+一个童贞女的身上。我是光，
+来自她的真诚，来将你们引领。
+
+
+Dasha 2003-11-15 13:29:41
+
+［德语原文］Verkündigung über den Hirten
+
+Seht auf, ihr Männer. Männer dort am Feuer, 
+die ihr den grenzenlosen Himmel kennt, 
+Sterndeuter, hierher! Seht, ich bin ein neuer 
+steigender Stern. Mein ganzes Wesen brennt 
+und strahlt so stark und ist so ungeheuer 
+voll Licht, daß mir das tiefe Firmament 
+nicht mehr genügt. Laßt meinen Glanz hinein 
+in euer Dasein: Oh, die dunklen Blicke, 
+die dunklen Herzen, nächtige Geschicke 
+die euch erfüllen. Hirten, wie allein 
+bin ich in euch. Auf einmal wird mir Raum. 
+Stauntet ihr nicht: der große Brotfruchtbaum 
+warf einen Schatten. Ja, das kam von mir. 
+Ihr Unerschrockenen, o wüßtet ihr, 
+wie jetzt auf eurem schauenden Gesichte 
+die Zukunft scheint. In diesem starken Lichte 
+wird viel geschehen. Euch vertrau ichs, denn 
+ihr seid verschwiegen; euch Gradgläubigen 
+redet hier alles. Glut und Regen spricht, 
+der Vögel Zug, der Wind und was ihr seid, 
+keins überwiegt und wächst zur Eitelkeit 
+sich mästend an. Ihr haltet nicht 
+die Dinge auf im Zwischenraum der Brust 
+um sie zu quälen. So wie seine Lust 
+durch einen Engel strömt, so treibt durch euch 
+das Irdische. Und wenn ein Dorngesträuch 
+aufflammte plötzlich, dürfte noch aus ihm 
+der Ewige euch rufen, Cherubim, 
+wenn sie geruhten neben eurer Herde 
+einherzuschreiten, wunderten euch nicht: 
+ihr stürztet euch auf euer Angesicht, 
+betetet an und nenntet dies die Erde. 
+
+Doch dieses war. Nun soll ein Neues sein, 
+von dem der Erdkreis ringender sich weitet. 
+Was ist ein Dörnicht uns: Gott fühlt sich ein 
+in einer Jungfrau Schooß. Ich bin der Schein 
+von ihrer Innigkeit, der euch geleitet.
+
+
+zwischen dem 15. und 22.01.1912, Duino
+
+
+Dasha 2003-11-15 13:30:32
+
+［Franz Wright］Annunciation to the Shepherds
+
+Look up, friends. Men there by the fire,
+men used to searching the unfathomable sky,
+star-watchers, come here! Look. I am a new
+star rising. My entire being burns
+and shines so intensely and is so enormously
+full of light that the deep firmament is
+no longer enough for me. Let my radiance come
+into your lives: oh, the dark looks,
+the dark hearts, nocturnal fates
+that fill you. Shepherds, how alone I am
+in you. All at once I have room.
+Don’t look so amazed: the huge breadfruit tree
+Casts a shadow. Yes. Because of me.
+Fearless ones, oh if you knew
+how in the moment the future shines
+on your upturned faces! Much will take place
+in this strong light. I open my mind to you
+because you do not talk; to you good men
+everthing here speaks. Rain and fire spreak,
+passages of birds, the wind and what you are,
+no one excels and fattens
+on vanity. You never clutch
+things to the chest’s cavity
+in order to torment them. Ecstasy
+streams through an angel the same way
+the earthly goes through you. And if a thornbush
+ignited suddenly, it would be the Eternal One
+speak to you; and if Cherubim
+decided to appear walking alongside
+your herd, it wouldn’t surprise you:
+you’d throw yourselves down on you faces
+praising, and tell yourselves this is the world.
+
+It was. But now a new thing shall be
+and cause the world to move in greater circles.
+What is a thornbush to us: God appears
+inside a virgin’s womb. I am the light
+of her ecstasy, guiding you.
+
+
+Dasha 2003-11-15 13:31:20
+
+［绿原译文］向牧人们的通报
+
+抬头看，你们那些人。那边在火旁的人，
+你们认识无垠天空的人，
+星相占卜者，到这儿来！看哪！我是一个新
+升起来的星。我的全部身心燃烧着
+强烈地照耀着，发出如此巨大的
+光芒，以致这深邃的苍穹
+不再够用。让我的光辉照进
+你们的实存吧：哦，黑暗的目光，
+黑暗的心，朦胧如夜的命运
+将你们充满。牧人们啊，我在你们身上
+何其孤单。突然间我扩张开来。
+别惊讶：硕大的面包果树
+投下了一片阴影。是的，这是由于我的缘故。
+你们无畏者，哦，你们知道，
+眼下在你们观望的脸上
+怎样闪现着未来。在这强烈的光源里
+将会发生多少事情。我把它告诉你们吧，因为
+你们守口如瓶；对于你们十足的信徒
+这儿一切都在讲话。火和雨在说，
+鸟的迁徙，风和你们的本色，
+没有一件压倒一切，饱食终日，越长
+越虚浮。你们没有
+在胸腔的间隙里羁留事物，
+以便折磨它们。于是就像他的喜悦
+涌过一位天使，尘俗也同样
+涌过你们身上。如果一团荆棘
+突然燃烧起来，永恒似乎还会
+从它呼唤你们，小天使们，
+如果他们屈尊在你们的羊群旁
+阔步而来，没有使你们感到惊骇：
+你们便稽颡顿首
+膜拜着，称此为尘世。
+
+这确是。现在应该是个新的，
+它的寰球在挣扎着扩大自己。
+一团荆棘向我们显示：上帝设身
+处于一个处女的子宫。我是陪同你们的
+她的热忱的假象。
+
+（1912年1月15—22日，杜伊诺）
+
+
+Dasha 2003-11-15 13:32:28
+
+7. 基督降生（Dasha试译）  
+
+如果你不曾拥有纯真，那此刻
+照亮黑夜的，怎么可能成就在你身上？
+看呐，万民之上雷霆万钧的上帝，
+变得温柔，藉由你临到尘世。
+
+你可曾将他想像得更为尊大？
+
+何为尊大？尊大者修直的命运，
+当横贯他历经的一切尺度。
+而即使是星辰也没有这样的道。
+如果你看见三王的尊大，
+
+看见他们艰难地拖到你的膝怀前
+
+那些他们认为是最大的珍宝，
+或许你会因这些赠礼而惊讶——：
+但是看呐，你的衣襟里
+他此刻已是如此超越了一切。
+
+一切远涉重洋舶来的龙涎香，
+
+每一个金首饰和隐约
+弥漫在感官里的香料：
+这一切都瞬间而来，
+而最终人们将痛悔不已。
+
+但是（你将看到）：他带来了喜悦。
+
+
+Dasha 2003-11-15 13:33:22
+
+［德语原文］Geburt Christi
+
+Hättest du der Einfalt nicht, wie sollte 
+dir geschehn, was jetzt die Nacht erhellt? 
+Sieh, der Gott, der über Völkern grollte, 
+macht sich mild und kommt in dir zur Welt. 
+
+Hast du dir ihn größer vorgestellt? 
+
+Was ist Größe? Quer durch alle Maße, 
+die er durchstreicht, geht sein grades Los. 
+Selbst ein Stern hat keine solche Straße. 
+Siehst du, diese Könige sind groß, 
+
+und sie schleppen dir vor deinen Schooß 
+
+Schätze, die sie für die größten halten, 
+und du staunst vielleicht bei dieser Gift -: 
+aber schau in deines Tuches Falten, 
+wie er jetzt schon alles übertrifft. 
+
+Aller Amber, den man weit verschifft, 
+
+jeder Goldschmuck und das Luftgewürze, 
+das sich trübend in die Sinne streut: 
+alles dieses war von rascher Kürze, 
+und am Ende hat man es bereut. 
+
+Aber (du wirst sehen): Er erfreut.
+
+
+zwischen dem 15. und 22.01.1912, Duino
+
+
+Dasha 2003-11-15 13:33:59
+
+［Franz Wright］The Birth of Christ
+
+If you had lacked the simplicity, how
+could this have happened to you, light the night?
+Look: God, who thundered over the people,
+makes himself gentle and comes through you into the world.
+
+Had you imagined him greater?
+
+What is greatness? His destiny moves in a straight
+line through all measurements, crossing them out.
+Not even a star has course like his.
+Look how great these kings are, look
+
+how they spread in front of you, your womb,
+
+treasures which they thought the greatest.
+And perhaps you are astonished by their gifts - :
+But look, again, in the folds of you clothes,
+how even now he surpasses all that.
+
+All amber, brought from far off,
+
+all wrought gold and aromatic spices
+that moved about, blurred, in your senses:
+all of that belonged to one brief hurried moment
+and in the end one regrets it. . .
+
+But ( you will see) : he brings joy.
+
+
+Dasha 2003-11-15 13:34:48
+
+［绿原译文］基督的诞生
+
+难道你没有现今为黑夜点亮
+的那点纯真，如你身上所应发生？
+看哪，上帝曾震怒于万民之上，
+变得和颜悦色，借你来到凡尘。
+
+你可曾把他想象得更其英俊？
+何谓英俊？横贯他所涂掉
+的所有尺度，走他笔直的命运。
+连星星都没有这样的街道，
+你瞧，这些王才叫英俊，
+
+他们把他们认为最大的珍品
+扛近了你的膝前，
+你也许为这件礼物惊讶万分——：
+但且瞧瞧你的布帛的折线
+这礼物已比一切优胜。
+
+所有龙涎香用船外运，
+
+每件黄金首饰和芬芳香气
+模模糊糊向感官散喷：
+所有这一切倏忽即逝，
+到头来人们为此悔恨。
+
+但（你会看到）：他才使人高兴。
+
+（1912年1月15—22日之间，杜伊诺）
+
+
+Dasha 2003-11-15 13:37:32
+
+8. 逃往埃及的途中歇息（Dasha试译）
+
+这些刚刚还在
+气喘吁吁逃离屠婴者的人：
+哦，就这样不知不觉中
+因流离而成为尊大。
+
+失魂落魄的回望里
+困境犹未消除，
+他们就已然骑在灰驴上
+将全部的城卷入了危难；
+
+巨大的土地上，他们渺小得
+近乎于无，但当他们走近坚固的殿堂，
+所有的神像却骤然坍塌， 
+仿佛完全丧失了心智。
+
+可以想见，一切都如此
+绝望地迁怒于他们的经行。
+他们也对自身深感忧惧，
+只有那个男婴坦然莫名。
+
+无论如何，他们不得不
+小坐片刻。但是，看呐：
+无声笼罩在他们头上的树，
+低垂着，仿佛一个
+
+服侍他们的人。这棵低垂的树，
+树冠冠冕一般，始终
+荫庇着死去法老们的额。 
+这一刻它感到新的树冠
+抽青吐翠。而他们坐着如在梦中。

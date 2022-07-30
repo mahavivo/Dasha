@@ -1,166 +1,84 @@
 Dasha 2003-4-23 11:37:11
 
 马克思的一段文字，请教德语人士……法律不是压制自由的手段，正如重力定律不是阻止运动的手段一样。作为
-
 引力定律，重力定律可以支配宇宙体的永恒运动；作为落体定律，只要我违反
-
 它而打算在空中飞舞，那它就要我的命。恰恰相反，法律是肯定的、明确的、
-
 普遍的规范，在这些规范中自由的存在具有普遍的、理论的、不取决于个别人
-
 的任性的性质。法典就是人民自由的圣经。《第六届莱茵省议会的辩论（第一
-
 篇论文）》
 
-
-
 《马克思、恩格斯全集》（一）人民出版社1956年版, 第71页
-
 book://ss2path.ssreader.com/ss2path/ss2path.dll?ss2path&ssnum=10022650&pageno=71|6|0
 
-
-
 Gesetze sind keine Repressivma&szlig;regeln gegen die Freiheit, so wenig
-
  wie das Gesetz der Schwere eine Repressivma&szlig;regel gegen die
-
  Bewegung ist, weil es zwar als Gravitationsgesetz die ewigen
-
  Bewegungen der Weltk&ouml;rper treibt, aber als Gesetz des Falles mich
-
  erschl&auml;gt, wenn ich es verletze und in der Luft tanzen will. Die
-
  Gesetze sind vielmehr die positiven, lichten, allgemeinen Normen,
-
  in denen die Freiheit ein unpers&ouml;nliches, theoretisches, von der
-
  Willkür des Einzelnen unabh&auml;ngiges Dasein gewonnen hat. Ein
-
  Gesetzbuch ist die Freiheitsbibel eines Volkes.
-
-
 
 http://www.mlwerke.de/me/me01/me01_050.htm
 
-
-
 问题一：重力定律（das Gesetz der Schwere）、引力定律（Gravitationsgesetz）与落体定律（Gesetz des Falles）有什么关系？
-
 问题二：“重力定律”这个说法（译法）科学么？
-
 问题三：中文“权威译文”中的“恰恰相反”四个字德文里没有，他们从哪里弄出来的（日文？俄文？抑或英文？）？是不是大家也读着别扭？
-
 问题四：是不是马克思原文就是错误的？因为他也不是专业的物理学工作者。
-
-
 
 附：
 
-
-
 1687年，牛顿的《自然哲学的数学原理》出版，提出了具有严谨逻辑结构的力
-
 学体系，给出了质量、动量和力的定义。引入绝对时间、绝对空间的概念，建
-
 立了牛顿三大定律：第一定律（或称惯住定律）：任何物体都保持静止的或匀
-
 速直线运动的状态，直到其他物体的作用迫使它改变这种状态为止；第二定律
-
 （或称运动基本定律）：物体的动量对时间的变化率与该物体所受的力成正
-
 比，并和力的方向相同；第三定律（或称作用和反作用定律）：一物体对另一
-
 物体的作用同时引起另一物体对此物体的大小相等、方向相反的反作用，而且
-
 这两个作用在一条直线上；还建立了万有引力定律：任何两个质点都以一定的
-
 力互相吸引着，这个力同两个质点的质量乘积成正比，同它们之间的距离的平
-
 方成反比。《原理》一经公诸于世，立即造成巨大的社会影响，并成为人类自
-
 然科学知识的首次大综合。
-
-
 
 附二：不要以为Dasha无理取闹，das Gesetz der Schwere出现在里尔克的诗中，Dasha不会玩了，特来求教。
 
-
-
 Wenn etwas mir vom Fenster f&auml;llt 
-
 (und wenn es auch das Kleinste w&auml;re) 
-
 wie stürzt sich das Gesetz der Schwere 
-
 gewaltig wie ein Wind vom Meere 
-
 auf jeden Ball und jede Beere 
-
 und tr&auml;gt sie in den Kern der Welt. 
 
-
-
 Ein jedes Ding ist überwacht 
-
 von einer flugbereiten Güte 
-
 wie jeder Stein und jede Blüte 
-
 und jedes kleine Kind bei Nacht. 
-
 Nur wir, in unsrer Hoffahrt, dr&auml;ngen 
-
 aus einigen Zusammenh&auml;ngen 
-
 in einer Freiheit leeren Raum, 
-
 statt, klugen Kr&auml;ften hingegeben, 
-
 uns aufzuheben wie ein Baum. 
-
 Statt in die weitesten Geleise 
-
 sich still und willig einzureihn, 
-
 verknüpft man sich auf manche Weise, - 
-
 und wer sich ausschlie&szlig;t jedem Kreise, 
-
 ist jetzt so namenlos allein. 
 
-
-
 Da mu&szlig; er lernen von den Dingen, 
-
 anfangen wieder wie ein Kind, 
-
 weil sie, die Gott am Herzen hingen, 
-
 nicht von ihm fortgegangen sind. 
-
 Eins mu&szlig; er wieder k&ouml;nnen: fallen, 
-
 geduldig in der Schwere ruhn, 
-
 der sich verma&szlig;, den V&ouml;geln allen 
-
 im Fliegen es zuvorzutun. 
 
-
-
 (Denn auch die Engel fliegen nicht mehr. 
-
 Schweren V&ouml;geln gleichen die Seraphim, 
-
 welche um ihn sitzen und sinnen; 
-
 Trümmern von V&ouml;geln, Pinguinen 
-
 gleichen sie, wie sie verkümmern...)
 
 
-
-
-
 Helfen Sie mir!
-

@@ -2,96 +2,47 @@ pilger 2004-12-9 00:36:14
 
 试译 Strom  : << Die Stadt >>,  << &Uuml;ber die Heide >>Die Stadt
 
-
-
 Am grauen Strand, am grauen Meer
-
 Und seitab liegt die Stadt;
-
 Der Nebel drückt die D&auml;cher schwer,
-
 Und durch die Stille braust das Meer
-
 Eint&ouml;nig um die Stadt.
 
-
-
 Es rauscht kein Wald, es schl&auml;gt im Mai
-
 Kein Vogel ohn' Unterlass;
-
 Die Wandergans mit hartem Schrei
-
 Nur fliegt in Herbstesnacht vorbei,
-
 Am Strande weht das Gras.
 
-
-
 Doch h&auml;ngt mein ganzes Herz an dir,
-
 Du graue Stadt am Meer;
-
 Der Jugend Zauber für und für
-
 Ruht l&auml;chelnd doch auf dir, auf dir,
-
 Du graue Stadt am Meer.
-
-
-
 
 
 <<城市>>
 
 
-
-
-
     灰色的海滩边,灰色的大海边,
-
     它们边上是城市;
-
     雾沉重地挤压着屋顶,
-
     环拥城市的海,单调的
-
     呼啸声穿透静寂.
 
 
-
-
-
     没有森林在喧哗,没有飞鸟
-
     在五月不停飞翔;
-
     迁徙的天鹅只在秋夜,
-
     尖叫着飞过.那随风吹拂的,
-
     是海滩边的青草.
 
 
-
-
-
     我整个的心依恋着你,
-
     你这大海边灰色的城市,
-
     青春的魅力一次次,
-
     在你中,在你中,微笑着降临.
-
     你这大海边灰色的城市.
-
-
-
-
-
-
-
 
 
 
@@ -100,61 +51,31 @@ Du graue Stadt am Meer.
 
 &Uuml;ber die Heide
 
-
-
 &Uuml;ber die Heide hallet mein Schritt;
-
 Dumpf aus der Erde wandert es mit.
-
         
-
 Herbst ist gekommen, Frühling ist weit -
-
 Gab es denn einmal selige Zeit?
 
-
-
 Brauende Nebel geisten umher;
-
 Schwarz ist das Kraut und der Himmel so leer.
 
-
-
 W&auml;r ich hier nur nicht gegangen im Mai!
-
 Leben und Liebe, - wie flog es vorbei!
-
-
 
 在荒原上
 
-
-
     荒原上回响着我的足音,
-
     地里涌出的雾气与我同行.
 
- 
-
     秋天已来,春天已远  ---
-
     到底是否有过,一个幸福的时光?
 
-
-
     阵阵烟雾鬼魅般缭绕,
-
     香草是黑色的,天空是空旷的.
 
-
-
     我身在此地么? 并没有回到五月!
-
     生命与爱 ---- 是如何,与我擦肩而过的呵!
-
-
-
-
 
 
 
@@ -170,269 +91,169 @@ Leben und Liebe, - wie flog es vorbei!
 
 
 
-
-
-
-
-
-
-
-
 Dasha 2004-12-8 13:30:51
 
 Dasha尝试《石楠荒野》（Ueber die Heide，勃拉姆斯[Johannes Brahms]曾为之度曲）石楠荒野
 
-
-
 足音石楠间；
-
 跫然两徘徊。
 
-
-
 秋至春已远——
-
 佳期何曾在？
 
-
-
 魂幽雾翳翳，
-
 草黑天杳杳。
 
-
-
 五月未我至，
-
 生爱逝如斯！
 
 
-
-
-
 聒噪一句：情境乃东坡之《江城子》“十年生死两茫茫”。
+
 
 Dasha 2004-12-8 13:41:04
 
 附英译一种Poem: 'Ueber die Heide' ('Across the Heath'); thoughts on his first wife Constanze.Across the Heath
 
-
-
 Across the heath my step resounds;
-
 The dull echo from the earth wanders with me.
 
-
-
 Autumn has arrived, Spring is far away -
-
 Was there once, then, a time of bliss?
 
-
-
 Brewing mists surround me like ghosts,
-
 Dark is the vegetation, and the sky so empty.
 
-
-
 Would that I had not come here in May!
-
 Life and love - how they flew by!
 
-
-
 Translation from German to English by Emily Ezust
-
 http://www.recmusic.org/lieder/get_text.html?TextId=15399
 
-
-
 另见：www.theodorstorm.co.uk/Life/chronology.htm
-
 1875 Novellen: Ein stiller Musikant (A Quiet Musician); 
-
      Psyche; Im Nachbarhause links  (The Neighbour's House on the Left).
 
-
-
      Poem: 'Ueber die Heide' ('Across the Heath'); thoughts on his first wife Constanze.
+
 
 jb909 2004-12-8 17:29:50
 
 《走过荒野》(凑趣版)<html>
 
-
-
 <head>
-
 <meta http-equiv="Content-Type" content="text/html; charset=big5">
-
 <title>新增網頁1</title>
-
 </head>
-
-
 
 <body>
 
-
-
 <table width="85%" align="center" id="table2">
-
         <tr>
-
                 <td bgColor="#f8f7f5">
-
                 <table class="MsoTableGrid" id="table3" style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse" cellSpacing="0" cellPadding="0" border="1">
-
                         <tr>
-
                                 <td style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 1pt solid; WIDTH: 209.05pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid" vAlign="top" width="279">
-
                                 <p class="MsoNormal"><font face="Arial Narrow">
-
                                 <span lang="EN-US" style="FONT-SIZE: 10pt">Across&nbsp;the&nbsp;Heath<br>
-
                                 <br>
-
                                 Across&nbsp;the&nbsp;heath&nbsp;my&nbsp;step&nbsp;resounds;<br>
-
                                 The&nbsp;dull&nbsp;echo&nbsp;from&nbsp;the&nbsp;earth&nbsp;wanders&nbsp;with&nbsp;me.<br>
-
                                 <br>
-
                                 Autumn&nbsp;has&nbsp;arrived,&nbsp;Spring&nbsp;is&nbsp;far&nbsp;away&nbsp;-<br>
-
                                 Was&nbsp;there&nbsp;once,&nbsp;then,&nbsp;a&nbsp;time&nbsp;of&nbsp;bliss?<br>
-
                                 <br>
-
                                 Brewing&nbsp;mists&nbsp;surround&nbsp;me&nbsp;like&nbsp;ghosts,<br>
-
                                 Dark&nbsp;is&nbsp;the&nbsp;vegetation,&nbsp;and&nbsp;the&nbsp;sky&nbsp;so&nbsp;empty.<br>
-
                                 <br>
-
                                 Would&nbsp;that&nbsp;I&nbsp;had&nbsp;not&nbsp;come&nbsp;here&nbsp;in&nbsp;May!<br>
-
                                 Life&nbsp;and&nbsp;love&nbsp;-&nbsp;how&nbsp;they&nbsp;flew&nbsp;by!<br>
-
                                 <br>
-
                                 Translation&nbsp;from&nbsp;German&nbsp;to&nbsp;English&nbsp;by&nbsp;Emily&nbsp;Ezust</span></font></td>
-
                                 <td style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 209.05pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid" vAlign="top" width="279">
-
                                 <p class="MsoNormal">
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">《走&#36807;荒野》</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt">(</span></font><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">依英文版</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt">)<br>
-
                                 <br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">行行&#36807;荒野；</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt"><br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">寂寂</span><span lang="ZH-CN" style="font-size: 10.0pt; font-family: SimSun">舞</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">跫</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">音。</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt"><br>
-
                                 <br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">秋&#26469;春迢&#36882;</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt">--<br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">芳&#20250;可曾有？</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt"><br>
-
                                 <br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">&#38654;蒸魑魅合，</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt"><br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">野墨天穹&#24320;。</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt"><br>
-
                                 <br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">五月客&#26469;憾，</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt"><br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">&#21446;&#21447;何茫然</span><font face="Arial Narrow"><span lang="EN-US" style="FONT-SIZE: 10pt">!<br>
-
                                 <br>
-
                                 </span></font>
-
                                 <span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial Narrow">
-
                                 注：&#32431;粹&#20026;了好玩，在英文版，及大傻的基礎上，略&#21160;手&#33050;，見笑了。</span></td>
-
                         </tr>
-
                 </table>
-
                 </td>
-
         </tr>
-
 </table>
-
-
 
 </body>
 
-
-
 </html>
+
 
 pilger 2004-12-8 17:54:02
 
 妙哉,妙哉 ! ! !
 
+
 pilger 2004-12-8 17:56:44
 
 很有趣 !   :  )
+
 
 Dasha 2004-12-8 20:53:14
 
 嘿，J老的首联好，Dasha的似乎是颈联好。望J老再凑凑趣，弄出个标准的五律。
 
+
 zwzx 2004-12-8 22:37:44
 
 请教在网上能找到莱蒙托夫的诗<祖国>的原文吗?
+
 
 pilger 2004-12-9 00:10:23
 
 向Dasha兄,Jb909 兄二位学习,我的古典文学修养相较之下 非常惭愧... 
 
+
 pilger 2004-12-9 00:15:10
 
 zwzx 兄. So  Sorry,  俄文我一字不识.  :  )  晴朗李寒版主是俄语文学专家,  他能提供相关的咨讯.
+
 
 pilger 2004-12-9 00:51:02
 
 德语文学现实主义 Realismus ( 1848--1890 )的几位大家, Friedrich Hebbel 的主要成就在于戏剧.   Gottfried Keller 的主要成就在于小说. 而Theodor Strom 的主要成就在于诗歌.
 
+
 jb909 2004-12-10 11:24:10
 
 是傻老调教有方啊 : )
+
 
 jb909 2004-12-10 11:24:34
 
 惭愧，快四年了我总共才译了三首半 : (
 
+
 zwzx 2004-12-14 22:58:25
 
 请教晴朗李寒斑竹听说您是俄文文学专家，请问在网上能找到莱蒙托夫的诗<祖国>的原文吗?
-
 谢谢。
-

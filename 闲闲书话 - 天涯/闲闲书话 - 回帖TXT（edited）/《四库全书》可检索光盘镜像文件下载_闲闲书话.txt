@@ -1,0 +1,85 @@
+——>>sinovivo - 《四库全书》可检索光盘镜像文件下载_闲闲书话
+
+
+汉语里尔克 2004-12-19 00:29:36
+hodor兄，将物理光驱的盘符修改到虚拟光驱之后即可，无需待到重装系统时。具体方法：如果您的操作系统是98，在“设备管理”里直接修改光驱的盘符；如果是2000或者XP，在“管理”的“磁盘管理”修改。
+
+牧童天涯兄，Dasha不明白您为什么说vivo“不厚道”，如果您以为vivo是那位wdcl大侠，嘿嘿，Dasha也就不用天天晚上用“影音传送带”念经了。也许，等待正是快乐的真谛，一旦轻易得手，岂不无趣且不懂珍惜。
+
+
+汉语里尔克 2004-12-20 16:58:26
+小V，我替你发贴求问了，回答如下：
+
+wdcl
+新人
+
+
+注册时间: 2004-08-24
+文章: 80
+
+ 发表于: 星期一 十二月 20, 2004 4:52 pm    文章主题:    
+
+--------------------------------------------------------------------------------
+ 
+披发行歌 写到: 
+看到楼主在行歌处下载，欢迎之至。惜楼主下载速度稍嫌迟缓，如果吃力，行歌给您刻盘。 
+
+另，其它论坛一兄弟托行歌求问楼主，如何将这四库里的某一部书转换成可检索复制的PDF或者DOC，行歌见楼主提供过PDF档下载，而行歌虚拟打印出的皆图片。望不吝告之。其实，行歌以为，有此光盘，转换其它文档似嫌多此一举，不如开辟一硬盘空间，随想随用。 
+
+
+在你那里下载是慢了一些，不过没关系，我上班，电脑在家自己下，也不累我 
+关于 生成PDF文件，没办法生成可检索的版本，只能生成图象性质的PDF 
+DOC 文件更没办法了，除非能破解了 四库虚拟光盘中的 数据库文件，不过基本上没希望，我的意见也是，这个版本的四库 已经可以阅读 查询 拷贝，已经足够使用需要了，何必生成 其他呢 ？
+
+
+汉语里尔克 2005-01-17 01:06:11
+作者：dannowind　回复日期：2005-1-17　0:18:51　   
+下载完了,可打不开,真遗憾!
+
+兄弟，您是不是将光盘镜像ISO文件用WinRAR去打开了。
+ISO文件当使用虚拟光驱软件打开、或者用刻录软件刻录成光盘。
+
+如果您因为打不开而一气之下将6.9G的文件全部deleted了，我倒;-)
+安装与使用参见小V先生的帖子：http://note.ssreader.com/show_topic.asp?Topicid=233041&forumid=1
+
+
+汉语里尔克 2005-01-18 12:13:31
+14:12 明亮之星，早晨之子阿，你何竟从天坠落。你这攻败列国的，何竟被砍倒在地上。
+How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! 
+ 
+ 
+14:13 你心里曾说，我要升到天上。我要高举我的宝座在神众星以上。我要坐在聚会的山上，在北方的极处，
+For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north: 
+ 
+ 
+14:14 我要升到高云之上。我要与至上者同等。
+I will ascend above the heights of the clouds; I will be like the most High. 
+ 
+ 
+14:15 然而你必坠落阴间，到坑中极深之处。
+Yet thou shalt be brought down to hell, to the sides of the pit. 
+ 
+ 
+14:16 凡看见你的，都要定睛看你，留意看你，说，使大地战抖，使列国震动，
+They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms; 
+ 
+ 
+14:17 使世界如同荒野，使城邑倾覆，不释放被掳的人归家，是这个人吗。
+That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners? 
+ 
+ 
+14:18 列国的君王俱各在自己阴宅的荣耀中安睡。
+All the kings of the nations, even all of them, lie in glory, every one in his own house. 
+ 
+ 
+14:19 惟独你被抛弃，不得入你的坟墓，好像可憎的枝子。以被杀的人为衣，就是被刀刺透，坠落坑中石头那里的。你又像被践踏的尸首一样。
+But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet. 
+ 
+ 
+14:20 你不得与君王同葬，因为你败坏你的国，杀戮你的民。恶人后裔的名，必永不题说。
+Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned.
+
+
+汉语里尔克 2005-01-27 18:26:52
+青衣，您是如何安装的，虚拟光驱？刻录成光盘？您的操作系统是怎样的？您检索时软件要求您插入哪张光碟？您的16张数据盘安装到了哪里？请详细述说遇见的问题。
+那个用户名是随便添的，但只允许填写三个不同的名称，也就是说，这套光盘允许三个用户同时使用。

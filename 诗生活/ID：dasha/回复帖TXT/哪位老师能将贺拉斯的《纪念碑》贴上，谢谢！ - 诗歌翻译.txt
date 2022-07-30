@@ -2,991 +2,502 @@
 
 哪位老师能将贺拉斯的《纪念碑》贴上，谢谢！贺拉斯《纪念碑》
 
+
 sinovivo 2005-2-14 10:47:10
 
 VIVO gives u a hand<html xmlns:v="urn:schemas-microsoft-com:vml"
-
 xmlns:o="urn:schemas-microsoft-com:office:office"
-
 xmlns:w="urn:schemas-microsoft-com:office:word"
-
 xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
-
 xmlns="http://www.w3.org/TR/REC-html40">
 
-
-
 <head>
-
 <meta http-equiv=Content-Type content="text/html; charset=us-ascii">
-
 <meta name=ProgId content=Word.Document>
-
 <meta name=Generator content="Microsoft Word 11">
-
 <meta name=Originator content="Microsoft Word 11">
-
 <link rel=File-List href="Ode3XXX.files/filelist.xml">
-
 <title>Ode 3 XXX - Exegi monumentum</title>
-
 <o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
-
  name="country-region"/>
-
 <o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
-
  name="place"/>
-
 <o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
-
  name="PersonName"/>
-
 <!--[if gte mso 9]><xml>
-
  <o:DocumentProperties>
-
   <o:Author>vivo</o:Author>
-
   <o:Template>Normal</o:Template>
-
   <o:LastAuthor>vivo</o:LastAuthor>
-
   <o:Revision>1</o:Revision>
-
   <o:TotalTime>15</o:TotalTime>
-
   <o:Created>2005-02-13T13:33:00Z</o:Created>
-
   <o:LastSaved>2005-02-13T13:48:00Z</o:LastSaved>
-
   <o:Pages>1</o:Pages>
-
   <o:Words>611</o:Words>
-
   <o:Characters>3483</o:Characters>
-
   <o:Company>sino</o:Company>
-
   <o:Lines>29</o:Lines>
-
   <o:Paragraphs>8</o:Paragraphs>
-
   <o:CharactersWithSpaces>4086</o:CharactersWithSpaces>
-
   <o:Version>11.5606</o:Version>
-
  </o:DocumentProperties>
-
 </xml><![endif]--><!--[if gte mso 9]><xml>
-
  <w:WordDocument>
-
   <w:GrammarState>Clean</w:GrammarState>
-
   <w:PunctuationKerning/>
-
   <w:ValidateAgainstSchemas/>
-
   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-
   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-
   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-
   <w:Compatibility>
-
    <w:BreakWrappedTables/>
-
    <w:SnapToGridInCell/>
-
    <w:WrapTextWithPunct/>
-
    <w:UseAsianBreakRules/>
-
    <w:DontGrowAutofit/>
-
    <w:UseFELayout/>
-
   </w:Compatibility>
-
   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
-
  </w:WordDocument>
-
 </xml><![endif]--><!--[if gte mso 9]><xml>
-
  <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
-
  </w:LatentStyles>
-
 </xml><![endif]--><!--[if !mso]><object
-
  classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
-
 <style>
-
 st1\:*{behavior:url(#ieooui) }
-
 </style>
-
 <![endif]-->
-
 <style>
-
 <!--
-
  /* Font Definitions */
-
  @font-face
-
         {font-family:SimSun;
-
         panose-1:2 1 6 0 3 1 1 1 1 1;
-
         mso-font-alt:SimSun;
-
         mso-font-charset:134;
-
         mso-generic-font-family:auto;
-
         mso-font-pitch:variable;
-
         mso-font-signature:3 135135232 16 0 262145 0;}
-
 @font-face
-
         {font-family:SimSun;
-
         panose-1:2 1 6 0 3 1 1 1 1 1;
-
         mso-font-charset:134;
-
         mso-generic-font-family:auto;
-
         mso-font-pitch:variable;
-
         mso-font-signature:3 135135232 16 0 262145 0;}
-
  /* Style Definitions */
-
  p.MsoNormal, li.MsoNormal, div.MsoNormal
-
         {mso-style-parent:"";
-
         margin:0cm;
-
         margin-bottom:.0001pt;
-
         mso-pagination:widow-orphan;
-
         font-size:12.0pt;
-
         font-family:"Times New Roman";
-
         mso-fareast-font-family:SimSun;}
-
 a:link, span.MsoHyperlink
-
         {color:#003300;
-
         text-decoration:underline;
-
         text-underline:single;}
-
 a:visited, span.MsoHyperlinkFollowed
-
         {color:purple;
-
         text-decoration:underline;
-
         text-underline:single;}
-
 span.pn-normal
-
         {mso-style-name:pn-normal;
-
         mso-ansi-font-size:7.5pt;
-
         mso-bidi-font-size:7.5pt;
-
         font-family:Arial;
-
         mso-ascii-font-family:Arial;
-
         mso-hansi-font-family:Arial;
-
         mso-bidi-font-family:Arial;
-
         font-style:normal;}
-
 span.GramE
-
         {mso-style-name:"";
-
         mso-gram-e:yes;}
-
 @page Section1
-
         {size:612.0pt 792.0pt;
-
         margin:72.0pt 90.0pt 72.0pt 90.0pt;
-
         mso-header-margin:35.4pt;
-
         mso-footer-margin:35.4pt;
-
         mso-paper-source:0;}
-
 div.Section1
-
         {page:Section1;}
-
 -->
-
 </style>
-
 <!--[if gte mso 10]>
-
 <style>
-
  /* Style Definitions */
-
  table.MsoNormalTable
-
         {mso-style-name:\666E\901A\8868\683C;
-
         mso-tstyle-rowband-size:0;
-
         mso-tstyle-colband-size:0;
-
         mso-style-noshow:yes;
-
         mso-style-parent:"";
-
         mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-
         mso-para-margin:0cm;
-
         mso-para-margin-bottom:.0001pt;
-
         mso-pagination:widow-orphan;
-
         font-size:10.0pt;
-
         font-family:"Times New Roman";
-
         mso-ansi-language:#0400;
-
         mso-fareast-language:#0400;
-
         mso-bidi-language:#0400;}
-
 </style>
-
 <![endif]--><!--[if gte mso 9]><xml>
-
  <o:shapedefaults v:ext="edit" spidmax="2050"/>
-
 </xml><![endif]--><!--[if gte mso 9]><xml>
-
  <o:shapelayout v:ext="edit">
-
   <o:idmap v:ext="edit" data="1"/>
-
  </o:shapelayout></xml><![endif]-->
-
 </head>
-
-
 
 <body lang=EN-US>
 
-
-
 <div>
-
-
 
 <p class=MsoNormal>Ode 3 XXX - Exegi monumentum</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>Exegi monumentum aere perennius </p>
 
-
-
 <p class=MsoNormal><span class=GramE>regalique</span> situ pyramidum altius, </p>
 
-
-
 <p class=MsoNormal><span class=GramE>quod</span> non imber edax, non Aquilo
-
 inpotens </p>
-
-
 
 <p class=MsoNormal><span class=GramE>possit</span> diruere aut innumerabilis </p>
 
-
-
 <p class=MsoNormal><span class=GramE>annorum</span> series et fuga temporum. </p>
-
-
 
 <p class=MsoNormal>Non omnis moriar multaque pars <span class=GramE>mei</span> </p>
 
-
-
 <p class=MsoNormal><span class=GramE>uitabit</span> Libitinam; usque ego
-
 postera </p>
 
-
-
 <p class=MsoNormal><span class=GramE>crescam</span> laude recens, dum
-
 Capitolium </p>
 
-
-
 <p class=MsoNormal><span class=GramE>scandet</span> cum tacita uirgine
-
 pontifex. </p>
-
-
 
 <p class=MsoNormal>Dicar, qua uiolens obstrepit Aufidus </p>
 
-
-
 <p class=MsoNormal><span class=GramE>et</span> qua pauper aquae Daunus
-
 agrestium </p>
 
-
-
 <p class=MsoNormal><span class=GramE>regnauit</span> populorum, ex humili
-
 potens </p>
-
-
 
 <p class=MsoNormal><span class=GramE>princeps</span> Aeolium carmen ad Italos </p>
 
-
-
 <p class=MsoNormal><span class=GramE>deduxisse</span> modos. Sume superbiam </p>
-
-
 
 <p class=MsoNormal><span class=GramE>quaesitam</span> meritis et mihi Delphica </p>
 
-
-
 <p class=MsoNormal><span class=GramE>lauro</span> cinge uolens, Melpomene,
-
 comam. </p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>http://quintus.horatius.free.fr/qhf/odes3.htm#30</p>
 
-
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>His Monument</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>The monument that I have built is durable as brass,</p>
 
-
-
 <p class=MsoNormal><span class=GramE>And loftier than the Pyramids which mock
-
 the years that pass.</span></p>
-
-
 
 <p class=MsoNormal>Nor blizzard can destroy it, nor furious rain corrode --</p>
 
-
-
 <p class=MsoNormal>Remember, I'm the bard that built the first Horatian ode.</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>I shall not altogether die; a part of me's immortal.</p>
 
-
-
 <p class=MsoNormal>A part of me shall never pass the mortuary portal;</p>
 
-
-
 <p class=MsoNormal>And when I die my fame shall stand the nitric test of time
-
 --</p>
-
-
 
 <p class=MsoNormal>The fame of me of lowly birth, who built the lofty rhyme!</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>Ay, fame shall be my portion when no trace there is of me,</p>
 
-
-
 <p class=MsoNormal><span class=GramE>For I first made Aeolian songs the songs
-
 of <st1:country-region w:st="on"><st1:place w:st="on">Italy</st1:place></st1:country-region>.</span></p>
-
-
 
 <p class=MsoNormal>Accept I pray, Melpomene, my modest meed of praise,</p>
 
-
-
 <p class=MsoNormal>And crown my thinning, graying locks with wreaths of Delphic
-
 bays!</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>Source: Something Else Again (1920), p. 11, reprinted in
-
 Column Book of F.P.A. (1928), pp. 310-311, and in The Melancholy Lute (1936),
-
 p. 169 </p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>http://www.mgilleland.com/fpahor.htm#Ode330</p>
 
-
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>&Eacute;pilogue - A Melpomène</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>J'achève un monument à jamais <span
-
 class=GramE>glorieux ;</span></p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Le bronze même <span class=GramE>est</span> moins solide,</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span><span class=GramE>Et</span> la royale pyramide</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span><span class=GramE>S'élance moins haut vers les cieux.</span> </p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Rien n'en peut renverser le fa&icirc;te, </p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Rien, <span class=GramE>ni</span> les pluvieux autans,</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Ni les efforts de la tempête,</p>
 
-
-
 <p class=MsoNormal>Ni les siècles sans nombre <span class=GramE>et</span>
-
 la fuite du temps. </p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Le poète au sombre domaine</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Tout entier ne descendra <span class=GramE>pas ;</span></p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Du favori de Melpomène</p>
-
-
 
 <p class=MsoNormal>La plus noble moitié doit survivre au trépas. </p>
 
-
-
 <p class=MsoNormal>Ma gloire avec les ans cro&icirc;tra toujours nouvelle, </p>
 
-
-
 <p class=MsoNormal>Tandis que <st1:PersonName ProductID="la Vestale" w:st="on">la
-
  Vestale</st1:PersonName> <span class=GramE>et</span> le prêtre des
-
 Dieux,</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Dans <span class=GramE>un</span> recueillement pieux,</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span><span class=GramE>Graviront la roche éternelle.</span></p>
-
-
 
 <p class=MsoNormal>Horace, dira-t-on, le premier dans ces lieux</p>
 
-
-
 <p class=MsoNormal>Où l'Aufide en grondant roule son flot rapide, </p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span><span class=GramE>Et</span> dans cette contrée aride</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Où sur d'agrestes fils des champs </p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Daunus étendit <span class=GramE>sa</span> puissance,</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Illustrant son humble naissance,</p>
 
-
-
 <p class=MsoNormal><span class=GramE>Au rythme éolien sut marier nos
-
 chants</span>.</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Tu le peux, désormais sois fière</p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;</span>De mon renom chez les <span
-
 class=GramE>Romains ;</span> </p>
 
-
-
 <p class=MsoNormal><span
-
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 </span>Triomphe, &ocirc; Muse, <span class=GramE>et</span> que tes mains</p>
 
-
-
 <p class=MsoNormal>Du <span class=GramE>laurier</span> d'Apollon ceignent ma
-
 tête altière.</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>http://quintus.horatius.free.fr/trad/anquetil/A_O_III_24.htm</p>
 
-
-
 <p class=MsoNormal><span style='mso-spacerun:yes'>&nbsp;</span></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>Verhei&szlig;ung der Unsterblichkeit </p>
 
-
-
 <p class=MsoNormal>(c. III 30)</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>Ich habe ein Monument gebaut, best&auml;ndiger als Erz und
-
 h&ouml;her als der k&ouml;nigliche Sitz der Pyramiden, das nicht der
-
 gefr&auml;&szlig;ige Regen, nicht der unb&auml;ndige Aquilo zerst&ouml;ren
-
 k&ouml;nnte oder die unz&auml;hlbare Folge der Jahre und die Flucht der Zeiten.
-
 </p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal><span style='mso-spacerun:yes'>&nbsp;</span>Nicht ganz werde
-
 ich sterben, und ein gro&szlig;er Teil von mir wird Libitina meiden:<span
-
 style='mso-spacerun:yes'>&nbsp; </span>Ununterbrochen werde ich rüstig
-
 durch das nachfolgende Lob wachsen, solange der Priester gemeinsam mit einer
-
 schweigsamen <st1:place w:st="on">Jungfrau</st1:place> das Kapitol besteigt. </p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>Von mir wird gesagt werden, <span class=GramE>wo</span> der
-
 ungestüme Aufidus entgegenrauscht und wo der an Wasser arme Daunus die
-
 l&auml;ndliche Bev&ouml;lkerung beherrscht hat, da&szlig; ich, von niederer
-
 Herkunft stark geworden, als erster das Lied der &Auml;olier zu italischen
-
 Weisen zurückgeführt habe. </p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>Nimm den durch die Verdienste erlangten stolzen Ruhm
-
 entgegen und umkr&auml;nze mir mit delphischem Lorbeer gewogen, o Melpomene,
-
 das Haar!</p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal>http://www.hausarbeiten.de/faecher/hausarbeit/lat/2084.html</p>
 
-
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>纪念碑</span></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>我建造了一座纪念碑，它比青铜</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>更坚牢，比王家的金字塔更巍峨，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>无论是风雨的侵蚀，北风的肆虐，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>或是光阴的不尽流逝，岁月的</span></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>滚滚轮回都不能把它摧毁。</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>我不会完全死去，我的许多部分</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>将会逃脱死亡<span
-
 class=GramE>的浩劫而</span>继续存在，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>人们的称誉使我永远充满生机，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>只要卡皮托利的祭司和<span
-
 class=GramE>贞尼</span></span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>仍去献祭。我将会一直被人怀念，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>在狂暴的奥菲杜斯河喧闹的地方，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>在惜水<span
-
 class=GramE>的道努斯</span>统治的乡人中间。</span></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>出身低微的我首先给意大利音韵，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>引来伊奥尼亚格律，诗歌女神啊，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>请接受由你襄助而得来的这一荣誉，</span></p>
 
-
-
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>慈祥地给我戴上得<span
-
 class=GramE>尔福月桂</span>花冠。</span></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-
 
 <p class=MsoNormal><span lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:
-
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>王焕生根据《贺拉斯诗集》拉丁文译出（——</span>V<span
-
 lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
-
 mso-hansi-font-family:"Times New Roman"'>扫描自超星</span>book://ss10125877/000433.pdg<span
-
 lang=ZH-CN style='font-family:SimSun;mso-ascii-font-family:"Times New Roman";
-
 mso-hansi-font-family:"Times New Roman"'>）</span></p>
-
-
 
 </div>
 
-
-
 </body>
 
-
-
 </html>
+
 
 Dasha 2005-2-14 10:49:23
 
 咳咳，“……风雨的侵蚀，北风的肆虐”王焕生同志的汉语实在让人不敢恭维。会拉丁语的小V同学就忍心让他这么糟蹋Horatius？请V同学重译一下吧。
-

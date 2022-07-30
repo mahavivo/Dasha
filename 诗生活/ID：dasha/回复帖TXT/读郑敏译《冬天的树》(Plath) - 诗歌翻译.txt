@@ -2,257 +2,130 @@
 
 读郑敏译《冬天的树》(Plath)<html>
 
-
-
 <head>
-
 <meta http-equiv="content-type" content="text/html; charset=gb2312">
-
 <title>winter trees</title>
-
 <meta name="generator" content="Namo WebEditor v5.0">
-
 </head>
 
-
-
 <body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
-
 <table align="center" border="1" width="741" bgcolor="#F8F8F0" bordercolor="#F8F8F8" bordercolordark="#F8F8F8" bordercolorlight="#F8F4F0">
-
     <tr>
-
         <td width="731" bgcolor="#F8F7F5" height="134" colspan="3">
-
             <p>&nbsp;</p>
-
             <p align="center" style="line-height:1;"><span style="font-size:24pt;"><font face="Comic Sans MS" color="#0000CC"><b>Winter 
-
             Trees</b></font></span></p>
-
             <p align="center" style="line-height:1;"><span style="font-size:20pt;"><font face="黑体">冬天的树</font></span></p>
-
             <p style="line-height:1;" align="center"><span style="font-size:20pt;"><font face="黑体">&nbsp;</font></span></p>
-
             <p style="line-height:1;" align="center"><span style="font-size:14pt;"><font face="仿宋_GB2312">诗：Plath 
-
             &nbsp;译：郑敏</font></span></p>
-
             <p style="line-height:1;" align="center"><span style="font-size:12pt;"><font face="仿宋_GB2312">&nbsp;</font></span></p>
-
         </td>
-
     </tr>
-
     <tr>
-
         <td width="31" valign="top" bgcolor="#F8F7F5" height="134">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;">1</p>
-
             <p style="line-height:1;">2</p>
-
             <p style="line-height:1;">3</p>
-
             <p style="line-height:1;">4</p>
-
             <p style="line-height:1;">5</p>
-
             <p style="line-height:1;">&nbsp;</p>
-
             <p style="line-height:1;">6</p>
-
             <p style="line-height:1;">7</p>
-
             <p style="line-height:1;">8</p>
-
             <p style="line-height:1;">9</p>
-
             <p style="line-height:1;">10</p>
-
             <p style="line-height:1;">&nbsp;</p>
-
             <p style="line-height:1;">11</p>
-
             <p style="line-height:1;">12</p>
-
             <p style="line-height:1;">13</p>
-
             <p style="line-height:1;">14</p>
-
             <p style="line-height:1;">15</p>
-
             <p style="line-height:1;">&nbsp;</p>
-
         </td>
-
         <td width="397" valign="top" bgcolor="#F8F7F5" height="134">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">The 
-
             wet dawn inks are doing their blue dissolve.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">On 
-
             their blotter of fog the trees</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Seem 
-
             a botanical drawing—</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Memories 
-
             growing, ring on ring,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">A 
-
             series of weddings.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Knowing 
-
             neither abortions nor bitchery,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Truer 
-
             than women,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">They 
-
             seed so effortlessly!</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Tasting 
-
             the winds, that are footless,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Waist-deep 
-
             in history—</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Full 
-
             of wings, otherworldliness.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">In 
-
             this, they are Ledas.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">O 
-
             mother of leaves and sweetness</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Who 
-
             are these piet&agrave;s?</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">The 
-
             shadows of ringdoves chanting, but easing nothing.</font></span></p>
-
             <p style="line-height:1;"><font face="Comic Sans MS"><span style="font-size:12pt;">&nbsp;</span></font></p>
-
         </td>
-
         <td width="291" valign="top" bgcolor="#DAD5D5" height="134">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><a href="#1."><font face="宋体" color="red">潮湿的黎明，蓝墨水在进行蓝色的溶化。</font></a></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><a href="#2."><font face="宋体" color="red">树群在吸雾纸上</font></a></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">看来像植物绘画—</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">记忆在增长，</font><a href="#4."><font face="宋体" color="red">一圈叠一圈</font></a><font face="宋体">，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">一联串的婚礼。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">不知道堕胎或</font><a href="#6"><font face="宋体" color="red">怨恨</font></a><font face="宋体">，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">比女人更真实，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><a href="#8."><font face="宋体" color="red">它们如此不费力的撒种</font></a></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">品尝着不长脚的风，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">半身浸入历史——</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><a href="#11"><font face="宋体" color="red">长满了另一世界的翅膀。</font></a></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">在这点它们是<a href="#12.">利达们</a>。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">啊，树叶和甜蜜之母</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">谁是这些</font><a href="#14"><font face="宋体" color="red">圣母哀泣耶稣的像</font></a><font face="宋体">？</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">斑鸠们的暗影在唱诗，而无助于解愁。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
         </td>
-
     </tr>
-
     <tr>
-
         <td width="31" valign="top" bgcolor="#F8F7F5" height="78">
-
             <p>&nbsp;</p>
-
         </td>
-
         <td width="694" valign="top" bgcolor="#F8F7F5" height="78" colspan="2">
-
             <p align="center" style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">1.<a name="1."></a> 
-
             “蓝墨水”不如直译成“墨水”周全；中间逗号，宜改作破折号。</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">2<a name="2."></a>. 
-
             译得有些云雾缭绕了，应该是“在它们雾的吸墨纸上，树木……”</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">4.<a name="4."></a> 
-
             ring这里可以视作树的“年轮”，也可读作“指环”</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">6<a name="6"></a>&nbsp;bitchery译作“怨恨”好像保守了点</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">8<a name="8."></a>. 
-
             原文句末的感叹号为何去掉了？</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">11<a name="11"></a>.这句感觉不对。otherworldliness指“来世”，我的理解是：相对前面一半浸入的历史，冥冥中的来世，充满了隐约的翅膀。影射“丽达与天鹅”的故事。</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">12<a name="12."></a>.“利达们”感觉别扭。</font></span></p>
-
             <p style="line-height:1;" align="left"><span style="font-size:12pt;"><font face="楷体_GB2312" color="#000066">14<a name="14"></a>.原文短促的piet&agrave;s，译文却冗长的“圣母哀泣耶稣的像”(“的像”别扭)，不如来个音译加注？</font></span></p>
-
             <p align="center" style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
         </td>
-
     </tr>
-
 </table>
-
 <p>&nbsp;</p>
-
 </body>
-
-
 
 </html>
 
@@ -262,186 +135,98 @@ inandout 2004-4-1 22:03:47
 
 otherworldliness在这里，我想还是指那些不切实际的，超然的，或称之为浪漫的精神性的东西。
 
-
-
 otherworldly /wldli/ a. L19. [f. other world s.v. OTHER a.: see -LY1.] 
-
 1 Of or pertaining to an imaginary ideal or fantastic world. L19. 
-
 2 Of, pertaining to, or concerned with a world inhabited after death. L19.   Opp. THIS-WORLDLY.otherworldliness n. M19.
 
-
-
 可能两者意思都有，我倾向于前者的理解。
+
 
 得一忘二 2004-4-2 02:54:47
 
 译并议        冬日之树
 
-
-
 黎明潮湿的墨正在将它们的蓝色淡隐。
-
 映在晨雾的宣纸上，树木隐约
-
 如一幅植物图谱——
-
 记忆在增长，环环相叠，
-
 联翩的婚礼。
 
-
-
 不曾堕胎也不下贱，
-
 比女人更真，
-
 未经操劳，它们便已结果！
-
 品尝着阵阵无足的风，
-
 身体齐腰浸入历史——
 
-
-
 翅膀满身，有彼岸世界的气息。
-
 凭这点，它们都已是丽达。
-
 啊，叶子与甜美之母啊，
-
 谁是这些怜子圣母图？
-
 斑鸠的阴影在唱经，却毫无慰藉效果。
-
              1962年11月26日
 
-
-
          谈《冬日之树》的翻译
-
 这里的第一行暗示这是一个晨雾正要散去的时候。
-
 inks 用复数，似乎可以看作是雾沉沉的云翳，一块块地变淡了，
-
 这里的are doing their blue dissolve中，无论将dissolve
-
 看成名次还是动词，其意思都应该是淡化、淡隐、淡出（电影术语）；
-
 树木映衬着晨雾晦暗的天，犹如一幅写意画，这里的blotter暗示
-
 树枝因为雾的关系而显得有点朦胧，也就是说这幅画的材料
-
 有一种吸水性，黎明潮湿的雾之墨慢慢洇出去
-
 故而这种纸相当于我们所谓的宣纸
-
 （作为一个种类而不是某个产地的出品）
-
 其实从Plath的情形而言，我觉得这里更像是指
-
 罗夏墨迹试验Rorschach test的效果
-
 （她早年曾经写过一篇论画家Gregorio Prestopino的画评
-
 并且根据他的画作“Pine Tree”写了一首诗
-
 “Black Pine Tree in an Orange Light（橙色光影中的黑松）”
-
 该诗的第一节是：
-
 “告诉我你从中看到了什么：
-
    橙色光芒映照下的松树
-
 黑得象罗下测验图中的墨污
-
 Tell me what you see in it: 
-
     the pine tree like a Rorschach-blot 
-
 black against the orange light:”
-
 这里的树同样令人想到那样的情景
-
 记忆的增长可说是指树龄，还是紧扣着树本身，
-
 而ring on ring可说是这首诗中最不可转译的短语
-
 一方面，ring指树的年轮，但是当这个词一旦写出来读出来
-
 它便立即散发，既具有了声音又触发了别的联想
-
 如果记得我们以前讨论过的词语Words一诗，
-
 那么应该知道ring作为响声，在这儿则联想到了教堂的钟声
-
 同时又联想到戒指，因此才有下一行的“一系列的婚礼”
-
 在这里，郑敏先生的处理其实是很用心的：
-
 一圈叠一圈，这个“圈”字暗示几层意义：
-
 一，树的年轮成圈；二，戒指的圈；三，戒指/婚姻所暗示的圈套
-
 （不过我认为总体而言她的翻译不成功
-
 尽管她也试图在几个地方努力保留原文的多义性
-
 对了，她是我大学的老师，那时还在北师大）
 
-
-
 第一节诗歌中的两个关键用词（dissolve和blotter）
-
 以及总体上的凉湿感使人觉得这首诗的基调是灰暗的
-
 似乎传达出一种对外部世界的总体上的难以把握感
 
-
-
 接下来的两节从婚礼展开去又回到树的主题
-
 knowing应该可以理解为“未识”的意思，
-
 犹如“少年不识愁滋味”中的“识”，
-
 第二节令我觉得Plath在化用Yeats《亚当的诅咒》中的句子：
-
 “有一件事我们女人都应看透，
-
 虽然我们在学校从未听到——
-
 要想漂亮我们就必须操劳。”
-
 ‘There is one thing that all we women know,
-
 Although we never heard it at school—
-
 That we must labour to be beautiful.’
-
 我在以前曾经指出这里的labour的性含义
-
 这种含义在Plath的这首诗中则表现在effortlessly之中
-
 第三节的Leda是否同样会令人想到叶芝的名作？
-
 下文的full of wings是否暗指天鹅宙斯的翅膀？
-
 同样，otherworldliness似乎多少令人觉得和Yeats有某种联系
-
 不管怎么说，这里的Leda所暗示的更应该是
-
 一．被主神宙斯rape（来自另一世界，但不是来世）
-
 二．多子，她生了“扫帚星”海伦Helen、波吕克斯Pollux和卡斯托耳Castor
-
 （变成双子座）以及克吕泰墨斯特拉Clytemnestra(谋杀亲夫阿伽门农)
-
 多子——犹如多树叶，甜美——母性状态
-
 这里似乎指向fecundity(生育力)和净洁
-
 但是结尾并不令人获得什么抚慰（丧失/悼亡的意识和母亲联系起来了）
 
 
@@ -450,239 +235,121 @@ That we must labour to be beautiful.’
 
 青出于蓝啊：)<html>
 
-
-
 <head>
-
 <meta http-equiv="content-type" content="text/html; charset=gb2312">
-
 <title>winter trees</title>
-
 <meta name="generator" content="Namo WebEditor v5.0">
-
 </head>
 
-
-
 <body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
-
 <table align="center" border="1" width="741" bgcolor="#F8F8F0" bordercolor="#F8F8F8" bordercolordark="#F8F8F8" bordercolorlight="#F8F4F0">
-
     <tr>
-
         <td width="731" bgcolor="#F8F7F5" height="134" colspan="3">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p align="center" style="line-height:1;"><span style="font-size:24pt;"><font face="黑体" color="#0000CC"><b>Winter 
-
             Trees</b></font></span></p>
-
             <p align="center" style="line-height:1;"><span style="font-size:24pt;"><font face="黑体"><b>冬日之树</b></font></span></p>
-
             <p style="line-height:1;" align="center"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;" align="center"><span style="font-size:12pt;"><font face="宋体">诗：Plath 
-
             &nbsp;译：得一忘二</font></span></p>
-
             <p style="line-height:1;" align="center"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
         </td>
-
     </tr>
-
     <tr>
-
         <td width="31" valign="top" bgcolor="#F8F7F5" height="134">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">1</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">2</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">3</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">4</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">5</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">6</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">7</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">8</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">9</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">10</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">11</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">12</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">13</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">14</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">15</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
         </td>
-
         <td width="397" valign="top" bgcolor="#F8F7F5" height="134">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">The 
-
             wet dawn inks are doing their blue dissolve.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">On 
-
             their blotter of fog the trees</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Seem 
-
             a botanical drawing—</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Memories 
-
             growing, ring on ring,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">A 
-
             series of weddings.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Knowing 
-
             neither abortions nor bitchery,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Truer 
-
             than women,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">They 
-
             seed so effortlessly!</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Tasting 
-
             the winds, that are footless,</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Waist-deep 
-
             in history—</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Full 
-
             of wings, otherworldliness.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">In 
-
             this, they are Ledas.</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">O 
-
             mother of leaves and sweetness</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">Who 
-
             are these piet&agrave;s?</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="Comic Sans MS">The 
-
             shadows of ringdoves chanting, but easing nothing.</font></span></p>
-
             <p style="line-height:1;"><font face="Comic Sans MS"><span style="font-size:12pt;">&nbsp;</span></font></p>
-
         </td>
-
         <td width="291" valign="top" bgcolor="#DAD5D5" height="134">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">黎明潮湿的墨正在将它们的蓝色淡隐。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">映在晨雾的宣纸上，树木隐约</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">如一幅植物图谱——</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">记忆在增长，环环相叠，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">联翩的婚礼。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">不曾堕胎也不下贱，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">比女人更真，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">未经操劳，它们便已结果！</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">品尝着阵阵无足的风，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">身体齐腰浸入历史——</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">翅膀满身，有彼岸世界的气息。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">凭这点，它们都已是丽达。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">啊，叶子与甜美之母啊，</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">谁是这些怜子圣母图？</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">斑鸠的阴影在唱经，却毫无慰藉效果。</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
         </td>
-
     </tr>
-
     <tr>
-
         <td width="31" valign="top" bgcolor="#F8F7F5" height="78">
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
         </td>
-
         <td width="694" valign="top" bgcolor="#F8F7F5" height="78" colspan="2">
-
             <p align="center" style="line-height:1;"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体" color="#000066">得一忘二谈《冬日之树》的翻译</font></span>
-
             <p style="line-height:1;"><span style="font-size:12pt;"><font face="宋体"><BR>这里的第一行暗示这是一个晨雾正要散去的时候。<BR>inks&nbsp;用复数，似乎可以看作是雾沉沉的云翳，一块块地变淡了，<BR>这里的are&nbsp;doing&nbsp;their&nbsp;blue&nbsp;dissolve中，无论将dissolve<BR>看成名次还是动词，其意思都应该是淡化、淡隐、淡出（电影术语）；</font><font face="宋体" color="red">［画皮插嘴：dissolve电影术语应该叫“溶”“叠”或“化”；淡入、淡出是fade 
-
             in和fade out］</font><font face="宋体"><BR>树木映衬着晨雾晦暗的天，犹如一幅写意画，这里的blotter暗示<BR>树枝因为雾的关系而显得有点朦胧，也就是说这幅画的材料<BR>有一种吸水性，黎明潮湿的雾之墨慢慢洇出去<BR>故而这种纸相当于我们所谓的宣纸<BR>（作为一个种类而不是某个产地的出品）<BR>其实从Plath的情形而言，我觉得这里更像是指<BR>罗夏墨迹试验Rorschach&nbsp;test的效果<BR>（她早年曾经写过一篇论画家Gregorio&nbsp;Prestopino的画评<BR>并且根据他的画作“Pine&nbsp;Tree”写了一首诗<BR>“Black&nbsp;Pine&nbsp;Tree&nbsp;in&nbsp;an&nbsp;Orange&nbsp;Light（橙色光影中的黑松）”<BR>该诗的第一节是：<BR>“告诉我你从中看到了什么：<BR>&nbsp;&nbsp;&nbsp;橙色光芒映照下的松树<BR>黑得象罗下测验图中的墨污<BR>Tell&nbsp;me&nbsp;what&nbsp;you&nbsp;see&nbsp;in&nbsp;it:&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;pine&nbsp;tree&nbsp;like&nbsp;a&nbsp;Rorschach-blot&nbsp;<BR>black&nbsp;against&nbsp;the&nbsp;orange&nbsp;light:”<BR>这里的树同样令人想到那样的情景<BR>记忆的增长可说是指树龄，还是紧扣着树本身，<BR>而ring&nbsp;on&nbsp;ring可说是这首诗中最不可转译的短语<BR>一方面，ring指树的年轮，但是当这个词一旦写出来读出来<BR>它便立即散发，既具有了声音又触发了别的联想<BR>如果记得我们以前讨论过的词语Words一诗，<BR>那么应该知道ring作为响声，在这儿则联想到了教堂的钟声<BR>同时又联想到戒指，因此才有下一行的“一系列的婚礼”<BR>在这里，郑敏先生的处理其实是很用心的：</font><font face="宋体" color="red">［画皮插嘴：同感——郑先生整个译文都很用心(包括吸雾纸)，只是个别地方传达不到位］</font><font face="宋体"><BR>一圈叠一圈，这个“圈”字暗示几层意义：<BR>一，树的年轮成圈；二，戒指的圈；三，戒指/婚姻所暗示的圈套<BR>（不过我认为总体而言她的翻译不成功<BR>尽管她也试图在几个地方努力保留原文的多义性<BR>对了，她是我大学的老师，那时还在北师大）<BR><BR>第一节诗歌中的两个关键用词（dissolve和blotter）<BR>以及总体上的凉湿感使人觉得这首诗的基调是灰暗的<BR>似乎传达出一种对外部世界的总体上的难以把握感<BR><BR>接下来的两节从婚礼展开去又回到树的主题<BR>knowing应该可以理解为“未识”的意思，<BR>犹如“少年不识愁滋味”中的“识”，<BR>第二节令我觉得Plath在化用Yeats《亚当的诅咒》中的句子：<BR>“有一件事我们女人都应看透，<BR>虽然我们在学校从未听到——<BR>要想漂亮我们就必须操劳。”<BR>‘There&nbsp;is&nbsp;one&nbsp;thing&nbsp;that&nbsp;all&nbsp;we&nbsp;women&nbsp;know,<BR>Although&nbsp;we&nbsp;never&nbsp;heard&nbsp;it&nbsp;at&nbsp;school—<BR>That&nbsp;we&nbsp;must&nbsp;labour&nbsp;to&nbsp;be&nbsp;beautiful.’<BR>我在以前曾经指出这里的labour的性含义<BR>这种含义在Plath的这首诗中则表现在effortlessly之中<BR>第三节的Leda是否同样会令人想到叶芝的名作？<BR>下文的full&nbsp;of&nbsp;wings是否暗指天鹅宙斯的翅膀？<BR>同样，otherworldliness似乎多少令人觉得和Yeats有某种联系<BR>不管怎么说，这里的Leda所暗示的更应该是<BR>一．被主神宙斯rape（来自另一世界，但不是来世）</font><font face="宋体" color="red">［画皮插嘴：嗯，不是来世；inandout也这么说的］</font><font face="宋体"><BR>二．多子，她生了“扫帚星”海伦Helen、波吕克斯Pollux和卡斯托耳Castor<BR>（变成双子座）以及克吕泰墨斯特拉Clytemnestra(谋杀亲夫阿伽门农)<BR>多子——犹如多树叶，甜美——母性状态<BR>这里似乎指向fecundity(生育力)和净洁<BR>但是结尾并不令人获得什么抚慰（丧失/悼亡的意识和母亲联系起来了）<BR></font></span></p>
-
             <p style="line-height:1;" align="center"><span style="font-size:12pt;"><font face="宋体">&nbsp;</font></span></p>
-
         </td>
-
     </tr>
-
 </table>
-
 <p>&nbsp;</p>
-
 </body>
-
-
 
 </html>
 
@@ -692,924 +359,470 @@ That we must labour to be beautiful.’
 
 为什么说是宣纸？这个译本较理想。
 
+
 jb909 2004-4-2 20:57:34
 
 站在忘兄的基础上站在忘兄的基&#30784;上<O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span Roman?;color:maroon;mso-fareast-language:ZH-CN? Times Roman?;mso-hansi-font-family: ?Times New><span lang="ZH-CN" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;font-family:SimSun;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">提出我的理解及困</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:SimSun;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:#993300;mso-fareast-language:ZH-CN">惑<O:P>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:#993300"> 
-
 </span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:#993300">，&#35814;&#35265;括&#21495;&#20869;</span>文</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:SimSun;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:#993300;mso-fareast-language:ZH-CN">及</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;color:#993300" class="arttitle1" Trebuchet MS?;mso-hansi-font-family: ?Trebuchet MS?;color:maroon;mso-fareast-language:ZH-CN;font-weight:normal?>█</span><span Times New Roman?;mso-hansi-font-family:?Times Roman?; color:maroon;mso-fareast-language:ZH-CN?><span lang="EN-US" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;color:#993300;mso-fareast-language:ZH-CN"> </O:P>
-
 </span><O:P>
-
 </O:P>
-
 <span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:#993300"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt">&nbsp;<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Winter Trees</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
-
 ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;color:black;mso-fareast-language:ZH-CN?>冬日之&#26641;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
-
 ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;color:black;mso-fareast-language:ZH-CN?>得一忘二&#35793;</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;mso-fareast-language:ZH-CN"><O:P>
-
  </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">The wet dawn inks are doing their blue 
-
 dissolve.<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">On their blotter of fog the trees<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Seem a botanical drawing—<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Memories growing, ring on ring,<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">A series of weddings.<O:P>
-
  </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">&nbsp;</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-fareast-language:ZH-CN?>黎明潮&#28287;的墨正在&#23558;它&#20204;的&#34013;色淡&#38544;。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon;mso-fareast-language:ZH-CN"> (-----------</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN">墨&#22359;逐&#20010;儿泛&#34013;&#26197;&#24320;</span><span lang="EN-US" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;color:maroon;
-
 mso-fareast-language:ZH-CN">)</span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>映在晨&#38654;的宣&#32440;上，&#26641;木&#38544;&#32422;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
 </span><span style="color:maroon"><span style="mso-spacerun: yes">&nbsp;</span>(</span></span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN">披了吸墨&#32440;般的晨&#38654;，&#26641;林宛如</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon;mso-fareast-language:ZH-CN">)</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>如一幅植物&#22270;&#35889;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">——<span style="mso-spacerun:
-
 yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
 </span><span style="color:maroon"><span style="mso-spacerun: yes">&nbsp;</span>(</span></span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN">一幅植物&#30011;</span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;color:maroon;
-
 mso-fareast-language:ZH-CN">——)</span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>&#35760;&#24518;在增&#38271;，&#29615;&#29615;相迭</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN"><span style="mso-spacerun:
-
 yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
 </span><span style="color:maroon"><span style="mso-spacerun:
-
 yes">&nbsp;</span>(</span></span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">几多回&#24518;里滋&#38271;，&#28063;漪般漾&#24320;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon;mso-fareast-language:ZH-CN">)</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>&#32852;翩的婚&#31036;。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN"><span style="mso-spacerun:
-
 yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
 </span><span style="color:maroon"><span style="mso-spacerun: yes">&nbsp;</span>(</span></span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN">一幕幕的婚&#31036;</span><span lang="EN-US" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;color:maroon;
-
 mso-fareast-language:ZH-CN">)<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN" class="arttitle1" Trebuchet MS?; mso-hansi-font-family:?Trebuchet MS?;color:maroon;mso-fareast-language:ZH-CN; font-weight:normal?>█</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon;mso-fareast-language:ZH-CN">The wet dawn inks</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN">，要怎么&#35793;，才像人&#35805;呢？求教&#30011;皮&#35832;位了。<O:P>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;
-
 mso-fareast-language:ZH-CN"> </O:P>
-
 </span><span lang="EN-US" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt"><O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt">&nbsp;<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Knowing neither abortions nor bitchery,<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Truer than women,<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">They seed so effortlessly!<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Tasting the winds, that are footless,<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Waist-deep in history—<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">&nbsp;</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-fareast-language:ZH-CN?>不曾&#22549;胎也不下&#36145;，</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon">(</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN" Roman?;color:maroon;mso-fareast-language:ZH-CN? Times New Roman?; mso-hansi-font-family:?Times>不懂得&#22549;胎也不知下&#36145;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon">)</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>比女人更真，</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">(</span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">比女人&#36824;道地</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">)</span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>未&#32463;操&#21171;，它&#20204;便已&#32467;果！</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">(</span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">不&#36153;心，便有了种</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">)</span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>品&#23581;&#30528;&#38453;&#38453;&#26080;足的&#39118;，</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">(</span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">品&#23581;&#30528;&#38453;&#38453;的&#39118;，</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon">沒腳似的</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">)-----------</span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">在品&#23581;偷情的异&#26679;&#27426;愉吧</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>身体&#40784;腰浸入&#21382;史</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun">——<span style="color:maroon">(</span></span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN">下半身</span><span style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon">插</span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">在&#36807;去里</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">)</span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt"><br>
-
 <br>
-
 <br style="mso-special-character:line-break">
-
 <br style="mso-special-character:line-break">
-
 <O:P>
-
 </O:P>
-
 <O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Full of wings, otherworldliness.<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">In this, they are Ledas.<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">O mother of leaves and sweetness<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">Who are these piet&agrave;s?<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;mso-fareast-language:ZH-CN">The shadows of ringdoves chanting, but easing 
-
 nothing.<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>翅膀&#28385;身，有彼岸世界的气息。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon;mso-fareast-language:ZH-CN">(</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN">&#39134;禽&#28385;天，超&#23576;&#32477;俗</span><span lang="EN-US" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;color:maroon;
-
 mso-fareast-language:ZH-CN">)</span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;mso-fareast-language:ZH-CN"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>&#20973;&#36825;&#28857;，它&#20204;都已是&#20029;&#36798;。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon;mso-fareast-language:ZH-CN">(</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN">在&#36825;儿，它&#20204;都成了&#20029;&#36798;。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon">)</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>啊，&#21494;子与甜美之母啊，</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">(</span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">啊，</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon">樹</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN">&#21494;与甜美之母</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon">)</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>&#35841;是&#36825;些怜子圣母&#22270;？</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon">(</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN" class="artcopybold1" Trebuchet MS?;mso-hansi-font-family: ?Trebuchet MS?;color:maroon;mso-fareast-language:ZH-CN;font-weight:normal?>圣母怜子</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN">&#22270;里的&#36825;些人是&#35841;？</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon">)</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt"> </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <O:P>
-
 </O:P>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ZH-CN" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" Times Roman?;mso-hansi-font-family: ?Times New Roman?;mso-fareast-language:ZH-CN?>斑&#40480;的&#38452;影在唱&#32463;，&#21364;毫&#26080;慰藉效果。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon;mso-fareast-language:ZH-CN">(</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;
-
 mso-fareast-language:ZH-CN">不成形的斑&#40480;唱&#30528;&#32463;，&#21364;&#23485;不了什么心</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:SimSun;
-
 color:maroon;mso-fareast-language:ZH-CN">)<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-language:
-
 ZH-CN"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-language:
-
 ZH-CN">&nbsp;<O:P>
-
  </O:P>
-
 <O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN" class="arttitle1" Trebuchet MS?; mso-hansi-font-family:?Trebuchet MS?;color:maroon;mso-fareast-language:ZH-CN; font-weight:normal?>█</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon;mso-fareast-language:ZH-CN">Full of wings</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN">&#35793;成</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN">&quot;</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">翅膀&#28385;身</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;
-
 mso-fareast-language:ZH-CN">&quot;</span><span lang="ZH-CN" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">是不&#23545;的，相&#20851;&#35793;法可以&#21442;考&#21494;慈&#35799;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;
-
 mso-fareast-language:ZH-CN">&quot;</span><span lang="ZH-CN" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">茵尼斯弗&#32511;&#23707;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;
-
 mso-fareast-language:ZH-CN">&quot;</span><span lang="ZH-CN" style="font-size:
-
 10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;
-
 mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">的句子</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:maroon;mso-fareast-language:ZH-CN">The evening full of linnet’s 
-
 wings</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
-
 font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN">。<O:P>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt" Trebuchet MS?; color:maroon;font-weight:normal?> 
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span Trebuchet font-weight:normal? MS?;color:maroon;><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:13.5pt;color:maroon" class="arttitle1">&nbsp;<O:P>
-
  </O:P>
-
 </span><O:P>
-
 </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;
-
 mso-bidi-font-size:12.0pt"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN" class="arttitle1" Trebuchet MS?; mso-hansi-font-family:?Trebuchet MS?;color:maroon;mso-fareast-language:ZH-CN; font-weight:normal?>█</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 13.5pt;color:maroon;mso-fareast-language:ZH-CN" class="arttitle1" Trebuchet MS?; font-weight:normal? mso-fareast-font-family:SimSun;color:maroon;mso-fareast-language:ZH-CN;> 
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN" class="arttitle1" Trebuchet MS?; MS?;mso-hansi-font-family:?Trebuchet color:maroon;mso-fareast-language:ZH-CN;font-weight:normal?>圣&#27527;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:13.5pt;color:maroon" class="arttitle1" Trebuchet MS?;mso-fareast-font-family:SimSun;color:maroon; mso-fareast-language:ZH-CN;font-weight:normal?>Pieta</span><span Trebuchet MS?;mso-hansi-font-family: ?Trebuchet MS?;color:maroon;mso-fareast-language:ZH-CN;font-weight:normal?><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;font-family:新細明體;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:maroon;mso-fareast-language:ZH-CN" class="artcopybold1">亦&#31216;圣母怜子。<O:P>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"> </span></span><span Trebuchet MS?;color:maroon;font-weight:normal?></O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt"><O:P>
-
 </O:P>
-
 <o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>基督教&#33402;&#26415;&#39064;材。圣母&#29595;利&#20122;坐&#30528;，而耶&#31267;基督的&#36951;体&#27178;&#21351;在她&#21452;膝上。有些《圣&#27527;》&#22270;中，在圣母的&#20004;&#36793;，&#36824;有使徒&#32422;翰、抹大拉的&#29595;利或者其它人物。不&#36807;，大多的&#22270;祇有&#29595;利&#20122;和她的儿子。此种&#39064;材，并&#26080;文字根据，可能是源自&#23545;基督&#36951;体的哀悼。它首先于</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN" Times New Roman?; mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language: EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>14</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>世&#32426;初在德&#22269;出&#29616;，然后在</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN" Times New Roman?; mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language: EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>14</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>和</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN" Times New Roman?; mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language: EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>15</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>世&#32426;&#25193;展到法&#22269;和北&#27431;。&#34429;然此一&#22270;像主要仍在法德&#20004;&#22269;&#20026;多，但最特出的&#21364;在意大利的圣彼得大教堂，&#36825;是意大利&#33402;&#26415;家米&#24320;朗基&#32599;于</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN" Times New Roman?; mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language: EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>1499</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>年完成的。《圣&#27527;》，有的是&#30011;像，有的是雕像。在</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN" Times New Roman?; mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language: EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>16</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>世&#32426;以前，&#26631;准的《圣&#27527;》格式，是圣母坐&#30528;，耶&#31267;的&#36951;体&#27178;&#21351;在她&#21452;膝上。可是，后&#26469;由于受到文&#33402;复&#20852;&#35762;求&#36923;&#36753;和比例的影&#21709;，&#33402;&#26415;家常描&#30011;耶&#31267;躺在圣母的&#33050;下，他的&#22836;靠&#30528;她的膝&#30422;。意大利巴洛克&#33402;&#26415;采用了&#36825;种式&#26679;，然后&#20256;到西班牙、法&#20848;德斯和荷&#20848;。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN" Times New Roman?; mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language: EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>17</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>世&#32426;后，宗教&#33402;&#26415;大多日&#36235;衰落，但此一&#39064;材由于特&#21035;感人，在整&#20010;</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;mso-fareast-language:
-
 ZH-CN" Times New Roman?; mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language: EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>19</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN" Times New Roman?;mso-hansi-font-family:?Times Roman?; mso-bidi-font-family:?Times Roman?;color:maroon;mso-font-kerning:1.0pt; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA?>世&#32426;仍&#26087;是有力的主&#39064;。</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon;
-
 mso-fareast-language:ZH-CN"><O:P>
-
  </O:P>
-
 </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-language:ZH-CN"><o:p>
-
 </o:p>
-
 </span></p>
-
 </span>
+
 
 画皮 2004-4-2 15:58:14
 
 鬼话：The wet dawn inks湿润的黎明的墨水作着蓝色的洇渍 
-
 湿润的黎明如墨水作着蓝色的洇渍
-
-
 
 全是鬼话，想学人话，就成这样了：
 
-
-
 The wet dawn inks are doing their blue dissolve.
-
 湿润的黎明——墨水作着蓝色的洇渍。
 
-
-
 我同意您对“满身翅膀”的看法。“比女人还地道”，绝了!
-
 
 
 
@@ -1618,131 +831,70 @@ jb909 2004-4-2 17:45:01
 
 画兄肯定品尝过比女人还地道的东西 : )<html>
 
-
-
 <head>
-
 <meta http-equiv="Content-Type" content="text/html; charset=big5">
-
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
-
 <meta name="ProgId" content="FrontPage.Editor.Document">
-
 <title>新網頁1</title>
-
 </head>
-
-
 
 <body>
 
-
-
 <p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;mso-fareast-font-family:SimSun;color:black;mso-fareast-language:ZH-CN">The&nbsp;wet&nbsp;dawn&nbsp;inks&nbsp;are&nbsp;doing&nbsp;their&nbsp;blue&nbsp;dissolve.</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:black"><br>
-
 </span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
-
 font-family:SimSun;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
-
 &quot;Times New Roman&quot;;color:black;mso-fareast-language:ZH-CN">&#28287;&#28070;的黎明</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
-
 SimSun;color:black;mso-fareast-language:ZH-CN">——</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:SimSun;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:black;mso-fareast-language:ZH-CN">墨水作&#30528;&#34013;色的洇&#28173;。</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:black"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;mso-fareast-font-family:SimSun;color:maroon;mso-fareast-language:ZH-CN">---</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:新細明體;mso-ascii-font-family:
-
 &quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;color:maroon">仍</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:SimSun;
-
 mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 color:maroon;mso-fareast-language:ZH-CN">是鬼&#35805;，</span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;color:maroon"><o:p>
-
 </o:p>
-
 </span></p>
-
 <p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:
-
 12.0pt;color:maroon">&nbsp;<o:p>
-
 </o:p>
-
 </span></p>
-
 <span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
-
 SimSun;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:&quot;Times New Roman&quot;;
-
 mso-bidi-font-family:&quot;Times New Roman&quot;;color:maroon;mso-font-kerning:1.0pt;
-
 mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">您肯定品&#23581;&#36807;比女人&#36824;地道的&#19996;西，并且藏了一手不露出&#26469;，我要向&#30011;妹&#26816;&#20030;，</span><span lang="ZH-CN" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
-
 mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language:
-
 EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA"> </span><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
-
 mso-fareast-font-family:SimSun;color:maroon;mso-font-kerning:1.0pt;mso-ansi-language:
-
 EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">: )))</span>
-
-
 
 </body>
 
-
-
 </html>
+
 
 得一忘二 2004-4-2 20:37:05
 
 翅膀满身、叶子、footless、宣纸这似乎是比较引起异议的几个词
-
 而在上面诸位的回应中也没有解释清楚
 
-
-
 宣纸：我说过只是把它理解为一种和宣纸质地相似的纸
-
 而不是宣州产的纸，当然可以用吸墨纸，只是觉得不好理解也不太顺畅
 
-
-
 我之所以将full of wings在这里翻译成“翅膀满身”是出于以下考虑
-
 这里是在讲树，也就是说树枝犹如翅膀，
-
 正因为树有很多翅膀所以不是这个世界的生物（otherworldliness）
-
 甚至因为它们有翅膀才令人觉得那是理想世界的（otherworldly）生物
-
 footless的风，也许应该指风的不固定、无根基性；
-
 叶子又回到了树的形象，树本身是否正是树叶之母呢？
-
 而这些犹如图画的树（因为上文将它们喻为女性了）是否被进一步
-
 喻为怜子圣母（图）？
 
-
-
 至于斑鸠的阴影在唱经，
-
 我想可以从字面上理解为有鸟儿在鸣唱，但是却看不到它们在哪儿
-
 这也进一步强化了整首诗的意境
-
-
 
 大家怎么想？
 
@@ -1758,14 +910,12 @@ jb909 2004-4-2 21:02:37
 
 不会的，娱乐+学习
 
+
 画皮 2004-4-2 22:48:20
 
 还是鬼话：)<body bgcolor="#f0ecc8">
-
 <!--webbot bot="HTMLMarkup" startspan --><IFRAME frameBorder="0" height="680" id="IFrame1" src="http://huapi.icpcn.com/006.htm" width="320"><!--webbot bot="HTMLMarkup" endspan -->
-
 <!--webbot bot="HTMLMarkup" startspan --></IFRAME><!--webbot bot="HTMLMarkup" endspan -->
-
 </body>
 
 
@@ -1773,147 +923,76 @@ jb909 2004-4-2 21:02:37
 小潘 2004-4-3 11:53:17
 
 试译解Plath《冬日之树》，凑个热闹潮湿的黎明如同墨水化开蓝料。
-
 在晨雾的吸墨纸上，几棵树木
-
 看上去就像一幅植物素描——
-
 记忆打开，一环接一环，
-
 一场场婚典如在眼前。
 
-
-
 不知道堕胎，也不懂得淫荡，
-
 但比女人更像女人，
-
 这般轻松自如地结出果实！
-
 体味着不定的来风，
-
 身体齐腰浸入历史——
 
-
-
 浑身翅羽，仿佛来自别一世界。
-
 凭这点，它们就是丽达。
-
 啊，树叶与甜美之母
-
 这些圣母怜子图，代表的是什么人啊？
-
 斑鸠的影子在唱经，但不能带来丝毫安抚。
-
-
 
 ——————————————————
-
 The wet dawn inks are doing their blue dissolve.
-
 On their blotter of fog the trees
-
 Seem a botanical drawing—
-
 Memories growing, ring on ring,
-
 A series of weddings.
 
-
-
 潮湿的黎明如同墨水化开蓝料。
-
 在晨雾的吸墨纸上，几棵树木
-
 看上去就像一幅植物素描——
-
 记忆打开，一环接一环，
-
 一场场婚典如在眼前。
 
-
-
 ■The wet dawn inks：并置意象之一种（“本体＋喻体”只是并置的一种，这种名词与名词直接叠合的方式不是很常见）。blotter of fog是并置意象的另一种形式。并置意象的汉语表达法有：1、意象直接叠合，如“小桥流水人家”，不过这3个意象没有比喻关系；2、……之……，如blotter of fog可译为“晨雾之吸墨纸”；3、添加比喻词，如“潮湿的黎明如同墨水”，意象之间的比喻关系可以忠实地表现出来，但意象直接并置的形式丢掉了，奈何哉！
-
 ■do their blue dissolve：do是使动，blue是蓝料，dissolve就是动词了。
-
 ■the trees译作“树林”，树木数量就比较多了，跟诗中的画意不大匹配。复数形式译出来比较好，跟下面的Leda＋s等比较衔接。
-
 ■drawing译作“素描”是比较固定的译法。在绘画中，素描、速写等都有固定表达法（我有一段时间沉迷于毕加索等人的绘画技巧，掌握了一些绘画基础词汇）。
-
 ■Memories growing：可译作“记忆在滋长”，或“记忆打开”。weddings婚典：是树的花期，更进一步说，就是传粉交配的时候。
-
 ■ring on ring：类似于defeat on defeat（接二连三地失败）。
-
 ■“如在眼前”是添译了，这个添译也许是必要的，可以舒缓一下汉语读者的神经。
 
-
-
 Knowing neither abortions nor bitchery,
-
 Truer than women,
-
 They seed so effortlessly!
-
 Tasting the winds, that are footless,
-
 Waist-deep in history—
 
- 
-
 不知道堕胎，也不懂得淫荡，
-
 但比女人更像女人，
-
 这般轻松自如地结出果实！
-
 体味着不定的来风，
-
 身体齐腰浸入历史——
 
-
-
 ■bitchery应直接译作“淫荡”。
-
 ■They可忽译。全诗的“主语”就是：冬日之树嘛。忽译之后感觉前3句紧凑一些，语势好一点。
-
 ■Tasting the winds, that are footless：无足的或不长脚的风，给人以不可靠的、无常的感觉。这里大抵隐喻女性遭受的苦酽。history就是“历史”。诗人在诗中沉思的就是作为整体的女性的命运，很有历史的沧桑感。
-
 Full of wings, otherworldliness.
-
 In this, they are Ledas.
-
 O mother of leaves and sweetness
-
 Who are these pietàs?
-
 The shadows of ringdoves chanting, but easing nothing.
 
-
-
 浑身翅羽，仿佛来自别一世界。
-
 凭这点，它们就是丽达。
-
 啊，树叶与甜美之母
-
 这些圣母怜子图，代表的是什么人啊？
-
 斑鸠的影子在唱经，但不能带来丝毫安抚。
 
-
-
 ■Full of wings：赞成得兄意见。诗中，这些树就是长翅膀的天使的化身。
-
 ■otherworldliness这个词我在劳伦斯那里碰到过，它强调的是“异在”，未必是宗教式的彼岸、来世，我曾译作“别一世界”，由读者去想象好了。
-
 ■第三句照搬JB兄的。
-
 ■圣母怜子图：这里就是结满果实（子）的初冬之树。很好的象喻。
-
 ■斑鸠在西方历来是爱情上忠贞的象征。莎士比亚作有《凤凰和斑鸠》。“斑鸠的影子”，隐喻忠贞爱情的追随者。
-
 
 
 
@@ -1922,96 +1001,58 @@ Dasha 2004-4-3 12:03:58
 
 潘兄，您可有“绘画基础词汇”的资料分享给Dasha？Pietà在大陆美术界的通用译名是什么？Dasha插嘴：Pietà内容亦包括“抹大拉的马利亚与基督”，径译作“圣母怜子”有些不妥。就像“尼伯龙根指环”（Der Ring des Nibelungen）德语原文直译是“尼伯龙人（Nibelungen）的戒指”（魔戒），但大陆的讹译成为通行译法，改起来还不知要到猴年马月呢。
 
+
 小潘 2004-4-3 12:13:24
 
 你的解释我看到了：http://www.myrilke.com/text.asp?ID=1206
-
 Pietà也有译作“圣母恸子像”，其余不甚了了。我看的绘画主要是毕加索时代的，纸版，目前尚无绘画词汇表，呵呵
+
 
 绿豆 2004-4-3 13:24:37
 
 Dasha兄请进我过会儿发一些艺术史术语汇编给您，也不知对您有没有帮助。Pietà在大陆根本没有什么最权威的通用译法，一般汉语艺术史中通译做“圣母怜子”、“圣母哀悼基督”和“圣殇”，就这三种而已，其余的就更不常用了。
 
-
-
 其实很多艺术史术语在汉语里本来就没有所谓最权威的译法，大部分先于您的译者可能根本就没有象您这样考虑再三，就已经轻松地照表面意思译出来了，所以如果您不满意前人的译法的话，大可以自己创造新译法，完全没必要过于拘泥于先人之窠臼。
 
-
-
 当然，无论怎样创新，术语翻译最好后面附原文。
+
 
 绿豆 2004-4-3 13:39:49
 
 给您看一些固定艺术史题材的汉语译法这些一看就是朱青生教授整理的，他会的语言较多，包括希腊文等等，我觉得汉语艺术史根本没有所谓的权威通用译法，但这些已经算是通用且严谨的了，足资参考。
 
-
-
 Adam and Eve Reproached by the Lord 上帝斥责亚当夏娃 
-
 Anastasis 复活 
-
 Annunciation 受胎告知 
-
 Bacchanal 酒神祭 
-
 Christ Enthroned 基督升座 
-
 Christ Washing the feet of Peter  彼得受礼 
-
 Coronati 加冕 
-
 Coronation 加冕 
-
 Coronation of the Virgin 圣母加冠 
-
 Descent from the Cross 下十字架 
-
 Equestrian Monument of… ……骑马像 
-
 Fall of Man 人类的堕落 
-
 Gero Crucifix 杰罗十字架 
-
 Holy Family 圣家族 
-
 Jacob Wrestling the Angel 雅各与天使角力 
-
 Lamentation 哀悼基督 
-
 Madonna 圣母像 
-
 Madonna and Child 圣母子 
-
 Madonna del Granduca 庄严圣母 
-
 Madonna Enthroned 升座圣母 
-
 Pirtà 圣母哀悼基督 
-
 St.Grorge and the Dragon 圣乔治战龙 
-
 Study of … ……习作 
-
 The Asceasion of … ……升天 
-
 The Assumption 基督升天 
-
 The Cruifixion 基督受难 
-
 The Expulsion from Paradise 逐出伊甸园 
-
 The Last Judgement 末日审判 
-
 The Nativity 耶稣诞生 
-
 The Resurrection 复活 
-
 The Virgin of the Rocks 岩间圣母 
-
 Trinity 圣三位一体 
-
-
-
 
 
 其余术语汇编我整理后给您发去，也不知道您是否已经有了。。。
@@ -2021,51 +1062,31 @@ Trinity 圣三位一体
 Dasha 2004-4-3 16:16:58
 
 谢豆兄，朱先生的Dasha早已制作成了eBook，都是从http://cn.cl2000.com/history/beida/index1.shtml弄下来的。至于英汉艺术译名，外研社有《英汉汉英艺术词典》（An English-Chinese Chinese-English Dictionary of Art）2000年版（ISBN 7－5600－2107－7/H·1121）或可一补阙如。
-
 而朱先生的译名规范本身是否规范，天涯网友哥尼希亦有评判，Dasha个人虽仰慕朱，但仍无法护其短，惜哉。
 
-
-
 另，Dasha亦有一事求豆兄，英语的作品集的电子版丛书可有相关推介，Dasha近日正策驴（eMule）扬鞭，狂下德语的Digitale Bibliothek（相当于英语的Digital Library），120G的硬盘已经告急。但英文经典亦想闲暇时浏览一下。拜托豆兄了。
+
 
 tommyleea 2004-4-3 17:41:05
 
 也来试试。冬日的树
 
-
-
 润湿的晨光墨汁渲染蓝色。
-
 衬着薄雾，树
-
 仿佛一张植物绘图 -
-
 记忆在生长，一环又一环，
-
 接二连三的婚嫁。
 
-
-
 不知堕胎，也不懂放荡
-
 胜似女人，
-
 它们竟如此轻巧地结籽！
-
 啜饮着流浪的风，
-
 腰下还沉浸于过往 -
 
-
-
 满是翅膀，向着天堂
-
 如此，它们便是丽达。
-
 啊，孕育了树叶和甜浆
-
 谁是这些哀泣的圣母？
-
 斑鸠的影子在吟唱，却不减一丝忧伤。
 
 
@@ -2073,4 +1094,3 @@ tommyleea 2004-4-3 17:41:05
 小潘 2004-4-3 17:45:56
 
 圣母怜子【图】http://www.poemlife.com.cn/forum/add.jsp?forumID=13&msgID=2147459729&page=1
-

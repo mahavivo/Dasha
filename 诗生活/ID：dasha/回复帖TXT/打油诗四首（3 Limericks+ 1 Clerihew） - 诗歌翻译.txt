@@ -1,240 +1,122 @@
 周旋久 2005-1-22 17:08:16
 
 打油诗四首（3 Limericks+ 1 Clerihew）In childhood it's easy to feel
-
 The eternal suffusing the real,
-
     But as the beholder
-
     Gets steadily older,
-
 It doesn't seem such a big deal.
-
-
 
 —Nigel Andrew 
 
 
-
-
-
 童年的时候很容易感受到
-
 世间万物充满了永恒之兆，
-
      可一旦观察者
-
      一年年长大了， 
-
 这些看来就没什么大不了。
-
-
 
 ——奈杰尔·安德鲁
 
 
-
-
-
 There was a young girl of Madras
-
 Who had a magnificent ass;
-
     Not round and pink,
-
     As you probably think—
-
 It was grey, had long ears, and ate grass
 
-
-
 —Anonymous 
-
-
-
 
 
 马德拉斯有一个年轻姑娘
-
 长着俩奇大无比的屁股瓣；
-
     圆嘟嘟又红艳艳——
-
     才不是呢别瞎想——
-
 灰溜溜，耳朵长长草为粮。
-
-
 
 ——无名氏
 
 
-
-
-
 There was a young fellow from Tyne
-
 Put his head on the South-Eastern line;
-
     But he died of ennui,
-
     For the 5.53
-
 Didn't come till a quarter past nine.
-
-
 
 —Anonymous 
 
 
-
-
-
 有个泰恩来的大好青年
-
 把头放在东南铁路线上；
-
     他可是烦死的，
-
     因为列车到了
-
 九点一刻才开进火车站。
 
-
-
 ——无名氏
-
-
 
 诗体说明1：Limerick是一种五行格律体，韵式aabba，一、二、五行三音步，三、四行二音步，抑抑扬格音步为主，通常用于谐谑，相当我们的打油诗。译文很随便，形式内容都不忠实。
 
 
-
-
-
 It was a weakness of Voltaire's
-
 To forget to say his prayers,
-
 And one which to his shame
-
 He never overcame.
-
-
 
 --Edmund Clerihew Bentley
 
-
-
 要说伏尔泰有什么不好
-
 那就是老是忘了做祈祷，
-
 羞人的是他一直做不到
-
 把这臭毛病改掉。
-
-
 
 ——艾德蒙·克莱里修·本特里
 
-
-
 诗体说明2：Clerihew是四行体，韵式aabb，各行长短不拘。诞生于20世纪初，为本诗作者艾德蒙·克莱里修·本特里所创（下面所附的诗便是）。Clerihew打油的对象是人，以所咏人物起韵，如本诗写伏尔泰，第一行便以伏尔泰的名字殿后。译文没有做到这一点。
-
 诗中说伏尔泰忘了做祈祷，未知何据，这里的祈祷大概指饭前祈祷。其实伏尔泰也祈祷过的。他说：“我从未做过祈祷，除了一个很短的：‘上帝呀，让我的敌人都荒谬可笑吧！’上帝准许了。”（I have never made but one prayer to God, a very short one: 'O Lord, make my enemies ridiculous.' And God granted it. ——Voltaire）
-
-
 
 艾德蒙·克莱里修·本特里《传记入门》（Biography for Beginners，1905）一书中的Clerihews:
 
-
-
 The art of Biography 
-
 Is different from Geography. 
-
 Geography is about maps, 
-
 But Biography is about chaps. 
 
 
-
-
-
 Sir Christopher Wren 
-
 Said, 'I am going to dine with some men. 
-
 If anyone calls 
-
 Say I am designing St. Paul's.' 
 
 
-
-
-
 Sir Humphrey Davy 
-
 Abominated gravy. 
-
 He lived in the odium 
-
 Of having discovered sodium. 
 
 
-
-
-
 John Stuart Mill, 
-
 By a mighty effort of will, 
-
 Overcame his natural bonhomie 
-
 And wrote 'Principles of Economy.' 
 
 
-
-
-
 What I like about Clive 
-
 Is that he is no longer alive. 
-
 There is a great deal to be said 
-
 For being dead. 
 
 
-
-
-
 Edward the Confessor 
-
 Slept under the dresser. 
-
 When that began to pall, 
-
 He slept in the hall. 
 
 
-
-
-
 Chapman & Hall 
-
 Swore not at all. 
-
 Mr Chapman's yea was yea, 
-
 And Mr Hall's nay was nay. 
 
-
-
 ——Edmund Clerihew Bentley
-
-
 
 
 
@@ -243,51 +125,28 @@ And Mr Hall's nay was nay.
 tommyleea 2005-1-16 11:40:54
 
 这个好玩儿！我也来轧热闹 : )There was a young girl of Madras
-
 Who had a magnificent ass;
-
     Not round and pink,
-
     As you probably think—
-
 It was grey, had long ears, and ate grass
 
-
-
 麻城有个小姑娘，
-
 屁股长得不一样；
-
 既不圆，也不方，
-
 倒有耳朵长又长, 
-
 灰不溜秋吃草忙。
 
-
-
 There was a young fellow from Tyne
-
 Put his head on the South-Eastern line;
-
     But he died of ennui,
-
     For the 5.53
-
 Didn't come till a quarter past nine.
 
-
-
 小伙子  泰河来
-
 铁轨上  搁脑袋
-
 六点钟  车没到
-
 八点半  还不来
-
 又烦又恼把气断     
-
 
 
 
@@ -298,80 +157,47 @@ Didn't come till a quarter past nine.
 
 
 
-
-
-
-
 Limerick诗体的节奏与词牌《渔歌子》毫无二致，绝非偶然。抄张志和《渔歌子》以便比照：
 
-
-
 西塞山前白鹭飞，
-
 桃花流水鳜鱼肥。
-
    青箬笠，
-
    绿蓑衣，
-
 斜风细雨不须归。
-
-
 
 甚至韵式都一样！Tommy兄译文去掉最后一行：
 
-
-
 麻城有个小姑娘，
-
 屁股长得不一样；
-
    既不圆， 
-
    也不方，
-
 倒有耳朵长又长, 
-
 （灰不溜秋吃草忙。）
-
 简直就是一首《渔歌子》！《渔歌子》虽不用于谐谑，却同样写的是轻松欢快的主题。可见格律具有普遍性。这个我们一味自由的诗人恐怕永远没能体会。
+
 
 jb909 2005-1-17 15:24:53
 
 笑歪了下巴，偷空试译从前蛮地有个妞，
-
 屁股真妈恁地油；
-
 　不是粉圆妹，
-
 　您可想得美---
-
 耳长肤灰随草遛。
-
-
 
 译註：”妈恁地”，在此取magnificent的諧音。
 
-
-
 There was a young girl of Madras
-
 Who had a magnificent ass;
-
     Not round and pink,
-
     As you probably think—
-
 It was grey, had long ears, and ate grass
 
-
-
 —Anonymous 
+
 
 jb909 2005-1-18 10:08:30
 
 真是开眼灌顶尤其是Limerick与《渔歌子》的对比参照一说，
-
 还望周兄多说点类似这样英汉文体比较。
 
 
@@ -380,241 +206,125 @@ inandout 2005-1-18 11:50:32
 
 我说开眼的是这一贴节奏与构词的语法习惯相关，偶然中有必然，好像三句半也有类似的效果：）
 
+
 周旋久 2005-1-18 22:48:50
 
 词我读得更少查了一下，发现上面说的可能有些问题。《渔歌子》一说别名有 “渔夫”、“渔父”、“渔父乐”，另说正确的词牌名是《渔父》，下面是网上的资料：
 
-
-
 卢象贤《说说渔父》：
-
 据《词谱简编》（杨文生编，四川人民出版社1981年版）说，张志和作《渔歌子》词，和凝更名《渔父》，这是沿用《钦定词谱》的说法。很多选本都把张志和的词叫《渔歌子》，其实张志和原词即叫《渔父》。据《续仙传》记载：“颜真卿为湖州刺史，与门客会饮，乃唱和为渔父词。其首唱即志和之词云云。”《辞海·文学分册》（上海辞书出版社1979年版）也说，《渔歌子》为唐教坊曲名，“《词律》等书曾与唐张志和的《渔父》混为一调，实误。”可惜没有详细说明。但日本松浦友久的《关于越调诗二三问题——唐代新声在日本的遗留》附记A中说了一下：“《渔歌子》和《渔父》，现在一般作为同一词牌处理。敦煌曲子词双调五十字，张志和《渔父》二十七字，有人认为原先也许是不同系统的词曲。关于这一点，任二北氏的看法是：与其说是不同系统，倒不如把《渔父》看作《渔歌子》的一个变奏曲。至于名称混同的问题，其起因是由于清万树《词律》分类的粗疏（详《敦煌曲子初探》第三十二~三十三页）。”说得最透彻的是施蜇存的《张志和及其渔父词》（《词学》第二辑，华东师大出版社1983年版）：“寻其递变之迹，最初称渔歌者，犹目为歌咏渔人生涯之歌诗，称渔父或渔父词者亦然，皆非曲调名也。至五代时，《花间集》诸家（卢按：指和凝、欧阳炯、李王旬）李后主所作之题为渔父者，已成为曲调名矣，故《金奁集》所收唐人和作十五首，题云渔父，而注明调属黄钟宫，则其为乐府曲名，已无疑义。” （原载《中国水产》1987年第3期）
 
 
-
-
-
 和凝《渔父》：
-
 白芷汀寒立鹭鸶，
-
 蘋风轻剪浪花时。
-
 烟幂幂，
-
 日迟迟，
-
 香引芙蓉惹钓丝。
 
 
-
-
-
 赵构《渔父词》：
-
 渔父词　并序
-
-
 
 绍兴元年七月十日，余至会稽，因览黄庭坚所书张志和渔父词十五首，戏同其韵，赐辛永宗。
 
-
-
 其一
-
 一湖春水夜来生。几叠春山远更横。烟艇小，钓丝轻。赢得闲中万古名。
 
-
-
 其二
-
 薄晚烟林澹翠微。江边秋月已明晖。纵远#，适天机。水底闲云片段飞。
 
-
-
 其三
-
 云洒清江江上船。一钱何得买江天。催短棹，去长川。鱼蟹来倾酒舍烟。
 
-
-
 其四
-
 青草开时已过船。锦鳞跃处浪痕圆。竹叶酒，柳花毡。有意沙鸥伴我眠。
 
-
-
 其五
-
 扁舟小缆荻花风。四合青山暮霭中。明细火，倚孤松。但愿尊中酒不空。
 
-
-
 其六
-
 侬家活计岂能明。万顷波心月影清。倾绿酒，糁藜羹。保任衣中一物灵。
 
-
-
 其七
-
 骇浪吞舟脱巨鳞。结绳为网也难任。纶乍放，饵初沈。浅钓纤鳞味更深。
 
-
-
 其八
-
 鱼信还催花信开。花风得得为谁来。舒柳眼，落梅腮。浪暖桃花夜转雷。
 
-
-
 其九
-
 暮暮朝朝冬复春。高车驷马趁朝身。金拄屋，粟盈囷。那知江汉独醒人。
 
-
-
 其十
-
 远水无涯山有邻。相看岁晚更情亲。笛里月，酒中身。举头无我一般人。
 
-
-
 其十一
-
 谁云渔父是愚翁。一叶浮家万虑空。轻破浪，细迎风。睡起篷窗日正中。
 
-
-
 其十二
-
 水涵微雨湛虚明。小笠轻蓑未要晴。明鉴里，縠纹生。白鹭飞来空外声。
 
-
-
 其十三
-
 无数菰蒲间藕花。棹歌轻举酌流霞。随家好，转山斜。也有孤村三两家。
 
-
-
 其十四
-
 春入渭阳花气多。春归时节自清和。冲晓雾，弄沧波。载与俱归又若何。
 
-
-
 其十五
-
 清湾幽岛任盘纡。一舸横斜得自如。惟有此，更无居。从教红袖泣前鱼。
-
-
-
-
 
 
 
 《惠洪词》：
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首丹霞
-
 不怕石头行路滑。归来那爱驹儿踏。言下百骸俱拨撒。无剩法。灵然昼夜光通达。
-
 古寺天寒还恶发。夜将木佛齐烧杀。炙背横眠真快活。憨抹挞。从教院主无须发。
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首亮公
-
 讲虎天华随玉尘。波心月在那能取。旁舍老僧偷指注。回头觑。虚空特地能言语。
-
 归对学徒重自诉。从前见解都欺汝。隔岸有山横暮雨。翻然去。千岩万壑无寻处。
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首香严
-
 画饼充饥人笑汝。一庵归扫南阳坞。击竹作声方省悟。徐回顾。本来面目无藏处。
-
 却望沩山敷坐具。老师头角浑呈露。珍重此恩逾父母。须荐取。堂堂密密声前句。
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首船子
-
 万叠空青春杳杳。一蓑烟雨吴江晓。醉眼忽醒惊白鸟。拍手笑。清波不犯鱼吞钓。
-
 津渡有僧求法要。一桡为汝除玄妙。已去回头知不峭。犹迷照。渔舟性懆都翻了。
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首万回
-
 玉带云袍童顶露。一生笑傲知何故。万里归来方旦暮。休疑虑。大千捏在豪端聚。
-
 不解犁田分亩步。却能对客鸣花鼓。忽共老安相耳语。还推去。莫来拦我球门路。
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首药山
-
 野鹤精神云格调。逼人气韵霜天晓。松下残经看未了。当斜照。苍烟风撼流泉绕。
-
 闺阁珍奇徒照耀。光无渗漏方露妙。活计现成谁管绍。孤峰表。一声月下闻清啸。
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首宝公
-
 来往独龙冈畔路。杖头落索闲家具。后事前观如目睹。非识语。须知一念无今古。
-
 长笑老萧多病苦。笑中与药皆狼虎。蜡炬一枝非嘱付。聊戏汝。热来脱却娘生◇。
 
-
-
 渔父词 
-
 述古德遗事作渔父词八首灵云
-
 急雨颠风花信早。枝枝叶叶春俱到。何待小桃方悟道。休迷倒。出门无限青青草。
-
 根不覆藏尘亦扫。见精明树唯心造。试借疑情看白皁。回头讨。灵云笑杀玄沙老。
-
-
-
 
 
 《渔父》的韵式是：
 
-
-
 渔父
-
 ⊙仄平平仄仄平（韵）
-
 ⊙平⊙仄仄平平（韵）
-
 平仄仄（句）仄平平（韵）
-
 ⊙平⊙仄仄平平（韵）
-
-
 
 
 
@@ -624,19 +334,17 @@ inandout 2005-1-18 11:50:32
 
 严重更正:这个毕肖普(Morris Bishop)是男的。他的一本书名叫The Best of Bishop，在图书馆里跟女诗人毕肖普的诗全集并肩摆在一起，我翻过两三次，竟没有发现是不同作者。: )
 
+
 阿谁 2005-1-23 17:56:47
 
 周旋兄严谨.
 
+
 jb909 2005-1-23 22:55:50
 
 久未回来，因为忙!如下，请提意见，
-
 儿童经典读诵mp3下载
-
 http://note.ssreader.com/show_topic.asp?Topicid=235496&forumid=1
-
-
 
 不过，我们在这儿聊就好，别过去那边。: (
 
@@ -645,13 +353,9 @@ http://note.ssreader.com/show_topic.asp?Topicid=235496&forumid=1
 周旋久 2005-1-24 21:24:32
 
 同情你的小孩 :)《唐诗三百首》夏青朗读版[ISO]这里就有啊,
-
 http://lib.verycd.com/datum/talking_book/
 
-
-
 里面还有《古代诗词150首》真人朗读、配画,不知效果如何。
-
 你贴的这个正在下载中，比较慢，请让我听了再说。
 
 
@@ -660,85 +364,54 @@ http://lib.verycd.com/datum/talking_book/
 
 我只是脸皮厚罢了，呵呵就是不够严谨才老犯类似的错误啊。
 
+
 jb909 2005-1-25 10:25:37
 
 听说范兄阿九兄獍貙兄的孩子天天背圣经，荷马与密尔顿: )呵呵，我瞎说的，不过想藉此引他们露面说两句而已
 
-
-
 买夏青《唐诗三百首》是看了广告词，
-
 至于夏青，何许人也，我根本不知道，
-
 早遭大傻及诸多朋友数落过了，在此别提。
+
 
 Dasha 2005-1-25 11:28:51
 
 夏青葛兰的“新闻和报纸摘要”的声音亦伴Dasha走过童年……喜欢，但他朗读的唐诗却是糟糕。
-
 愿他老人家泉下有知，下次严谨些。
+
 
 周旋久 2005-1-25 13:01:14
 
 听了《诗经》第一部分对着书本听了一下，似乎没有念白字，应该是做足工夫的。其他的因为下载太慢，没有听，小孩子听四书五经我个人认为不好。还是听朗朗上口的唐诗宋词合适。我觉得让小孩读书是培养一种亲和力，有了亲和力，长大了记起来就容易了，现在记不记得住并不重要。
-
 谁朗读都不好，最好还是由做父母的带读。:)
-
 如果让我从列表里面挑，我挑《诗经》和《笠翁对韵》，其他很多书，别说小孩，我看见都怕。
+
 
 宁玉 2005-1-27 22:54:02
 
 看看这几个好玩不？"Mother, may I go and swim?
-
    Yes, my darling daughter.
-
 Hang your clothes on yonder limb,
-
    But don't go near the water."
 
 
-
-
-
 "There was an old man from Peru
-
    Who dreamed he was eating his shoe.
-
 He woke in fright
-
    In the middle of the night
-
 And found it was perfectly true!"
 
-
-
 Jolly Roger lived in a tree.
-
    You climbed there by a rope.
-
 I'd often go for a cup of tea,
-
    Which he brewed up with soap.
-
 Once I found a sock in mine.
-
    It made me wince a bit.
-
 But Roger told me, "Never mind,
-
    The blamed thing doesn't fit!"
 
 
-
-
-
 Bryan O'Lin had no breeches to wear,
-
    So he bought him a sheepskin to make him a pair:
-
 With the skinny side out, and the woolly side in,
-
 "O' how nice and warm!" cried Bryan O'Lin.
-
-
-

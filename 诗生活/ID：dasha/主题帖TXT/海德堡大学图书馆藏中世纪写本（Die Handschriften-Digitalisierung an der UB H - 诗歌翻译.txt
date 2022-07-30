@@ -1,1238 +1,623 @@
 Dasha 2006-3-20 10:26:20
 
 海德堡大学图书馆藏中世纪写本（Die Handschriften-Digitalisierung an der UB Heidelberg）计4.8G<p><a href="http://www.ub.uni-heidelberg.de/handschriften_information.html">Informationen zur Handschriften-Digitalisierung</a> an der UB Heidelberg</p>
-
 <p><a name="anfang"></a><a href="http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html#codpalgerm"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Cod. Pal. germ.</a>&nbsp; <a href="http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html#codpalgraec"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
 
-
-
 Col. Pal. graec.</a>&nbsp;&nbsp; <a href="http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html#codpallat"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Cod. Pal. lat.</a>&nbsp;&nbsp;
-
 <a href="http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html#heidhs"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Heid. Hs.</a>&nbsp;&nbsp;
-
 <a href="http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html#codsal"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Cod. Sal.</a>
 
-
-
 </p>
-
 <h2><a name="codpalgerm"></a>Codices Palatini germanici (Cod. Pal. germ.)</h2>
-
 <p><a href="#codpalgerm100"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Cod. Pal. germ. 100-199</a>&nbsp;
-
 <a href="#codpalgerm200"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Cod. Pal. germ. 200-299</a>&nbsp;
 
-
-
 <a href="#codpalgerm300"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Cod. Pal. germ.300-399</a>&nbsp;
-
 <a href="#codpalgerm400"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/button-marker-13x13.gif' alt='kleiner Pfeil' title='Listenpunkt'  border='0'>
-
 Cod. Pal. germ. 400-848</a><br></p>
 
-
-
 <table border=1 cellspacing="0" cellpadding="3">
-
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg5.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg5">Cod. Pal. germ. 5</a>
-
 <br>Irmhart 謘er - Aderla遙uch - Heinrich von M黦eln - Gm黱der Chronik<br>
-
 Bayern (?), 1. Viertel 15. Jhd.
-
 </td></tr>
-
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg14.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg14">Cod. Pal. germ. 14</a>
-
 <br>Heinrich von M黦eln: Der Meide Kranz<br>
-
 Bayern, nach 1407
-
 </td></tr>
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg16_klein.jpg" align="left"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg16">
-
 Cod. Pal. germ. 16</a><br>Bibel (AT), B&uuml;cher Mose, Josua, Richter,
-
 Ruth
-
 <br>
-
 Stuttgart (?), 1477
-
 </td></tr>
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg17_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg17">
-
 Cod. Pal. germ. 17</a><br>Bibel (AT), K&ouml;nige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob<br>
-
 Stuttgart (?), 1477
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg18_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg18">
-
 Cod. Pal. germ. 18</a>
-
 <br>Bibel (AT), Psalter, Parabole, Ecclesiastes, Cantica canticorum, Sapienta, Ecclesiasticus, Propheten<br>
-
 Stuttgart (?), 1477
-
 </td></tr>
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg19_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg19">
-
 Cod. Pal. germ. 19</a>
-
 <br>5-b&auml;ndige Bibel (AT), B&uuml;cher Mose, Josua, Richter<br>
-
 Hagenau, 1441 - 1449
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg20_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg20">
-
 Cod. Pal. germ. 20</a><br>Bibel (AT) B&uuml;cher der K&ouml;nige,
-
 Paralipomenon I und II<br>
-
 Hagenau, 1441 - 1449
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg21_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg21">
-
 Cod. Pal. germ. 21</a>
-
 <br>Bibel (AT) B&uuml;cher Esra, Nehemia, Tobias, Judith, Esther, Hiob, Psalter, Parabole, Ecclesiastes, Cantica,
-
 Sapientia, Ecclesiasticus<br>
-
 Hagenau 1441 - 1449
-
 </td></tr>
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg22_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg22">Cod. Pal. germ. 22</a>
-
 <br>Bibel (AT) Jesaia, Jeremia, Baruch, Hesekiel, Daniel, 2 kleine Propheten<br>
-
 Hagenau, 1441 - 1449
-
 </td></tr>
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg23_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg23">Cod. Pal. germ. 23</a>
-
 <br>Bibel; Neues Testament<br>
-
 Hagenau, 1441 - 1449
-
 </td></tr>
-
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg24.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg24">Cod. Pal. germ. 24</a><br>
-
 Berthold von Regensburg: Predigten, dt.<br>
-
 Heidelberg, 1370
-
 </td></tr>
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg27_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg27">
-
 Cod. Pal. germ. 27</a>
-
 <br>Otto von Passau: "Die 24 Alten"<br>
-
 Stra遙urg, 1418
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg40.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg40">
-
 Cod. Pal. germ. 40</a>
-
 <br>Martin Luther: Eine Predigt, da?man Kinder zur Schule halten solle 1530<br>
-
 Veste Coburg, 1530
-
 </td></tr>
-
-
 
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg59.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg59">
-
 Cod. Pal. germ. 59</a>
-
 <br>Biblia pauperum<br>
-
 Schweiz (?), 1518
-
 </td></tr>
-
-
-
 
 
 <tr><td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg60.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg60">
-
 Cod. Pal. germ. 60</a>
-
 <br>Historienbibel - Irmhart 謘er - 'Brandans Reise' u.a.<br>
-
 S黡westdeutschland um 1460
-
 </td></tr>
-
-
 
 <tr><td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg61.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg61">
-
 Cod. Pal. germ. 61</a>
-
 <br>Predigtsammlung; Dietrich von Apolda: Vita S. Elisabeth, dt.<br>
-
 Heidelberg, 1426
-
 </td></tr>
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg67_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg67">
-
 Cod. Pal. germ. 67</a>
-
 <br>"Sigenot"<br>
-
 Stuttgart (?), um 1470
-
 </td></tr>
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg76_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg76">
-
 Cod. Pal. germ. 76</a>
-
 <br>Johannes von Tepl: "Der Ackermann aus B&ouml;hmen"<br>
-
 Schwaben/Stuttgart (?), um 1470
-
 </td></tr>
-
-
 
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg78_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg78">
-
 Cod. Pal. germ. 78</a>
-
 <br>Ulrich Erthel: Beschreibung des Armbrustschie遝ns in Stuttgart 1560<br>
-
 Augsburg, um 1561
-
 </td></tr>
-
-
-
 
 
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg84_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg84">
-
 Cod. Pal. germ. 84</a>
-
 <br>Buch der Beispiele, Passionsgebet<br>
-
 Schwaben, um 1475/1482
-
 </td></tr>
-
-
 
 <tr><td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg85.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg85">
-
 Cod. Pal. germ. 85</a>
-
 <br>Buch der Beispiele<br>
-
 Schwaben, um 1480/1490
-
 </td></tr>
-
-
 
 <tr><td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg87_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg87">
-
 Cod. Pal. germ. 87</a>
-
 <br>Die Kinder von Limburg<br>
-
 Heidelberg, 1480
-
 </td></tr>
-
-
-
 
 
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg90_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg90">
-
 Cod. Pal. germ. 90</a>
-
 <br>Vitaspatrum, deutsch&nbsp;<br>
-
 S黡deutschland, 1477
-
 </td></tr>
-
-
 
 <tr><td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg130.jpg"></td><td>
-
         <a name="codpalgerm100"></a><a href="http://digi.ub.uni-heidelberg.de/cpg130">
-
 Cod. Pal. germ. 130</a>
-
 <br>Ulrich Be遪itzer:
-
 Zeughausinventar von Landshut<br>
-
 Landshut, 1485
-
 </td></tr>
 
 
-
-
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg137_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg137">
-
 Cod. Pal. germ. 137</a>
-
 <br>Martinus Oppaviensis: "Chronicon pontificum
-
 et imperatorum (Papst-Kaiser-Chronik), deutsch"<br>
-
 Hagenau, um 1460
-
 </td></tr>
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg142_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg142">
-
 Cod. Pal. germ. 142</a>
-
 <br>"Pontus und Sidonia"<br>
-
 Stuttgart (?), um 1475
-
 </td></tr>
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg144_klein.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg144">Cod. Pal. germ. 144</a>
-
 <br>Els&auml;ssische "Legenda aurea"<br>
-
 Stra遙urg, 1419
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg149_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg149">
-
 Cod. Pal. germ. 149</a><br>"Historia septem sapientum" ("Sieben Weise Meister"), deutsch und Martinus Oppaviensis: Chronicon pontificum et imperatorum
-
 (Papst-Kaiser-Chronik), deutsch<br>
-
 Hagenau, um 1450
-
 </td></tr>
-
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg152_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg152">
-
 Cod. Pal. germ. 152</a>
-
 <br>Elisabeth von Nassau-Saarbr&uuml;cken: "Herpin"<br>
-
 Stuttgart (?), um 1475
-
 </td></tr>
 
-
-
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg156.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg156">
-
 Cod. Pal. germ. 156</a>
-
 <br>Johannes de Thurocz: Chronica Hungarorum, deutsch<br>
-
 Bayern, nach 1490
-
 </td></tr>
 
-
-
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg164_klein.jpg"></td>
-
 <td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg164">Cod. Pal. germ. 164</a>
-
 <br>Heidelberger Sachsenspiegel<br>
-
 Ostmitteldeutschland, Anfang 14. Jh.
-
 </td></tr>
-
-
-
 
 
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg167.jpg"></td>
-
 <td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg167">Cod. Pal. germ. 167</a>
-
 <br>Sachsenspiegel und Schwabenspiegel<br>
-
 Herzogtum Braunschweig-L黱eburg, Anfang 14. Jh.
-
 </td></tr>
 
 
-
-
-
 <tr><td width="66">
-
         <img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg192_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg192">Cod. Pal. germ. 192</a><br>Rezeptbuch<br>
-
 Amberg, 1570 - 1572
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
         <img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg195_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg195">Cod. Pal. germ. 195</a><br>Arzneibuch<br>
-
 Amberg, um 1570
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg214_klein.jpg"></td><td>
-
 <a name="codpalgerm200"></a><a href="http://digi.ub.uni-heidelberg.de/sammlung3/allg/cpg.xml?docname=cpg214">
-
 Cod. Pal. germ. 214</a>
-
 <br>'Speyrer Arzneibuch'<br>
-
 Speyer, 1321
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
         <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg244_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/sammlung3/allg/cpg.xml?docname=cpg244">
-
 Cod. Pal. germ. 244</a>
-
 <br>Rezeptbuch ('Buch der Medizin', dreizehnter Band)<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66">
-
         <img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg261_klein.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg261">Cod. Pal. germ. 261</a><br>Buch der Medizin&#8217;, erster Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg262.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg262">Cod. Pal. germ. 262</a><br>Buch der Medizin&#8217;, zweiter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg263.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg263">Cod. Pal. germ. 263</a><br>Buch der Medizin&#8217;, dritter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg264.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg264">Cod. Pal. germ. 264</a><br>Buch der Medizin&#8217;, vierter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg265.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg265">Cod. Pal. germ. 265</a><br>Buch der Medizin&#8217;, f黱fter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
-
 
 
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg266_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/sammlung3/allg/cpg.xml?docname=cpg266">Cod.
-
 Pal. germ. 266</a>
-
 <br>Buch der Medizin, sechster Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg267.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg267">Cod. Pal. germ. 267</a><br>Buch der Medizin&#8217;, siebter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg268.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg268">Cod. Pal. germ. 268</a><br>Buch der Medizin&#8217;, achter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg269.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg269">Cod. Pal. germ. 269</a><br>Buch der Medizin&#8217;, neunter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
-
 
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg270.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg270">Cod. Pal. germ. 270</a><br>Buch der Medizin&#8217;, zehnter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg271.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg271">Cod. Pal. germ. 271</a><br>Buch der Medizin&#8217;, elfter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
-
-
 
 <tr><td width="66"><img src="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg272.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg272">Cod. Pal. germ. 272</a><br>Buch der Medizin&#8217;, zw鰈fter Band<br>
-
 Heidelberg, 1526 - 1544
-
 </td></tr>
 
 
 
 
 
-
-
-
-
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg300_klein.jpg"></td>
-
 <td><a name="codpalgerm300"></a><a href="http://digi.ub.uni-heidelberg.de/cpg300">Cod. Pal. germ. 300</a>
-
 <br>Konrad von Megenberg: "Das Buch der Natur"<br>
-
 Hagenau 1443 - 1451
-
 </td></tr>
 
 
-
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg302.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg302">Cod. Pal. germ. 302</a>
-
 <br>Hans Kilian: Zeichnungen von Kurf黵st Ottheinrichs alchemistischem Laborinventar<br>
-
 Neuburg/Donau, um 1555/1556
-
 </td></tr>
 
 
-
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg304.jpg"></td><td><a href="http://digi.ub.uni-heidelberg.de/cpg304">Cod. Pal. germ. 304</a><br>
-
 Historische Notizen aus Augsburg und M黱chen (1296-1545)<br>
-
 Augsburg, 1538-1545
-
 </tr>
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg310.jpg"></td><td><a href="http://digi.ub.uni-heidelberg.de/cpg310">Cod. Pal. germ. 310</a><br>
-
         Hofschulbuch f黵 Kurprinz Friedrich IV. und Prinzessin Christina von der Pfalz<br>
-
 Heidelberg, 1583</td></tr>
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg313.jpg"></td><td><a href="http://digi.ub.uni-heidelberg.de/cpg313">Cod. Pal. germ. 313</a><br>
-
 56 Minnereden<br>
-
 Oberrheingebiet, 1478</td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg323_klein.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg323">Cod. Pal. germ. 323</a>
-
 <br>Rudolph von Ems: "Willehalm von Orlens"<br>
-
 Stra遙urg, um 1420
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg324_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg324">Cod.
-
 Pal. germ. 324</a>
-
 <br>"Virginal"<br>
-
 Hagenau, um 1444 - 1448
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg329_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg329">Cod.
-
 Pal. germ. 329</a>
-
 <br>Hugo von Montfort: Lieder, Briefe und Reden<br>
-
 Steiermark, 1414/1415</td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg339_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg339i">Cod. Pal. germ. 339 Band I</a>
-
 <br><a href="http://digi.ub.uni-heidelberg.de/cpg339ii">Cod.
-
 Pal, germ. 339 Band II</a>
-
 <br>Wolfram von Eschenbach: "Parzival"<br>
-
 Hagenau, um 1443 - 1446
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg345_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg345">
-
 Cod. Pal. germ. 345</a>
-
 <br>"Lohengrin" und "Friedrich von Schwaben"<br>
-
 Stuttgart (?), um 1470
-
 </td></tr>
-
-
 
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg350.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg350">
-
 Cod. Pal. germ. 350</a>
-
 <br>Heidelberger Liederhandschriften Dd, Hh und R<br>
-
 I. Rheinpfalz (Mainz?), II. S黡hessen (Mainz?), III. Nordbayern
-
 I.um 1300, II.-III. 2. Viertel 14. Jh.
-
 </td></tr>
-
-
-
 
 
 <tr>
-
 <td width="66"><img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg353_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg353">Cod.
-
 Pal. germ. 353</a>
-
 <br>"Die Heidin"<br / >
-
 Stuttgart, um 1470
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg359_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg359">Cod. Pal. germ. 359</a>
-
 <br>"Rosengarten zu Worms" und "Lucidarius"<br>
-
 Stra遙urg, um 1420
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg362_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg362">Cod. Pal. germ. 362</a>
-
 <br>Konrad Fleck: "Flore und Blanscheflur"<br>
-
 Hagenau, um 1442 - 1444
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg365_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg365">Cod. Pal. germ. 365</a>
-
 <br>"Ortnit" und "Wolfdietrich"<br>
-
 Stra遙urg, um 1420
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg371_klein.jpg"></td><td>
-
 <a href="http://digi.ub.uni-heidelberg.de/cpg371">Cod. Pal. germ. 371</a>
-
 <br>Ulrich von Zatzikhoven: "Lanzelet"<br>
-
 Stra遙urg, 1420
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg389.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg389">
-
 Cod. Pal. germ. 389</a>
-
 <br>Thomasin von Zerclaere: Der welsche Gast<br>
-
 Bayern (Regensburg ?), um 1256
-
 </td></tr>
 
 
-
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg403_klein.jpg"></td><td>
-
         <a name="codpalgerm400"></a><a href="http://digi.ub.uni-heidelberg.de/cpg403">
-
 Cod. Pal. germ. 403</a>
-
 <br>Heinrich von Veldeke: "Eneas"<br>
-
 Stra遙urg, 1419
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg466_klein.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg466">Cod.
-
 Pal. germ. 466</a>
-
 <br>Buch der Beispiele<br>
-
 Seeschwaben, um 1485
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg687.jpg"></td><td>
-
         <a href="http://digi.ub.uni-heidelberg.de/cpg687">Cod.
-
 Pal. germ. 687</a>
-
 <br>Medizinische Sammelhandschrift<br>
-
 Oberpfalz, 1571
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg832.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg832">
-
 Cod. Pal. germ. 832</a>
-
 <br>Heidelberger Schicksalsbuch<br>
-
 Regensburg, nach 1491
-
 </td></tr>
 
 
 
 
-
-
-
-
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpg848_klein.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpg848">
-
 Cod. Pal. germ. 848</a>
-
 <br>Gro&szlig;e Heidelberger Liederhandschrift
-
 (Codex Manesse)<br>
-
 Z黵ich, 1305 - 1340
-
 </td></tr>
-
 </table>
-
 <p><a href="#anfang"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/top-button.gif' alt='hoch' title='zum Seitenanfang'  border='0'>
-
 </a>
-
 </b>
-
 Seitenanfang</p>
-
 <h2><a name="codpalgraec"></a>Codices Palatini graeci (Cod. Pal. graec.)</h2>
-
 <table border=1 cellspacing="0" cellpadding="3" width="100%">
-
 <tr><td width="66">
-
-
 
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpgraec398.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpgraec398">
-
 Cod. Pal. graec. 398</a>
-
 <br>Sammelhandschrift
-
 9./10. Jhd.<br>
-
 Griechenland (Byzanz), 9./10. Jh.
-
 </td></tr>
 
-
-
 </table>
-
 <p><a href="#anfang"><img src='http://www.ub.uni-heidelberg.de/nav1/grafik/all/top-button.gif' alt='hoch' title='zum Seitenanfang'  border='0'>
-
 </a>
-
-
-
-
 
 
 
 <h2><a name="codpallat"></a>Codices Palatini latini (Cod. Pal. lat.)</h2>
-
 <table border=1 cellspacing="0" cellpadding="3" width="100%">
-
 <tr><td width="66">
-
-
 
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpl52.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpl52">
-
 Cod. Pal. lat. 52</a>
-
 <br>Otfrid von Wei遝nburg, Evangelienbuch<br>
-
 Wei遝nburg, um 870</td></tr>
-
 <tr><td width="66">
-
-
 
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpl864_klein.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpl864">
-
 Cod. Pal. lat. 864</a>
-
 <br>Gregor von Tours: Historia Francorum<br>
-
 Lorsch, 8. - 9. Jh.
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
-
 
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpl894.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpl894">
-
 Cod. Pal. lat. 894</a>
-
 <br>Lucius Annaeus Florus und Titus Livius<br>
-
 Lorsch (?), 1. H鋖fte 9. Jh.
-
 </td></tr>
 
-
-
 <tr><td width="66">
-
-
 
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/cpl1568.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/cpl1568">
-
 Cod. Pal. lat. 1568</a>
-
 <br>Gaius Iulius Solinus & Lucius Annaeus Florus & Paulus Orosius<br>
-
 Nordfrankreich, Ende 11. Jh.
-
 </td></tr>
 
-
-
 </table>
-
-
 
 <br>
-
 <h2><a name="heidhs"></a>Heidelberger Handschriften (Heid.Hs.)</h2>
-
 <table border=1 cellspacing="0" cellpadding="3" width="100%">
-
 <tr><td width="66">
 
-
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/heidhs3394.jpg"></td>
-
 <td><a href="http://digi.ub.uni-heidelberg.de/heidhs3394">
-
 Heid. Hs. 3394</a>
-
 <br>Heinrich R黡inger: Planetenbuch<br>
-
 Heidelberg (Weinheim), 1551 - 1564
-
 </td></tr>
 
 
-
-
-
 </table>
-
 <br><br>
-
 <h2><a name="codsal"></a>Codices Salemitani (Cod. Sal.)</h2>
-
 <table border=1 cellspacing="0" cellpadding="3" width="100%">
-
 <tr><td width="66">
-
 <img SRC="http://www.ub.uni-heidelberg.de/helios/digi/bilder/salx16.jpg"></td>
-
 <td>
-
 <a href="http://digi.ub.uni-heidelberg.de/diglit/salX16">
-
 Cod. Sal. X 16</a><br>Hildegard von Bingen: Liber Scivias<br>
-
 Zwiefalten und Salem, Ende 12. Jh. und um 1220
-
 </td>
-
 </tr>
-
 </table>
+
 
 Dasha 2006-3-20 10:40:28
 
 附下载列表附下载列表：<br>Die Handschriften-Digitalisierung an der UB Heidelberg<br><a href='http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html' target=_blank>http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html</a><br><br><br>--------------------------------------------<br>Codices Palatini germanici (Cod. Pal. germ.)<br>--------------------------------------------<br>Cod. Pal. germ. 5<br>Irmhart &Ouml;ser - Aderla&szlig;buch - Heinrich von Muegeln - Gmuender Chronik<br>Bayern (?), 1. Viertel 15. Jhd.<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg5/cpg5' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg5/cpg5</a>(*).jpg<br>166<br><br>Cod. Pal. germ. 14 <br>Heinrich von Muegeln: Der Meide Kranz<br>Bayern, nach 1407<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg14/cpg14' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg14/cpg14</a>(*).jpg<br>162<br><br>Cod. Pal. germ. 16<br>Bibel (AT), Buecher Mose, Josua, Richter, Ruth<br>Stuttgart (?), 1477<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg16/cpg16' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg16/cpg16</a>(*).jpg<br>582<br><br>Cod. Pal. germ. 17<br>Bibel (AT), K&ouml;nige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob<br>Stuttgart (?), 1477<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg17/cpg17' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg17/cpg17</a>(*).jpg<br>619<br><br>Cod. Pal. germ. 18 <br>Bibel (AT), Psalter, Parabole, Ecclesiastes, Cantica canticorum, Sapienta, Ecclesiasticus, Propheten<br>Stuttgart (?), 1477<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg18/cpg18' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg18/cpg18</a>(*).jpg<br>757<br><br>Cod. Pal. germ. 19 <br>5-b&auml;ndige Bibel (AT), Buecher Mose, Josua, Richter<br>Hagenau, 1441 - 1449<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg19/cpg19' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg19/cpg19</a>(*).jpg<br>747<br><br>Cod. Pal. germ. 20<br>Bibel (AT) Buecher der K&ouml;nige, Paralipomenon I und II<br>Hagenau, 1441 - 1449<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg20/cpg20' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg20/cpg20</a>(*).jpg<br>507<br><br>Cod. Pal. germ. 21 <br>Bibel (AT) Buecher Esra, Nehemia, Tobias, Judith, Esther, Hiob, Psalter, Parabole, Ecclesiastes, Cantica, Sapientia, Ecclesiasticus<br>Hagenau 1441 - 1449<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg21/cpg21' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg21/cpg21</a>(*).jpg<br>767<br><br>Cod. Pal. germ. 22 <br>Bibel (AT) Jesaia, Jeremia, Baruch, Hesekiel, Daniel, 2 kleine Propheten<br>Hagenau, 1441 - 1449<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg22/cpg22' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg22/cpg22</a>(*).jpg<br>669<br><br>Cod. Pal. germ. 23 <br>Bibel; Neues Testament<br>Hagenau, 1441 - 1449<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg23/cpg23' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg23/cpg23</a>(*).jpg<br>713<br><br>Cod. Pal. germ. 24<br>Berthold von Regensburg: Predigten, dt.<br>Heidelberg, 1370<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg24/cpg24' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg24/cpg24</a>(*).jpg<br>530<br><br>Cod. Pal. germ. 27 <br>Otto von Passau: &quot;Die 24 Alten&quot;<br>Stra&szlig;burg, 1418<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg27/cpg27' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg27/cpg27</a>(*).jpg<br>345<br><br>Cod. Pal. germ. 40<br>Martin Luther: Eine Predigt, da&szlig; man Kinder zur Schule halten solle 1530<br>Veste Coburg, 1530<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg40/cpg40' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg40/cpg40</a>(*).jpg<br>90<br><br>Cod. Pal. germ. 59<br>Biblia pauperum<br>Schweiz (?), 1518<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg59/cpg59' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg59/cpg59</a>(*).jpg<br>92<br><br>Cod. Pal. germ. 60<br>Historienbibel - Irmhart &Ouml;ser - &#39;Brandans Reise&#39; u.a.<br>Suedwestdeutschland um 1460<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg60/cpg60' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg60/cpg60</a>(*).jpg<br>402<br><br>Cod. Pal. germ. 61 <br>Predigtsammlung; Dietrich von Apolda: Vita S. Elisabeth, dt.<br>Heidelberg, 1426<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg61/cpg61' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg61/cpg61</a>(*).jpg<br>208<br><br>Cod. Pal. germ. 67 <br>&quot;Sigenot&quot;<br>Stuttgart (?), um 1470<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg67/cpg67' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg67/cpg67</a>(*).jpg<br>219<br><br>Cod. Pal. germ. 76 <br>Johannes von Tepl: &quot;Der Ackermann aus B&ouml;hmen&quot;<br>Schwaben/Stuttgart (?), um 1470<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg76/cpg76' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg76/cpg76</a>(*).jpg<br>81<br><br>Cod. Pal. germ. 78<br>Ulrich Erthel: Beschreibung des Armbrustschie&szlig;ens in Stuttgart 1560<br>Augsburg, um 1561<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg78/cpg78' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg78/cpg78</a>(*).jpg<br>218<br><br>Cod. Pal. germ. 84 <br>Buch der Beispiele, Passionsgebet<br>Schwaben, um 1475/1482<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg84/cpg84' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg84/cpg84</a>(*).jpg<br>500<br><br>Cod. Pal. germ. 85 <br>Buch der Beispiele<br>Schwaben, um 1480/1490<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg85/cpg85' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg85/cpg85</a>(*).jpg<br>452<br><br>Cod. Pal. germ. 87 <br>Die Kinder von Limburg<br>Heidelberg, 1480<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg87/cpg87' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg87/cpg87</a>(*).jpg<br>856<br><br>Cod. Pal. germ. 90 <br>Vitaspatrum, deutsch <br>Sueddeutschland, 1477<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg90/cpg90' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg90/cpg90</a>(*).jpg<br>341<br><br>Cod. Pal. germ. 130<br>Ulrich Be&szlig;nitzer: Zeughausinventar von Landshut<br>Landshut, 1485<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg130/cpg130' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg130/cpg130</a>(*).jpg<br>138<br><br>Cod. Pal. germ. 137 <br>Martinus Oppaviensis: &quot;Chronicon pontificum et imperatorum (Papst-Kaiser-Chronik), deutsch&quot;<br>Hagenau, um 1460<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg137/cpg137' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg137/cpg137</a>(*).jpg<br>491<br><br>Cod. Pal. germ. 142 <br>&quot;Pontus und Sidonia&quot;<br>Stuttgart (?), um 1475<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg142/cpg142' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg142/cpg142</a>(*).jpg<br>285<br><br>Cod. Pal. germ. 144 <br>Els&auml;ssische &quot;Legenda aurea&quot;<br>Stra&szlig;burg, 1419<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg144/cpg144' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg144/cpg144</a>(*).jpg<br>857<br><br>Cod. Pal. germ. 149<br>&quot;Historia septem sapientum&quot; (&quot;Sieben Weise Meister&quot;), deutsch und Martinus Oppaviensis: Chronicon pontificum et imperatorum (Papst-Kaiser-Chronik), deutsch<br>Hagenau, um 1450<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg149/cpg149' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg149/cpg149</a>(*).jpg<br>699<br><br>Cod. Pal. germ. 152 <br>Elisabeth von Nassau-Saarbruecken: &quot;Herpin&quot;<br>Stuttgart (?), um 1475<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg152/cpg152' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg152/cpg152</a>(*).jpg<br>679<br><br>Cod. Pal. germ. 156 <br>Johannes de Thurocz: Chronica Hungarorum, deutsch<br>Bayern, nach 1490<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg156/cpg156' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg156/cpg156</a>(*).jpg<br>386<br><br>Cod. Pal. germ. 164 <br>Heidelberger Sachsenspiegel<br>Ostmitteldeutschland, Anfang 14. Jh.<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg164/cpg164' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg164/cpg164</a>(*).jpg<br>60<br><br>Cod. Pal. germ. 167 <br>Sachsenspiegel und Schwabenspiegel<br>Herzogtum Braunschweig-Lueneburg, Anfang 14. Jh.<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg167/cpg167' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg167/cpg167</a>(*).jpg<br>332<br><br>Cod. Pal. germ. 192<br>Rezeptbuch<br>Amberg, 1570 - 1572<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg192/cpg192' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg192/cpg192</a>(*).jpg<br>708<br><br>Cod. Pal. germ. 195<br>Arzneibuch<br>Amberg, um 1570<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg195/cpg195' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg195/cpg195</a>(*).jpg<br>860<br><br>Cod. Pal. germ. 214 <br>&#39;Speyrer Arzneibuch&#39;<br>Speyer, 1321<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg214/cpg214' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg214/cpg214</a>(*).jpg<br>126<br><br>Cod. Pal. germ. 244 <br>Rezeptbuch (&#39;Buch der Medizin&#39;, dreizehnter Band)<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg244/cpg244' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg244/cpg244</a>(*).jpg<br>392<br><br><br>Cod. Pal. germ. 261<br>Buch der Medizin’, erster Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg261/cpg261' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg261/cpg261</a>(*).jpg<br>480<br>[Anmerkung von Dasha: Es fehlen Seit 477 und 488.]<br><br>Cod. Pal. germ. 262<br>Buch der Medizin’, zweiter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg262/cpg262' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg262/cpg262</a>(*).jpg<br>486<br><br>Cod. Pal. germ. 263<br>Buch der Medizin’, dritter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg263/cpg263' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg263/cpg263</a>(*).jpg<br>574<br><br>Cod. Pal. germ. 264<br>Buch der Medizin’, vierter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg264/cpg264' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg264/cpg264</a>(*).jpg<br>532<br><br>Cod. Pal. germ. 265<br>Buch der Medizin’, fuenfter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg265/cpg265' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg265/cpg265</a>(*).jpg<br>434<br><br>Cod. Pal. germ. 266 <br>Buch der Medizin, sechster Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg266/cpg266' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg266/cpg266</a>(*).jpg<br>522<br><br>Cod. Pal. germ. 267<br>Buch der Medizin’, siebter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg267/cpg267' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg267/cpg267</a>(*).jpg<br>510<br><br>Cod. Pal. germ. 268<br>Buch der Medizin’, achter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg268/cpg268' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg268/cpg268</a>(*).jpg<br>562<br><br>Cod. Pal. germ. 269<br>Buch der Medizin’, neunter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg269/cpg269' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg269/cpg269</a>(*).jpg<br>574<br><br>Cod. Pal. germ. 270<br>Buch der Medizin’, zehnter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg270/cpg270' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg270/cpg270</a>(*).jpg<br>450<br><br>Cod. Pal. germ. 271<br>Buch der Medizin’, elfter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg271/cpg271' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg271/cpg271</a>(*).jpg<br>640<br><br>Cod. Pal. germ. 272<br>Buch der Medizin’, zw&ouml;lfter Band<br>Heidelberg, 1526 - 1544<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg272/cpg272' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg272/cpg272</a>(*).jpg<br>496<br><br><br>Cod. Pal. germ. 300 <br>Konrad von Megenberg: &quot;Das Buch der Natur&quot;<br>Hagenau 1443 - 1451<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg300/cpg300' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg300/cpg300</a>(*).jpg<br>774<br><br>Cod. Pal. germ. 302 <br>Hans Kilian: Zeichnungen von Kurfuerst Ottheinrichs alchemistischem Laborinventar<br>Neuburg/Donau, um 1555/1556<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg302/cpg302' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg302/cpg302</a>(*).jpg<br>55<br><br>Cod. Pal. germ. 304<br>Historische Notizen aus Augsburg und Muenchen (1296-1545)<br>Augsburg, 1538-1545<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg304/cpg304' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg304/cpg304</a>(*).jpg<br>412<br><br>Cod. Pal. germ. 310<br>Hofschulbuch fuer Kurprinz Friedrich IV. und Prinzessin Christina von der Pfalz<br>Heidelberg, 1583<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg310/cpg310' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg310/cpg310</a>(*).jpg<br>512<br><br>Cod. Pal. germ. 313<br>56 Minnereden<br>Oberrheingebiet, 1478<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg313/cpg313' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg313/cpg313</a>(*).jpg<br>1008<br>[Anmerkung von Dasha: &quot;*&quot; ist 4Stelle]<br><br>Cod. Pal. germ. 323 <br>Rudolph von Ems: &quot;Willehalm von Orlens&quot;<br>Stra&szlig;burg, um 1420<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg323/cpg323' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg323/cpg323</a>(*).jpg<br>587<br><br>Cod. Pal. germ. 324 <br>&quot;Virginal&quot;<br>Hagenau, um 1444 - 1448<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg324/cpg324' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg324/cpg324</a>(*).jpg<br>742<br><br>Cod. Pal. germ. 329 <br>Hugo von Montfort: Lieder, Briefe und Reden<br>Steiermark, 1414/1415<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg329/cpg329' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg329/cpg329</a>(*).jpg<br>134<br><br>Cod. Pal. germ. 339 Band I <br>Cod. Pal, germ. 339 Band II <br>Wolfram von Eschenbach: &quot;Parzival&quot;<br>Hagenau, um 1443 - 1446<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg339i/cpg339I' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg339i/cpg339I</a>(*).jpg<br>577<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg339ii/cpg339II' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg339ii/cpg339II</a>(*).jpg<br>679<br><br>Cod. Pal. germ. 345 <br>&quot;Lohengrin&quot; und &quot;Friedrich von Schwaben&quot;<br>Stuttgart (?), um 1470<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg345/cpg345' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg345/cpg345</a>(*).jpg<br>798<br><br>Cod. Pal. germ. 350 <br>Heidelberger Liederhandschriften Dd, Hh und R<br>I. Rheinpfalz (Mainz?), II. Suedhessen (Mainz?), III. Nordbayern I.um 1300, II.-III. 2. Viertel 14. Jh.<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg350/cpg350' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg350/cpg350</a>(*).jpg<br>149<br><br>Cod. Pal. germ. 353 <br>&quot;Die Heidin&quot;<br>Stuttgart, um 1470<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg353/cpg353' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg353/cpg353</a>(*).jpg<br>145<br><br>Cod. Pal. germ. 359 <br>&quot;Rosengarten zu Worms&quot; und &quot;Lucidarius&quot;<br>Stra&szlig;burg, um 1420<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg359/cpg359' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg359/cpg359</a>(*).jpg<br>221<br><br>Cod. Pal. germ. 362 <br>Konrad Fleck: &quot;Flore und Blanscheflur&quot;<br>Hagenau, um 1442 - 1444<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg362/cpg362' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg362/cpg362</a>(*).jpg<br>457<br><br>Cod. Pal. germ. 365<br>&quot;Ortnit&quot; und &quot;Wolfdietrich&quot;<br>Stra&szlig;burg, um 1420<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg365/cpg365' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg365/cpg365</a>(*).jpg<br>396<br><br>Cod. Pal. germ. 371<br>Ulrich von Zatzikhoven: &quot;Lanzelet&quot;<br>Stra&szlig;burg, 1420<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg371/cpg371' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg371/cpg371</a>(*).jpg<br>369<br><br>Cod. Pal. germ. 389<br>Thomasin von Zerclaere: Der welsche Gast<br>Bayern (Regensburg ?), um 1256<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg389/cpg389' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg389/cpg389</a>(*).jpg<br>472<br><br>Cod. Pal. germ. 403<br>Heinrich von Veldeke: &quot;Eneas&quot;<br>Stra&szlig;burg, 1419<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg403/cpg403' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg403/cpg403</a>(*).jpg<br>529<br><br>Cod. Pal. germ. 466<br>Buch der Beispiele<br>Seeschwaben, um 1485<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg466/cpg466' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg466/cpg466</a>(*).jpg<br>615<br><br>Cod. Pal. germ. 687<br>Medizinische Sammelhandschrift<br>Oberpfalz, 1571<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg687/cpg687' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg687/cpg687</a>(*).jpg<br>228<br><br>Cod. Pal. germ. 832 <br>Heidelberger Schicksalsbuch<br>Regensburg, nach 1491<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg832/cpg832' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg832/cpg832</a>(*).jpg<br>561<br><br>Cod. Pal. germ. 848<br>Gro&szlig;e Heidelberger Liederhandschrift (Codex Manesse)<br>Zuerich, 1305 - 1340<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpg848/cpg848' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpg848/cpg848</a>(*).jpg<br>853<br><br>------------------------------------------<br>Codices Palatini graeci (Cod. Pal. graec.)<br>------------------------------------------<br>Cod. Pal. graec. 398<br>Sammelhandschrift 9./10. Jhd.<br>Griechenland (Byzanz), 9./10. Jh.  <br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpgraec398/cpgraec398' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpgraec398/cpgraec398</a>(*).jpg<br>672<br><br>----------------------------------------<br>Codices Palatini latini (Cod. Pal. lat.)<br>----------------------------------------<br>Cod. Pal. lat. 52 <br>Otfrid von Wei&szlig;enburg, Evangelienbuch<br>Wei&szlig;enburg, um 870<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpl52/cpl52' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpl52/cpl52</a>(*).jpg<br>456<br><br>Cod. Pal. lat. 864<br>Gregor von Tours: Historia Francorum<br>Lorsch, 8. - 9. Jh.<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpl864/cpl864' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpl864/cpl864</a>(*).jpg<br>284<br><br>Cod. Pal. lat. 894<br>Lucius Annaeus Florus und Titus Livius<br>Lorsch (?), 1. H&auml;lfte 9. Jh.<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpl894/cpl894' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpl894/cpl894</a>(*).jpg<br>224<br><br>Cod. Pal. lat. 1568 <br>Gaius Iulius Solinus & Lucius Annaeus Florus & Paulus Orosius<br>Nordfrankreich, Ende 11. Jh.<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/cpl1568/cpl1568' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/cpl1568/cpl1568</a>(*).jpg<br>316<br><br>-------------------------------------<br>Heidelberger Handschriften (Heid.Hs.)<br>-------------------------------------<br>Heid. Hs. 3394 <br>Heinrich Ruedinger: Planetenbuch<br>Heidelberg (Weinheim), 1551 - 1564  <br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/heidhs3394/heidhs3394' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/heidhs3394/heidhs3394</a>(*).jpg<br>269<br><br>------------------------------<br>Codices Salemitani (Cod. Sal.)<br>------------------------------<br>Cod. Sal. X 16<br>Hildegard von Bingen: Liber Scivias<br>Zwiefalten und Salem, Ende 12. Jh. und um 1220<br><a href='http://www.ub.uni-heidelberg.de/ebind/docs/salX16/salX16' target=_blank>http://www.ub.uni-heidelberg.de/ebind/docs/salX16/salX16</a>(*).jpg<br>404<br><br>傻按：<br>全部为真彩图片，共4.80G；<br>下载链接提供的是FlashGet之类下载软件批量下载的格式，其中除Cod. Pal. germ. 313需要将“*”设置位4位，其余一律请设置为3位（含不超过100页的图书）；<br>其中Cod. Pal. germ. 261的Buch der Medizin&#39;, erster Band (Heidelberg, 1526 - 1544)（医书），第477、478页阙如。</span><br>
-

@@ -1,14 +1,11 @@
 Dasha 2005-2-5 11:10:13
 
 翻译论坛一个贴子有故障，请网管核查<p><b>网管好，翻译论坛Dasha来问安:-D<br>翻译论坛昨日新添“凯乾福”的帖子，无法阅读，亦无法编辑，链接在下面（帖子的ID为“-1”？？）：</b></p>
-
 <p><a href="add.jsp?forumID=6&msgID=-2147483648&page=1" onClick="JavaScript:return openWindow(this.href,-2147483648);"><span class="titleStyle">致在这里的诗的翻译者们</span></a><img src="../bbs/images/new-1.gif"> [#-1:4837, 0/0] - <a href=search.jsp?forumID=6&newSearch=Y&userID=23983 target=_blank><span class="authorStyle">凯乾福</span></a> (2/4/2005  22:13:17)</p>
-
 <p><b>请网管在后台核查一下</b></p>
-
 <p><b>顺颂冬祺及新春快乐</b></p>
+
 
 Admin 2005-2-7 00:19:39
 
 发帖时，正碰上重启论坛系统，会出现这种情况版主可从后台删除该帖，并请作者再发一次。
-

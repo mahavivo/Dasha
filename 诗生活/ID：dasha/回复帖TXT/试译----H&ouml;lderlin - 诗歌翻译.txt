@@ -2,76 +2,40 @@ pilger 2003-10-2 14:00:14
 
 试译<<浮生的一半>>----H&ouml;lderlinH&auml;lfte des Lebens
 
-
-
 Mit gelben Birnen h&auml;nget
-
 Und voll mit wilden Rosen
-
 Das Land in den See,
-
 Ihr holden Schw&auml;ne,
-
 Und trunken von Küssen
-
 Tunkt ihr das Haupt
-
 Ins heilignüchterne Wasser.
 
-
-
 Weh mir, wo nehm' ich, wenn
-
 Es Winter ist, die Blumen, und wo
-
 Den Sonnenschein,
-
 Und Schatten der Erde?
-
 Die Mauern stehn
-
 Sprachlos und kalt, im Winde
-
 Klirren die Fahnen.
-
 H&ouml;lderlin, StA, Band 2, Seite 117.
-
-
-
 
 
 <<浮生的一半>>
 
-
-
 悬挂着黄梨
-
 缀满了野蔷薇的
-
 陆地倒影在湖面上,
-
 优雅的天鹅呵,
-
 陶醉于亲吻
-
 将头颈
-
 探入神圣渴望的水面.
 
-
-
 我忧伤啊,当冬季来临,
-
 去哪里寻觅
-
 花丛,阳光,
-
 大地上的清影呵?
-
 墙垣耸立
-
 冰冷无言,风中
-
 风信旗飒飒振响.
 
 
@@ -80,39 +44,21 @@ pilger 2003-10-2 02:15:26
 
 钱春绮老师所译<<浮生的一半>> 浮生的一半
 
-
-
 　　悬挂着黄梨
-
 　　长满野蔷嶶的
-
 　　湖岸映在湖里
-
 　　可爱的天鹅
-
 　　你们吻醉了
-
 　　把头浸入
-
 　　神圣冷静的水里
 
-
-
 　　可悲啊，冬天到来
-
 　　我到哪里去采花
-
 　　哪里去寻日光
-
 　　和地上的荫处？
-
 　　四壁围墙
-
 　　冷酷而无言，风信旗
-
 　　在风中瑟瑟作响。
-
-
 
 　　1804年
 
@@ -121,39 +67,25 @@ pilger 2003-10-2 02:15:26
 inandout 2003-10-2 11:32:10
 
 插一句嘴，Die Mauern stehn
-
 Sprachlos und kalt, im Winde
-
 Klirren die Fahnen.
-
 可能“冰冷无言”是形容墙的状态，而不是形容“站立”的，所以这样译法也许有点破句了。
 
-
-
 看着版子“冰冷无言”，便随便说上一句，不当之处请海涵：）
+
 
 pilger 2003-10-2 13:59:21
 
 多谢inandout君赐教.是的,这产生了破句,不符合原文之行文.
-
 修改如下,呵呵:)
 
-
-
 Die Mauern stehn
-
 Sprachlos und kalt, im Winde
-
 Klirren die Fahnen.
 
-
-
 墙垣耸立
-
 冰冷无言,风中
-
 风信旗飒飒振响.
-
 
 
 
@@ -161,204 +93,103 @@ Klirren die Fahnen.
 Dasha 2003-10-2 15:48:46
 
 heilignüchtern的翻译请深思，转贴Interpretation: Friedrich H&ouml;lderlin "H&auml;lfte des Lebens."Interpretation: Friedrich H&ouml;lderlin "H&auml;lfte des Lebens."
-
 http://www.phil-fak.uni-duesseldorf.de/germ/germ4/gedichte/hoelint.htm
 
-
-
 Auf den ersten Blick k&ouml;nnen wir das Gedicht "H&auml;lfte des Lebens" fast nur mit einem Kommentar "erkl&auml;ren". Schon der Titel scheint das ganze Gedicht zu deuten - ein "memento mori", das sich bei der Sichtung des Gedichtes zu best&auml;tigen scheint.
-
 Ein Mensch, der sich der Verg&auml;nglichkeit des Lebens bewu&szlig;t wird, dargestellt anhand der Jahreszeiten. Eine Klage zumal, ausgedrückt in dem "Weh" der zweiten Strophe. Es ist eine Sommerlandschaft, die idyllischer nicht dargestellt werden k&ouml;nnte. Ein "locus Amoenus", mit Früchten, Blumen, See und Tieren. Ein Winterbild wird diesem knapp und eindringlich gegenübergestellt. Die Blumen werden vergangen sein, der Sonnenschein desgleichen. Alles erscheint kalt und tot, eindringlich in dem Bild der klirrenden Fahnen dargestellt.
-
 Das Gedicht ist "antithetisch" aufgebaut. Die beiden "H&auml;lften" des Jahres stehen sich als "H&auml;lften des Lebens" gegenüber.
-
-
 
 Sommerliche Erfüllung mit reifen (gelben) Birnen, und blühenden Rosen, korrespondiert mit der winterlichen Erstarrung.
 
 
-
-
-
 Wo in der ersten Strophe die Harmonie und das Verbindende dominiert, ist es in der zweiten die Disharmonie (klirren) und das Trennende (Mauern)
-
-
 
 In der ersten Strophe Leben und Bewegung (Blüten, Früchte, Schw&auml;ne und Wasser)
 
-
-
 in der zweiten Bewegungslosigkeit und Totes (Mauern klirrende Fahnen)
-
-
 
 In beiden Strophen taucht das lyrische Ich auf. In der ersten mit einem emphatischen Anruf, in der zweiten mit einer Klage.
 
 
-
-
-
 Das lyrische Ich empfindet diese &Auml;nderung so stark, da&szlig; es nicht nur dem Sonnenschein nachtrauert, sondern sogar noch dem Schatten, den es natürlich nur geben kann, wenn es Licht gibt (auf den Sommer bezogen ist auch der Schatten noch positiv zu sehen).
-
 Mit diesem Befund k&ouml;nnte das Gedicht als Klage eines Menschen am Ende seines Lebens gesehen werden. Der Sommer stellt die H&ouml;he der Jahre, der Winter der "Lebensabend" von dem aus der Mensch auf sein Leben zurückblickt.
-
-
 
 Doch dieser erste Blick kann nicht alles fassen. Das Bild des Sommers ist nicht so 'normal', wie es scheint. Warum sind es gerade 'wilde Rosen'. Das das Land 'in den See h&auml;ngt', mag noch als stark poetisierende Sprache angesehen werden. Aber der Anruf an die 'holden Schw&auml;ne' verdr&auml;ngt uns aus der Sicherheit der 'einfachen' Bildlichkeit.
 
-
-
 Romantische Literatur ist h&auml;ufig auch gleichzeitig romantische Literaturtheorie und - Philosophie, oder verweist auf sie und bezieht sie mit ein. Aus diesem Grund kann der Schwan nicht einfach "hold" bleiben und das "heilignüchterne Wasser" mu&szlig; erkl&auml;rt werden.
-
-
 
 Um dies zu leisten, müssen wir die Tugend der Interpretation, jeden Text zuerst in seinem Eigenwert zu sehen und dabei auch den Autor au&szlig;er acht zu lassen, vorübergehend au&szlig;er Kraft setzen.
 
-
-
 Wir k&ouml;nnen uns bei Gedichten aus der Romantik kaum darauf verlassen, da&szlig; wir alle Begriffe und Bilder in Lexika unserer Zeit finden werden. Wir müssen uns fragen, was kann der Autor zu seiner Zeit gewu&szlig;t haben, aus welchen Quellen hat er sein Bildmaterial, nach welchen Strukturen sind seine Metaphern gebildet?
-
 Wir müssen uns auf die Suche nach Topoi machen, die H&ouml;lderlin in seinem Gedicht verwendet hat.
-
 Eine ganz hervorragende Hilfe ist in dieser Beziehung das Werk von Arthur Henkel und Albrecht Sch&ouml;ne: Emblemata. Handbuch zur Sinnbildkunst des 16. Und 17. Jahrhunderts. Stuttgart und Weimar 1967.
-
-
 
 Weiter werden wir den traditionellen Topoi und Strukturen auch in anderen Texten H&ouml;lderlins begegnen, ohne einer "Parallelstellentheorie" das Wort reden zu wollen
 
-
-
 Als erstes Erkennen wir in den Entgegensetzungen und den scheinbaren Widersprüchlichkeiten die Idee der "Idylle", die vom Ausgleich der Gegens&auml;tze lebt und Harmonie erstrebt. Diese Harmonie finden wir in der ersten Strophe, die in der zweiten verlorengegangen ist; und das lyrische Ich sucht nach dieser verlorenen Harmonie, die sich besonders im Ausgleich von Licht und Schatten dokumentiert.
-
 Wir finden diesen 'Ausgleich' auch in anderen Texten H&ouml;lderlins, z. B. in der Hymne "Mnemosyne":
 
 
-
-
-
 [...] Sonnenschein
-
 Am Boden sehen wir und trockenen Staub
-
 Und heimatlich die Schatten der W&auml;lder und es blühet
-
 An D&auml;chern der Rauch, bei alter Krone
-
 Der Türme, friedsam
-
 [...]
 
 
-
-
-
 Ob dieser Ausgleich direkt philosophisch mit der "coincidentia oppositorum" des Nikolaus von Kues in Verbindung gebracht werden mu&szlig;, wie es J. Schmidt tut, mag dahingestellt bleiben. Festzuhalten jedoch ist, da&szlig; das Entgegengesetzte erst zusammen als Ganzes gesehen werden kann. Schmidt verweist darauf, da&szlig; das "Einigentgegengesetzte" von H&ouml;lderlin in seinen theoretischen Schriften in diesem Sinne verwendet wurde.
-
 Schiller wendet sich in "Naive und Sentimentalische Dichtung", in seinem Idyllenteil gegen die "&Uuml;berspannung" und deren Gegenteil der "Schlaffheit". Er bestimmt aber den Dichter mit einem gewissen Ma&szlig; an "Exaltiertheit", der aber trotzdem "nüchtern genug bleiben" mu&szlig;. An dieser Stelle haben wir wenigstens den Begriff "nüchtern" auf Dichtung und Dichter angewendet.
-
 Wenn auch Schmidt in der Nachfolge von Strauss das "gelbe" der Birnen, das "wilde" der Rosen und das "holde" der Schw&auml;ne als "schmückende Beiw&ouml;rter" erkl&auml;rt, ist das wohl richtig und, in bezug auf die Idylle, auch erkl&auml;rlich. Doch mu&szlig; der gedankliche Wert der W&ouml;rter in die &Uuml;berlegungen auch miteinbezogen werden. Das "gelbe" der Birnen kann als Zeichen für die Reife der Frucht gesehen werden. Das ist für den Menschen jedoch nur interessant, wenn diese Früchte in bezug auf den Menschen gesehen werden. Dann stellt sich aber die Frage, warum es gerade "wilde" Rosen sind, was wohl hei&szlig;en soll, da&szlig; wir nicht in einem von Menschen gepflegten Gebiet sind? Dann wird das Bild der "gelben" Birnen etwas ungenau. Nehmen wir aber die Birnen als Nahrungsmittel, die Rosen als Gefühlswert - Rosen z. B. als Sinnbild der Liebe, dann wird das vorgestellte Bild leichter verst&auml;ndlich. Dann kann es sich bei dem 'Rosenbild' um natürliche Gefühle handeln, um Gefühle etwa, die noch nicht vom Verstand domestiziert wurden.
-
-
 
 Wenn in der ersten Strophe das lyrische Ich noch verbunden ist mit dem dargestellten Bild, so hat es jeden Bezug in der zweiten Strophe verloren - es kann nur noch den Verlust beklagen, ohne einen Bezug zu dem zweiten Bild zu finden. Es ist also eher ein "Sommer - Ich", geh&ouml;rt also dem Leben an. Der Begriff "heilignüchtern" wird auch nicht so ohne weiteres recht deutlich. Nehmen wir aber H&ouml;lderlins "Deutscher Gesang" hinzu, dann finden wir das Bild des Dichters wieder, der erst singt, wenn er "des heiligen nüchternen Wassers genug getrunken" hat. Das führt uns über Schiller zur klassischen Dichtungstheorie und der "nüchternen Trunkenheit" ('sobria ebrietas'), das hei&szlig;t, der Dichter ist erst Dichter in der Verbindung von Klarheit und Begeisterung. Erst der Ausgleich macht den Dichter, nicht nur die Begeisterung, sondern das Ma&szlig;. Das "heilignüchtern" kann in diesem Falle noch als Steigerung gelten, denn einer der ersten S&auml;nger (Dichter) war Orpheus, von dem Horaz sagt: "... der heilige Orpheus, das Sprachrohr der G&ouml;tter..." (Horaz: De Arte Poetica)
 
-
-
 In diesem Zusammenhang gesehen, kann uns der Anruf an die Schw&auml;ne kaum noch befremden. Denn der Schwan ist Emblem des Dichters:
-
-
-
 
 
 Orpheus war m&auml;chtig durch seine Leier, und immer war ihm der sü&szlig; singende Schwan heilig. (Emblemata Sp. 1610) 
 
 
-
-
-
 Und der "Schwan auf dem Wasser" ist als Zeichen der Reinheit des Dichters zu sehen:
-
-
-
 
 
 Seid gegrü&szlig;t, ihr Dichter, ihr Lieblinge des g&ouml;ttlichen Geistes, seid gegrü&szlig;t, ihr Herzen reiner als Schnee. (Emblemata, Sp. 817)
 
 
-
-
-
 Bis zu Baudelaires "Le Cygne" m&ouml;chte Schmidt diese "Tradition des Schwanensymbols" für Dichter verfolgen, was sicherlich leicht auf Widerspruch sto&szlig;en kann. Wir bleiben noch bei dem, was H&ouml;lderlin gekannt haben konnte:
-
-
-
 
 
 Der wei&szlig;e Schwan singt [erst] im h&ouml;chsten Alter. Dies Bild zeigt, wie Menschen in ihn verwandelt werden. Denn die Schw&auml;ne sind berühmt wegen ihrer wei&szlig;en Farbe und wegen ihres sü&szlig;en Gesanges, die Greise wegen ihrer Tugend und Beredsamkeit. Sü&szlig; ist alter Wein: sü&szlig; ist die Rede eines Greises - um so viel sü&szlig;er als der Wein, wie sie weiser ist. Auch der pylische Greis (Nestor), von dessen Zunge die Rede sü&szlig;er als Honig flo&szlig;, sang wie ein Schwan. (Emblemata, Sp. 1626.)
 
 
-
-
-
 Wir sehen das lyrische Ich als dem Dichter (Schwan) in der ersten Strophe gegenüberstehend. In der zweiten bedauert er das Vergehen des Sommers. Aber seine Klage zielt eben nicht nur auf das Vergehen der Zeit an sich.
-
 Wir haben für die erste Strophe eine Abfolge der Bilder von den reifen Birnen als Zeichen der Grundbedürfnisse (Nahrungsmittel) hin zum Bild der natürlichen Gefühle (wilde Rosen) gefunden, die mit dem Land ins Wasser ragen. Dieses Wasser ist das Element des Schwans. Es ist das 'heilignüchterne' Wasser, in das der Schwan sein Haupt 'tunkt'. Wenn der Schwan aber das Bild des Dichters ist, dann ist der See, das Wasser, das Element aus dem die Dichtung entsteht.
-
 Sehen wir aber das Landschaftsbild der ersten Strophe auch als Bild des Reifens und der Vollendung, dann stellt es in der Tradition Schillers den Dichter dar, der aus dem Leben seine Dichtung sch&ouml;pft.
-
 Mit dieser Folge wird die zweite Strophe - in der das lyrische Ich das Vergehen des Sommers nicht nur beklagt, sondern darauf verweist, da&szlig; es nun selbst es ist, dem diese Lebensbilder fehlen - diese Bilder aber Dichtung sind - dann ist in der zweiten Strophe das lyrische Ich selbst Dichter, von Mauern umgeben, die sprachlos sind, der also seine dichterische Sprache nicht mehr aus dem Leben selbst sch&ouml;pfen kann, sondern nur noch aus dem "Klirren" der Fahnen.
-
 Sollte dieser Befund eing&auml;ngig sein, so mu&szlig; das Klirren der Fahne ebenfalls mehr als ein Bild des Winters sein.
-
 Bleiben wir in der Emblematik, dann verweisen Fahnen auf "Taten der Vorfahren", die zur Nachahmung auffordern:
-
-
-
 
 
 Also der Vor&auml;ltern ehrliche und rühmliche tahten/ reichen den nachk&ouml;mlingen nur zur schmach/ und zur schande, wan sie solchen nit nach&auml;hmen. (Emblemata, Sp. 1486.)
 
 
-
-
-
 Die Fahnen gemahnen also den Dichter - denn nur diese sprechen (klirren) - nicht mü&szlig;ig zu sein, es den vollendeten Vorg&auml;ngern nachzutun, weiter zu dichten. Dieses "Klirren" kann aber noch auf ein Weiteres verweisen, denn eigentlich ist "klirren" kein 'passendes' Wort für Fahnen. Ersetzen wir die "Fahnen" aber durch 'Wetterfahnen', dann wird das Bild wieder stimmig, denn diese sind zumeist aus Metall. Und in der Emblematik finden wir die Wetterfahne als Zeichen der "Best&auml;ndigkeit und Beweglichkeit". Das ist wieder die "coincidentia Oppositorum" - Beharren und Fortschreiten. In die dichterische Theorie &Uuml;bertragen - sich an dem Bestehenden in der Dichtung orientieren, aber das Neue mit aufnehmen oder, wie Horaz es ausdrückt:
-
-
-
 
 
 Wieso aber wird der R&ouml;mer Caecilius und Plautus gestatten, was er Varius und Vergil verbietet? Warum werde ich kritisiert, wenn ich ein wenig hinzuzuerwerben vermag, wo doch die Sprache des Cato und Ennius unsere Muttersprache reicher gemacht? (Horaz) 
 
 
-
-
-
 Horaz mit seiner "Ars poetica" (Dichtkunst) kann als Vorbild für H&ouml;lderlin und Beispiel gelten, denn sie ist eine poetisch gefa&szlig;te Theorie, deren Form sich bisher genauso erfolgreich einer Systematisierung entzogen hat, wie die poetische 'Dichtungstheorie' H&ouml;lderlins. Und um weiterhin der Emblematik treu zu bleiben:
-
-
-
 
 
 In wesentlichen und notwendigen Angelegenheiten mu&szlig; der Mensch standhaft sein und nicht so schwankend, da&szlig; ihn der herrschende Wind umweht: er stehe vielmehr fest wie ein Fels. Doch bei geringeren Dingen kann er nachgiebig und aus gutem Grunde beweglich sein. Es ist kein Widerspruch, wenn auf festem Turm die Wetterfahne mit allen Winden sich dreht (Emblemata Sp. 1486.)
 
 
-
-
-
 Folgen wir diesen Befunden, dann brauchen wir nicht die Sprachlosigkeit des Dichters, oder wie es Schmidt ausdrückt: "Das Versagen der Sprache signalisiert das Ende des Dichtertums" zu bemühen. Diese Sprachlosigkeit des Dichters wie sie sehr beredt Hugo v. Hofmannsthal in seinem "Chandos - Brief" vorgestellt hat, ist nicht das Problem des Gedichtes H&ouml;lderlins.
-
 In diesem Gedicht wird eher thematisiert, da&szlig; die Dichtung eine Entwicklung durchgemacht hat. Einmal in der Zeit selbst, dargestellt durch die Abfolge der Jahreszeiten, zum anderen, dargestellt durch die Bilder 'Birnen - Rosen - Schw&auml;ne', als Abfolge aus dem "normalen" Leben über die "Gefühlsebene" in die dichterische Gestaltung.
-
 Nun steht der Dichter - das lyrische Ich - auf der H&ouml;he der Zeit und auf der H&ouml;he der dichterischen Gestaltung und kann nicht mehr aus dem "normalen" Leben sch&ouml;pfen. Er mu&szlig;, auf den Schultern der Dichter stehend, neu gestalten um das Leben in der Dichtung wiederzugewinnen.
 
 
 
- 
-
-
-
 &copy; Jürgen Matoni
-
 Januar 1999 
-

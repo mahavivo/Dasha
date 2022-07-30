@@ -1,2162 +1,1085 @@
 Dasha 2006-4-19 06:14:16
 
 德国DIRECTMEDIA出版社电子书封面全集（Bis 2006.04.14）<P><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=1&amp;id=25D7AA91&amp;mp=/pi/0/&amp;StartseiteLM=/sel/0/" 
-
 name=top><IMG style="WIDTH: 307px; HEIGHT: 82px" alt="DIGITALE BIBLIOTHEK" 
-
 hspace=0 src="http://www.digitale-bibliothek.de/images/logo.gif" 
-
 border=0></A><BR><BR><FONT size=5><STRONG>Produktgalerie</STRONG></FONT></P>
-
 <P class=U2>Digitale Bibliothek</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4001/&amp;sc=band1.htm"><IMG 
-
 title="Deutsche Literatur von Lessing bis Kafka  - Studienbibliothek" 
-
 alt="Deutsche Literatur von Lessing bis Kafka  - Studienbibliothek" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4001_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4002/&amp;sc=band2.htm"><IMG 
-
 title="Philosophie von Platon bis Nietzsche" 
-
 alt="Philosophie von Platon bis Nietzsche" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4002_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4003/&amp;sc=band3.htm"><IMG 
-
 title="Geschichte der Philosophie" alt="Geschichte der Philosophie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4003_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4004/&amp;sc=Band4.htm"><IMG 
-
 title="Johann Wolfgang Goethe: Werke" alt="Johann Wolfgang Goethe: Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4004_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4005/&amp;sc=band5.htm"><IMG 
-
 title="Gotthold Ephraim Lessing: Werke" alt="Gotthold Ephraim Lessing: Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4005_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4006/&amp;sc=band6.htm"><IMG 
-
 title="Theodor Fontane: Werke" alt="Theodor Fontane: Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4006_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/9007/&amp;sc=band7.htm"><IMG 
-
 title="Heinrich Heine: Leben und Werk " alt="Heinrich Heine: Leben und Werk " 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/9007_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4008/&amp;sc=band8.htm"><IMG 
-
 title="E.T.A. Hoffmann: Werke" alt="E.T.A. Hoffmann: Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4008_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4009/&amp;sc=band9.htm"><IMG 
-
 title="Killy, Literaturlexikon    " alt="Killy, Literaturlexikon    " 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4009_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4010/&amp;sc=band10.htm"><IMG 
-
 title="Goethe: Briefe, Tagebücher, Gespr&auml;che" 
-
 alt="Goethe: Briefe, Tagebücher, Gespr&auml;che" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4010_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4011/&amp;sc=band11.htm"><IMG 
-
 title="Marx, Engels, Ausgew&auml;hlte Werke" alt="Marx, Engels, Ausgew&auml;hlte Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4011_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4012/&amp;sc=band12.htm"><IMG 
-
 title="RGG Religion in Geschichte und Gegenwart" 
-
 alt="RGG Religion in Geschichte und Gegenwart" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4012_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4016/&amp;sc=band16.htm"><IMG 
-
 title="Knaurs Lexikon der Symbole" alt="Knaurs Lexikon der Symbole" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4016_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4017/&amp;sc=band17.htm"><IMG 
-
 title="W&ouml;rterbuch der Mythologie" alt="W&ouml;rterbuch der Mythologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4017_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4018/&amp;sc=band18.htm"><IMG 
-
 title="Lexikon der Antike" alt="Lexikon der Antike" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4018_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4019/&amp;sc=band19.htm"><IMG 
-
 title="Bilderlexikon der Erotik (DVD-Ausgabe)" 
-
 alt="Bilderlexikon der Erotik (DVD-Ausgabe)" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4019_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4020/&amp;sc=band20.htm"><IMG 
-
 title="Der Nürnberger Proze&szlig;" alt="Der Nürnberger Proze&szlig;" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4020_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4021/&amp;sc=band21.htm"><IMG 
-
 title="Deutsche Einheit" alt="Deutsche Einheit" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4021_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4022/&amp;sc=band22.htm"><IMG 
-
 title="Kindlers Malereilexikon  ! DVD-Ausgabe !" 
-
 alt="Kindlers Malereilexikon  ! DVD-Ausgabe !" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4022_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4023/&amp;sc=band23.htm"><IMG 
-
 title="Handw&ouml;rterbuch Psychologie" alt="Handw&ouml;rterbuch Psychologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4023_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4024/&amp;sc=band24.htm"><IMG 
-
 title="Geschichte der deutschen Literatur" 
-
 alt="Geschichte der deutschen Literatur" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4024_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4026/&amp;sc=band26.htm"><IMG 
-
 title="Geschichte des deutschen Buchwesens" 
-
 alt="Geschichte des deutschen Buchwesens" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4026_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4027/&amp;sc=band27.htm"><IMG 
-
 title="In Medias Res (3., überarbeitete und erweiterte Ausgabe)" 
-
 alt="In Medias Res (3., überarbeitete und erweiterte Ausgabe)" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4027_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4028/&amp;sc=band28.htm"><IMG 
-
 title="Dürer: Das Gesamtwerk" alt="Dürer: Das Gesamtwerk" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4028_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4029/&amp;sc=band29.htm"><IMG 
-
 title="Die Luther-Bibel" alt="Die Luther-Bibel" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4029_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4030/&amp;sc=band30.htm"><IMG 
-
 title="Dichtung der Antike" alt="Dichtung der Antike" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4030_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4031/&amp;sc=band31.htm"><IMG 
-
 title="Friedrich Nietzsche" alt="Friedrich Nietzsche" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4031_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4032/&amp;sc=band32.htm"><IMG 
-
 title="Enzyklop&auml;die der DDR" alt="Enzyklop&auml;die der DDR" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4032_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4033/&amp;sc=band33.htm"><IMG 
-
 title="Gro&szlig;es S&auml;ngerlexikon" alt="Gro&szlig;es S&auml;ngerlexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4033_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4034/&amp;sc=band34.htm"><IMG 
-
 title="Metzler Lexikon Sprache" alt="Metzler Lexikon Sprache" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4034_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4035/&amp;sc=band35.htm"><IMG 
-
 title="Handbuch der Kirchengeschichte" alt="Handbuch der Kirchengeschichte" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4035_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4036/&amp;sc=band36.htm"><IMG 
-
 title="W&ouml;rterbuch der deutschen Umgangssprache" 
-
 alt="W&ouml;rterbuch der deutschen Umgangssprache" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4036_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4037/&amp;sc=band37.htm"><IMG 
-
 title="Lexikon der Weltarchitektur" alt="Lexikon der Weltarchitektur" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4037_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4038/&amp;sc=band38.htm"><IMG 
-
 title="Brockhaus Riemann - Musiklexikon" alt="Brockhaus Riemann - Musiklexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4038_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4039/&amp;sc=band39.htm"><IMG 
-
 title="Deutsche Geschichte von Tag zu Tag" 
-
 alt="Deutsche Geschichte von Tag zu Tag" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4039_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4040/&amp;sc=band40.htm"><IMG 
-
 title="Grammatisch-kritisches W&ouml;rterbuch der hochdeutschen Mundart" 
-
 alt="Grammatisch-kritisches W&ouml;rterbuch der hochdeutschen Mundart" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4040_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4041/&amp;sc=band41.htm"><IMG 
-
 title="Lexikon der Renaissance" alt="Lexikon der Renaissance" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4041_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4042/&amp;sc=band42.htm"><IMG 
-
 title="Lexikon der sprichw&ouml;rtlichen Redensarten" 
-
 alt="Lexikon der sprichw&ouml;rtlichen Redensarten" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4042_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4043/&amp;sc=band43.htm"><IMG 
-
 title="Lexikon der Kunst " alt="Lexikon der Kunst " 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4043_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4044/&amp;sc=band44.htm"><IMG 
-
 title="Geschichte der Juden" alt="Geschichte der Juden" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4044_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4045/&amp;sc=band45.htm"><IMG 
-
 title="Deutsche Literatur von Frauen" alt="Deutsche Literatur von Frauen" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4045_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4046/&amp;sc=band46.htm"><IMG 
-
 title="Der Koran" alt="Der Koran" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4046_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4047/&amp;sc=band47.htm"><IMG 
-
 title="Lexikon des Islam" alt="Lexikon des Islam" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4047_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4048/&amp;sc=band48.htm"><IMG 
-
 title="Lexikon des Buddhismus" alt="Lexikon des Buddhismus" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4048_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4049/&amp;sc=band49.htm"><IMG 
-
 title="Das Dritte Reich" alt="Das Dritte Reich" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4049_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4050/&amp;sc=band50.htm"><IMG 
-
 title="Brockhaus' kleines Konversationslexikon" 
-
 alt="Brockhaus' kleines Konversationslexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4050_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4051/&amp;sc=band51.htm"><IMG 
-
 title="Interessante Kriminal-Prozesse" alt="Interessante Kriminal-Prozesse" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4051_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4052/&amp;sc=band52.htm"><IMG 
-
 title="Reclams Opernlexikon" alt="Reclams Opernlexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4052_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4053/&amp;sc=band53.htm"><IMG 
-
 title="Illustrierte Geschichte der Medizin" 
-
 alt="Illustrierte Geschichte der Medizin" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4053_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4054/&amp;sc=band54.htm"><IMG 
-
 title="Wer war wer in der DDR?" alt="Wer war wer in der DDR?" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4054_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4055/&amp;sc=band55.htm"><IMG 
-
 title="Geschichte des Altertums" alt="Geschichte des Altertums" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4055_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4056/&amp;sc=band56.htm"><IMG 
-
 title="Archiv des deutschen Alltagsdesigns" 
-
 alt="Archiv des deutschen Alltagsdesigns" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4056_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4057/&amp;sc=band57.htm"><IMG 
-
 title="Operntexte von Monteverdi bis Strauss" 
-
 alt="Operntexte von Monteverdi bis Strauss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4057_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4058/&amp;sc=band58.htm"><IMG 
-
 title="Max Weber - Gesammelte Werke" alt="Max Weber - Gesammelte Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4058_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4059/&amp;sc=band59.htm"><IMG 
-
 title="English and American Literature" alt="English and American Literature" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4059_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4060/&amp;sc=band60.htm"><IMG 
-
 title="MGG - Musik in Geschichte und Gegenwart" 
-
 alt="MGG - Musik in Geschichte und Gegenwart" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4060_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4061/&amp;sc=band61.htm"><IMG 
-
 title="Shakespeare - S&auml;mtliche Werke" alt="Shakespeare - S&auml;mtliche Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4061_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4062/&amp;sc=band62.htm"><IMG 
-
 title="Wander - Deutsches Sprichw&ouml;rterlexikon" 
-
 alt="Wander - Deutsches Sprichw&ouml;rterlexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4062_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4063/&amp;sc=band63.htm"><IMG 
-
 title="Martin Luther: Gesammelte Werke" alt="Martin Luther: Gesammelte Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4063_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4064/&amp;sc=band64.htm"><IMG 
-
 title="dtv-Lexikon Theater" alt="dtv-Lexikon Theater" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4064_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4065/&amp;sc=band65.htm"><IMG 
-
 title="dtv-W&ouml;rterbuch P&auml;dagogik" alt="dtv-W&ouml;rterbuch P&auml;dagogik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4065_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4066/&amp;sc=band66.htm"><IMG 
-
 title="Der Erste Weltkrieg in deutschen Bildpostkarten" 
-
 alt="Der Erste Weltkrieg in deutschen Bildpostkarten" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4066_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4067/&amp;sc=band67.htm"><IMG 
-
 title="Sulzer: Allgemeine Theorie der Sch&ouml;nen Künste" 
-
 alt="Sulzer: Allgemeine Theorie der Sch&ouml;nen Künste" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4067_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4068/&amp;sc=band68.htm"><IMG 
-
 title="Lexikon Kunsthandwerk und Design" alt="Lexikon Kunsthandwerk und Design" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4068_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4069/&amp;sc=band69.htm"><IMG 
-
 title="Georges: Lateinisch-Deutsch/Deutsch-Lateinisch" 
-
 alt="Georges: Lateinisch-Deutsch/Deutsch-Lateinisch" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4069_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4070/&amp;sc=band70.htm"><IMG 
-
 title="Kindlers Meisterzeichnungen aller Epochen" 
-
 alt="Kindlers Meisterzeichnungen aller Epochen" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4070_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4071/&amp;sc=band71.htm"><IMG 
-
 title="W&ouml;rterbuch Geschichte" alt="W&ouml;rterbuch Geschichte" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4071_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4072/&amp;sc=band72.htm"><IMG 
-
 title="Geschichte der Kriegskunst" alt="Geschichte der Kriegskunst" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4072_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4073/&amp;sc=band73.htm"><IMG 
-
 title="Taschenlexikon Religion und Theologie" 
-
 alt="Taschenlexikon Religion und Theologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4073_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4074/&amp;sc=band74.htm"><IMG 
-
 title="Wilhelm Busch, Werke" alt="Wilhelm Busch, Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4074_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4075/&amp;sc=band75.htm"><IMG 
-
 title="Deutsche Lyrik von Luther bis Rilke" 
-
 alt="Deutsche Lyrik von Luther bis Rilke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4075_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4076/&amp;sc=band76.htm"><IMG 
-
 title="Brehms Tierleben" alt="Brehms Tierleben" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4076_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4077/&amp;sc=band77.htm"><IMG 
-
 title="Karl Mays Werke" alt="Karl Mays Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4077_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4078/&amp;sc=band78.htm"><IMG 
-
 title="Archiv der Gegenwart. Deutschland 1949 bis 1999" 
-
 alt="Archiv der Gegenwart. Deutschland 1949 bis 1999" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4078_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4079/&amp;sc=band79.htm"><IMG 
-
 title="Lexikon der Politik" alt="Lexikon der Politik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4079_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4080/&amp;sc=band80.htm"><IMG 
-
 title="Deutsche M&auml;rchen und Sagen" alt="Deutsche M&auml;rchen und Sagen" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4080_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4081/&amp;sc=band81.htm"><IMG 
-
 title="W&ouml;rterbuch Kirchengeschichte" alt="W&ouml;rterbuch Kirchengeschichte" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4081_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4082/&amp;sc=band82.htm"><IMG 
-
 title="W&ouml;rterbuch Arch&auml;ologie" alt="W&ouml;rterbuch Arch&auml;ologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4082_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4083/&amp;sc=band83.htm"><IMG 
-
 title="W&ouml;rterbuch Psychologie" alt="W&ouml;rterbuch Psychologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4083_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4084/&amp;sc=band84.htm"><IMG 
-
 title="W&ouml;rterbuch Synonyme" alt="W&ouml;rterbuch Synonyme" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4084_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4085/&amp;sc=band85.htm"><IMG 
-
 title="Lexikon der Naturwissenschaftler" alt="Lexikon der Naturwissenschaftler" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4085_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4086/&amp;sc=band86.htm"><IMG 
-
 title="Die Reden Buddhas" alt="Die Reden Buddhas" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4086_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4087/&amp;sc=band87.htm"><IMG 
-
 title="Erz&auml;hlungen aus 1001 Nacht" alt="Erz&auml;hlungen aus 1001 Nacht" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4087_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4088/&amp;sc=band88.htm"><IMG 
-
 title="Deutsche Literatur im Mittelalter" 
-
 alt="Deutsche Literatur im Mittelalter" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4088_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4089/&amp;sc=band89.htm"><IMG 
-
 title="Die Bibliothek der Weltliteratur" alt="Die Bibliothek der Weltliteratur" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4089_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4090/&amp;sc=band90.htm"><IMG 
-
 title=M&auml;rchenlexikon alt=M&auml;rchenlexikon 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4090_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4091/&amp;sc=Band91.htm"><IMG 
-
 title="Edgar Allan Poe: Werke" alt="Edgar Allan Poe: Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4091_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4092/&amp;sc=Band92.htm"><IMG 
-
 title="Kaiser, Führer, Republik" alt="Kaiser, Führer, Republik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4092_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4093/&amp;sc=Band93.htm"><IMG 
-
 title=Hexen alt=Hexen 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4093_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4094/&amp;sc=Band94.htm"><IMG 
-
 title="Asiatische Philosophie - Indien und China" 
-
 alt="Asiatische Philosophie - Indien und China" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4094_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4095/&amp;sc=Band95.htm"><IMG 
-
 title="Deutsche Dramen von Hans Sachs bis Arthur Schnitzler" 
-
 alt="Deutsche Dramen von Hans Sachs bis Arthur Schnitzler" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4095_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4096/&amp;sc=Band96.htm"><IMG 
-
 title="Biblisch-historisches Handw&ouml;rterbuch" 
-
 alt="Biblisch-historisches Handw&ouml;rterbuch" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4096_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4097/&amp;sc=Band97.htm"><IMG 
-
 title="Theodor W. Adorno: Gesammelte Schriften" 
-
 alt="Theodor W. Adorno: Gesammelte Schriften" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4097_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4098/&amp;sc=Band98.htm"><IMG 
-
 title="Evangelisches Kirchenlexikon" alt="Evangelisches Kirchenlexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4098_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4099/&amp;sc=Band99.htm"><IMG 
-
 title="Stefan George: Werke" alt="Stefan George: Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4099_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4100/&amp;sc=Band100.htm"><IMG 
-
 title="Meyers Gro&szlig;es Konversations-Lexikon" 
-
 alt="Meyers Gro&szlig;es Konversations-Lexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4100_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/9101/&amp;sc=band101.htm"><IMG 
-
 title="Der Auschwitz-Prozess" alt="Der Auschwitz-Prozess" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/9101_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4102/&amp;sc=band102.htm"><IMG 
-
 title="Deutsche Autobiographien" alt="Deutsche Autobiographien" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4102_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4103/&amp;sc=Band103.htm"><IMG 
-
 title="Friedrich Schiller Werke" alt="Friedrich Schiller Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4103_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4104/&amp;sc=band104.htm"><IMG 
-
 title="Reklame. Produktwerbung im Plakat" 
-
 alt="Reklame. Produktwerbung im Plakat" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4104_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4105/&amp;sc=band105.htm"><IMG 
-
 title="Jules Verne: Bekannte und unbekannte Welten. Das erz&auml;hlerische Werk" 
-
 alt="Jules Verne: Bekannte und unbekannte Welten. Das erz&auml;hlerische Werk" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4105_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4106/&amp;sc=band106.htm"><IMG 
-
 title="Vollst&auml;ndiges Heiligen-Lexikon" alt="Vollst&auml;ndiges Heiligen-Lexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4106_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4107/&amp;sc=band107.htm"><IMG 
-
 title="Richard Wagner: Werke, Schriften und Briefe" 
-
 alt="Richard Wagner: Werke, Schriften und Briefe" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4107_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4108/&amp;sc=Band108.htm"><IMG 
-
 title="Gutes Benehmen - Anstandsbücher" alt="Gutes Benehmen - Anstandsbücher" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4108_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4109/&amp;sc=band109.htm"><IMG 
-
 title="Handlexikon zur Milit&auml;rgeschichte" 
-
 alt="Handlexikon zur Milit&auml;rgeschichte" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4109_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4110/&amp;sc=band110.htm"><IMG 
-
 title="Europ&auml;ische M&auml;rchen" alt="Europ&auml;ische M&auml;rchen" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4110_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4111/&amp;sc=Band111.htm"><IMG 
-
 title="Merkwürdige Literatur" alt="Merkwürdige Literatur" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4111_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4112/&amp;sc=Band112.htm"><IMG 
-
 title="Atlas Deutsche Sprache" alt="Atlas Deutsche Sprache" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4112_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4113/&amp;sc=Band113.htm"><IMG 
-
 title="Deutsche Komponisten von Bach bis Wagner" 
-
 alt="Deutsche Komponisten von Bach bis Wagner" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4113_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4114/&amp;sc=Band114.htm"><IMG 
-
 title="Schotts Führer durch die Musikwelt" 
-
 alt="Schotts Führer durch die Musikwelt" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4114_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4115/&amp;sc=Band115.htm"><IMG 
-
 title="Pierer's Universal-Lexikon" alt="Pierer's Universal-Lexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4115_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4116/&amp;sc=Band116.htm"><IMG 
-
 title="Lueger: Lexikon der gesamten Technik" 
-
 alt="Lueger: Lexikon der gesamten Technik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4116_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4117/&amp;sc=Band117.htm"><IMG 
-
 title="Pape: Griechisch-Deutsch" alt="Pape: Griechisch-Deutsch" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4117_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4118/&amp;sc=band118.htm"><IMG 
-
 title="Damen Conversations Lexikon" alt="Damen Conversations Lexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4118_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4119/&amp;sc=Band119.htm"><IMG 
-
 title="Fischer Weltgeschichte" alt="Fischer Weltgeschichte" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4119_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4120/&amp;sc=Band120.htm"><IMG 
-
 title="Faust – Anthologie einer deutschen Legende" 
-
 alt="Faust – Anthologie einer deutschen Legende" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4120_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4121/&amp;sc=Band121.htm"><IMG 
-
 title="Joachim Ringelnatz: Das Gesamtwerk                  " 
-
 alt="Joachim Ringelnatz: Das Gesamtwerk                  " 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4121_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4122/&amp;sc=band122.htm"><IMG 
-
 title="Albert Einstein" alt="Albert Einstein" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4122_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4123/&amp;sc=Band123.htm"><IMG 
-
 title="Praktisches W&ouml;rterbuch der Musik" alt="Praktisches W&ouml;rterbuch der Musik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4123_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4124/&amp;sc=Band124.htm"><IMG 
-
 title="Atlas Namenkunde" alt="Atlas Namenkunde" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4124_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4125/&amp;sc=Band125.htm"><IMG 
-
 title="Deutsche Literatur von Luther bis Tucholsky         " 
-
 alt="Deutsche Literatur von Luther bis Tucholsky         " 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4125_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4126/&amp;sc=Band126.htm"><IMG 
-
 title="Das Literarische Quartett    " alt="Das Literarische Quartett    " 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4126_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4127/&amp;sc=band127.htm"><IMG 
-
 title="Klassiker des Protestantismus" alt="Klassiker des Protestantismus" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4127_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4128/&amp;sc=band128.htm"><IMG 
-
 title="&Eacute;mile Zola: Die Rougon-Macquart" alt="&Eacute;mile Zola: Die Rougon-Macquart" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4128_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4129/&amp;sc=band129.htm"><IMG 
-
 title="Arthur Conan Doyle: Sherlock Holmes. Zweisprachig Englisch / Deutsch" 
-
 alt="Arthur Conan Doyle: Sherlock Holmes. Zweisprachig Englisch / Deutsch" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4129_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4130/&amp;sc=band130.htm"><IMG 
-
 title="Wolfgang Amadeus Mozart. Leben und Werk" 
-
 alt="Wolfgang Amadeus Mozart. Leben und Werk" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4130_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4131/&amp;sc=band131.htm"><IMG 
-
 title="Conversations-Lexikon oder kurzgefa&szlig;tes Handw&ouml;rterbuch" 
-
 alt="Conversations-Lexikon oder kurzgefa&szlig;tes Handw&ouml;rterbuch" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4131_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4132/&amp;sc=band132.htm"><IMG 
-
 title="Karlheinz Deschner: Kriminalgeschichte des Christentums" 
-
 alt="Karlheinz Deschner: Kriminalgeschichte des Christentums" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4132_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4133/&amp;sc=band133.htm"><IMG 
-
 title="Herders Conversations-Lexikon (1. Aufl., 1854-1857)" 
-
 alt="Herders Conversations-Lexikon (1. Aufl., 1854-1857)" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4133_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4134/&amp;sc=band134.htm"><IMG 
-
 title="Edmund Reitter: Fauna Germanica" alt="Edmund Reitter: Fauna Germanica" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4134_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4135/&amp;sc=band135.htm"><IMG 
-
 title="Benjamin Hederich: Gründliches mythologisches Lexikon" 
-
 alt="Benjamin Hederich: Gründliches mythologisches Lexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4135_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4136/&amp;sc=band136.htm"><IMG 
-
 title="Erotische Literatur von &raquo;Lysistrata&laquo; bis &raquo;Lady Chatterley&laquo;" 
-
 alt="Erotische Literatur von &raquo;Lysistrata&laquo; bis &raquo;Lady Chatterley&laquo;" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4136_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4137/&amp;sc=band137.htm"><IMG 
-
 title="Literatur vor Ort" alt="Literatur vor Ort" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4137_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4138/&amp;sc=band138.htm"><IMG 
-
 title="Geschichte der Biologie" alt="Geschichte der Biologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4138_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4139/&amp;sc=band139.htm"><IMG 
-
 title="W&ouml;rterbuch Musik" alt="W&ouml;rterbuch Musik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4139_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4140/&amp;sc=band140.htm"><IMG 
-
 title="W&ouml;rterbuch Biologie" alt="W&ouml;rterbuch Biologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4140_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4141/&amp;sc=band141.htm"><IMG 
-
 title="W&ouml;rterbuch Physik" alt="W&ouml;rterbuch Physik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4141_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4142/&amp;sc=band142.htm"><IMG 
-
 title="Van Gogh: S&auml;mtliche Briefe und Gem&auml;lde" 
-
 alt="Van Gogh: S&auml;mtliche Briefe und Gem&auml;lde" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4142_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4143/&amp;sc=band143.htm"><IMG 
-
 title="Schlagw&ouml;rter und Schlachtrufe" alt="Schlagw&ouml;rter und Schlachtrufe" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4143_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4144/&amp;sc=band144.htm"><IMG 
-
 title="Lexikon der Arzneipflanzen und Drogen" 
-
 alt="Lexikon der Arzneipflanzen und Drogen" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4144_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/4145/&amp;sc=band145.htm"><IMG 
-
 title="Handw&ouml;rterbuch des deutschen Aberglaubens" 
-
 alt="Handw&ouml;rterbuch des deutschen Aberglaubens" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/4145_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>Directmedia - Bücher</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/8001/&amp;sc=LiterarischesQuartettBuch.htm"><IMG 
-
 title="Das Literarische Quartett<br>Buchausgabe" 
-
 alt="Das Literarische Quartett<br>Buchausgabe" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/8001_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>WikiPress</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7001/&amp;sc=WikiPress1.htm"><IMG 
-
 title="Wikipedia – Das Buch" alt="Wikipedia – Das Buch" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7001_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7002/&amp;sc=WikiPress2.htm"><IMG 
-
 title=F&auml;r&ouml;er alt=F&auml;r&ouml;er 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7002_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7003/&amp;sc=WikiPress3.htm"><IMG 
-
 title="Hip Hop" alt="Hip Hop" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7003_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7004/&amp;sc=WikiPress4.htm"><IMG 
-
 title=Antarktis alt=Antarktis 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7004_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7005/&amp;sc=WikiPress5.htm"><IMG 
-
 title=Robben alt=Robben 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7005_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7006/&amp;sc=WikiPress6.htm"><IMG 
-
 title="Das Sonnensystem" alt="Das Sonnensystem" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7006_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7007/&amp;sc=WikiPress7.htm"><IMG 
-
 title=Computersicherheit alt=Computersicherheit 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7007_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7008/&amp;sc=WikiPress8.htm"><IMG 
-
 title=Fahrr&auml;der alt=Fahrr&auml;der 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7008_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7009/&amp;sc=WikiPress9.htm"><IMG 
-
 title="DTP professionell" alt="DTP professionell" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7009_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/7010/&amp;sc=WikiPress10.htm"><IMG 
-
 title=Friedensnobelpreis alt=Friedensnobelpreis 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/7010_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>Aretinus</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1810/&amp;sc=Klassik.htm"><IMG 
-
 title="1.000 Meisterwerke der klassischen Musik (Das mp3-Paket)" 
-
 alt="1.000 Meisterwerke der klassischen Musik (Das mp3-Paket)" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1810_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1812/&amp;sc=Beethoven-MP3.htm"><IMG 
-
 title="Ludwig van Beethoven: Meisterwerke – 40 Stunden MP3" 
-
 alt="Ludwig van Beethoven: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1812_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1816/&amp;sc=Haydn-MP3.htm"><IMG 
-
 title="Franz Joseph Haydn: Meisterwerke – 40 Stunden MP3" 
-
 alt="Franz Joseph Haydn: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1816_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1818/&amp;sc=Mozart-MP3.htm"><IMG 
-
 title="Wolfgang Amadeus Mozart: Meisterwerke – 40 Stunden MP3" 
-
 alt="Wolfgang Amadeus Mozart: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1818_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1811/&amp;sc=Bach-MP3.htm"><IMG 
-
 title="Johann Sebastian Bach: Meisterwerke – 40 Stunden MP3" 
-
 alt="Johann Sebastian Bach: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1811_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1815/&amp;sc=Haendel-MP3.htm"><IMG 
-
 title="Georg Friedrich H&auml;ndel: Meisterwerke – 40 Stunden MP3" 
-
 alt="Georg Friedrich H&auml;ndel: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1815_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1820/&amp;sc=Vivaldi-MP3.htm"><IMG 
-
 title="Antonio Vivaldi: Meisterwerke – 40 Stunden MP3" 
-
 alt="Antonio Vivaldi: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1820_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1813/&amp;sc=Brahms-MP3.htm"><IMG 
-
 title="Johannes Brahms: Meisterwerke – 40 Stunden MP3" 
-
 alt="Johannes Brahms: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1813_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1814/&amp;sc=Dvorak-MP3.htm"><IMG 
-
 title="Antonin Dvo&#345;ák: Meisterwerke – 40 Stunden MP3" 
-
 alt="Antonin Dvo&#345;ák: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1814_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1817/&amp;sc=Mendelssohn-Bartholdy-MP3.htm"><IMG 
-
 title="Felix Mendelssohn Bartholdy: Meisterwerke – 40 Stunden MP3" 
-
 alt="Felix Mendelssohn Bartholdy: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1817_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1819/&amp;sc=Schubert-MP3.htm"><IMG 
-
 title="Franz Schubert: Meisterwerke – 40 Stunden MP3" 
-
 alt="Franz Schubert: Meisterwerke – 40 Stunden MP3" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1819_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>Sonderb&auml;nde</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1220/&amp;sc="><IMG 
-
 title="Das digitale Lexikon der popul&auml;ren Irrtümer" 
-
 alt="Das digitale Lexikon der popul&auml;ren Irrtümer" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1220_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1180/&amp;sc=nutzlos.htm"><IMG 
-
 title="Das digitale Handbuch des nutzlosen Wissens" 
-
 alt="Das digitale Handbuch des nutzlosen Wissens" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1180_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1162/&amp;sc=Naturwissenschaften.htm"><IMG 
-
 title="Was Sie über Naturwissenschaften heute wissen müssen" 
-
 alt="Was Sie über Naturwissenschaften heute wissen müssen" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1162_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1229/&amp;sc=Oesterreich_Literatur.htm"><IMG 
-
 title="&Ouml;sterreichische Literatur von Grillparzer bis Schnitzler" 
-
 alt="&Ouml;sterreichische Literatur von Grillparzer bis Schnitzler" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1229_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1230/&amp;sc=Kamasutra.htm"><IMG 
-
 title=Kamasutra alt=Kamasutra 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1230_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1226/&amp;sc=Kunstwuerfel.htm"><IMG 
-
 title="Der Kunstwürfel" alt="Der Kunstwürfel" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1226_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1233/&amp;sc=GaultMillau.htm"><IMG 
-
 title="Gault Millau 2004: Deutschland, &Ouml;sterreich, Schweiz" 
-
 alt="Gault Millau 2004: Deutschland, &Ouml;sterreich, Schweiz" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1233_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1238/&amp;sc=Casanova.htm"><IMG 
-
 title="Casanova. Geschichte meines Lebens" 
-
 alt="Casanova. Geschichte meines Lebens" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1238_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1241/&amp;sc=Welterotik.htm"><IMG 
-
 title=Welterotik alt=Welterotik 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1241_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1237/&amp;sc=Friedenstheologie.htm"><IMG 
-
 title="Handbibliothek Christlicher Friedenstheologie" 
-
 alt="Handbibliothek Christlicher Friedenstheologie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1237_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1239/&amp;sc=populaere_musik.htm"><IMG 
-
 title="Lexikon der popul&auml;ren Musik" alt="Lexikon der popul&auml;ren Musik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1239_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1234/&amp;sc=WeinGuide.htm"><IMG 
-
 title="WeinGuide 2004 (Gault Millau)" alt="WeinGuide 2004 (Gault Millau)" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1234_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1340/&amp;sc=Entdeckungen.htm"><IMG 
-
 title="Entdeckungen 1. Neue Autoren stellen sich vor" 
-
 alt="Entdeckungen 1. Neue Autoren stellen sich vor" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1340_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1367/&amp;sc=LiteraturgeschichteDDR.htm"><IMG 
-
 title="Kleine Literaturgeschichte der DDR" 
-
 alt="Kleine Literaturgeschichte der DDR" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1367_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1368/&amp;sc=ItalienischeLiteratur.htm"><IMG 
-
 title="Geschichte der italienischen Literatur" 
-
 alt="Geschichte der italienischen Literatur" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1368_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1369/&amp;sc=SpanischeLiteratur.htm"><IMG 
-
 title="Eine Geschichte der spanischen Literatur" 
-
 alt="Eine Geschichte der spanischen Literatur" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1369_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1264/&amp;sc=Jazzlexikon.htm"><IMG 
-
 title=Jazz-Lexikon alt=Jazz-Lexikon 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1264_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1250/&amp;sc="><IMG 
-
 title="Die Geburt der Hom&ouml;opathie     " alt="Die Geburt der Hom&ouml;opathie     " 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1250_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1341/&amp;sc=Entdeckungen2.htm"><IMG 
-
 title="Entdeckungen 2" alt="Entdeckungen 2" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1341_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1270/&amp;sc=Neuer_Bildungswuerfel.htm"><IMG 
-
 title="Der neue Bildungswürfel" alt="Der neue Bildungswürfel" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1270_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1294/&amp;sc=band1294.htm"><IMG 
-
 title="Meyers Gro&szlig;es Konversations-Lexikon (Studienausgabe)" 
-
 alt="Meyers Gro&szlig;es Konversations-Lexikon (Studienausgabe)" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1294_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1296/&amp;sc=Musiktheater.htm"><IMG 
-
 title="A. Ommer: Verzeichnis aller Operngesamtaufnahmen. Von 1908 bis zur Gegenwart" 
-
 alt="A. Ommer: Verzeichnis aller Operngesamtaufnahmen. Von 1908 bis zur Gegenwart" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1296_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1268/&amp;sc=wikipedia2006.htm"><IMG 
-
 title="Wikipedia – Die freie Enzyklop&auml;die. Ausgabe Frühjahr 2006" 
-
 alt="Wikipedia – Die freie Enzyklop&auml;die. Ausgabe Frühjahr 2006" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1268_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>Bildung, die jeder haben muss</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1282/&amp;sc=habenmuss_romane.htm"><IMG 
-
 title="100 Romane, die jeder haben muss" alt="100 Romane, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1282_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1283/&amp;sc=habenmuss_theater.htm"><IMG 
-
 title="100 Theaterstücke, die jeder haben muss" 
-
 alt="100 Theaterstücke, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1283_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1286/&amp;sc=habenmuss_gedichte.htm"><IMG 
-
 title="1001 Gedichte, die jeder haben muss" 
-
 alt="1001 Gedichte, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1286_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1284/&amp;sc=habenmuss_philosophie.htm"><IMG 
-
 title="100 Werke der Philosophie, die jeder haben muss" 
-
 alt="100 Werke der Philosophie, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1284_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1287/&amp;sc=habenmuss_gemaelde.htm"><IMG 
-
 title="1000 Gem&auml;lde, die jeder haben muss" 
-
 alt="1000 Gem&auml;lde, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1287_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1288/&amp;sc=habenmuss_maerchen.htm"><IMG 
-
 title="1000 M&auml;rchen und Sagen, die jeder haben muss" 
-
 alt="1000 M&auml;rchen und Sagen, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1288_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1281/&amp;sc=habenmuss_englaender.htm"><IMG 
-
 title="100 englische Klassiker, die jeder haben muss" 
-
 alt="100 englische Klassiker, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1281_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1289/&amp;sc=habenmuss_zeichnungen.htm"><IMG 
-
 title="1000 Zeichnungen, die jeder haben muss" 
-
 alt="1000 Zeichnungen, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1289_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1285/&amp;sc=habenmuss_weltliteratur.htm"><IMG 
-
 title="100 Werke der Weltliteratur, die jeder haben muss" 
-
 alt="100 Werke der Weltliteratur, die jeder haben muss" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1285_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>The Yorck Project</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1716/&amp;sc=10000.htm"><IMG 
-
 title="10000 Meisterwerke der Malerei DVD-ROM" 
-
 alt="10000 Meisterwerke der Malerei DVD-ROM" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1716_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1722/&amp;sc=Deutschland.htm"><IMG 
-
 title="Deutschland in alten Ansichten DVD-ROM" 
-
 alt="Deutschland in alten Ansichten DVD-ROM" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1722_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1725/&amp;sc=DVD_Bildpostkarten.htm"><IMG 
-
 title="5000 Bildpostkarten DVD-ROM" alt="5000 Bildpostkarten DVD-ROM" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1725_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1724/&amp;sc=DVD_Stadtansichten.htm"><IMG 
-
 title="5000 historische Stadtansichten DVD-ROM" 
-
 alt="5000 historische Stadtansichten DVD-ROM" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1724_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1723/&amp;sc=DVD_Zeichnungen.htm"><IMG 
-
 title="5000 Zeichnungen DVD-ROM" alt="5000 Zeichnungen DVD-ROM" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1723_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1705/&amp;sc=Liebig.htm"><IMG 
-
 title="Liebig's Sammelbilder" alt="Liebig's Sammelbilder" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1705_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1710/&amp;sc=Druckgraphik.htm"><IMG 
-
 title="5000 Meisterwerke der europ&auml;ischen Druckgrafik" 
-
 alt="5000 Meisterwerke der europ&auml;ischen Druckgrafik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1710_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1711/&amp;sc=Photographie.htm"><IMG 
-
 title="5000 Meisterwerke der Photographie" 
-
 alt="5000 Meisterwerke der Photographie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1711_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1719/&amp;sc=25000_MW.htm"><IMG 
-
 title="25000 Meisterwerke" alt="25000 Meisterwerke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1719_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1720/&amp;sc=Ikonen.htm"><IMG 
-
 title="Ikonen der orthodoxen Kirche" alt="Ikonen der orthodoxen Kirche" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1720_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1721/&amp;sc=JapanischeKunst.htm"><IMG 
-
 title="Japanische Kunst" alt="Japanische Kunst" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1721_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1726/&amp;sc=Kunstkalender.htm"><IMG 
-
 title="Kunstkalender selbst gemacht" alt="Kunstkalender selbst gemacht" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1726_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1727/&amp;sc=Literaturkalender.htm"><IMG 
-
 title="Literaturkalender selbst gemacht" alt="Literaturkalender selbst gemacht" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1727_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1717/&amp;sc=Karikaturen.htm"><IMG 
-
 title="Karikaturen. Zeitkritik mit Witz" alt="Karikaturen. Zeitkritik mit Witz" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1717_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1728/&amp;sc=Chinesische_Kunst.htm"><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1729/&amp;sc=Erotische_Kunst.htm"><IMG 
-
 title="Erotische Kunst" alt="Erotische Kunst" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1729_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1730/&amp;sc=BibelKunst.htm"><IMG 
-
 title="Die Bibel in der Kunst" alt="Die Bibel in der Kunst" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1730_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1734/&amp;sc=dpa.htm"><IMG 
-
 title="Das gro&szlig;e dpa-Bildarchiv" alt="Das gro&szlig;e dpa-Bildarchiv" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1734_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>Kunst für Kenner</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1751/&amp;sc=KfK_Renaissance.htm"><IMG 
-
 title="Kunst für Kenner: Die Renaissance" 
-
 alt="Kunst für Kenner: Die Renaissance" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1751_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1752/&amp;sc=KfK_Barock.htm"><IMG 
-
 title="Kunst für Kenner: Der Barock" alt="Kunst für Kenner: Der Barock" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1752_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1753/&amp;sc=KfK_Impressionismus.htm"><IMG 
-
 title="Kunst für Kenner: Der Impressionismus" 
-
 alt="Kunst für Kenner: Der Impressionismus" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1753_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1271/&amp;sc=KfK_Designlexikon.htm"><IMG 
-
 title="Kunst für Kenner: Das Designlexikon" 
-
 alt="Kunst für Kenner: Das Designlexikon" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1271_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1755/&amp;sc=KfK_Portraets.htm"><IMG 
-
 title="Kunst für Kenner: Portr&auml;ts" alt="Kunst für Kenner: Portr&auml;ts" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1755_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1754/&amp;sc=KfK_Landschaften.htm"><IMG 
-
 title="Kunst für Kenner: Landschaften" alt="Kunst für Kenner: Landschaften" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1754_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1756/&amp;sc=KfK_Stillleben.htm"><IMG 
-
 title="Kunst für Kenner: Stillleben" alt="Kunst für Kenner: Stillleben" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1756_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1272/&amp;sc=KfK_graphischeKuenste.htm"><IMG 
-
 title="Kunst für Kenner: Lexikon der graphischen Künste" 
-
 alt="Kunst für Kenner: Lexikon der graphischen Künste" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1272_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1747/&amp;sc=KfK_Photographie.htm"><IMG 
-
 title="Kunst für Kenner: Die Anf&auml;nge der Photographie" 
-
 alt="Kunst für Kenner: Die Anf&auml;nge der Photographie" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1747_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1748/&amp;sc=KfK_ErotischeKust.htm"><IMG 
-
 title="Kunst für Kenner: Erotische Kunst" 
-
 alt="Kunst für Kenner: Erotische Kunst" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1748_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1749/&amp;sc=KfK_Romantik.htm"><IMG 
-
 title="Kunst für Kenner: Die Romantik" alt="Kunst für Kenner: Die Romantik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1749_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1731/&amp;sc=KfK_Kunstkalender.htm"><IMG 
-
 title="Kunst für Kenner: Kunstkalender" alt="Kunst für Kenner: Kunstkalender" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1731_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR>&nbsp;<BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1757/&amp;sc=KfK_Tiere.htm"><IMG 
-
 title="Kunst für Kenner: Tiere" alt="Kunst für Kenner: Tiere" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1757_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1758/&amp;sc=KfK_Interieurs"><IMG 
-
 title="Kunst für Kenner: Interieurs" alt="Kunst für Kenner: Interieurs" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1758_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1750/&amp;sc=KfK_Christliche_Kunst.htm"><IMG 
-
 title="Kunst für Kenner: Christliche Kunst" 
-
 alt="Kunst für Kenner: Christliche Kunst" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1750_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>Digitale Bibliothek Spezial</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1161/&amp;sc=Dominikaner.htm"><IMG 
-
 title="Constitutiones et Acta Capitulorum Generalium Ordinis Fratrum Praedicatorum 1232-2001" 
-
 alt="Constitutiones et Acta Capitulorum Generalium Ordinis Fratrum Praedicatorum 1232-2001" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1161_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1177/&amp;sc=Hahnemann.htm"><IMG 
-
 title="Hahnemann, Gesammelte Werke" alt="Hahnemann, Gesammelte Werke" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1177_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1178/&amp;sc="><IMG 
-
 title="Russ. Literatur v. Nestor b. Majakowski" 
-
 alt="Russ. Literatur v. Nestor b. Majakowski" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1178_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR><BR></P>
-
 <P class=U2>Digitale Bibliothek Quellen</P>
-
 <P><BR><A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1351/&amp;sc=QG01.htm"><IMG 
-
 title="Quellen Germanistik: Empfindsamkeit/Sturm und Drang" 
-
 alt="Quellen Germanistik: Empfindsamkeit/Sturm und Drang" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1351_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1352/&amp;sc=QG02.htm"><IMG 
-
 title="Quellen Germanistik: Klassik" alt="Quellen Germanistik: Klassik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1352_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1353/&amp;sc=QG03.htm"><IMG 
-
 title="Quellen Germanistik: Romantik" alt="Quellen Germanistik: Romantik" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1353_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1371/&amp;sc=QP01.htm"><IMG 
-
 title="Quellen Philosophie: Griechisch-r&ouml;mische Antike" 
-
 alt="Quellen Philosophie: Griechisch-r&ouml;mische Antike" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1371_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1372/&amp;sc=QP02.htm"><IMG 
-
 title="Quellen Philosophie: Empirismus, Skeptizismus, Rationalismus" 
-
 alt="Quellen Philosophie: Empirismus, Skeptizismus, Rationalismus" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1372_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <A 
-
 href="http://www.digitale-bibliothek.de/scripts/ts.dll?s=3&amp;id=25D7AA91&amp;mp=/art/1373/&amp;sc=QP03.htm"><IMG 
-
 title="Quellen Philosophie: Deutscher Idealismus" 
-
 alt="Quellen Philosophie: Deutscher Idealismus" 
-
 src="http://www.digitale-bibliothek.de/images/Cover/CoverSmall/1373_cover2D.jpg" 
-
 align=middle border=0></A>&nbsp; <BR></P>
-
 <P>&copy; 2006 DIRECTMEDIA Publishing GmbH</P>
-
 <P>傻按：嘿嘿择其善者而eMule之。</P>
+
 
 pilger 2006-5-1 05:32:50
 
 好東東啊也提供一些雜誌的鏈接
 
-
-
 http://www.zeitschriftendatenbank.de/index.html
-

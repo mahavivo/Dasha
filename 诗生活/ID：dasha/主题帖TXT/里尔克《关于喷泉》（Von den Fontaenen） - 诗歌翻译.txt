@@ -2,204 +2,107 @@ Dasha 2004-6-5 14:00:43
 
 里尔克《关于喷泉》（Von den Fontaenen）关于喷泉
 
-
-
 霎时间我明白了许多关于喷泉的事，
-
 那些捉摸不定的玻璃树。
-
 我能够谈论它们就像谈论我的泪，
-
 我的，我在大梦中得意适志，
-
 一度轻抛复又忘记的泪。
 
-
-
 我难道忘记了，天空将手
-
 伸向万物伸入众生？
-
 我难道从未目睹那空前的恢宏，
-
 在古苑的坡道上，在柔婉的
-
 充满渴望的薄暮中，——在
-
 陌生少女们中间升起的歌声里？
-
 歌声从旋律中流溢而出，
-
 真实可触，仿佛它们真的
-
 倒映在铺展着的池塘。
 
-
-
 只要回忆起所有那些
-
 发生在喷泉发生在我身上的事，——
-
 我甚至感受到坠落的重量，
-
 我在里面再一次看见了水：
-
 我明白了那些枝条，蜿蜒低垂，
-
 我明白了那些声音，燃烧着火苗，
-
 我明白了那些池塘，只是迟缓地
-
 反复拍击着堤岸，
-
 我明白了那些夜空，从西方
-
 被夕阳烧焦的森林里别样地隆起，
-
 寥廓地行远、渐渐暗去，仿佛
-
 这个世界并非是它所料想的世界……
 
-
-
 我难道忘记了，星星一颗颗变成石头，
-
 彼此间紧锁心扉？
-
 我难道忘记了，夜空里的星星只是
-
 在流泪中相知？或许我们被编织在
-
 其它生命的天空里。它们夜夜
-
 将我们仰望。或许它们的诗人
-
 将我们颂扬。或许它们中许多人
-
 仰求我们。或许我们被陌生的诅咒
-
 所诅咒，只是那些诅咒从未抵达我们，
-
 或许我们中的一个人被它们
-
 尊为神灵，当它们独自掩泪，
-
 它们信奉他却又失去了他，
-
 他的肖像，就像它们寻索时手中蜡烛
-
 发出的光，稍纵即逝
-
 掠过我们心不在焉的脸……
 
-
-
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-
 Von den Fontaenen
 
-
-
 Auf einmal weiss ich viel von den Fontaenen, 
-
 den unbegreiflichen Baeumen aus Glas. 
-
 Ich koennte reden wie von eignen Traenen, 
-
 die ich, ergriffen von sehr grossen Traeumen, 
-
 einmal vergeudete und dann vergass. 
 
-
-
 Vergass ich denn, dass Himmel Haende reichen 
-
 zu vielen Dingen und in das Gedraenge? 
-
 Sah ich nicht immer Grossheit ohnegleichen 
-
 im Aufstieg alter Parke, vor den weichen 
-
 erwartungsvollen Abenden, - in bleichen 
-
 aus fremden Maedchen steigenden Gesaengen, 
-
 die ueberfliessen aus der Melodie 
-
 und wirklich werden und als muessten sie 
-
 sich spiegeln in den aufgetanen Teichen?
 
-
-
 Ich muss mich nur erinnern an das Alles, 
-
 was an Fontaenen und an mir geschah, - 
-
 dann fuehl ich auch die Last des Niederfalles, 
-
 in welcher ich die Wasser wiedersah: 
-
 Und weiss von Zweigen, die sich abwaerts wandten, 
-
 von Stimmen, die mit kleiner Flamme brannten, 
-
 von Teichen, welche nur die Uferkanten 
-
 schwachsinnig und verschoben wiederholten, 
-
 von Abendhimmeln, welche von verkohlten 
-
 westlichen Waeldern ganz entfremdet traten 
-
 sich anders woelbten, dunkelten und taten 
-
 als waer das nicht die Welt, die sie gemeint...
 
-
-
 Vergass ich denn, dass Stern bei Stern versteint 
-
 und sich verschliesst gegen die Nachbargloben? 
-
 Dass sich die Welten nur noch wie verweint 
-
 im Raum erkennen? - Vielleicht sind wir oben, 
-
 in Himmel andrer Wesen eingewoben, 
-
 die zu uns aufschaun abends. Vielleicht loben 
-
 uns ihre Dichter. Vielleicht beten viele 
-
 zu uns empor. Vielleicht sind wir die Ziele 
-
 von fremden Fluechen, die uns nie erreichen, 
-
 Nachbaren eines Gottes, den sie meinen 
-
 in unsrer Hoehe, wenn sie einsam weinen, 
-
 an den sie glauben und den sie verlieren, 
-
 und dessen Bildnis, wie ein Schein aus ihren 
-
 suchenden Lampen, fluechtig und verweht 
-
 ueber unsere zerstreuten Gesichter geht...
+
 
 张祈 2004-5-31 10:00:04
 
 译得很精心。霎时间好像改成刹时。
 
-
-
 这二句也不够平滑。
 
-
-
 我在大梦中得意适志，
-
 一度轻抛复又忘记的泪。
 
 
@@ -207,78 +110,50 @@ ueber unsere zerstreuten Gesichter geht...
 Dasha 2004-5-31 12:19:11
 
 :-(昔者庄周梦为胡蝶，栩栩然胡蝶也。自喻适志与！不知周也。昔者庄周梦为胡蝶，栩栩然胡蝶也。自喻适志与！不知周也。俄然
-
 觉，则蘧蘧然周也。不知周之梦为胡蝶与？胡蝶之梦为周与？？周与
-
 胡蝶则必有分矣。此之谓物化。
-
-
 
 《庄子·齐物论第二》
 
-
-
 Dasha想化用这段文字，但目前还在剧烈思想斗争中。“得意适志”，魏晋人的口头禅吧（扔了多年，有些记不得出处了）。
+
 
 得一忘二 2004-6-1 00:20:53
 
 你的贴子永远给我带来许许多多......
-
 向你学习！！！
+
 
 pilger 2004-6-1 17:35:20
 
 好譯﹐ 學習ing。 問候﹐ 大約兩周鏈結不上詩生活﹐所以無法及時回復。
-
 期待多貼佳作。
+
 
 Dasha 2004-6-3 07:55:33
 
 Pilger兄好，里尔克Klage一诗Dasha有德语疑难请教！Ich glaube, im Boot,
-
 das vorueberfuhr,
-
 hoerte ich etwas Banges sagen.
 
-
-
 最后一句，Dasha手中的英译本（Edward Snow，C. F. MacIntyre）、汉译本（李魁贤、杨武能、绿原）皆解作“ich hoerte etwas sagen Banges”，而Cliff Crego的网站（http://picture-poems.com/rilke/features/braidedstream.html）也译作：
-
 I believe that something
-
 frightening was said
-
 in the boat which just passed by.
 
-
-
 您译作：
-
 我相信, 從擦肩而過
-
 的船只上.
-
 我曾聽到膽怯在說話.
 
-
-
 Dasha的译文：
-
 我想，这小船
-
 擦肩而过，
-
 我听见恐惧的什么在里面述说。
-
-
 
 而上海译文的《新德汉》etwas条2 ②：后跟名词化的形容词或代词时，形容词或代词需强变化……，例：Ich muss dir etwas Wichtiges mitteilen. （Seite365）
 
-
-
 因此，很想知道他们为什么要那么译？请Pilger兄私下问问德国朋友好么？
-
-
 
 
 
@@ -288,23 +163,16 @@ Dasha的译文：
 
 up
 
+
 sonetteorpheus 2004-8-17 04:37:53
 
 问过一位朋友, 此句结构与 Ich h&ouml;rte Kind sprechen. 大相径庭。
-
 Ich h&ouml;rte etwas Banges sagen.一句的结构中etwas Banges的主语jemand 略，其大意为： 我曾听见， 某个人（有人）在说着什么恐怖的事情。
-
   etwas Banges 中的 etwas 并非是施动者，而是etwas Banges 为一结构，乃是陈述之内容。
-
    
 
-
-
 ------------------------
-
    近几月网路链接一直不好，不能在Poemlife发帖，故应于数月前所发之贴，至今日珊珊迟来。 望见谅。
-
-
 
 Alles Gute.
 
@@ -314,21 +182,23 @@ pilger 2004-8-17 04:42:16
 
 用Pilger的ID发帖贴不上来, 换个ID倒可以了.这里链接不是太好.
 
+
 Dasha 2004-8-17 12:02:48
 
 多谢Pilger兄还惦念着折件事，Yela大姐也是这么解说的看来，我们仍须不断地阅读，谨慎地发言。
-
 不好意思，在你的回话之前便耐不住性子先行探问啦。
+
 
 金舟 2004-8-17 12:30:38
 
 虽不识德文，但从汉语看来真是非常出色，好诗好译！
 
+
 sonetteorpheus 2004-8-17 16:44:40
 
 Genau! Ich bin auch der Meinung.
 
+
 pilger 2004-8-21 03:42:52
 
 又读一遍,由衷感叹. Ich bin auch  der Meinung ---与金舟同感,译得很好.希望能有足够时间,也打造一版本.
-

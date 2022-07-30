@@ -2,787 +2,397 @@ Dasha 2005-1-28 14:38:31
 
 ［转贴］吕叔湘：《中诗英译比录》序海通以还，西人渐窥中国文学之盛，多有转译，诗歌尤甚；以英文言，其著者亦十有余家。居蜀数载，教授翻译，颇取为检讨论说之资，辄于一诗而重译者择优比而录之，上起风雅，下及唐季，得诗五十九首，英译二百有七首。①客中得书不易，取资既隘，挂漏实多，然即此区区，中土名篇，彼邦佳译，大抵已在。研究译事者足资比较；欣赏艺文者亦得玩索而吟咏焉。将以付之剞劂，辄取昔日讲说之言弁之卷首；所引诸例，杂出各家，不尽在所录之内也。②
 
-
-
 一
 
-
-
 以原则言，从事翻译者于原文不容有一词一语之误解。然而谈何容易?以中国文字之艰深，诗词铸语之凝炼，译人之误会在所难免。前期诸家多尚“达旨”，有所不解，易为闪避；后期译人渐崇信实，诠解讹误，昭然易晓。如韩愈山石诗，“僧言古壁佛画好，以火来照所见稀，”Bynner(p.29)译为
-
 And he brought a light and showed me，and I called them wonderful.
-
 以“稀少”为“希奇”，此为最简单的误解字义之例。
-
 又如古诗为焦仲卿妻作，“妾不堪驱使，徒留无所施”，Waley (Temple，P.114)译为
-
 I said to myself，“I will not be driven away．”
-
 Yet if I stay，what use will it be?
-
 以“驱使”为“驱逐”，因而语意不接，遂误以上句为自思自语，则又因字义之误而滋生句读之误。
-
 其次，词性之误解，亦为致误之因。如杜诗闻官军收河南河北，“却看妻子愁何在?漫卷诗书喜欲狂”句，Bynner(P.154)误以“愁”为动词，译为
-
 Where is my wife? Where are my sons?
-
 Yet crazily sure of finding them，I pack my books and Poems.
-
 读之解颐。杜公虽“欲狂”，何至愁及妻子之下落?且“却看”之谓何?
-
 中文动词之特殊意蕴，往往非西人所能识别，如杜诗“感时花溅泪，恨别鸟惊心”，泪为诗人之泪，心亦诗人之心，“溅”与“惊”皆致动词也，而Bynner(p.141)译为
-
 …Where petals have been shed like tears
-
 And lonely birds have sung their grief.
-
 顿成肤浅。
 
-
-
 然一种文字之最足以困惑外人者，往往不在其单个之实字，而在其虚字与熟语，盖虚字多歧义，而熟语不易于表面索解也。此亦可于诸家译诗见之。Waley在诸译人中最为翔实，然如所译《焦仲卿妻》中，以“四角龙子幡”为
-
 At its four corners a dragon-child flag (Temple，P.121)，
-
 “子”字实解；又译“著我绣裌裙，事事四五通”为
-
 …Takes what she needs, four or five things (ibid，P.116)，
-
 以“通”为“件”，皆因虚字而误。
-
 余人译诗中亦多此例。如Fletcher(More Gems，P.12)译太白月下独酌“月既不解饮”作
-
 The moon then drinks without a pause，
-
 由于不明“解”字作“能”讲；译“行乐须及春”作
-
 Rejoice until the Spring comes in，
 
-
-
 由于不明“及”字作“乘”讲。又如Giles(Verse，p.99)译杜诗“今春看又过，何日是归年?”作
-
 Alas! I see another spring has died…
-
 因不明“看”字之等于后世之“看看”或“眼见得”，遂误以“将过”为“已过”，虽小小出入，殊失原诗低回往复之意也。
-
 以言熟语，有极浅显，不应误而误者。如年月序次只以基数为之，不加“第”字，凡稍习中文者不应不解，而Fletcher(Gems，p.8)译太白长干行“五月不可触”句为
-
 For five months with you I cannot meet．
-
 亦有较为生僻，其误可原者。如同篇“早晚下三巴”句不独Fletcher(ibid. P.9)误为
-
 Early and late I to gorges go.
-
 Lowell(P.29)亦误为
-
 From early morning until late in the evening，you descend the three Serpent River，
-
 惟小畑(P.152)作
-
 Some day when you return down the river，
-
 为得其真象。
 
-
-
 熟语之极致为“典故”，此则不仅不得其解者无从下手，即得其真解亦不易达其义蕴。如小杜金谷园结句“落花犹似坠楼人，”Giles(Verse，P.175)译作
-
 Petals，like nymphs from balconies，come tumbling to the ground，
-
 诚为不当，即Bynner(P.178)译为
-
 Petals are falling like a girl’s robe long ago．
-
 若非加注(p.292)亦不明也。又如权德舆玉台体一绝之“昨夜裙带解，今朝蟢子飞”，Giles(Verse，p.135)译为
-
 Last eve thou wert a bride，
-
 This morn thy dream is o’er…
-
 固是荒谬；而Bynner(P.25)译为
-
 Last night my girdle came undone，
-
 And this morning a luck beetle flew over my bed．
-
 仍不得不乞灵于附注(P.244)，且亦仅注出一“蟢子”，于“裙带”仍不得其解也。(王建宫词“忽地下阶裙带解，非时应得见君王。”)
-
 Bynner所译诗中亦时有类此之错误，如译孟浩然秦中寄远上人诗，“黄金燃桂尽，壮志逐年衰”作
-
 Like ashes of gold in a cinnamon-flame
-
 My youthful desires have been burnt with the years (P.111).
-
 亦复不知所云也。
 
-
-
 若干历史的或地理的词语亦具有熟语之性质，常为译家之陷阱。如香山赠梦得诗(长庆集卷六六)，“寻花借马烦川守，弄水偷船恼令公”，Waley(More Translations，p.90)译为
-
 When，seeking flowers，we borrowed his horse，the river-keeper was vexed；
-
 When，to play on the water，we stole his boat the Duke Ling was sore．
-
 以“川守”为“river-keeper”固以己意为之，以“令公”为“Duke Ling”尤可见其疏于考索。时裴度以中书令晋国公为东都留守，史称其与刘白过从甚密，长庆集同卷颇多题咏赠和之作，只应曰Duke P’ei或Duke of Chin，不得以“令”为专名也。
-
 又如“山东”一名，古今异指，而Fletcher(Gems，P.70)译杜诗兵车行，“君不闻汉家山东二百州，千村万落生荆杞”，作Shantung；“河汉”指天河，而Waley(Poems，p.44)译古诗十九首之十，“迢迢牵牛星，皎皎河汉女”，作Han River。皆易滋误会，显为违失。
-
 至如Giles(History，P.170)译长恨歌“渔阳鼙鼓动地来”作
-
 But suddenly comes the roll of the fish-skin war-drums，
-
 误以地名为非地名；Lowell(P.98)译太白闻王昌龄左迁龙标遥寄，“杨花落尽子规啼”作
-
 In Yang-chou．the blossoms are dropping，
-
 又误以非地名为地名：与“山东”、“河汉”相较，虽事类相同，而难易有别。“渔阳”安得谓为“鱼皮”，“杨”、“扬”更字形悬异，其为谬误尤难宥恕也。
-
-
 
 二
 
-
-
 中文常不举主语，韵语尤甚，西文则标举分明，诗作亦然。译中诗者遇此等处，不得不一一为之补出。如司空曙贼平后送人北归，云：“世乱同南去，时清独北还。他乡生白发，旧国见青山”，Bynner(P.133)译为
-
 In dangerous times we two came south；
-
 Now you go north in safety，without me．
-
 But remember my head growing white among strangers，
-
 When you look on the blue of the mountains of home．
-
 四句皆补出主语，除第三句容有可商外(亦可指友或兼指二人)，余均无误。
-
 然亦往往缘此致误，如上引诗更下一联云“晓月过残垒，繁星宿故关”，“过”与“宿”之主语仍为you，而Bynner译为
-
 The moon goes down behind a ruined fort，
-
 Leaving star-clusters above an old gate．
-
 误以“晓月”与“繁星”当之，不知此二语之作用如副词也。
-
 又如古诗十九首之十二，“燕赵多佳人……当户理清曲”继之以“驰情整巾带，沈吟聊踯躅”，乃诗人自谓闻曲而有感也，Waley(Poems，P.45)误以蒙上佳人，译为
-
 To ease their minds they arrange their shawls and belts；
-
 Lowering their song，a little while they pause，
-
 索然寡味矣。
 
-
-
 又如Fletcher(More Gems，P.9)译李白长干行，“早晚下三巴，预将书报家”，作
-
 Early and late，I to gorges go．
-
 Waiting for news that of thy coming told．
-
 不明“早晚”之为询问，遂以“下”为“我下”，不知自长干至三巴不得云“下”，两地之相去亦非朝暮可往来者。
-
 又如刘长卿逢雪宿芙蓉山，“柴门闻犬吠，风雪夜归人”，闻者诗人自闻也，Fletcher(Gems，P.184)译为
-
 The house dog's sudden barking，which hears the wicket go，
-
 Greets us at night returning through driving gale and snow．
-
 误为犬闻门响而吠，不知中文不容有“宾——动——主”之词序，杜诗“香稻啄余鹦鹉粒”之得失至今犹聚讼纷纭也。
-
 此等错误往往因涉上下文主语而来，如上举“驰情整冠带”误承“当户理清曲”，“早晚下三巴”则其上既有“坐愁红颜老”，其下复有“相迎不道远”，不谙中文之常常更易主语而又从略者自易致误。如杜诗兵车行，“况复秦兵耐苦战，被驱不异犬与鸡”，即此土不学之人亦难免误解，Bynner(p.169)译为
-
 Men of China are able to face the stiffest battle，
-
 But their officers drive them like chickens and dogs．
 
-
-
 其情可原。然“役夫”来自“山东”，与“秦兵”正为敌对，上下文足以确定被驱者非秦兵，B.氏有江亢虎氏为助，不容并此而不达。
-
 又因主语之省略而误解动词之意义者。如Waley译焦仲卿妻“谓言无罪过，供养卒大恩”(Temple，P.116)作
-
 Never in spoken word did I transgress or fail…
-
 又“十七遣汝嫁，谓言无誓违”(P.118)作
-
 …and hears you promise forever to be true，
-
 此两“谓言”同于后世之“只道”、“只说是”，宜作I thought解，Waley不了此义，殆由未举主语。
-
 又如古诗十九首之十九，“客行虽云乐，不如早旋归”，Waley(Poems，P.48)译作
-
 My absent love says that he is happy，
-
 But I would rather he said he was coming back，
-
 又古诗上山采蘼芜，“新人虽言好，不及古人姝”(p.35)译作
-
 Although her talk is clever．．．
-
 其实此处“云”、“言”皆无主动词，it is said之义，仍实字之近于虚字者，缀于“虽”字之后，作用类似衬字，今语亦有“虽说是”，可为比较；Waley视为寻常动词，遂有“言谈”之解。
-
 与主语省略相似者又有宾语之省略，亦为译家致误之由。如元稹遣悲怀，“尚想旧情怜婢仆，也曾因梦送钱财”，Bynner(P.216)译为
-
 …Sometimes，in a dream，I bring you gifts．
-
 谓梦中送钱财于亡妻，无乃费解?此则远不及Fletcher(More Gems，P.191)所译
-
 The slaves’ and servants’ love moves me to love，
-
 And presents I gave them，when I dreamed of you．
-
 之信达而兼雅也。
 
-
-
 又有因连词之省略而致误者。如渊明责子诗，“雍端年十三，不识六与七”，Budd(p.150)误于前，
-
 Yong-tuan is thirteen now．
-
 Waley(Poems，P.76)误于后，
-
 Yung-tuan is thirteen．
-
 皆昧于中文平联词语常不用连词之惯例，遂以“雍”与“端”为一人也。
-
-
 
 三
 
-
-
 译诗者往往改变原诗之观点，或易叙写为告语，因中文诗句多省略代词，动词复无词形变化，译者所受限制不严也。其中有因而转更亲切或生动者。试引二三例，则如李商隐嫦娥诗，“嫦娥应悔偷灵药，碧海青天夜夜心”，Bynner(p.75)译为
-
 Are you sorry for having stolen the potion that has set you
-
 Over purple seas and blue skies，to brood through the long nights?
-
 此由第三身之叙写改为对第二身之告语者，视原来为亲切。如卢纶塞下曲之“野幕敞琼筵，羌戎贺劳旋；醉和金甲舞，雷鼓动山川”，Bynner(P.104)译为
-
 Let feasting begin in the wild camp!
-
 Let bugles cry our victory!
-
 Let us drink，let us dance in our golden armour!
-
 Let us thunder on rivers and hills with our drums!
-
 此由第三身之叙写改为一二身之告语者，视原来为生动。
-
 如王维班婕妤诗，“怪来妆阁里，朝下不相迎；总向春园里，花间笑语声”，Fletcher(Gems P.120)译为
-
 Dost wonder if my toilet room be shut?
-
 If in the regal halls we meet no more?
-
 I ever haunt the garden of the spring；
-
 From smiling flowers to learn their whispered lore．
 
-
-
 原来为汉帝告婕妤，译诗改为婕妤告汉帝，观点适相反，而译诗似较胜。
-
 但如王建新嫁娘诗，“三日入厨下，洗手作羹汤”，Fletcher(More Gems，P.208)译为
-
 Now married three days，to the kitchen I go，
-
 And washing my hands a fine broth I prepare．
-
 杜牧秋夕诗，“银烛秋光冷画屏，轻罗小扇扑流萤”，Bynner(P.177)译为
-
 Her candle-light is silvery on her chill bright screen.
-
 Her little silk fan is for fireflies…
-
 原诗之为一身抑三身，未可遽定：前一诗似是三身，今作一身，后一诗似是一身，今作三身，其间得失，正自难言。然中诗可无主语，无人称，译为英文，即非有主语有人称不可，此亦译中诗者所常遇之困难也。
-
-
 
 四
 
-
-
 不同之语言有不同之音律，欧洲语言同出一系，尚且各有独特之诗体，以英语与汉语相去之远，其诗体自不能苟且相同。初期译人好以诗体翻译，即令达意，风格已殊，稍一不慎，流弊丛生。故后期译人Waley，小畑，Bynner诸氏率用散体为之，原诗情趣，转易保存。此中得失，可发深省。
-
 以诗体译诗之弊，约有三端：一曰趁韵。如Fletcher(Gems，P.211)译王绩过酒家，“眼看人尽醉，何忍独为醒”作
-
 With wine o’ercome when all our fellows be，
-
 Can I alone sit in sobriety?
-
 二曰颠倒词语以求协律。如Fletcher(More Gems，p.62)译杜诗秋兴，“几回青琐点朝班”作
-
 Just in dream by the gate when to number I sate
-
 The courtiers’ attendants who throng at its side．
-
 三曰增删及更易原诗意义。如陈子昂登幽州台诗，“前不见古人，后不见来者，念天地之悠悠，独怆然而涕下”，Giles(P.58)译为
-
 My eyes saw not the men of old；
-
 And now their age away has rolled
-
 I weep -- to think that I shall not see
-
 The heroes of posterity!
-
 其第二行为与原诗第三句相当乎，则甚不切合，为不与相当乎，则原句甚重要，不容删省；又如杜诗“露从今夜白，月是故乡明”，Giles(P.101)译为
-
 The crystal dew is glittering at my feet，
-
 The moon sheds，as of old，her silvery light．
-
 “今夜”与“故乡”为此联诗眼，而横遭刊落。
 
-
-
 与此相反者，如张泌寄人诗，“别梦依依到谢家，小廓回合曲阑斜”，Giles(P.209)译为
-
 After parting，dreams possessed me and I wandered you know where，
-
 And we sat in the verandah and you sang the sweet old air．
-
 第二行之下半完全为足成音段而增加。
-
 其全部意义加以更易者，如Giles(P.65)译张九龄诗“思君如明月，夜夜减清辉”作
-
 My heart is like the full moon，full of pains，
-
 Save that ‘tis always full and never wanes．
-
 汉译便是“思君异明月，终岁无盈亏”。
-
 前两种病，中外恶诗所同有，初无问于创作与翻译。第三种病，则以诗体译诗尤易犯之，虽高手如Giles亦所不免。Fletcher尤甚于Giles；Budd，Martin诸人更甚于Fletcher，有依稀仿佛，面目全非者，其例难于列举。
-
-
 
 五
 
-
-
 自一方面言，以诗体译诗，常不免于削足适履，自另一方面言，逐字转译，亦有类乎胶柱鼓瑟。硬性的直译，在散文容有可能，在诗殆绝不可能。Waley在More Translations序言中云，所译白居易诗不止此数，有若干未能赋以“诗形”，不得不终于弃去。Waley所谓“诗形”(poetic form)，非寻常所谓“诗体”，因所刊布者皆散体也。Waley举其初稿两首为例，试录其一：早春独登天宫阁(长庆集卷六十八)，“天宫日暖阁门开，独上迎春饮一杯。无限游人遥怪我，缘何最老最先来?”
-
 Tien-kung Sun warm，pagoda door open；
-
 Alone climbing，greet Spring，drink one cup．
-
 Without limit excursion-people afar-off wonder at me；
-
 What cause most old most first arrived!
-
 此Waley认为诗的原料，未经琢磨不得为诗者。而Ayscough译杜诗，顾以此为已足。如垂老别首四句：“四郊未宁静，垂老不得安。子孙阵亡尽，焉用身独完?”(Tu Fu，I.，P.336)，译为
-
 On all four sides，in open spaces beyond the city，no unity，no rest；
-
 Men fallen into old age have not attained peace．
-
 Their sons，grandsons，every one has died in battle：
-
 Why should a lone body finish its course?
-
 Lowell与Ayscough合译《松花笺》集，以不识中文故，不得不惟Ayscough之初稿是赖，因之多有不必要之拘泥处，如译太白山中答俗人问(P.69)，“问余何事栖碧山”作
-
 He asks why I perch in the green jade hills．
 
-
-
 然其佳者如刘禹锡石头城(P.120)，“山围故国周遭在，潮打空城寂寞回”，译为
-
 Hills surround the ancient kingdom；they never change．
-
 The tide beats against the empty city，and silently，silently returns．
-
 亦自具有Waley所谓“诗形”，非Ayscough自译杜诗可比也。
-
 故严格言之，译诗无直译意译之分，惟有平实与工巧之别。散体诸译家中，Lowell，Waley，小畑，皆以平实胜，而除Lowell外，亦未尝无工巧；至于Bynner，则颇逞工巧，而亦未尝无平实处。
-
 所谓平实，非一语不增，一字不减之谓也。小畑之译太白诗，常不为貌似，而语气转折，多能曲肖。如“两岸猿声啼不住，轻舟已过万重山”(P.76)译为
-
 The screams of monkeys on either bank
-
 Had scarcely ceased echoing in my ear
-
 When my skiff had left behind it
-
 Ten thousand ranges of hills．
 
-
-
 “已”字，“过”字，“啼不住”三字，皆扣合甚紧，可谓译中上选。又如独坐敬亭山绝句(P.57)“众鸟高飞尽，孤云独去闲。相看两不厌，只有敬亭山”之译为
-
 Flocks of birds have flown high and away；
-
 A solitary drift of cloud，too，has gone，wandering on．
-
 And I sit alone with the Ching-ting Peak, towering beyond．
-
 We never grow tired of each other．the mountain and I．
-
 苏台览古(p.74)“旧苑荒台杨柳新，菱歌清唱不胜春。只今惟有西江月，曾照吴王宫里人”之译为
-
 In the deserted garden among the crumbling walls，
-
 The willows show green again，
-
 While the sweet notes of the water-nut song
-
 Seem to lament the spring．
-
 Nothing remains but the moon above the river--
-
 The moon that once shone on the fair faces
-
 That smiled in the king’s palace of Wu．
 
-
-
 皆未尝炫奇求胜，而自然切合，情致具足者。
-
 译人虽以平稳为要义，亦不得自安于苟简或晦塞，遇原来异常凝炼之诗句，固不得不婉转以求曲达。Waley译古诗有颇擅此胜者，如十九首之九(Poems，P.43)，“此物何足贵，但感别经时”，后句译为
-
 But it may remind him of the time that has past since he left．
-
 十九首之十一(P.44)，“立身苦不早”译为
-
 Success is bitter when it is slow in coming．
-
 十九首之十三(P.46)，“万岁更相送”译为
-
 For ever it has been that mourners in their turn were mourned．
-
 又如焦仲卿妻(Temple，P.122)，“自君别我后，人事不可量；果不如先愿，又非君所详”，末句言约而意深，译作
-
 You would understand if only you knew．
-
 此皆善为婉达，具见匠心者也。
-
 至Bynner译唐诗三百首乃好出奇以制胜，虽尽可依循原来词语，亦往往不甘墨守。如孟浩然留别王维(p.112)，“欲寻芳草去，惜与故人违”，译为
-
 How sweet the road-side flowers might be
-
 If they did not mean good-bye，old friend．
-
 韦应物滁州西涧(P.206)，“春潮带雨晚来急，野渡无人舟自横”，译为
-
 On the spring flood of last night’s rain
-
 The ferry-boat moves as though someone were poling．
-
 同人夕次盱眙县(p.211)，“独应忆秦关，听钟未眠客”，译为
-
 At midnight I think of northern city-gate，
-
 And I hear a bell tolling between me and sleep．
-
 皆撇开原文，另作说法，颇见工巧。然措词虽已迥异，意义却无增减，虽非译事之正宗，亦不得谓为已犯译人之戒律也。
-
-
 
 六
 
-
-
 上举Bynner诸例引起译事上一大问题，即译人究有何种限度之自由?变通为应限于词语，为何兼及意义?何者为必须变通?何者为无害变通?变通逾限之流弊又如何?
-
 译事之不能不有变通，最显明之例为典故。如元稹遣悲怀诗，“邓攸无子寻知命，潘岳悼亡犹费词”，Bynner(P.216)译为
-
 There have been better men than I to whom heaven denied a son,
-
 There was a poet better than I whose dead wife could not hear him．
-
 盂郊古别离诗，“不恨归来迟，莫向临邛去”，Fletcher(Gems，P.175)译为
-
 Your late returning does not anger me，
-
 But that another steal your heart away．
-
 皆可谓善于变通，允臻上乘。若将“潘”，“邓”，“临邛”照样译出，即非加注不可，读诗而非注不明，则焚琴煮鹤，大杀风景矣。(第一例尤佳，因“知命”与“费词”亦暗中扣紧也。)
-
 亦有不变通而无妨变通者。试举二三简单之例：如太白江上吟之结句云，“功名富贵若长在，汉水亦应西北流”，Lowell(p.43)与小畑(P.25)均直译“西北流”，小畑加注云汉水东南流入江，实则循上句语气，无注亦明。然若如Fletcher(Gems，P.44)之译为
-
 But sooner could flow backward to its fountains
-
 This stream，than wealth and honour can remain．
-
 直截了当，亦未尝不可。又如Fletcher(Gems，p.214)译贾至春思诗，“桃花历乱李花香”，作
-
 The peach and pear blossoms in massed fragrance grow．
-
 李花未必不历乱，桃花亦未必不香，正不必拘于原文字面。又如Giles(Verse，P.164)译白居易后宫词“红颜未老恩先断，斜倚熏宠坐到明”，作
-
 Alas，although his love has gone，her beauty lingers yet;
-
 Sadly she sits till early dawn but never can forget．
 
-
-
 原云“红颜未老恩先断”，今云“君恩已去红颜在”，先者后之，后者先之，在译者自为凑次二行之韵脚，而意思似转深入，此亦变通之可取者。又如Bynner(p.127)译白居易琵琶行，“暮去朝来颜色故”作
-
 And evenings went and evenings came，and her beauty faded．
-
 中文“暮去朝来”本兼“朝去暮来”言，英文evenings went and mornings came则无此涵义，若译为evenings and mornings went and came，又未免过于絮烦，自惟有如上译法，言简而意赅。
-
 又如杜审言和晋陵陆丞早春游望诗，“忍闻歌古调，归思欲沾襟”，“归思”下本隐有“使我”意，为五言所限，不得不尔。照字面译出，虽不至于费解，终觉勉强。Bynner(P.179)译为
-
 Suddenly an old song fills
-
 My heart with home，my eyes with tears．
-
 便较显豁。此种变通实已近于必要矣。
-
 如斯之例，诸家多有，上节所引Waley与Bynner诸译咸属此类，皆未尝以辞害意，为译人应有之自由。然而词语之变通与意义之更易，其间界限，亦自难言。变通而及于意义，则如履薄冰，如行悬縆，时时有陨越之虞，不得不审慎以将事。试以二例明之。Waley (Poems，P.35)译古诗上山采蘼芜，“新人工织缣，故人工织素。织缣日一匹，织素五丈余”，作
-
 My new wife is clever at embroidering silk；
-
 My old wife was good at plain sewing．
-
 Of silk embroidery one can do all inch a day；
-
 Of plain sewing，more than five feet．
 
-
-
 缣素之别，以及一匹与五丈之分，译出均欠显豁，故改为绣与缝，一寸与五尺，于原文意义颇有更张，而主旨则无出入。此变通之可取者。反之，如Bynner(p.4)译张继枫桥夜泊诗，“江枫渔火对愁眠”，作
-
 Under the shadows of maple-trees a fisherman moves with the torch．
-
 一静一动，与原诗意境迥异。虽或见仁见智，难为轩轾，而谓鹿为马，终非转译所宜。二例之间，界限渐而非顿，然不得谓为无界限。得失寸心，疏漏与穿凿固惟有付之译人之感觉与判断矣。
-
 意义之变通有三，或相异，或省减，或增加。相异之例已如上举。意义之省减，时亦不免，若不关宏旨，亦即不足为病。如Bynner(P.148)译杜诗“白头搔更短，浑欲不胜簪”，作
-
 I stroke my white hair．It has grown too thin
-
 To hold the hairpins any more．
-
 “更”字“欲”字皆未能传出，而大体不谬。
-
 不可省而省，则失之疏漏。如Waley(Temple，p.117)译焦仲卿妻诗，“今日还家去，念母劳家里”，作
-
 Today I am going back to my father’s home；
-
 And this house I leave in Madam’s hands．
-
 “念”字“劳”字皆不可省而省者。又如Bynner(p.174)译杜荀鹤春宫怨，“承恩不在貌，教妾若为容?”作
-
 To please a fastidious emperor，
-
 How shall I array myself?
 
-
-
 “不在貌”三字以一fastidious当之，全然未达。(若改为capricious，则庶几近之。)又如所译阙名杂诗“等是有家归未得，杜鹃休向耳边啼”(p.3)，
-
 We are thinking of our kinsfolk，far away from us．
-
 O cuckoo，why do you follow us，why do you call us home?
-
 “等是”二字何等重要，岂容漏去?类此之例，不尽由于有意之变通，亦有识解不周，或为才力所限，遂至陷于浅薄疲弱，虽其情可原，其病不可不知。以诗体译诗者，为凑韵脚与节拍，尤易触犯此戒，前节已申论之矣。
-
 增饰原诗之意义，亦有无伤大雅者。如Giles(Verse．P.96)译太白诗“白发三千丈，缘愁似个长”，作
-
 My whitening hair would make a long long rope，
-
 Yet could not fathom all my depth of woe．
-
 比原来意义略进一步，而不足为病。
-
 过此则往往流于穿凿。如Giles(Verse，P.53)译薛道衡诗“入春才七日，离家已二年”，作
-
 A week in the spring to the exile appears
-
 Like an absence from home of a couple of years．
-
 即犯“read in”之病，殆以为二句不相连属，未免平淡，遂为“一日三秋”之解。不知此二句本平淡，故陈人有“底言”之诮，及“人归落雁后，思发在花前”二句出，始知名下无虚耳。(见隋唐嘉话)
-
 又如Waley(Poems，p.35)译古诗上山采蘼芜，“新人从门人，故人从阁去”，作
-
 My new wife comes in from the road to meet me；
-
 My old wife always came down from her tower．
 
-
-
 原诗只状其得新弃故耳，译文乃言新人好游乐，故人勤女红。(或缘误“去”为“出”?)
-
 更有甚于此者，如Fletcher(Gems，P.209)译贺知章题袁氏别业诗，“主人不相识，偶坐为林泉。莫谩愁沽酒，囊中自有钱”，作
-
 The Lord of All to us is all unknown．
-
 And yet these Woods and Springs must Some One own.
-
 Let us not murmur if our Wine we Buy：
-
 In our own Purse have we Sufficiency．
-
 即事之诗，解为论道，刻意求深，翻失真象。又Giles译司空图诗品(History，P.179一188)，全作道家玄语，与诗文了无关涉。如斯穿凿，宜为厉禁。
-
 至如Martin(P.55)之译太白长干行，“郎骑竹马来，绕床弄青梅”，作
-
 You rode a bamboo horse,
-
 And deemed yourself a knight，
-
 With paper helm and shield
-
 And wooden sword bedight．
-
 则缘根本误会诗中主体，以商人妇为军士妻，因而任意枝蔓，全无依据，无以名之，荒谬而已。
-
-
 
 七
 
-
-
 中诗大率每句自为段落，两句连贯如“旧时王谢堂前燕，飞入寻常百姓家”者，其例已鲜。西诗则常一句连跨数行，有多至十数行者。译中诗者嫌其呆板，亦往往用此手法，Bynner书中最饶此例。如译太白诗“但见泪痕湿，不知心恨谁”(P.53)，作
-
 You may see the tears now，bright on her cheek．
-
 But not the man she so bitterly loves．
-
 利用关系子句，便见连贯。又如译王维九月九日忆山东兄弟(P.190)，“独在异乡为异客，每逢佳节倍思亲，遥知兄弟登高处，遍插茱萸少一人”，作
-
 All alone in a foreign land，
-
 I am twice as homesick on this day,
-
 When brothers carry dogwood up the mountain,
-
 Each of them a branch--and my branch missing．
-
 虽四行与原诗四句分别相当，而原诗只三四连贯，此则一气呵成矣。
-
 然此二例犹可在逐行之末小作停顿，若如所译王维秋夜曲(p.191)，“桂魄初生秋露微，轻罗已薄未更衣”，作
-
 Under the crescent moon a light autumn dew
-
 Has chilled the robe she will not change．
-
 即不复有停顿之理。又如Cranmer-Byng(A Feast of Lanterns，p.43)译王维送春辞，“相欢在樽酒，不用惜花飞”，作
-
 Then fill the wine-cup of to-day and let
-
 Night and the rose fall, while we forget．
 
-
-
 停顿不在上行之末，而在下行之中，纯用西诗节律，与中诗相去更远矣。
-
 此类译作，虽音调不侔，其佳者亦至有情致。然若一味求连贯，有时即不免流于牵强附会。如Bynner(p.192)译王维归嵩山作，“清川带长薄；车马去闲闲。流水如有意；暮禽相与还”，作
-
 The limpid river，past its rushes
-
 Running slowly as my chariot，
-
 Becomes a fellow voyager
-
 Returning home with the evening birds．
-
 即与原诗颇有出入。
-
 至如译李颀听安万善吹觱篥歌(p．51)，“……变调如闻杨柳春，上林繁花照眼新。岁夜高堂列明烛，美酒一杯声一曲”，作
-
 …They are changing still again to Spring in the Willow-Trees．
-
 Like Imperial Garden Flowers，brightening the eye with beauty，
-
 Are the high-hall candles we have lighted this cold night．．．
-
 “上林繁花”句显然属上，今以属下，其为不妥，无任何理由可为藉口也。
-
 中诗尚骈偶，不独近体为然，古体诗中亦时见偶句；英诗则以散行为常，对偶为罕见之例外。译中诗者对于偶句之处理，有时逐句转译，形式上较为整齐，有时融为一片，改作散行。试以Bynner所译为例：如王维汉江临眺(p.195)，“江流天地外，山色有无中。郡邑浮前浦，波澜动远空”，译为
-
 This river runs beyond heaven and earth，
-
 Where the colour of mountains both is and is not．
-
 The dwellings of men seem floating along
-
 On ripples of the distant sky．
 
-
-
 前一联较为整齐，后一联便一气呵成，不分两截(意义之切合与否为另一问题)。
-
 诗中偶句亦有上下相承，本非并立者，译来自以连贯为宜。如韦应物淮上喜会梁川故人诗，“浮云一别后，流水十年间”，Bynner(P.207)译为
-
 Since we left one another，floating apart like clouds，
-
 Ten years have run like Water -- till at last we join again．
-
 自是顺其自然，非故事更张。
-
 然亦有本甚整齐，而有意破坏之，以求得参差错落之效者，如Bynner(p.87)译李益夜上受降城闻笛诗，“回乐峰前沙似雪，受降城外月如霜”，作
-
 The sand below the border-mountain lies like snow，
-
 And the moon like frost beyond the city-wall．
-
 甚可觇中西风尚之殊异。
-
 与此相反，有原诗散行，译者假一二相同之字以为线索，化散以为整者。如王昌龄诗“秦时明月汉时关，万里长征人未还”，Bynner(P.181)译为
-
 The moon goes back to the time of Chin，the wall to the time of Han，
-
 And the road our troops are travelling goes back three hundred (thousand?) miles．
-
 王维诗“深林人不知，明月来相照”，Giles(Verse，p.70)译为
-
 No ear to hear me，save my own；
-
 No eye to see me，save the moon．
-
 然类此之例，不数数觏。一般言之，中诗尚整，西诗尚散，译诗者固末由自外也。
 
 
-
-
-
 吕叔湘
-
 一九四七年六月
 
-
-
 [附记]顷见A. Waley氏自选译诗集Chinese Poems (London，1946)，辑其旧作，颇有是正。与此处所论有关者记之如次：
-
 “妾不堪驱使”两句已改为It is not in my power to do the task I am set; There is no use in staying for the sake of staying，甚佳。
-
 “川守”与“令公”已分别改为Governor与Duke of Chin．
-
 “谓言无罪过”已改为Never in word or deed was I at fault，仍误。
-
 “谓言无誓违”已改为And fully thought that nothing had gone amiss．
-
 “雍端年十三”已改为“Yung and Tuan are thirteen．
-
 “新人工织缣”四句已改为My new wife weaves fancy silks；my old wife was good at plain weaving．Of fancy silk one can weave a strip a day；Of plain weaving，more than fifty feet．
-
 “念母劳家里”已改为I am sorry to leave you burdened by household cares，是。
-
-
 
 一九四八年一月补记。
 
-
-
 http://www.jasii.com/trans/ffjq/01.htm
-
 --------------------------------------------------------------------------------
-
 Dasha按：原网页之①②注缺脱，Dasha按手中纸本补足。
-
 ① 其中有友人杨宪益先生伉俪所译数首，蒙假原稿过录，于此致谢。
-
 ② 各家书名见后附书目。
 
-
-
 另，此文Dasha未作校对，讹误概不负责:-D
+
 
 刘文娇 2005-1-28 18:34:22
 
 好啊~此书我手头也有一本,佩服的很呢
-

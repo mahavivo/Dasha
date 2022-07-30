@@ -1,0 +1,749 @@
+Dasha 2006-3-20 10:26:20
+
+海德堡大学图书馆藏中世纪写本（Die Handschriften-Digitalisierung an der UB Heidelberg）计4.8G
+
+
+Informationen zur Handschriften-Digitalisierung an der UB Heidelberg
+
+kleiner Pfeil Cod. Pal. germ.  kleiner Pfeil Col. Pal. graec.   kleiner Pfeil Cod. Pal. lat.   kleiner Pfeil Heid. Hs.   kleiner Pfeil Cod. Sal.
+
+Codices Palatini germanici (Cod. Pal. germ.)
+kleiner Pfeil Cod. Pal. germ. 100-199  kleiner Pfeil Cod. Pal. germ. 200-299  kleiner Pfeil Cod. Pal. germ.300-399  kleiner Pfeil Cod. Pal. germ. 400-848
+
+	Cod. Pal. germ. 5
+Irmhart ?er - Aderla?uch - Heinrich von M?eln - Gm?der Chronik
+Bayern (?), 1. Viertel 15. Jhd.
+	Cod. Pal. germ. 14
+Heinrich von M?eln: Der Meide Kranz
+Bayern, nach 1407
+	         Cod. Pal. germ. 16
+Bibel (AT), Bücher Mose, Josua, Richter, Ruth
+Stuttgart (?), 1477
+        	         Cod. Pal. germ. 17
+Bibel (AT), Könige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob
+Stuttgart (?), 1477
+        	         Cod. Pal. germ. 18
+Bibel (AT), Psalter, Parabole, Ecclesiastes, Cantica canticorum, Sapienta, Ecclesiasticus, Propheten
+Stuttgart (?), 1477
+	         Cod. Pal. germ. 19
+5-bändige Bibel (AT), Bücher Mose, Josua, Richter
+Hagenau, 1441 - 1449
+        	         Cod. Pal. germ. 20
+Bibel (AT) Bücher der Könige, Paralipomenon I und II
+Hagenau, 1441 - 1449
+	         Cod. Pal. germ. 21
+Bibel (AT) Bücher Esra, Nehemia, Tobias, Judith, Esther, Hiob, Psalter, Parabole, Ecclesiastes, Cantica, Sapientia, Ecclesiasticus
+Hagenau 1441 - 1449
+	Cod. Pal. germ. 22
+Bibel (AT) Jesaia, Jeremia, Baruch, Hesekiel, Daniel, 2 kleine Propheten
+Hagenau, 1441 - 1449
+        	Cod. Pal. germ. 23
+Bibel; Neues Testament
+Hagenau, 1441 - 1449
+	Cod. Pal. germ. 24
+Berthold von Regensburg: Predigten, dt.
+Heidelberg, 1370
+        	         Cod. Pal. germ. 27
+Otto von Passau: "Die 24 Alten"
+Stra?urg, 1418
+        	         Cod. Pal. germ. 40
+Martin Luther: Eine Predigt, da?man Kinder zur Schule halten solle 1530
+Veste Coburg, 1530
+        	         Cod. Pal. germ. 59
+Biblia pauperum
+Schweiz (?), 1518
+	         Cod. Pal. germ. 60
+Historienbibel - Irmhart ?er - 'Brandans Reise' u.a.
+S?westdeutschland um 1460
+	         Cod. Pal. germ. 61
+Predigtsammlung; Dietrich von Apolda: Vita S. Elisabeth, dt.
+Heidelberg, 1426
+        	         Cod. Pal. germ. 67
+"Sigenot"
+Stuttgart (?), um 1470
+        	         Cod. Pal. germ. 76
+Johannes von Tepl: "Der Ackermann aus Böhmen"
+Schwaben/Stuttgart (?), um 1470
+        	         Cod. Pal. germ. 78
+Ulrich Erthel: Beschreibung des Armbrustschie?ns in Stuttgart 1560
+Augsburg, um 1561
+	Cod. Pal. germ. 84
+Buch der Beispiele, Passionsgebet
+Schwaben, um 1475/1482
+	Cod. Pal. germ. 85
+Buch der Beispiele
+Schwaben, um 1480/1490
+	Cod. Pal. germ. 87
+Die Kinder von Limburg
+Heidelberg, 1480
+        	         Cod. Pal. germ. 90
+Vitaspatrum, deutsch 
+S?deutschland, 1477
+	         Cod. Pal. germ. 130
+Ulrich Be?itzer: Zeughausinventar von Landshut
+Landshut, 1485
+        	         Cod. Pal. germ. 137
+Martinus Oppaviensis: "Chronicon pontificum et imperatorum (Papst-Kaiser-Chronik), deutsch"
+Hagenau, um 1460
+	         Cod. Pal. germ. 142
+"Pontus und Sidonia"
+Stuttgart (?), um 1475
+	Cod. Pal. germ. 144
+Elsässische "Legenda aurea"
+Stra?urg, 1419
+	         Cod. Pal. germ. 149
+"Historia septem sapientum" ("Sieben Weise Meister"), deutsch und Martinus Oppaviensis: Chronicon pontificum et imperatorum (Papst-Kaiser-Chronik), deutsch
+Hagenau, um 1450
+	Cod. Pal. germ. 152
+Elisabeth von Nassau-Saarbrücken: "Herpin"
+Stuttgart (?), um 1475
+	Cod. Pal. germ. 156
+Johannes de Thurocz: Chronica Hungarorum, deutsch
+Bayern, nach 1490
+	Cod. Pal. germ. 164
+Heidelberger Sachsenspiegel
+Ostmitteldeutschland, Anfang 14. Jh.
+	Cod. Pal. germ. 167
+Sachsenspiegel und Schwabenspiegel
+Herzogtum Braunschweig-L?eburg, Anfang 14. Jh.
+        	Cod. Pal. germ. 192
+Rezeptbuch
+Amberg, 1570 - 1572
+        	Cod. Pal. germ. 195
+Arzneibuch
+Amberg, um 1570
+        	Cod. Pal. germ. 214
+'Speyrer Arzneibuch'
+Speyer, 1321
+        	Cod. Pal. germ. 244
+Rezeptbuch ('Buch der Medizin', dreizehnter Band)
+Heidelberg, 1526 - 1544
+        	Cod. Pal. germ. 261
+Buch der Medizin’, erster Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 262
+Buch der Medizin’, zweiter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 263
+Buch der Medizin’, dritter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 264
+Buch der Medizin’, vierter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 265
+Buch der Medizin’, f?fter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 266
+Buch der Medizin, sechster Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 267
+Buch der Medizin’, siebter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 268
+Buch der Medizin’, achter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 269
+Buch der Medizin’, neunter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 270
+Buch der Medizin’, zehnter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 271
+Buch der Medizin’, elfter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 272
+Buch der Medizin’, zw?fter Band
+Heidelberg, 1526 - 1544
+	Cod. Pal. germ. 300
+Konrad von Megenberg: "Das Buch der Natur"
+Hagenau 1443 - 1451
+	Cod. Pal. germ. 302
+Hans Kilian: Zeichnungen von Kurf?st Ottheinrichs alchemistischem Laborinventar
+Neuburg/Donau, um 1555/1556
+	Cod. Pal. germ. 304
+Historische Notizen aus Augsburg und M?chen (1296-1545)
+Augsburg, 1538-1545
+	Cod. Pal. germ. 310
+        Hofschulbuch f? Kurprinz Friedrich IV. und Prinzessin Christina von der Pfalz
+Heidelberg, 1583
+	Cod. Pal. germ. 313
+56 Minnereden
+Oberrheingebiet, 1478
+	Cod. Pal. germ. 323
+Rudolph von Ems: "Willehalm von Orlens"
+Stra?urg, um 1420
+	Cod. Pal. germ. 324
+"Virginal"
+Hagenau, um 1444 - 1448
+	Cod. Pal. germ. 329
+Hugo von Montfort: Lieder, Briefe und Reden
+Steiermark, 1414/1415
+	Cod. Pal. germ. 339 Band I
+Cod. Pal, germ. 339 Band II
+Wolfram von Eschenbach: "Parzival"
+Hagenau, um 1443 - 1446
+	         Cod. Pal. germ. 345
+"Lohengrin" und "Friedrich von Schwaben"
+Stuttgart (?), um 1470
+	         Cod. Pal. germ. 350
+Heidelberger Liederhandschriften Dd, Hh und R
+I. Rheinpfalz (Mainz?), II. S?hessen (Mainz?), III. Nordbayern I.um 1300, II.-III. 2. Viertel 14. Jh.
+	Cod. Pal. germ. 353
+"Die Heidin"
+Stuttgart, um 1470
+	Cod. Pal. germ. 359
+"Rosengarten zu Worms" und "Lucidarius"
+Stra?urg, um 1420
+	Cod. Pal. germ. 362
+Konrad Fleck: "Flore und Blanscheflur"
+Hagenau, um 1442 - 1444
+	Cod. Pal. germ. 365
+"Ortnit" und "Wolfdietrich"
+Stra?urg, um 1420
+	Cod. Pal. germ. 371
+Ulrich von Zatzikhoven: "Lanzelet"
+Stra?urg, 1420
+	Cod. Pal. germ. 389
+Thomasin von Zerclaere: Der welsche Gast
+Bayern (Regensburg ?), um 1256
+	         Cod. Pal. germ. 403
+Heinrich von Veldeke: "Eneas"
+Stra?urg, 1419
+	        Cod. Pal. germ. 466
+Buch der Beispiele
+Seeschwaben, um 1485
+	        Cod. Pal. germ. 687
+Medizinische Sammelhandschrift
+Oberpfalz, 1571
+	Cod. Pal. germ. 832
+Heidelberger Schicksalsbuch
+Regensburg, nach 1491
+	Cod. Pal. germ. 848
+Große Heidelberger Liederhandschrift (Codex Manesse)
+Z?ich, 1305 - 1340
+hoch Seitenanfang
+
+Codices Palatini graeci (Cod. Pal. graec.)
+	Cod. Pal. graec. 398
+Sammelhandschrift 9./10. Jhd.
+Griechenland (Byzanz), 9./10. Jh.
+hoch
+
+Codices Palatini latini (Cod. Pal. lat.)
+	Cod. Pal. lat. 52
+Otfrid von Wei?nburg, Evangelienbuch
+Wei?nburg, um 870
+	Cod. Pal. lat. 864
+Gregor von Tours: Historia Francorum
+Lorsch, 8. - 9. Jh.
+	Cod. Pal. lat. 894
+Lucius Annaeus Florus und Titus Livius
+Lorsch (?), 1. H?fte 9. Jh.
+	Cod. Pal. lat. 1568
+Gaius Iulius Solinus & Lucius Annaeus Florus & Paulus Orosius
+Nordfrankreich, Ende 11. Jh.
+
+Heidelberger Handschriften (Heid.Hs.)
+	Heid. Hs. 3394
+Heinrich R?inger: Planetenbuch
+Heidelberg (Weinheim), 1551 - 1564
+
+
+Codices Salemitani (Cod. Sal.)
+	Cod. Sal. X 16
+Hildegard von Bingen: Liber Scivias
+Zwiefalten und Salem, Ende 12. Jh. und um 1220
+Dasha 2006-3-20 10:40:28 ??????????:
+Die Handschriften-Digitalisierung an der UB Heidelberg
+http://www.ub.uni-heidelberg.de/helios/digi/handschriften.html
+
+
+--------------------------------------------
+Codices Palatini germanici (Cod. Pal. germ.)
+--------------------------------------------
+Cod. Pal. germ. 5
+Irmhart öser - Aderlaßbuch - Heinrich von Muegeln - Gmuender Chronik
+Bayern (?), 1. Viertel 15. Jhd.
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg5/cpg5(*).jpg
+166
+
+Cod. Pal. germ. 14
+Heinrich von Muegeln: Der Meide Kranz
+Bayern, nach 1407
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg14/cpg14(*).jpg
+162
+
+Cod. Pal. germ. 16
+Bibel (AT), Buecher Mose, Josua, Richter, Ruth
+Stuttgart (?), 1477
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg16/cpg16(*).jpg
+582
+
+Cod. Pal. germ. 17
+Bibel (AT), Könige, Paralipomenon I und II, Esra, Tobias, Judith, Esther, Hiob
+Stuttgart (?), 1477
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg17/cpg17(*).jpg
+619
+
+Cod. Pal. germ. 18
+Bibel (AT), Psalter, Parabole, Ecclesiastes, Cantica canticorum, Sapienta, Ecclesiasticus, Propheten
+Stuttgart (?), 1477
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg18/cpg18(*).jpg
+757
+
+Cod. Pal. germ. 19
+5-bändige Bibel (AT), Buecher Mose, Josua, Richter
+Hagenau, 1441 - 1449
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg19/cpg19(*).jpg
+747
+
+Cod. Pal. germ. 20
+Bibel (AT) Buecher der Könige, Paralipomenon I und II
+Hagenau, 1441 - 1449
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg20/cpg20(*).jpg
+507
+
+Cod. Pal. germ. 21
+Bibel (AT) Buecher Esra, Nehemia, Tobias, Judith, Esther, Hiob, Psalter, Parabole, Ecclesiastes, Cantica, Sapientia, Ecclesiasticus
+Hagenau 1441 - 1449
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg21/cpg21(*).jpg
+767
+
+Cod. Pal. germ. 22
+Bibel (AT) Jesaia, Jeremia, Baruch, Hesekiel, Daniel, 2 kleine Propheten
+Hagenau, 1441 - 1449
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg22/cpg22(*).jpg
+669
+
+Cod. Pal. germ. 23
+Bibel; Neues Testament
+Hagenau, 1441 - 1449
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg23/cpg23(*).jpg
+713
+
+Cod. Pal. germ. 24
+Berthold von Regensburg: Predigten, dt.
+Heidelberg, 1370
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg24/cpg24(*).jpg
+530
+
+Cod. Pal. germ. 27
+Otto von Passau: "Die 24 Alten"
+Straßburg, 1418
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg27/cpg27(*).jpg
+345
+
+Cod. Pal. germ. 40
+Martin Luther: Eine Predigt, daß man Kinder zur Schule halten solle 1530
+Veste Coburg, 1530
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg40/cpg40(*).jpg
+90
+
+Cod. Pal. germ. 59
+Biblia pauperum
+Schweiz (?), 1518
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg59/cpg59(*).jpg
+92
+
+Cod. Pal. germ. 60
+Historienbibel - Irmhart öser - 'Brandans Reise' u.a.
+Suedwestdeutschland um 1460
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg60/cpg60(*).jpg
+402
+
+Cod. Pal. germ. 61
+Predigtsammlung; Dietrich von Apolda: Vita S. Elisabeth, dt.
+Heidelberg, 1426
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg61/cpg61(*).jpg
+208
+
+Cod. Pal. germ. 67
+"Sigenot"
+Stuttgart (?), um 1470
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg67/cpg67(*).jpg
+219
+
+Cod. Pal. germ. 76
+Johannes von Tepl: "Der Ackermann aus Böhmen"
+Schwaben/Stuttgart (?), um 1470
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg76/cpg76(*).jpg
+81
+
+Cod. Pal. germ. 78
+Ulrich Erthel: Beschreibung des Armbrustschießens in Stuttgart 1560
+Augsburg, um 1561
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg78/cpg78(*).jpg
+218
+
+Cod. Pal. germ. 84
+Buch der Beispiele, Passionsgebet
+Schwaben, um 1475/1482
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg84/cpg84(*).jpg
+500
+
+Cod. Pal. germ. 85
+Buch der Beispiele
+Schwaben, um 1480/1490
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg85/cpg85(*).jpg
+452
+
+Cod. Pal. germ. 87
+Die Kinder von Limburg
+Heidelberg, 1480
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg87/cpg87(*).jpg
+856
+
+Cod. Pal. germ. 90
+Vitaspatrum, deutsch
+Sueddeutschland, 1477
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg90/cpg90(*).jpg
+341
+
+Cod. Pal. germ. 130
+Ulrich Beßnitzer: Zeughausinventar von Landshut
+Landshut, 1485
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg130/cpg130(*).jpg
+138
+
+Cod. Pal. germ. 137
+Martinus Oppaviensis: "Chronicon pontificum et imperatorum (Papst-Kaiser-Chronik), deutsch"
+Hagenau, um 1460
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg137/cpg137(*).jpg
+491
+
+Cod. Pal. germ. 142
+"Pontus und Sidonia"
+Stuttgart (?), um 1475
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg142/cpg142(*).jpg
+285
+
+Cod. Pal. germ. 144
+Elsässische "Legenda aurea"
+Straßburg, 1419
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg144/cpg144(*).jpg
+857
+
+Cod. Pal. germ. 149
+"Historia septem sapientum" ("Sieben Weise Meister"), deutsch und Martinus Oppaviensis: Chronicon pontificum et imperatorum (Papst-Kaiser-Chronik), deutsch
+Hagenau, um 1450
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg149/cpg149(*).jpg
+699
+
+Cod. Pal. germ. 152
+Elisabeth von Nassau-Saarbruecken: "Herpin"
+Stuttgart (?), um 1475
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg152/cpg152(*).jpg
+679
+
+Cod. Pal. germ. 156
+Johannes de Thurocz: Chronica Hungarorum, deutsch
+Bayern, nach 1490
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg156/cpg156(*).jpg
+386
+
+Cod. Pal. germ. 164
+Heidelberger Sachsenspiegel
+Ostmitteldeutschland, Anfang 14. Jh.
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg164/cpg164(*).jpg
+60
+
+Cod. Pal. germ. 167
+Sachsenspiegel und Schwabenspiegel
+Herzogtum Braunschweig-Lueneburg, Anfang 14. Jh.
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg167/cpg167(*).jpg
+332
+
+Cod. Pal. germ. 192
+Rezeptbuch
+Amberg, 1570 - 1572
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg192/cpg192(*).jpg
+708
+
+Cod. Pal. germ. 195
+Arzneibuch
+Amberg, um 1570
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg195/cpg195(*).jpg
+860
+
+Cod. Pal. germ. 214
+'Speyrer Arzneibuch'
+Speyer, 1321
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg214/cpg214(*).jpg
+126
+
+Cod. Pal. germ. 244
+Rezeptbuch ('Buch der Medizin', dreizehnter Band)
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg244/cpg244(*).jpg
+392
+
+
+Cod. Pal. germ. 261
+Buch der Medizin', erster Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg261/cpg261(*).jpg
+480
+[Anmerkung von Dasha: Es fehlen Seit 477 und 488.]
+
+Cod. Pal. germ. 262
+Buch der Medizin', zweiter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg262/cpg262(*).jpg
+486
+
+Cod. Pal. germ. 263
+Buch der Medizin', dritter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg263/cpg263(*).jpg
+574
+
+Cod. Pal. germ. 264
+Buch der Medizin', vierter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg264/cpg264(*).jpg
+532
+
+Cod. Pal. germ. 265
+Buch der Medizin', fuenfter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg265/cpg265(*).jpg
+434
+
+Cod. Pal. germ. 266
+Buch der Medizin, sechster Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg266/cpg266(*).jpg
+522
+
+Cod. Pal. germ. 267
+Buch der Medizin', siebter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg267/cpg267(*).jpg
+510
+
+Cod. Pal. germ. 268
+Buch der Medizin', achter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg268/cpg268(*).jpg
+562
+
+Cod. Pal. germ. 269
+Buch der Medizin', neunter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg269/cpg269(*).jpg
+574
+
+Cod. Pal. germ. 270
+Buch der Medizin', zehnter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg270/cpg270(*).jpg
+450
+
+Cod. Pal. germ. 271
+Buch der Medizin', elfter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg271/cpg271(*).jpg
+640
+
+Cod. Pal. germ. 272
+Buch der Medizin', zwölfter Band
+Heidelberg, 1526 - 1544
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg272/cpg272(*).jpg
+496
+
+
+Cod. Pal. germ. 300
+Konrad von Megenberg: "Das Buch der Natur"
+Hagenau 1443 - 1451
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg300/cpg300(*).jpg
+774
+
+Cod. Pal. germ. 302
+Hans Kilian: Zeichnungen von Kurfuerst Ottheinrichs alchemistischem Laborinventar
+Neuburg/Donau, um 1555/1556
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg302/cpg302(*).jpg
+55
+
+Cod. Pal. germ. 304
+Historische Notizen aus Augsburg und Muenchen (1296-1545)
+Augsburg, 1538-1545
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg304/cpg304(*).jpg
+412
+
+Cod. Pal. germ. 310
+Hofschulbuch fuer Kurprinz Friedrich IV. und Prinzessin Christina von der Pfalz
+Heidelberg, 1583
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg310/cpg310(*).jpg
+512
+
+Cod. Pal. germ. 313
+56 Minnereden
+Oberrheingebiet, 1478
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg313/cpg313(*).jpg
+1008
+[Anmerkung von Dasha: "*" ist 4Stelle]
+
+Cod. Pal. germ. 323
+Rudolph von Ems: "Willehalm von Orlens"
+Straßburg, um 1420
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg323/cpg323(*).jpg
+587
+
+Cod. Pal. germ. 324
+"Virginal"
+Hagenau, um 1444 - 1448
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg324/cpg324(*).jpg
+742
+
+Cod. Pal. germ. 329
+Hugo von Montfort: Lieder, Briefe und Reden
+Steiermark, 1414/1415
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg329/cpg329(*).jpg
+134
+
+Cod. Pal. germ. 339 Band I
+Cod. Pal, germ. 339 Band II
+Wolfram von Eschenbach: "Parzival"
+Hagenau, um 1443 - 1446
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg339i/cpg339I(*).jpg
+577
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg339ii/cpg339II(*).jpg
+679
+
+Cod. Pal. germ. 345
+"Lohengrin" und "Friedrich von Schwaben"
+Stuttgart (?), um 1470
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg345/cpg345(*).jpg
+798
+
+Cod. Pal. germ. 350
+Heidelberger Liederhandschriften Dd, Hh und R
+I. Rheinpfalz (Mainz?), II. Suedhessen (Mainz?), III. Nordbayern I.um 1300, II.-III. 2. Viertel 14. Jh.
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg350/cpg350(*).jpg
+149
+
+Cod. Pal. germ. 353
+"Die Heidin"
+Stuttgart, um 1470
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg353/cpg353(*).jpg
+145
+
+Cod. Pal. germ. 359
+"Rosengarten zu Worms" und "Lucidarius"
+Straßburg, um 1420
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg359/cpg359(*).jpg
+221
+
+Cod. Pal. germ. 362
+Konrad Fleck: "Flore und Blanscheflur"
+Hagenau, um 1442 - 1444
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg362/cpg362(*).jpg
+457
+
+Cod. Pal. germ. 365
+"Ortnit" und "Wolfdietrich"
+Straßburg, um 1420
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg365/cpg365(*).jpg
+396
+
+Cod. Pal. germ. 371
+Ulrich von Zatzikhoven: "Lanzelet"
+Straßburg, 1420
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg371/cpg371(*).jpg
+369
+
+Cod. Pal. germ. 389
+Thomasin von Zerclaere: Der welsche Gast
+Bayern (Regensburg ?), um 1256
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg389/cpg389(*).jpg
+472
+
+Cod. Pal. germ. 403
+Heinrich von Veldeke: "Eneas"
+Straßburg, 1419
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg403/cpg403(*).jpg
+529
+
+Cod. Pal. germ. 466
+Buch der Beispiele
+Seeschwaben, um 1485
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg466/cpg466(*).jpg
+615
+
+Cod. Pal. germ. 687
+Medizinische Sammelhandschrift
+Oberpfalz, 1571
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg687/cpg687(*).jpg
+228
+
+Cod. Pal. germ. 832
+Heidelberger Schicksalsbuch
+Regensburg, nach 1491
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg832/cpg832(*).jpg
+561
+
+Cod. Pal. germ. 848
+Große Heidelberger Liederhandschrift (Codex Manesse)
+Zuerich, 1305 - 1340
+http://www.ub.uni-heidelberg.de/ebind/docs/cpg848/cpg848(*).jpg
+853
+
+------------------------------------------
+Codices Palatini graeci (Cod. Pal. graec.)
+------------------------------------------
+Cod. Pal. graec. 398
+Sammelhandschrift 9./10. Jhd.
+Griechenland (Byzanz), 9./10. Jh.  
+http://www.ub.uni-heidelberg.de/ebind/docs/cpgraec398/cpgraec398(*).jpg
+672
+
+----------------------------------------
+Codices Palatini latini (Cod. Pal. lat.)
+----------------------------------------
+Cod. Pal. lat. 52
+Otfrid von Weißenburg, Evangelienbuch
+Weißenburg, um 870
+http://www.ub.uni-heidelberg.de/ebind/docs/cpl52/cpl52(*).jpg
+456
+
+Cod. Pal. lat. 864
+Gregor von Tours: Historia Francorum
+Lorsch, 8. - 9. Jh.
+http://www.ub.uni-heidelberg.de/ebind/docs/cpl864/cpl864(*).jpg
+284
+
+Cod. Pal. lat. 894
+Lucius Annaeus Florus und Titus Livius
+Lorsch (?), 1. Hälfte 9. Jh.
+http://www.ub.uni-heidelberg.de/ebind/docs/cpl894/cpl894(*).jpg
+224
+
+Cod. Pal. lat. 1568
+Gaius Iulius Solinus & Lucius Annaeus Florus & Paulus Orosius
+Nordfrankreich, Ende 11. Jh.
+http://www.ub.uni-heidelberg.de/ebind/docs/cpl1568/cpl1568(*).jpg
+316
+
+-------------------------------------
+Heidelberger Handschriften (Heid.Hs.)
+-------------------------------------
+Heid. Hs. 3394
+Heinrich Ruedinger: Planetenbuch
+Heidelberg (Weinheim), 1551 - 1564  
+http://www.ub.uni-heidelberg.de/ebind/docs/heidhs3394/heidhs3394(*).jpg
+269
+
+------------------------------
+Codices Salemitani (Cod. Sal.)
+------------------------------
+Cod. Sal. X 16
+Hildegard von Bingen: Liber Scivias
+Zwiefalten und Salem, Ende 12. Jh. und um 1220
+http://www.ub.uni-heidelberg.de/ebind/docs/salX16/salX16(*).jpg
+404
+
+
+傻按：
+全部为真彩图片，共4.80G；
+下载链接提供的是FlashGet之类下载软件批量下载的格式，其中除Cod. Pal. germ. 313需要将“*”设置位4位，其余一律请设置为3位（含不超过100页的图书）；
+其中Cod. Pal. germ. 261的Buch der Medizin', erster Band (Heidelberg, 1526 - 1544)（医书），第477、478页阙如。
