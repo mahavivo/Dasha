@@ -1,0 +1,57 @@
+Gossudar 2005-10-20 11:51:35
+
+网上已经BT了所谓“汉语大词典V2.0简体中文版”多时，Dasha也下载了一个，至少，不用再外挂繁体平台啦。其实，这个所谓简体版，不过是私人在繁体版上做了一些不成熟的手脚：
+1，光盘“MULTIS”目录下有名为Thumbs.db的隐含文件，应该是看图软件ACDSee生成的数据库文件，正版原始光盘里无；
+2，简体化得并不彻底，有些字需要输入繁体方能查询；词条释文的正文简繁体混杂，拷贝出来的亦如此；
+3，原始正版盘是有SecuROM( *new* V4.84.84.0001)加密的，如今的只是一个无任何加密手段的普通Virtual Drive文件（使用中最好转换成标准ISO文件），嘿嘿，正版厂商如今怎会如此大方？
+
+
+然而，每次使用，都要载入虚拟光驱，且此时如果不按Shift键，就会弹出安装的界面，很是麻烦。
+免CD方法：
+1，将CD（就是BT中的那个ISO文件里的内容）全部拷贝到硬盘里（比如：在C:\\HYDCGB.V20下建立一个目录CD）；
+2，找到已安装“汉语大词典V2.0”的路径，如：C:\\HYDCGB.V20；
+3，在“C:\\HYDCGB.V20”找到并用记事本之类的文本编辑软件打开Hdpath.dat；
+4，其中内容如下：
+[HYDC2.0PRC]
+Instpath=C:\\HYDCGB.V20\\
+OldEudcFont=
+SourPath=I:\\
+UserName=Gossudar
+Version=NT4.00
+
+将“SourPath=I:\\”修改为“C:\\HYDCGB.V20\\CD\\”（Gossudar刚刚将CD中的全部文件拷贝到了“C:\\HYDCGB.V20\\”的“CD”目录下）
+5，存盘退出。
+
+如此而已。
+
+嚯嚯，但愿Gossudar这一招能有助学文科的同志们。
+
+
+zhuce2003 2005-10-20 12:31:15
+
+我是用绿色的迷你虚拟光驱弄的，启动大辞典时候没有启动那个安装界面啊，直接就进入查询界面了。不过楼主的方法不错，可以把词典的东西保存到任意分区的目录下面了。估计会要求非中文路径吧。
+
+
+Gossudar 2005-10-20 14:42:58
+
+是哩，完全可以硬盘化。安装目录里有两个文件：Hdpath.dat和path.dat，将里面的“Instpath=X:\HYDCGB.V20\”类的东西改成“Instpath=\HYDCGB.V20\”就可以啦。
+比如，Hdpath.dat的内容目前在Gossudar的内容是：
+[HYDC2.0PRC]
+Instpath=\HYDCGB.V20\
+OldEudcFont=
+SourPath=\HYDCGB.V20\CD\
+UserName=Gossudar
+Version=NT4.00
+
+path.dat的内容是：
+Data=\HYDCGB.V20\phonetic\
+Library=\HYDCGB.V20\phonetic\data\
+
+如上，则可以拷贝到任何盘符内使用。但是，弄成光盘直接运行的Gossudar没有想好，可能只读属性的原因吧。此外，词典正文在光盘DATA的目录下，里面的*.dat文件用文本编辑器打开可以看到词条和内容。
+
+由于电脑字库的限制，此光碟并未将纸本的《汉语大词典》收全，目前，CX的图片版还有使用价值。唉。
+
+
+samurai 2005-10-24 23:22:01
+
+我帮顶顶，哈哈

@@ -1,0 +1,143 @@
+Gossudar 2006-2-19 19:08:27
+
+Arthur Schopenhauer's Sämmtliche Werke (6Bd.), herausgegeben von Julius Frauenstädt. zweite Auflage
+
+Schopenhauer, Arthur (1788-1860)
+Leipzig : F. A. Brockhaus, 1877
+6 vol. in-8
+
+I. Schriften zur Erkenntnisslehre ;
+1. Ueber die vierfache Wurzel des Satzes vom zureichenden Grunde ;
+2. Ueber das Sehn und die Farben ;
+3. Theoria colorum physiologica ;
+II-III. Die Welt als Wille und Vorstellung ;
+1. Bd. Vier Bücher, nebst einem Anhange, der die Kritik der Kantischen Philosophie enthält ;
+2. Bd., welcher die Ergänzungen zu den vier Büchern des ersten Bandes enthält ;
+IV. Schriften zur Naturphilosophie und zur Ethik ;
+1. Ueber den Willen in der Natur ;
+2. Die beiden Grundprobleme der Ethik ;
+V-VI. \"arerga\" und \"aralipomena\", kleine philosophische Schriften
+
+下载地址：
+Band 1
+ftp://ftp.bnf.fr/007/N0077960_PDF_1_550.pdf
+Band 2, 1
+ftp://ftp.bnf.fr/007/N0077961_PDF_1_672.pdf 
+Band 3, 2
+ftp://ftp.bnf.fr/007/N0077962_PDF_1_750.pdf 
+Band 4
+ftp://ftp.bnf.fr/007/N0077963_PDF_1_493.pdf
+Band 5, 1
+ftp://ftp.bnf.fr/007/N0077964_PDF_1_546.pdf
+Band 6, 2
+ftp://ftp.bnf.fr/007/N0077965_PDF_1_703.pdf
+
+咳咳，对我中华文人影响如此巨大的人物，全集汉译迄今尚无；再咳，早已经过了版权保护期，奶奶的德国佬一直未电子化全集；最后咳，这个FTP就是蜚声全球的法国国家图书馆（La Bibliothèque nationale de France, BnF）的FTP。
+
+傻按：似乎FlashGet无法正确下载，Dasha乃以FlashFXP下载的，感谢风影幻想斑斑提供技术支持。
+
+
+benchren 2006-2-19 21:30:04
+
+直接点右键就可以用flashget下载.
+
+
+Gossudar 2006-2-19 21:36:12
+
+奇怪ing，为什么Dasha（以及哲人王兄等人）用FlashGet下载（哪怕是单线程）后，提示文件被damaged。只是在风影斑斑的提示下用FlashGet才正常下载。
+
+
+lawer67 2006-2-19 21:46:30
+
+讯雷140kb.......
+
+
+benchren 2006-2-19 22:03:54
+
+引用第3楼Gossudar于2006-02-19 21:36发表的“”:
+奇怪ing，为什么Dasha（以及哲人王兄等人）用FlashGet下载（哪怕是单线程）后，提示文件被damaged。只是在风影斑斑的提示下用FlashGet才正常下载。
+
+确实被DAMAGED,真是出了鬼,不过俺不懂德文,下了没DAMAGED也白搭.
+
+
+Gossudar 2006-2-19 23:14:20
+
+呵呵，也被damaged啦。
+更正一下：“只是在风影斑斑的提示下用FlashGet才正常下载”，正确当为“只是在风影斑斑的提示下用FlashFXP才正常下载。”
+
+
+littlemayi 2006-2-20 10:38:49
+
+请问，如何才能用flashfxp正常下载？
+
+
+samurai 2006-2-20 10:44:18
+
+哈哈，影音传送可以下载
+
+不懂德文，期待Gossudar等高手的汉译ing
+
+
+littlemayi 2006-2-20 10:49:14
+
+下载后是损坏文件
+
+
+Gossudar 2006-2-20 11:11:01
+
+引用第10楼littlemayi于2006-02-20 10:49发表的“”:
+下载后是损坏文件用FlashFXP最新版下载就没有问题啦
+
+
+哲人王 2006-2-20 11:23:49
+
+德文是花体字，阅读起来比较困难 。
+
+
+lawer67 2006-2-20 11:36:45
+
+点击文件可直接打开，不用下载工具也可,另存即可。只是文字看得头晕。。。
+
+
+疯言疯语 2006-2-20 12:04:36
+
+引用第12楼哲人王于2006-02-20 11:23发表的“”:
+德文是花体字，阅读起来比较困难 。
+
+是啊，尤其是那个“y”,俺学了多遍，就是不得要领，呵呵
+
+
+Gossudar 2006-2-20 12:43:37
+
+找个Font对照一下吧，Dasha也在猜字，目前只掌握了sch之类的书写规则。阅读起来像阅读小篆，嘿嘿，很有历史感呀。
+
+
+benchren 2006-2-21 22:26:37
+
+偶学过皮毛中的皮毛就半途而废了,偶自学过日语、法语、俄语甚至意大利语的语音，感觉语音入门不难，难的是持之以恒，难的是没动力，有时仅仅有兴趣是不够的。现在英语对偶很重要，可偶又没把它学精。
+
+
+littlemayi 2006-2-21 23:56:35
+
+六本书被删除了........哪位提供下载一下
+
+
+littlemayi 2006-2-21 23:58:11
+
+还有，如何知道各文件对应的书名........
+
+
+Gossudar 2006-2-28 10:30:45
+
+引用第12楼哲人王于2006-02-20 11:23发表的“”:
+德文是花体字，阅读起来比较困难 。
+
+嘿嘿，那不叫花体字啦，当年的印刷体。详见：
+http://read.duxiu.com/duxiuread/ ... Number=000005709832之第三页
+《汉译德文文法》
+ 【丛书名】 
+【形态项】 377 
+【读秀号】000005709832 
+【出版项】 商务印书馆 , 1916 
+【原书定价】 1.90（大洋） 
+【参考文献格式】汉译德文文法. 商务印书馆, 1916. 傻按，没有版权页，Dasha对读秀的信息根本不信。此书至少是“订正再版”，作者是“秦文中”。

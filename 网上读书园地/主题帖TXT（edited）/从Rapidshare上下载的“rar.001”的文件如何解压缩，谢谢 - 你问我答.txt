@@ -1,0 +1,64 @@
+Gossudar 2008-11-3 08:44:15
+
+Dasha从Rapidshare下载了一些诸如rar.001，rar.002……的文件，也按照Google的提示使用hjsplit（v2.3）将文件“join”，也按照Google的提示使用了7ZIP解压缩（据说WinRAR有错，也试过，确实解压缩到第一个压缩包末尾报错），但仍然提示：...princeton.rar.001: CRC failed in the encrypted file Miranda.avi (wrong password ?)
+...princeton.rar.001: Unexpected end of archive
+请精通此道的高手点拨。
+
+谨附Dasha所下载的链接：
+http://rapidshare.com/files/117763761/princeton.rar.001
+http://rapidshare.com/files/117773996/princeton.rar.002
+http://rapidshare.com/files/117779604/princeton.rar.003
+http://rapidshare.com/files/117785810/princeton.rar.004
+http://rapidshare.com/files/117791819/princeton.rar.005
+http://rapidshare.com/files/117797868/princeton.rar.006
+http://rapidshare.com/files/117804369/princeton.rar.007
+http://rapidshare.com/files/117808211/princeton.rar.008
+
+拜谢
+
+
+Gossudar 2008-11-3 09:07:26
+
+引用第1楼adbaobao于2008-11-03 08:46发表的 :
+方法二：启动RAR，选择[文件]->[打开压缩文件]，打开setup.001解压即可
+
+方法一：把setup.001加上后缀.rar，成为setup.001.rar，把setup.002改名为setup.001并加后缀.r00，成为 setup.001.r00。后面的文件依次类推改名为setup.001.r01，setup.001.r02……，改名后的文件为
+setup.001.rar
+setup.001.r00
+.......感谢adbaobao兄的回答。Dasha按兄说的方法尝试了，结果：
+
+
+
+
+Untitled-1.jpg (58 KB, 下载次数: 0)
+
+下载附件
+
+2008-11-3 09:07 上传
+
+
+
+
+另，用7zip合并文件的结果还是提示第一个压缩包的末端损坏。Dasha下载了两种这样的文件，结果都是如此。烦请兄不吝指导。拜谢
+
+
+Gossudar 2008-11-3 09:26:37
+
+万谢adbaobao细致解答，似乎是下载的文件顺坏，Dasha下载的第二种后来用7zip合并、解压缩成功。
+感谢兄的热心。还有，那个文件的出处兄都找到啦……
+是图片，既然“only 11 SAT MATH PRACTICE TESTS”，似乎Dasha也没有必要下载啦。
+
+
+phucanh 2008-11-11 00:01:49
+
+Dear friend! Please use this tool
+http://rapidshare.com/files/99623003/FFSJ_By_RapidSahre.Vn.rar
+
+Open JOINING tab
+
+Choose rar.001 file ----------> click JOIN ---------> Okie ^^!
+
+
+strnghrs 2008-11-11 09:02:20
+
+BatchUnRar

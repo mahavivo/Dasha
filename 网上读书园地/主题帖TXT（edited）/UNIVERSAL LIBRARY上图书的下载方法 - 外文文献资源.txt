@@ -1,0 +1,24 @@
+Gossudar 2006-2-20 09:21:16
+
+UNIVERSAL LIBRARY的URL地址：
+http://tera-3.ul.cs.cmu.edu/
+
+缘起，Gossudar在找书区求书：http://www.readfree.net/bbs/read.php?tid=140439，威望目前未能转移，且有lfang兄欲与Gossudar共同学习下载技术，乃将不成熟的粗浅心得总结如下。
+
+在http://tera-3.ul.cs.cmu.edu/上，比如Gossudar欲下载Gedichte 1906 Bis1926 by Riner maria rilke（Gossudar按：“Riner”的正确拼写为“Rainer”，是以Gossudar叫嚣不信任任何纯文本电子图书），其浏览地址为http://tera-3.ul.cs.cmu.edu/cgi- ... l=12205&search=
+打开源文件，第4、5行有如下字样
+var baseDir = \"NASD/d23d381a-642a-4cb1-bd42-5373f518ed1d/012/205\";
+var fsDir = \"/data/www/NASD/d23d381a-642a-4cb1-bd42-5373f518ed1d/012/205\";
+因此，用浏览器打开http://tera-3.ul.cs.cmu.edu/NASD ... 73f518ed1d/012/205/即可。此后，各种格式的，用下载工具可以任意胡来啦。
+
+附图如下，再次感谢在找书区提供图书并此地址的lfang、bibliomaniac两位兄弟。
+
+
+lenin 2006-2-20 10:26:59
+
+建议下载完TIF格式文件后，用djvu solo转换成小巧，基本无损的djvu格式，以便平时阅读，批阅和交流之用。 
+
+
+xyz04cell 2006-2-20 11:44:07
+
+请楼主分一下类!

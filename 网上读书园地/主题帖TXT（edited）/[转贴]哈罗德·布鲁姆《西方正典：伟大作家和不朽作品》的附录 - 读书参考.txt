@@ -1,0 +1,1356 @@
+Gossudar 2006-9-1 01:14:13
+
+傻按：至少，此兄的翻译比译林江宁康版要规范化、专业得多。唉，会一门外语，并不意味着此语种的任何文字都可以翻译。就说汉语吧，未必每个中国人都能正确理解。“凌晨一点钟”这样的说法能够大行其道，可见一斑矣。当然，对于哈罗德·布鲁姆的文学偏见，Dasha亦有偏见，其所舻列之目录，Dasha本来不屑。如今船载以入，只缘其毕竟是进入英语文学的一个可以参考的简易地图，但请阅读者不要被这位《影响的焦虑》的作者所影响（傻以为，他是没有资格奢谈整个西方的）。
+
+原文在：
+http://evilbloom.spaces.live.com ... artqs=cat%3dLecture
+
+哈罗德·布鲁姆《西方正典：伟大作家和不朽作品》的附录：翻译初衷
+哈罗德·布鲁姆在《西方正典》后面附了一个长达几十页的经典书目，这个书目即便单独拿出来看也是非常出色的一个书目。阅读《西方正典》的时候觉得布鲁姆的阅读品位和我的相对而言还是比较接近的，所以，这样的书目对我而言是非常有意义的。我不想追寻布鲁姆的阅读路线，因为那绝对是个不可能的任务。他的书目里至少有一半的书在国内没有译本，这其中又有一部分甚至连作者和作品的名字都没有汉化，并且，这部分作品在西方大部分人的阅读里可能也是被忽略的，布鲁姆将它们列入书目正是为了唤起对它们的注意。而对于我们熟知的作家来说，布鲁姆依旧会以他的眼光选择一些长期被忽视但在他眼里是佳作的作品，这些对我们来说，依旧是很陌生的。以上两类作品占了这个书目的大部分，剩下的才是通常意义上的名家名作了。所以，与其说这个书目具备参考意义，不如说书目中体现的布鲁姆的阅读趣味更实际点，正是凭着这种好奇心，我希望能有稍微深入的研究而不是象通常那样一掠而过。
+
+译林江宁康版已经把这个书目译出来了，但我不太满意，就我上述的名家名作部分尚且有误译，更不用说书目的偏僻作品的翻译了。于是我上网找了一个英文版的书目，准备自己校译一遍。这个工作现在刚完成1/3，发觉难度确实很大。太多的作者和作品名没有汉化，俺也能只能直译，因没有读过原著，俺完全没把握到底译的正确不正确。有些作品有好几个版本，我一般只取比较普及的版本的译名。作者的译名也是个很大的问题，俺现在考虑，著名的作者采用通用的译法，有名有姓或者有姓无名或有名无姓都保持原样，而不太著名的作者，通常还是把姓和名都列出来。
+
+本来还有一个雄心壮志，那就是书目有译本的作品，把译本的译名、译者、出版社、出版年代等信息附上。最初只是觉得这个计划可能会令我心有余而力不足（工作量太大了！），后来发现，布鲁姆的这个书目列的都是国外出版的版本，和国内出版的版本在作品选取上有相当大的差异，根本就不可能做到一一对应。所以，这个计划光荣放弃。
+
+多数译者在《前言》里都会写上“译者水平有限，书中可能存在不少错误，希读者指正”之类的话，俺也得这么说。虽然俺没啥读者，这次翻译这个也只是想给自己看，不过还是诚惶诚恐，唯恐译错。事实上，俺除了觉得肯定比江宁康版本的附录译得稍微好一些之外，确实是没多少把握的。枉我一直号称见多识广。不过借着这次机会，多多利用Google，倒也真得到不少以前不知道的知识，也是值得的。
+
+
+哈罗德·布鲁姆《西方正典：伟大作家和不朽作品》(New York: Harcourt Brace, 1994)的附录 A-D
+
+A. The Theocratic Age: 2000 BCE-1321 CE 神权时代：公元前2000 – 公元1321
+B. The Aristocratic Age: 1321-1832 贵族时代：公元1321 - 公元1832
+C. The Democratic Age: 1832-1900 民主时代：公元1832 – 公元1900
+D. The Chaotic Age: 20th Century 混乱时代：20世纪
+
+A. The Theocratic Age神权时代
+\"Since the literary canon is at issue here, I include only those religious, philosophical, historical, and scientific writings that are themselves of great aesthetic interest. I would think that, of all the books that are in this first list, once the reader is conversant with the Bible, Homer, Plato, the Athenian dramatists, and Virgil, the crucial work is the Koran....
+\"I have included some Sanskrit works, scriptures and fundamental literary texts, because of their influence on the Western canon. The immense wealth of ancient Chinese literature is mostly a sphere apart from Western literary tradition and is rarely conveyed adequately in the translations available to us.\"
+(Bloom, p. 531)
+“由于本书只讨论文学经典，我只列入那些本身具有较高审美趣味的宗教、哲学、历史和科学著作。我想，在这第一张单子里列出的书中，一旦读者熟习《圣经》以及荷马、柏拉图、雅典剧作家、维吉尔等的作品，那么关键作品就是《古兰经》了…”
+“基于它们对西方经典作品的影响，我也把一部分梵语作品、经文和基本文学文本列入单子。在西方正典传统之外，博大精深的中国古代文学几乎构成了另一个世界，但很少有适合我们的优秀译本。”
+The Ancient Near East古代近东
+· Gilgamesh 吉尔迦美什
+· Egyptian Book of the Dead 埃及亡灵书
+· Holy Bible (King James Version) 圣经(钦定本)
+· The Apocrypha 次经
+· Sayings of the Fathers (Pirke Aboth) 先贤集
+Ancient India (Sanskrit) 古代印度
+· Mahabharata 摩诃婆罗多
+· Bhagavad-Gita 薄迦梵歌
+· Ramayana 罗摩衍那
+The Ancient Greeks古代希腊
+· Homer 荷马
+Iliad 伊里亚特
+Odyssey 奥德赛
+· Hesiod 赫西俄德
+Works and Days 工作与时日
+Theogony 神谱
+· Archilochos, Sappho, Alkman 阿尔基洛科斯, 萨福, 阿尔克曼
+· Pindar 品达
+Odes 颂诗
+· Aeschylus 埃斯库罗斯
+Oresteia 俄瑞斯忒亚
+Seven Against Thebes七将攻忒拜
+Prometheus Bound被缚的普罗米修斯
+Persians波斯人
+Suppliant Women 祈援人
+· Sophocles 索福克勒斯
+Oedipus the King 俄狄浦斯王
+Oedipus at Colonus 俄狄浦斯在科洛诺斯
+Antigone 安提戈涅
+Electra 厄勒克特拉
+Ajax 埃阿斯
+Women of Trachis 特拉克斯的女人们
+Philoctetes 菲罗克忒忒斯
+· Euripides 欧里庇得斯
+Cyclops 独眼巨人
+Heracles 赫拉克勒斯
+Alcestis 阿尔刻提斯
+Hecuba 赫古巴
+Bacchae 酒神的伴侣
+Orestes 俄瑞斯忒
+Andromache 安德洛玛克
+Medea 美狄亚
+Ion 伊翁
+Hippolytus 希波吕托斯
+Helen 海伦
+Iphigenia at Aulis 伊菲革涅亚在奥里斯
+· Aristophanes 阿里斯托芬
+The Birds 鸟
+The Clouds 云
+The Frogs 蛙
+Lysistrata吕西斯忒拉忒
+The Knights 骑士
+The Wasps 马蜂
+The Assemblywomen 妇女大会
+· Herodotus 希罗多德
+The Histories 历史
+· Thucydides 修昔底德
+The Peloponnesian Wars 伯罗奔尼撒战争史
+· The Pre-Socratics (Heraclitus, Empedocles) 前苏格拉底学派(赫拉克利特，恩培多克勒)
+· Plato 柏拉图
+Dialogues 对话录
+· Aristotle 亚里士多德
+Poetics 诗学
+Ethics 伦理学
+Hellenistic Greeks希腊化时期
+· Menander 米南德
+The Girl from Samos 萨默斯女子
+· \"Longinus\"“朗吉努斯”
+On the Sublime 论崇高
+· Callimachus 卡利马库斯
+Hymns and Epigrams 颂歌与铭辞集
+· Theocritus忒奥克里托斯
+Idylls 田园诗集
+· Plutarch 普鲁塔克
+Lives 希腊罗马名人传
+Moralia 道德论集
+· \"Aesop\"伊索 
+Fables 伊索寓言
+· Lucian 琉善（路吉阿诺斯）
+Satires 讽刺集
+The Romans古罗马
+· Plautus 普劳图斯
+Pseudolus 说谎者
+The Braggart Soldier 吹牛的士兵
+The Rope 绳子
+Amphitryon 安菲特律翁
+· Terence 泰伦斯
+The Girl from Andros 安德罗斯女子
+The Eunuch 阉奴
+The Mother-in-Law 婆母
+· Lucretius 卢克莱修
+The Way Things Are 物性论
+· Cicero 西塞罗
+On the Gods 
+· Horace 贺拉斯
+Odes 歌集
+Epistles 书札
+Satires 讽刺诗集
+· Persius 佩尔西乌斯
+Satires 讽刺诗集
+· Catullus 卡图卢斯
+Attis and Other Poems 阿提斯及其他诗歌
+· Virgil 维吉尔
+Aeneid 埃涅阿斯
+Eclogues 牧歌
+Georgics 农事诗
+· Lucan 卢坎
+Pharsalia 内战记
+· Ovid 奥维德
+Metamorphoses 变形记
+The Art of Love 爱经
+Heroides 情书
+· Juvenal 玉外纳
+Satires讽刺诗集
+· Martial 马提雅尔
+Epigrams 铭词集
+· Seneca 塞涅卡
+Tragedies, particularly Medea and Hercules Furens 悲剧集，尤其是 美狄亚 和 发疯的赫拉克勒斯
+· Petronius 佩特罗尼乌斯
+Satyricon 萨蒂里孔
+· Apuleius 阿普列尤斯
+The Golden Ass 金驴记
+The Middle Ages: Latin, Arabic, and the Vernacular Before Dante中世纪：但丁之前的拉丁语、阿拉伯语及方言作品
+· Saint Augustine 圣奥古斯丁
+City of God 上帝之城
+Confessions 忏悔录
+· The Koran (Al-Qur&#39;an) 古兰经
+· The Book of the Thousand Nights and One Night 一千零一夜
+· The Poetic Edda 诗体埃达
+· Snorri Sturluson斯诺里·斯图鲁松
+The Prose Edda 散文埃达
+· The Nibelungen Lied 尼伯龙根之歌
+· Wolfram von Eschenbach沃尔夫拉姆·封·埃申巴赫
+Parzival 帕西法尔
+· Chrétien de Troyes克雷蒂安·德·特罗亚
+Yvain: The Knight of the Lion伊文或猎狮骑士
+· Beowulf 贝奥武甫
+· The Poem of the Cid 熙德之歌
+· Christine de Pisan克里斯蒂娜·德·皮桑
+The Book of the City of Ladies 女性之城
+· Diego de San Pedro 迭戈·德·圣佩德罗
+Prison of Love 爱之牢笼
+
+
+Gossudar 2006-9-1 01:14:44
+
+B. The Aristocratic Age贵族时代
+"It is a span of five hundred years from Dante&#39;s Divine Comedy through Goethe&#39;s Faust, Part Two [1321-1832], an era that gives us a huge body of reading in five major literatures: Italian, Spanish, English, French, and German. In this and in the remaining lists, I sometimes do not mention individual works by a canonical master, and in other instances I attempt to call attention to authors and books that I consider canonical but rather neglected. From this list onward, many good writers who are not quite central are omitted...." (Bloom, p. 534)
+“从但丁的《神曲》到歌德的《浮士德》第二部[1321-1832]，长达500年的时间内出现了大量以5种主要语言写成的文学：意大利语、西班牙语、英语、法语、德语。在这张以及接下来的单子中，有时经典大师的某些私人化作品并未提及，相反，我尝试着去唤起对一些我认为是经典的但相当被忽略的作家和作品的注意。从这张单子开始，有许多优秀的但不是很重要的作家将被略去….”
+Italy意大利
+· Dante 但丁
+The Divine Comedy 神曲
+The New Life 新生
+· Petrarch 彼特拉克
+Lyric Poems 歌集
+Selections 选集
+· Giovanni Boccaccio薄迦丘
+The Decameron 十日谈
+· Matteo Maria Boiardo博亚尔多
+Orlando Innamorato 热恋的罗兰
+· Ludovico Ariosto阿里奥斯托
+Orlando Furioso 疯狂的奥兰多
+· Michelangelo Buonarroti 米开朗琪罗
+Sonnets and Madrigals 诗集
+· Niccolò Machiavelli马基雅维利
+The Prince 君主论
+The Mandrake, a Comedy 曼陀罗花
+· Leonardo da Vinci达芬奇
+Notebooks 笔记
+· Baldassare Castiglione 卡斯蒂廖内
+The Book of the Courtier 侍臣论
+· Gaspara Stampa迦丝芭拉·丝塔姆芭
+Sonnets and Madrigals 十四行诗与情诗
+· Giorgio Vasari瓦萨里
+Lives of the Painters 艺苑名人传/ 著名画家、雕塑家、建筑家传
+· Benvenuto Cellini切里尼
+Autobiography 自传
+· Torquato Tasso塔索
+Jerusalem Delivered 被解放的耶路撒冷
+· Giordano Bruno布鲁诺
+The Expulsion of the Triumphant Beast 驱逐趾高气扬的野兽
+· Tommaso Campanella康帕内拉
+Poems 诗集
+The City of the Sun 太阳城
+· Giambattista Vico维科
+Principles of a New Science 新科学
+· Carlo Goldoni哥尔多尼
+The Servant of Two Masters 一仆二主
+· Vittorio Alfieri阿尔菲耶里
+Saul 扫罗
+Portugal葡萄牙
+· Luis de Camo雗s卡蒙斯
+The Lusiads卢济塔尼亚人之歌
+· Antònio Ferreira费雷拉
+Poetry 诗歌
+Spain西班牙
+· Jorge Manrique曼莱克
+Coplas悼亡父诗
+· Fernando de Rojas罗哈斯
+La Celestina塞莱丝蒂娜
+· Lazarillo de Tormes 小癞子
+· Francisco de Quevedo克维多
+Visions 梦
+Satirical Letter of Censure 讽刺信札
+· Fray Luis de León路易丝·雷昂修士
+Poems 诗集
+· St. John of the Cross圣十字若望
+Poems 诗集
+· Luis de Góngora贡戈拉
+Sonnets 十四行诗集
+Soledades 孤独
+· Miguel de Cervantes塞万提斯
+Don Quixote 堂吉诃德
+Exemplary Stories 训诫小说
+· Lope de Vega 洛佩·德·维加
+La Dorotea拉·多罗特亚
+Fuente Ovejuna 羊泉村
+Lost in a Mirror 迷失在镜中
+The Knight of Olmedo 奥尔梅多骑士
+· Tirso de Molina莫利纳
+The Trickster of Seville 塞维利亚的骗子
+· Pedro Calderón de la Barca卡尔德隆
+Life is a Dream 人生如梦
+The Mayor of Zalamea萨拉梅雅市长
+The Mighty Magician 万能的魔术师
+The Doctor of His Own Honor 医生的荣誉
+· Sor Juana Inés de la Cruz 修女胡安娜·伊内斯
+Poems 诗集
+England and Scotland英格兰与苏格兰
+· Geoffrey Chaucer乔叟 
+The Canterbury Tales 坎特伯雷故事
+Troilus and Criseyde特罗勒斯与克丽西德
+· Sir Thomas Malory马洛礼
+Le Morte D&#39;Arthur 亚瑟王之死
+· William Dunbar邓巴
+Poems 诗集
+· John Skelton 约翰·斯凯尔顿
+Poems 诗集
+· Sir Thomas More 托马斯·莫尔
+Utopia 乌托邦
+· Sir Thomas Wyatt 托马斯·威亚特
+Poems 诗集
+· Henry Howard, Earl of Surrey 亨利·霍华德，萨里子爵
+Poems 诗集
+· Sir Philip Sidney锡德尼
+The Countess of Pembroke&#39;s Arcadia 阿卡迪亚
+Astrophel and Stella 爱星者和星星
+An Apology for Poetry 诗辩
+· Fulke Greville, Lord Brooke 法尔克·格雷维尔，布鲁克勋爵
+Poems 诗集
+· Edmund Spenser斯宾塞
+The Faerie Queene 仙后
+The Minor Poems 短诗集
+· Sir Walter Ralegh 沃尔特·雷利爵士
+Poems 诗集
+· Christopher Marlowe马洛
+Poems and Plays 诗集与戏剧集
+· Michael Drayton德雷顿
+Poems 诗集
+· Samuel Daniel 塞缪尔·丹尼尔
+Poems 诗集
+A Defence of Ryme 捍卫韵文
+· Thomas Nashe 托马斯·纳什
+The Unfortunate Traveller不幸的旅客
+· Thomas Kyd 托马斯·基德
+The Spanish Tragedy 西班牙悲剧
+· William Shakespeare莎士比亚
+Plays and Poems 戏剧集与诗集
+· Thomas Campion 托马斯·坎皮恩
+Songs 歌集
+· John Donne 约翰·多恩
+Poems 诗集
+Sermons 布道辞
+· Ben Jonson 本·琼生
+Poems, Plays, and Masques 诗集，戏剧集
+· Francis Bacon 弗朗西斯·培根
+Essays 随笔
+· Robert Burton 罗伯特·伯顿
+The Anatomy of Melancholy忧郁的剖析
+· Sir Thomas Browne 托马斯·布朗爵士
+Religio Medici 一个医生的宗教信仰
+Hydriotaphia, or Urne-Buriall 瓮葬
+The Garden of Cyrus 居鲁斯的花园
+· Thomas Hobbes托马斯·霍布斯
+Leviathan 利维坦
+· Robert Herrick 罗伯特·赫里克
+Poems 诗集
+· Thomas Carew 托马斯·卡鲁
+Poems 诗集
+· Richard Lovelace 理查德·洛夫莱斯
+Poems 诗集
+· Andrew Marvell 安德鲁·马维尔
+Poems 诗集
+· George Herbert 乔治·赫伯特
+The Temple 圣殿
+· Thomas Traherne 托马斯·特拉赫恩
+Centuries, Poems, and Thanksgivings 世纪，诗集，感恩
+· Henry Vaughan 亨利·沃恩
+Poetry 诗歌
+· John Wilmot, Earl of Rochester 约翰·维尔默，罗切斯特伯爵
+Poems 诗集
+· Richard Crashaw 理查德·克拉肖
+Poems 诗集
+· Francis Beaumont and John Fletcher 博蒙特和弗莱彻
+Plays 戏剧集
+· George Chapman 乔治·查普曼
+Comedies, Tragedies, Poems 喜剧，悲剧，诗集
+· John Ford 约翰·福特
+&#39;Tis Pity She&#39;s a Whore 惜为风尘女
+· John Marston约翰·马斯顿
+The Malcontent 愤世者
+· John Webster 约翰·韦伯斯特
+The White Devil 白魔
+The Duchess of Malfi 马尔菲公爵夫人
+· Thomas Middleton and William Rowley 米德尔顿和罗利
+The Changeling 被偷换的孩子
+· Cyril Tourneur 图尔纳
+The Revenger&#39;s Tragedy 复仇者的悲剧
+· Philip Massinger 菲利普·马辛格
+A New Way to Pay Old Debts 旧债新还
+· John Bunyan 约翰·班扬
+The Pilgrim&#39;s Progress 天路历程
+· Izaak Walton 艾萨克·沃尔顿
+The Compleat Angler 钓客清话
+· John Milton弥尔顿
+Paradise Lost 失乐园
+Paradise Regained 复乐园
+Lycidas, Comus, and the Minor Poems 利西达斯，酒神，短诗集
+Samson Agonistes 力士参孙
+Areopagitica 论出版自由
+· John Aubrey 约翰·奥布里
+Brief Lives 短暂的生命/小传集
+· Jeremy Taylor 杰里米·泰勒
+Holy Dying 圣洁的死亡
+· Samuel Butler 萨缪尔·巴特勒
+Hudibras 休迪布拉斯
+· John Dryden 约翰·德莱顿
+Poetry and Plays 诗歌和戏剧
+Critical Essays 评论集
+· Thomas Otway 托马斯·奥特威
+Venice Preserv&#39;d 得救的威尼斯
+· William Congreve 威廉·康格里夫
+The Way of the World 如此世道
+Love for Love 以爱还爱
+· Jonathan Swift 斯威夫特
+A Tale of a Tub 澡盆的故事
+Gulliver&#39;s Travels 格列佛游记
+Shorter Prose Works 散文集
+Poems 诗集
+· Sir George Etherege 乔治·艾特利吉
+The Man of Mode 摩登人物
+· Alexander Pope 亚历山大·蒲柏
+Poems 诗集
+· John Gay 约翰·盖伊
+The Beggar&#39;s Opera 乞丐歌剧
+· James Boswell 詹姆斯·包斯威尔
+Life of Johnson 约翰生传
+Journals 游记
+· Samuel Johnson 萨缪尔·约翰逊
+Works 文集
+· Edward Gibbon 爱德华·吉本
+The History of the Decline and Fall of the Roman Empire 罗马帝国衰亡史
+· Edmund Burke 爱德蒙·柏克
+A Philosophical Enquiry into...the Sublime and Beautiful关于崇高与美的观念起源之哲学探讨
+Reflections on the Revolution in France法国革命论
+· Maurice Morgann 莫里斯·摩根
+An Essay on the Dramatic Character of Sir John Falstaff 论戏剧人物约翰·福斯塔夫爵士
+· William Collins 威廉·柯林斯
+Poems 诗集
+· George Farquhar 乔治·法夸尔
+The Beaux&#39; Strategem扮成风流潇洒者的计谋
+The Recruiting Officer 招兵官
+· William Wycherley 威廉·威彻利
+The Country Wife 乡下女人
+The Plain Dealer 光明磊落者
+· Christopher Smart 克里斯托弗·斯马特
+Jubilate Agno 羔羊颂
+A Song to David 献给大卫的一支歌
+· Oliver Goldsmith 哥德史密斯
+The Vicar of Wakefield 威克菲尔德的牧师
+She Stoops to Conquer 屈身求爱
+The Traveller 旅行者
+The Deserted Village 荒村
+· Richard Brinsley Sheridan 谢立丹
+The School of Scandal 造谣学校
+The Rivals 情敌
+· William Cowper 威廉·考伯
+Poetical Works 诗作
+· George Crabbe 乔治·克雷布
+Poetical Works 诗作
+· Daniel Defoe 笛福
+Moll Flanders 摩尔·弗兰德斯
+Robinson Crusoe 鲁滨逊漂流记
+A Journal of the Plague Year瘟疫年记事
+· Samuel Richardson 萨缪尔·理查森
+Clarissa 克拉丽莎
+Pamela 帕梅拉
+Sir Charles Grandison查尔斯·格兰迪森爵士的历史
+· Henry Fielding 菲尔丁
+Joseph Andrews 约瑟夫·安德鲁斯
+The History of Tom Jones, a Foundling 弃儿汤姆·琼斯的故事
+· Tobias Smollett 托比亚斯·斯摩莱特
+The Expedition of Humphry Clinker 亨佛利·克林克
+The Adventures of Roderick Random 兰登传
+· Laurence Sterne 斯特恩
+The Life and Opinions of Tristram Shandy, Gentleman 项狄传
+A Sentimental Journey Through France and Italy 感伤的旅程
+· Fanny Burney 范妮·伯尼
+Evelina 埃维莉娜
+· Joseph Addison and Richard Steele 艾迪生和斯梯尔
+The Spectator 旁观者
+France法国
+· Jean Froissart 傅华萨
+Chronicles 闻见录
+· The Song of Roland 罗兰之歌
+· Fran鏾is Villon 维庸
+Poems 诗集
+· Michel de Montaigne 蒙田
+Essays 随笔集
+· Fran鏾is Rabelais 拉伯雷
+Gargantua and Pantagruel 巨人传
+· Marguerite de Navarre 玛格丽特·德·纳瓦尔
+The Heptameron 七日谈
+· Joachim Du Bellay 杜贝莱
+The Regrets 悔恨集
+· Maurice Scève 莫里斯·塞弗
+Délie 黛丽
+· Pierre Ronsard龙萨
+Odes, Elegies, Sonnets 颂诗，挽歌，十四行诗
+· Philippe de Commynes 菲利普·德·科明尼斯
+Memoirs 回忆录
+· Agrippa d&#39;Aubigné 阿格里帕·多比涅
+Les Tragiques 悲歌集
+· Robert Garnier 罗伯特·加尼耶
+Mark Antony 马克·安东尼
+The Jewesses 犹太姑娘
+· Pierre Corneille 高乃依
+The Cid 熙德
+Polyeucte 波利耶克特
+Nicomède 尼高梅德
+Horace 贺拉斯
+Cinna 西拿
+Rodogune罗多赓
+· Fran鏾is de La Rochefoucauld 拉罗什福科
+Maxims 箴言集
+· Jean de La Fontaine 拉封丹
+Fables 寓言
+· Molière 莫里哀
+The Misanthrope 愤世嫉俗
+Tartuffe 伪君子
+The School for Wives 太太学堂
+The Learned Ladies 女学者
+Don Juan 唐璜
+School for Husbands 丈夫学堂
+Ridiculous Precieuses 可笑的女才子
+The Would-Be Gentleman 贵人迷
+The Miser 吝啬鬼/悭吝人
+The Imaginary Invalid 没病找病
+· Blaise Pascal 帕斯卡
+Pensées 沉思录
+· Jacques-Bénigne Bosuet博叙埃
+Funerary Orations 追悼词
+· Nicolas Boileau-Despréaux 布瓦洛
+The Art of Poetry 诗艺
+Lutrin 经台吟
+· Jean Racine 拉辛
+Phaedra 淮德拉
+Andromache 安德洛玛克
+Britannicus 布列塔尼库斯
+Athaliah 阿达莉
+· Pierre Carlet de Marivaux 马里沃
+Seven Comedies 喜剧七部
+· Jean-Jacques Rousseau 卢梭
+The Confessions 忏悔录
+蒻ile 爱弥尔
+La Nouvelle Hélo飐e 新爱洛漪丝
+· Voltaire 伏尔泰
+Zadig 查第格
+Candide 老实人
+Letters on England 哲学书简
+The Lisbon Earthquake 里斯本地震
+· Abbé Prévost 普雷沃神甫
+Manon Lescaut 曼侬·莱斯科
+· Madame de La Fayette 拉法耶特夫人
+The Princess of Cleves 克莱夫王妃
+· Sébastien-Roch Nicolas de Chamfort 尚福尔
+Products of the Perfected Civilization 完美文明的产物
+· Denis Diderot 狄德罗
+Rameau&#39;s Nephew 拉摩的侄儿
+· Choderlos de Laclos 拉克洛
+Dangerous Liaisons 危险的关系
+Germany德国
+· Erasmus 伊拉斯谟
+In Praise of Folly 愚人颂
+· Johann Wolfgang von Goethe 歌德
+Faust, Parts One and Two 浮士德
+Dichtung und Wahrheit 诗与真
+Egmont 哀格蒙特
+Elective Affinities 亲和力
+The Sorrows of Young Werther 少年维特之烦恼
+Poems 诗集
+Wilhelm Meister&#39;s Apprenticeship 威廉·迈斯特的学习时代
+Wilhelm Meister&#39;s Years of Wandering 威廉·迈斯特的漫游时代
+Italian Journey 意大利游记
+Verse Plays 诗剧
+Hermann and Dorothea 赫尔曼与多罗泰
+Roman Elegies 罗马哀歌
+Venetian Epigrams 威尼斯铭语
+West-Eastern Divan 西东合集
+· Friedrich Schiller 席勒
+The Robbers 强盗
+Mary Stuart 玛丽·斯图亚特
+Wallenstein 华伦斯坦
+Don Carlos 唐·卡洛斯
+On the Na飗e and Sentimental in Literature论素朴的诗与感伤的诗
+· Gotthold Lessing 莱辛
+Laoco鰊 拉奥孔
+Nathan the Wise 
+· Freidrich H鰈derlin 荷尔德林
+Hymns and Fragments 赞美诗与片段
+Selected Poems 诗选
+· Heinrich von Kleist 克莱斯特
+Five Plays 戏剧五部
+Stories 故事集
+
+
+Gossudar 2006-9-1 01:15:07
+
+C. The Democratic Age民主时代
+"I have located Vico&#39;s Democratic Age in the post-Goethean nineteenth century, when the literature of Italy and Spain ebbs, yielding eminence to England with its renaissance of the Renaissance in Romanticism, and to a lesser degree to France and Germany. This is also the era where the strength of both Russian and American literature begins."(Bloom, p. 540)
+“我认为维科所说的民主时代就是十九世纪的后歌德时代，此时，意大利文学和西班牙文学已走向衰落，而随着英国文艺复兴在浪漫主义中的兴起，英国文学开始走向辉煌，紧随其后的是法国文学和德国文学。这也是一个俄罗斯文学和美国文学兴起的时代。”
+Italy意大利
+· Ugo Foscolo 乌戈·福斯克洛
+On Sepulchres墓地哀思
+Last Letters of Jacopo Ortis雅科波·奥尔蒂斯的最后书简
+Odes and The Graces 颂诗与恩典
+· Alessandro Manzoni 亚历山大·曼佐尼
+The Betrothed 约婚夫妇
+On the Historical Novel 论历史小说
+· Giacomo Leopardi 莱奥帕尔迪
+Essays and Dialogues 随笔和对话录
+Poems 诗集
+The Moral Essays 道德小品集
+· Giuseppe Gioacchino Belli 贝利
+Roman Sonnets现代罗马十四行诗集
+· Giosué Carducci卡尔杜齐
+Hymn to Satan撒旦颂
+Barbarian Odes野蛮颂歌
+Rhymes and Rhythms有韵的诗与有节奏的诗
+· Giovanni Verga维尔加
+Little Novels of Sicily 西西里短篇故事
+Mastro-Don Gesualdo堂·杰苏阿多师傅
+The House by the Medlar Tree 楂树旁的屋子
+The She-Wolf and Other Stories 母狼和其他故事
+Spain and Portugal西班牙与葡萄牙
+· Gustavo Adolpho Bécquer 贝克尔
+Poems诗韵集
+· Benito Pérez Galdós 加尔多斯
+Fortunata and Jacinta福尔图纳达和哈辛达
+· Leopoldo Alas (Clarín) 克拉林
+La Regenta 庭长夫人
+· José Maria de E鏰 de Queirós 埃萨·德·克罗兹
+The Maias马伊亚一家
+France法国
+· Benjamin Constant 贡斯当
+Adolphe 阿道尔夫
+The Red Notebook 红色笔记
+· Fran鏾is-Auguste-René de Chateaubriand 夏多布里昂
+Attala 阿达拉
+René 勒内
+The Genius of Christianity 基督教真谛
+· Alphonse de Lamartine 拉马丁
+Meditations 沉思录
+· Alfred de Vigny 维尼
+Chatterton 查铁顿
+Poems 诗集
+· Victor Hugo 雨果
+The Distance, the Shadows: Selected Poems 光与影：诗选集
+Les Misérables 悲惨世界
+Notre-Dame of Paris 巴黎圣母院
+William Shakespeare 威廉·莎士比亚
+The Toilers of the Sea 海上劳工
+The End of Satan 撒旦的末日
+God 上帝
+· Alfred de Musset 缪塞
+Poems 诗集
+Lorenzaccio罗朗札齐奥
+· Gérard de Nerval 纳瓦尔
+The Chimeras 幻象集
+Sylvie 茜尔葳
+Aurelia 奥蕾丽亚
+· Théophile Gautier 戈蒂耶
+Mademoiselle de Maupin 莫班小姐
+Enamels and Cameos珐琅与雕玉
+· Honoré de Balzac 巴尔扎克
+The Girl with the Golden Eyes金目少女
+Louis Lambert路易·朗培尔
+The Wild Ass&#39;s Skin 驴皮记
+Old Goriot 高老头
+Cousin Bette 贝姨
+A Harlot High and Low 交际花盛衰记
+Eugénie Grandet 欧也妮·葛朗台
+Ursule Mirouet 于絮尔·弥罗埃
+· Stendhal 司汤达
+On Love 论爱情
+The Red and the Black 红与黑
+The Charterhouse of Parma 巴马修道院
+· Gustave Flaubert 福楼拜
+Madame Bovary 包法利夫人
+Sentimental Education 情感教育
+Salammb
+
+
+Gossudar 2006-9-1 01:15:36
+
+D. The Chaotic Age: A Canonical Prophecy混乱时代：预言经典
+"I am not as confident about this list as the first three. Cultural prophecy is always a mug&#39;s game. Not all of the works here can prove to be canonical; literary overpopulation is a hazard to many among them. But I have neither excluded nor included on the basis of cultural politics of any kind."(Bloom, p. 548)
+“这张单子我不像前三张那么有把握。对文化进行预言经常是一个危险的游戏。并不是这张单子里的所有作品都能成为经典。文学作品的过剩对其中的多数是一个危险。但我的取舍既不排斥也不包含任何形式的文化政治。”
+Italy意大利
+· Luigi Pirandello 皮兰德娄
+Naked Masks: Five Plays 赤裸的面具
+· Gabriele D&#39;Annunzio 邓南遮
+Maia: In Praise of Life 迈亚：生命颂
+· Dino Campana坎帕纳
+Orphic Songs 俄耳甫斯的歌
+· Umberto Saba萨巴
+Stories and Recollections 故事与回忆
+Poems 诗集
+· Giuseppe Tomasi di Lampedusa托马齐·迪·兰佩杜萨
+The Leopard 豹
+· Giuseppe Ungaretti 翁加雷蒂
+Selected Poems 诗选
+The Buried Harbour: Selected Poems被埋葬的港口：诗选
+· Eugenio Montale 蒙塔莱
+The Storm and Other Things: Poems暴风雨和其他
+The Occasions: Poems境遇
+Cuttlefish Bones: Poems 乌贼骨
+Otherwise: Last and First Poems 别样：最后和最初的诗
+The Second Life of Art: Selected Essays 艺术的第二生命：散文选
+· Salvatore Quasimodo 夸西莫多
+Selected Writings: Poems and Discourse on Poetry 文选：诗歌与诗评
+· Tommaso Landolfi兰多尔菲
+Gogol&#39;s Wife and Other Stories 果戈理的妻子及其他故事
+· Leonardo Sciascia夏侠
+Day of the Owl 白天的猫头鹰
+Equal Danger 同样危险
+The Wine-Dark Sea: Thirteen Stories 酒暗海
+· Pier Paolo Pasolini 帕索里尼
+Poems 诗集
+· Cesare Pavese 帕韦泽
+Hard Labor: Poems 苦役
+Dialogues with Leucò 与雷乌库的谈话
+· Primo Levi普里莫·莱维
+If Not Now, When? 若非此时更待何时？
+Collected Poems 诗集
+The Periodic Table 元素周期表
+· Italo Svevo 斯韦沃
+The Confession of Zeno塞诺的意识
+As a Man Grows Older暮年
+· Giorgio Bassani巴萨尼
+The Heron苍鹭
+· Natalia Ginzburg娜塔丽亚·金兹伯格
+Family 家庭絮语
+· Elio Vittorini维多里尼
+Women of Messina墨西拿的妇女
+· Alberto Moravia 莫拉维亚
+1934  1934
+· Andrea Zanzotto赞佐多
+Selected Poetry 诗选
+· Italo Calvino 卡尔维诺
+Invisible Cities 看不见的城市
+The Baron in the Trees 树上的男爵
+If on a Winter&#39;s Night a Traveler 寒冬夜行人
+t zero零时间
+· Antonio Porta 波尔塔
+Kisses from Another Dream: Poems 另一个梦中的吻
+Spain西班牙
+· Miguel de Unamuno 乌纳穆诺
+Three Exemplary Novels 三部典范小说
+Our Lord Don Quixote堂吉诃德和桑丘的生活
+· Antonio Machado 马查多
+Selected Poems 诗选
+· Juan Ramón Jiménez 希门内斯
+Invisible Reality: Poems 看不见的实在
+· Pedro Salinas萨利纳斯
+My Voice Because of You: Poems向你倾诉
+· Jorge Guillén 纪廉
+Guillén on Guillén: The Poetry and the Poet 纪廉论纪廉：诗歌与诗人
+· Vicente Aleixandre阿莱桑德雷
+A Longing for the Light: Selected Poems 渴望光明：诗选
+· Federico Garcia Lorca 加西亚·洛尔卡
+Selected Poems 诗选
+Three Tragedies: Blood Wedding, Yerma, The House of Bernardo Alba 三部悲剧：血的婚礼，叶尔玛，贝尔纳达·阿尔瓦的家
+· Rafael Alberti 阿尔贝蒂
+The Owl&#39;s Insomnia: Poems 猫头鹰的失眠
+· Luis Cernuda塞尔努达
+Selected Poems 诗选
+· Miguel Hernández 埃尔南德斯
+Selected Poems 诗选
+· Blas de Otero奥特罗
+Selected Poems 诗选
+· Camilo José Cela 塞拉
+The Hive 蜂房
+· Juan Goytisolo戈伊蒂索洛
+Space in Motion 移动的空间
+Catalonia加泰罗尼亚
+· Carles Ribá 里瓦
+Selected Poems 诗选
+· J. V. Foix 福依克斯
+Selected Poems 诗选
+· Joan Perucho胡安·贝鲁丘
+Natural History 自然史
+· Merce Rodoreda梅尔丝·罗多雷达
+The Time of the Doves 鸽群时代
+· Pere Gimferrer贝雷·希菲雷
+Selected Poems 诗选
+· Salvador Espríu 埃斯普利乌
+La Pell de Brau: Poems 牛皮：诗篇
+Portugal葡萄牙
+· Fernando Pessoa 佩索阿
+The Keeper of Sheep 羊主
+Poems 诗集
+Selected Poems 诗选
+Always Astonished: Selected Poems 总是惊讶：诗选
+The Book of Disquiet 惶然录
+· Jorge de Sena 塞纳
+Selected Poems 诗选
+· José Saramago 萨拉马戈
+Baltasar and Blimunda 修道院纪事
+· José Cardoso Pires荷西·卡多索·毕雷斯
+Ballad of Dogs&#39; Beach 群狗海滩民谣
+· Sophia de Mello Breyner索菲娅·安德雷森
+Selected Poems 诗选
+· Eugénio de Andrade 安德拉德
+Selected Poems 诗选
+France法国
+· Anatole France 法朗士
+Penguin Island 企鹅岛
+Tha飐 黛依丝/苔依丝
+· Alain-Fournier 阿兰-傅尼耶
+Le Grand Meaulnes 大个子莫尔纳/大摩尔纳/故梦
+· Marcel Proust 普鲁斯特
+Remembrance of Things Past (In Search of Lost Time) 追忆似水年华
+· Andre Gide 纪德
+The Immoralist 背德者
+Corydon柯希唐医生/考列顿
+Lafcadio&#39;s Adventure (The Caves of the Vatican) 梵蒂冈的地窖
+The Counterfeiters 伪币制造者
+The Journals 日记
+· Colette 科莱特
+Collected Stories 故事集
+Retreat from Love 爱情的终结
+· Georges Bataille 乔治·巴塔耶
+Blue of Noon 正午的蓝色
+· Louis-Ferdinand Céline 塞利纳
+Journey to the End of Night 长夜行
+· René Daumal 勒内·多马尔
+Mount Analogue 相似的山
+· Jean Genet 热内
+Our Lady of the Flowers 百花圣母/鲜花圣母
+The Thief&#39;s Journal 小偷日记
+The Balcony 阳台
+· Jean Giraudoux 季洛杜
+Four Plays 戏剧四种
+· Alfred Jarry 阿尔弗雷德·雅里
+Selected Works 作品选
+· Jean Cocteau 让·科克托
+The Infernal Machine and Other Works 地狱的机器和其他作品
+· Guillaume Apollinaire 阿波利奈尔
+Selected Writings 作品选
+· André Breton 布勒东
+Poems 诗集
+Manifestoes of Surrealism 超现实主义宣言
+· Paul Valéry 瓦莱里/梵乐希
+The Art of Poetry 诗的艺术
+Selected Writings 作品选
+· René Char 勒内·夏尔
+Poems 诗集
+· Paul 蒷uard 艾吕雅
+Selected Poems 诗选
+· Louis Aragon 阿拉贡
+Selected Poems 诗选
+· Jean Giono 齐奥诺
+The Horseman on the Roof 屋顶上的轻骑兵
+· Michel Leiris米歇尔·莱里斯
+Manhood 人类
+· Raymond Radiguet 雷蒙·拉迪盖
+Count d&#39;Orgel&#39;s Ball德·奥热尔伯爵的舞会
+· Jean-Paul Sartre 萨特
+No Exit 密室
+Nausea 恶心
+Saint Genet 圣热内
+The Words 词语
+The Family Idiot: Gustave Flaubert 家庭的白痴：福楼拜
+· Simone de Beauvoir 西蒙娜·德·波伏瓦
+The Second Sex 第二性
+· Albert Camus 加缪
+The Stranger 局外人
+The Plague 鼠疫
+The Fall 堕落
+The Rebel反叛者
+· Henri Michaux 亨利·米肖
+Selected Writings 作品选
+· Edmond Jabès 爱德蒙·雅贝
+The Book of Questions 问题书
+Selected Poems 诗选
+· Saint-John Perse 圣琼·佩斯
+Anabasis远征
+Birds 群鸟
+Exile and Other Poems 流放及其他诗作
+· Pierre Reverdy 皮埃尔·勒韦尔迪
+Selected Poems 诗选
+· Tristan Tzara 特里斯坦·查拉
+Seven Dada Manifestoes 七篇达达宣言
+· Max Jacob 马克斯·雅各布
+Selected Poems 诗选
+· Pierre-Jean Jouve 儒福
+Selected Poems 诗选
+· Francis Ponge 蓬热
+Things: Selected Writings 万事：作品选
+· Jacques Prévert 雅克·普雷韦尔
+Paroles 话语集
+· Philippe Jaccottet 雅科特
+Selected Poems 诗选
+· Charles Péguy 贝玑
+The Mystery of the Charity of Joan of Arc贞德
+· Bejamin Péret邦雅曼·佩雷
+Selected Poems 诗选
+· Andé Malraux 安德烈·马尔罗
+The Conquerors 征服者
+The Royal Way 王家大道
+Man&#39;s Fate 人的命运
+Man&#39;s Hope 希望
+The Voices of Silence 沉默的声音
+· Fran鏾is Mauriac 弗朗索瓦·莫里亚克
+Therese 黛蕾丝
+The Desert of Love 爱的荒漠
+The Woman of the Pharisees 伪善的女人
+· Jean Anouilh让·阿努伊
+Becket 贝克特
+Antigone 安提戈涅
+Eurydice 欧律狄刻
+The Rehearsal 排练
+· Eugène Ionesco 尤内斯库
+The Bald Soprano 秃头歌女
+The Chairs 椅子
+The Lesson 教训
+Amédée 阿梅代
+Victims of Duty 责任的牺牲者
+Rhinoceros 犀牛
+· Maurice Blanchot 布朗肖
+Thomas the Obscure默默无闻的托马斯/黑暗的托马斯
+· Pierre Klossowski克洛索斯基
+The Laws of Hospitality 食宿规则
+The Baphomet 巴风特
+· Raymond Roussel 雷蒙·鲁塞尔/胡塞尔
+Locus Solus洛克斯·索罗斯
+· Antonin Artaud 安托南·阿尔托
+Selected Writings 作品选
+· Claude Lévi-Strauss 列维-斯特劳斯
+Tristes Tropiques 忧郁的热带
+· Alain Robbe-Grillet 罗伯-格里耶
+The Voyeur 窥视者
+Jealousy 嫉妒
+In the Labyrinth 迷宫
+The Erasers 橡皮
+Project for a Revolution in New York 纽约的革命时代
+For a New Novel 一部新小说
+· Nathalie Sarraute 娜塔莉·萨洛特
+The Use of Speech 演说的功用
+The Planetarium 天象仪
+· Claude Simon 克洛德·西蒙
+The Grass 草
+The Wind 风
+The Flanders Road 佛兰德公路
+· Marguerite Duras 杜拉斯
+The Lover 情人
+Four Novels 小说四部
+· Robert Pinget 潘热
+Fable 寓言
+The Libera Me Domine 主啊，解救我
+That Voice 声音
+· Michel Tournier 图尼埃
+The Ogre 桤木王
+Friday 礼拜五
+· Marguerite Yourcenar 尤瑟纳尔
+Coup de Grace 死刑/一弹解千愁
+Memoirs of Hadrian 哈德良回忆录
+· Jean Follain 让·福兰
+Transparence of the World: Poems 透明世界：诗篇
+· Yves Bonnefoy 博纳富瓦
+Words in Stone写字石
+Great Britain and Ireland英国与爱尔兰
+· William Butler Yeats 叶芝
+The Collected Poems 诗集
+Collected Plays 剧作集
+A Vision幻象
+Mythologies 神话
+· George Bernard Shaw 萧伯纳
+Major Critical Essays 主要批评文选
+Heartbreak House心碎之家
+Pygmalion 皮格马利翁/卖花女
+Saint Joan 圣女贞德
+Major Barbara 芭芭拉少校
+Back to Methuselah 长生/回到玛土撒拉/回复到密福沙勒的时代
+· John Millington Synge 辛格
+Collected Plays 剧作集
+· Sean O&#39;Casey 奥凯西
+Juno and the Paycock 朱诺和孔雀
+The Plough and the Stars犁与星
+The Shadow of a Gunman枪手的影子
+· George Douglas Brown 乔治·道格拉斯·布朗
+House with the Green Shutters 带绿色百叶窗的房子
+· Thomas Hardy 哈代
+The Well-Beloved意中人
+The Woodlanders林地居民
+The Return of the Native 还乡
+The Mayor of Casterbridge 卡斯特桥市长
+Far From the Madding Crowd 远离尘嚣
+Tess of the D&#39;Urbervilles 苔丝/德伯家的苔丝
+Jude the Obscure 无名的裘德
+Collected Poems 诗集
+· Rudyard Kipling 吉卜林
+Kim 基姆
+Collected Stories 故事集
+Puck of Pook&#39;s Hill波克山中的小精灵
+Complete Verse 诗全集
+· A. E. Housman A.E.豪斯曼
+Collected Poems 诗集
+· Max Beerbohm 马克斯·比尔博姆
+Zuleika Dobson朱莱卡·多卜森
+Seven Men and Two Others 七个男人和两个外人
+· Joseph Conrad 康拉德
+Lord Jim 吉姆爷
+The Secret Agent 间谍
+Nostromo 诺斯特拉莫
+Under Western Eyes在西方的注视下
+Victory 胜利
+· Ronald Firbank 罗纳德·菲尔班克
+Five Novels 小说五部
+· Ford Madox Ford 福特·麦多克斯·福特
+Parade&#39;s End行进的目的
+The Good Soldier 好兵
+· W. Somerset Maugham 毛姆
+Collected Short Stories 短篇小说集
+The Moon and Sixpence 月亮与六便士
+· John Cowper Powys约翰·考柏·波伊斯
+Wolf Solent 索隆特狼
+A Glastonbury Romance 格拉斯顿伯里传奇
+· Saki (H. H. Munro) 萨基
+The Short Stories 短篇故事集
+· H. G. Wells H.G.威尔斯
+The Science Fiction Novels 科幻小说集
+· David Lindsay 大卫·林赛
+A Voyage to Arcturus 大角星之旅
+· Arnold Bennett 阿诺德·班奈特
+The Old Wives&#39; Tale 老妇人的故事
+· Walter De la Mare 沃尔特·德拉梅尔
+Collected Poems 诗集
+Memoirs of a Midget 侏儒回忆录
+· Wilfred Owen 威尔弗里德·欧文
+Collected Poems 诗集
+· Isaac Rosenberg 艾萨克·罗森伯格
+Collected Poems 诗集
+· Edward Thomas 爱德华·托马斯
+Collected Poems 诗集
+· Robert Graves 罗伯特·格雷夫斯
+Collected Poems 诗集
+King Jesus 耶稣王
+· Edwin Muir 埃德温·缪尔
+Collected Poems 诗集
+· David Jones 大卫·琼斯
+In Parenthesis 括号
+The Anathemata 咒逐
+· John Galsworthy 高尔斯华绥
+The Forsyte Saga 福尔赛世家
+· E. M. Forster E.M.福斯特
+Howards End 霍华德别业
+A Passage to India 印度之行
+· Frank O&#39;Connor 弗兰克·奥康纳
+Collected Stories 故事集
+· D. H. Lawrence D.H.劳伦斯
+Complete Poems 诗歌全集
+Studies in Classic American Literature 美国古典文学研究
+Complete Short Stories 短篇小说全集
+Sons and Lovers 儿子与情人
+The Rainbow 虹
+Women in Love 恋爱中的女人
+· Virginia Woolf 伍尔芙
+Mrs. Dalloway 达洛维夫人
+To the Lighthouse 到灯塔去
+Orlando: A Biography 奥兰多
+The Waves 海浪
+Between the Acts 幕间
+· James Joyce 乔伊斯
+Dubliners 都柏林人
+Portrait of the Artist as a Young Man 一个青年艺术家的肖像
+Ulysses 尤利西斯
+Finnegans Wake 芬尼根的苏醒/为芬尼根守灵
+· Samuel Beckett 贝克特
+Murphy 莫非
+Watt 瓦特
+Three Novels: Molloy, Malone Dies, The Unnameable 小说三部曲：莫洛伊，马洛纳之死，难以命名者
+Waiting for Godot 等待戈多
+Endgame 终局
+Krapp&#39;s Last Game 克拉普的最后磁带
+How It Is 如此情况
+· Elizabeth Bowen 伊丽莎白·鲍恩
+Collected Stories 故事集
+· J. G. Farrell J. G.法雷尔
+The Siege of Krishnapur 克里希普纳围城
+· Henry Green 亨利·格林
+Nothing 虚无
+Loving 爱着
+Party Going 赴宴
+· Evelyn Waugh 伊夫林·沃
+A Handful of Dust 一抔尘土
+Scoop 独家新闻
+Vile Bodies 邪恶的躯体
+Put Out More Flags 多升几面旗
+· Anthony Burgess 安东尼·伯吉斯
+Nothing Like the Sun 唯一的太阳
+· G. B. Edwards G. B.爱德华兹
+The Book of Ebenezer Le Page 埃比尼泽·勒·佩奇之书
+· Iris Murdoch 爱丽丝·默多克
+The Good Apprentice 好徒弟
+Bruno&#39;s Dream 布鲁诺的梦
+· Graham Greene 格雷厄姆·格林
+Brighton Rock 布莱顿硬糖
+The Heart of the Matter 问题的核心
+The Power and the Glory 权利与荣耀
+· Christopher Isherwood 克里斯托弗·衣修伍德
+The Berlin Stories 柏林故事
+· Norman Douglas 诺曼·道格拉斯
+South Wind 南风
+· Aldous Huxley 阿道斯·赫胥黎
+Collected Essays 散文选
+Antic Hay滑稽的环舞
+Point Counter Point旋律和对立
+Brave New World 美丽新世界
+· Lawrence Durrell 劳伦斯·达雷尔
+Alexandria Quartet 亚历山大四部曲
+· William Golding 威廉·戈尔丁
+Pincher Martin 品彻·马丁
+· Doris Lessing 多丽丝·莱辛
+The Golden Notebook 金色笔记
+· Mervyn Peake 马文·匹克
+The Gormenghast Trilogy 歌门鬼城三部曲
+· Jeanette Winterson珍妮特·温特森
+The Passion 激情
+· W. H. Auden W. H.奥登
+Collected Poems 诗集
+The Dyer&#39;s Hand染匠之手
+· Roy Fuller 罗伊·富勒
+Collected Poems 诗集
+· Gavin Ewart 加文·艾瓦特
+Selected Poems 诗选
+· Basil Bunting 邦廷
+Collected Poems 诗集
+· William Empson 燕卜荪
+Collected Poems 诗集
+Milton&#39;s God 弥尔顿的上帝
+Some Versions of Pastoral 田园诗的几种变体
+· George Wilson Knight 乔治·威尔森·奈特
+The Wheel of Fire 火轮
+The Burning Oracle 燃烧的神谕
+· R. S. Thomas R. S.托马斯
+Poems 诗集
+· Frank Kermode 弗兰克·柯莫德
+The Sense of an Ending 结尾的意义
+· Stevie Smith 史蒂夫·史密斯
+Collected Poems 诗集
+· F. T. Prince F. T.普林斯
+Collected Poems 诗集
+· Philip Larkin 菲利普·拉金
+Collected Poems 诗集
+· Donald Davie 唐纳德·戴维
+Selected Poems 诗选
+· Geoffrey Hill 杰弗里·希尔
+Collected Poems 诗集
+· Jonathan Spence 史景迁
+The Death of Woman Wang 王氏之死
+The Memory Palace of Matteo Ricci 利玛窦的记忆迷宫
+· Elizabeth Jennings 伊丽莎白·詹宁斯
+Selected Poems 诗选
+· Keith Douglas 基思·道格拉斯
+The Complete Poems 诗歌全集
+· Hugh MacDiarmid 休·麦克迪尔米德
+Complete Poems 诗歌全集
+· Louis MacNeice 刘易斯·麦克尼斯
+Collected Poems 诗集
+· Dylan Thomas 迪伦·托马斯
+The Poems 诗集
+· Nigel Dennis 奈杰尔·丹尼斯
+Cards of Identity 身份证
+· Seamus Heaney 希尼
+Selected Poems: 1969-1987 诗选：1969-1987
+Field Work 农活
+Station Island史泰逊岛
+· Thomas Kinsella 托马斯·金塞拉
+Peppercanister Poems 胡椒罐诗集
+· Paul Muldoon 保罗·马尔登
+Selected Poems 诗选
+· John Montague 约翰·蒙塔古
+Selected Poems 诗选
+· John Arden 约翰·阿登
+Plays 戏剧集
+· Joe Orton 乔·奥顿
+The Complete Plays 戏剧全集
+· Flann O&#39;Brien 弗莱恩·奥布莱恩
+The Dalkey Archive 道尔基档案
+The Third Policeman 第三个警察
+· Tom Stoppard 汤姆·斯托帕德
+Travesties 滑稽模仿
+· Harold Pinter 哈罗德·品特
+The Caretaker 看门人
+The Homecoming 归家
+· Edward Bond 爱德华·邦德
+The Fool 愚人
+Saved 获救
+· George Orwell 乔治·奥威尔
+Collected Essays 散文集
+1984  1984
+· Edna O&#39;Brien 爱德娜·奥布莱恩
+A Fanatic Heart 狂热的心
+Germany德国
+· Hugo von Hofmannsthal 霍夫曼斯塔尔
+Poems and Verse Plays 诗歌和诗剧
+Selected Prose 散文选
+Selected Plays and Libretti 戏剧和歌词选
+· Rainer Maria Rilke 里尔克
+Selected Poetry (including the Duino Elegies) 诗选（包括《杜伊诺哀歌》）
+The Sonnets to Orpheus致俄耳甫斯十四行
+The Notebooks of Malte Laurids Brigge马尔特·劳里茨·布里格笔记
+New Poems: First Part and Other Part 
+· Hermann Broch 布洛赫/布洛克
+The Sleepwalkers 梦游者
+The Death of Virgil 维吉尔之死
+Hugo von Hofmannsthal and His Time 霍夫曼斯塔尔和他的时代
+· Georg Trakl 特拉克尔
+Selected Poems 诗选
+· Gottfried Benn戈特弗里德·本
+Selected Poems 诗选
+· Franz Kafka 卡夫卡
+Amerika 美国
+The Complete Stories 短篇小说全集
+The Blue Octavo Notebook 蓝色八开本笔记
+The Trial 审判
+The Diaries 日记
+The Castle 城堡
+Parables, Fragments, Aphorisms 寓言，片段，格言
+· Bertolt Brecht 布莱希特
+Poems, 1913-1956 诗集，1913-1956
+The Threepenny Opera 三毛钱歌剧
+The Good Woman of Setzuan四川好人
+Mother Courage and Her Children大胆妈妈和她的孩子们
+Galileo 伽利略
+The Caucasian Chalk Circle高加索灰阑记
+· Arthur Schnitzler阿尔图尔·施尼茨勒
+Plays and Stories 戏剧和故事
+· Frank Wedekind 魏特金
+Lulu Plays 露露
+Spring Awakening 春之醒
+· Karl Krauss卡尔·克劳斯
+The Last Days of Mankind 人类的末日
+· Günter Eich君特·艾希
+Moles 鼹鼠
+· Thomas Mann 托马斯·曼
+The Magic Mountain 魔山
+Stories of Three Decades 三十年间小说集
+Joseph and His Brothers约瑟和他的兄弟们
+Doctor Faustus 浮士德
+Confessions of Felix Krull, Confidence Man大骗子菲利克斯·克鲁尔的自白
+· Alfred D鯾lin 德布林
+Berlin Alexanderplatz 柏林亚历山大广场
+· Hermann Hesse 黑塞
+The Glass Bead Game (Magister Ludi) 玻璃球游戏
+Narcissus and Goldmund纳尔齐斯和歌尔德蒙
+· Robert Musil 罗伯特·穆齐尔
+Young T鰎less青年特尔勒斯
+The Man Without Qualities 没有个性的人
+· Joseph Roth约瑟夫·洛特
+The Radetzky March 拉德茨基进行曲
+· Paul Celan 保罗·策兰
+Poems 诗集
+· Thomas Bernhard 托马斯·伯恩哈特
+Woodcutters 木刻家
+· Heinrich B鰈l海因里希·伯尔
+Billiards at Half-Past Nine九点半钟的台球
+· Ingeborg Bachmann英格褒·巴赫曼
+In the Storm of Roses 玫瑰风暴
+· Hans Magnus Enzensberger恩岑斯贝格
+Poems for People Who Don&#39;t Read Poems 给不读诗者的诗
+· Walter Benjamin 本雅明
+Illuminations 启迪
+· Robert Walser 罗伯特·瓦尔泽
+Selected Stories 故事选
+· Christa Wolf克里斯蒂·沃尔夫
+Cassandra 卡桑德拉
+· Peter Handke彼得·汉特克
+Slow Homecoming 迟归
+· Max Frisch马克斯·费里施
+I&#39;m Not Stiller 我不是斯蒂勒
+Man in the Holocene 全新世的人类
+· Günter Grass 君特·格拉斯
+The Tin Drum 铁皮鼓
+The Flounder 比目鱼
+· Friedrich Dürrenmatt 迪伦马特
+The Visit 老妇还乡
+· Johannes Bobrowski约翰内斯·波勃罗夫斯基
+Shadow Lands 阴影大地
+Russia俄罗斯
+· Anna Akhmatova 阿赫玛托娃
+Poems 诗集
+· Leonid Andreyev 安德烈耶夫
+Selected Tales 故事选
+· Andrey Bely 别雷
+Petersburg 彼得堡
+· Osip Mandelshtam 曼德尔斯塔姆
+Selected Poems 诗选
+· Velimir Khlebnikov赫列勃尼科夫
+The King of Time 时间之王
+· Vladimir Mayakovsky 马雅可夫斯基
+The Bedbug and Selected Poetry 臭虫及诗选
+· Mikhail Bulgakov 布尔加科夫
+The Master and the Margarita 大师与玛格丽特
+· Mikhail Kuzmin 库兹明
+Alexandrian Songs 亚历山大之歌
+· Maksim Gorky 高尔基
+Reminiscences of Tolstoy, Chekhov, and Andreev 回忆托尔斯泰，契诃夫和安德烈耶夫
+Autobiography 自传
+· Ivan Bunin 蒲宁
+Selected Stories 故事选
+· Isaac Babel 巴别尔
+Collected Stories 故事集
+· Boris Pasternak 帕斯捷尔纳克
+Doctor Zhivago 日瓦戈医生
+Selected Poems 诗选
+· Yury Olesha 阿廖莎
+Envy 嫉妒
+· Marina Tsvetayeva 茨维塔耶娃
+Selected Poems 诗选
+· Mikhail Zoshchenko 左琴科
+Nervous People and Other Satires 紧张的人和其他讽刺故事
+· Andrei Platonov 普拉东诺夫
+The Foundation Pit 地坑
+· Aleksandr Solzhenitsyn 索尔仁尼琴
+One Day in the Life of Ivan Denisovich 伊凡·杰尼索维奇的一天
+The Cancer Ward 癌症楼
+The Gulag Archipelago 古拉格群岛
+August 1914 1914年8月
+· Joesph Brodsky 布洛茨基
+A Part of Speech: Poems 言语的一部分：诗歌
+Scandinavia斯堪的纳维亚
+· Isak Dinesen 迪内森
+Winter&#39;s Tales 冬天的故事
+Seven Gothic Tales 7个哥特故事
+· Martin Andersen Nex
+
+
+长歌－废墟 2006-9-1 01:17:21
+
+"Eureka 尤莱卡/我找到了"这名称是不是来源于阿基米德?
+
+
+zhoukaijian 2006-9-1 09:16:19
+
+凭阅读印象，尤里卡就是楼主说的那个意思，“找到了，发现了”，古代希腊语尤里卡也是那意思，也许这一词汇由于阿基米德而出名，欧洲不是有个尤里卡计划么。
+
+
+bibliomaniac 2006-9-1 20:46:37
+
+好．这么长的书目，不知布鲁姆读了多少．浏览了一下，举几个问题比较明显的：
+
+Mikhail Lermontov 莱蒙诺夫(莱蒙托夫)
+
+Aleksandr Ostrovsky 亚历山大·奥斯特托夫斯基(奥斯特洛夫斯基)
+The Storm 大雷雨(暴风雨)
+
+Sidney Lanier 西德尼·拉尼尔(兰尼尔)
+
+利用读秀搜索也许可以改进，不过搞成这样大概也很不容易了．
+
+
+bibliomaniac 2006-9-1 20:52:54
+
+William H. Gass 威廉·H·加斯
+这个好像就是写Reading Rilke的那个，文笔不错。 
+
+
+Gossudar 2006-9-1 22:07:33
+
+引用第6楼bibliomaniac于2006-09-01 20:46发表的“”:
+好．这么长的书目，不知布鲁姆读了多少．浏览了一下，举几个问题比较明显的：
+
+Mikhail Lermontov 莱蒙诺夫(莱蒙托夫)
+
+Aleksandr Ostrovsky 亚历山大·奥斯特托夫斯基(奥斯特洛夫斯基)
+.......
+
+是哩，所以Dasha说Bloom没有资格。至于此兄的翻译错误，想来也是涉及的国家、语种太多的缘故，不好意思，Dasha只负责了“Ctrl＋C”和“Ctrl＋V”的工作，这也是Dasha没有贴到翻译论坛的一个原因。
+
+Gass确实就是Reading Rilke的作者，其母语的文字确实很华美，可惜他的德语比他的前辈相差太远；他还在Reading Rilke对比了《杜依诺哀歌》第一哀歌诸家英译本的得失，不过就Dasha的个人感受来说，他的译本只能说不是最差。
+
+
+aπολλωv 2006-9-1 23:34:01
+
+整个欧洲语系的数千年文学经典
+不是一般人可以搞定的
+
+布鲁姆大胆的淌进一只脚，再提起，鞋已经没有了  
+
+
+Gossudar 2006-9-2 10:35:44
+
+引用第9楼hooker于2006-09-01 23:34发表的“”:
+整个欧洲语系的数千年文学经典
+不是一般人可以搞定的
+
+布鲁姆大胆的淌进一只脚，再提起，鞋已经没有了  是印欧语系啦，这伙计连天竺的东西都弄进去了。Dasha曾有一位朋友（内子的闺中知己，纯中国人、蒙古族）在匹兹堡读东方考古的博士，真想知道美国的梵文发达到何种程度。
+
+
+woi55 2006-9-2 11:12:04
+
+还是台版（高志仁译，立绪文化，1998）聪明啊，这个书单干脆就没翻译。 

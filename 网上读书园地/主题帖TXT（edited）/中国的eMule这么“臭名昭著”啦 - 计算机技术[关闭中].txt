@@ -1,0 +1,292 @@
+Gossudar 2006-8-13 14:33:32
+
+2006-8-13 14:25:15: 连接建立于onkeyServer No1
+2006-8-13 14:25:15: 新的客户ID为 2304064986
+
+Gossudar连接后被提示如下信息：eMule v0.47a
+点击 这里 检查是否有更新版本
+server version 17.12 (lugdunum)
+Note to chinese users of this server.
+It seems many chinese people use a modified eMule that abuse servers.
+Unfortunatly we cannot tell what is the name of this mod.
+This *buggy* version sends automatic searches, over and over and servers suffer a LOT
+Please use standard emule program 0.47a, or we will be forced to deny access
+to this server for *all* chinese people. That would be bad 
+Thank you
+Note : eMule 0.47a is here : 
+http://www.emule-project.net/download
+Note : If you already use a standard 0.47a eMule, or a mod based on 0.47a,
+please ignore this message. Have Fun
+连接到本服务器的中国用户请注意：
+大多数中国用户使用的某种电骡的修改版本正在向服务器滥发信息。
+这种有问题的电骡客户端不断的向服务器提交自动查询，这给服务器增加了很大负担。
+请您使用电骡的官方版本，否则我们只好被迫封掉&#65533;所有&#65533;的中国用户，使你们无法连接到本服务器。
+请不要让这样的事情发生。
+eMule官方版在这里下载：
+http://www.emule-project.net/download
+如果你已经在使用0.47a的官方版本，或者基于0.47a的修改版本，请忽略这条信息。祝你开心。
+幸好，Gossudar一直主攻德、英语资源，且作为VeryCD早期的认捐用户也被除名过（给“代序”发信也石沉大海、重新注册发布“四库”全文CD时也和者盖寡），因此一直对汉化的eMule不感冒，并且，官方eMule本身就有中文界面选项 
+
+
+Gossudar 2006-8-13 14:58:10
+
+VeryDVeryCD上正口沫横飞，首先矛头指向Vagaa，76楼则一样抨击VeryCD……据Dasha观贴，至少用VeryCD的eMule已经出现被“ban”的现象啦，网络上的新一轮“黄祸”啊 
+
+
+woi55 2006-8-13 14:59:36
+
+Gossudar兄，今天俺也收到了此一“刺眼”信息。不过所指据VC有人说并非是verycd版的，而是vagaa。只是不知为何要说“Unfortunatly we cannot tell what is the name of this mod”，怕给它做了广告？  
+
+再者这段话说的“*all* chinese people”不知道包不包括who “already use a standard 0.47a eMule, or a mod based on 0.47a”，有点不太清楚。要是ban整个IP段，就不好办了。  
+
+相关帖子（转自VC）：
+
+!*********************************************!
+起因：
+
+2006年8月12日，有网友发现登录DS系列服务器会收到这样一条提示，不久BB也照抄了，内容如下：
+
+server version 17.12 (lugdunum)
+Note to chinese users of this server.
+It seems most chinese people use a modified eMule that abuse servers.
+(This *buggy* version sends automatic searches, over and over and servers suffer)
+Please use standard emule program 0.47a, or we will be forced to deny access
+to this server for *all* chinese people. That would be bad 
+Thank you
+Note : eMule 0.47a is here : http://www.emule-project.net/download
+
+shader朋友翻译如下：
+
+连接到本服务器的中国用户请注意：
+大多数中国用户使用的某种电骡的修改版本正在向服务器滥发信息。
+这种有问题的电骡客户端不断的向服务器提交自动查询，这给服务器增加了很大负担。
+请您使用电骡的官方版本，否则我们只好被迫封掉&#65533;所有&#65533;的中国用户，使你们无法连接到本服务器。
+请不要让这样的事情发生。
+eMule官方版在这里下载：http://www.emule-project.net/download
+
+我和很多朋友知道这件事都很震惊，我第一时间跑到DS服务器描述的网站试图联络，但该站并没有和DS相关的内容，且没有BBS，还不使用英文，无奈之下到eMule官网发帖希望了解详情，并澄清误会。
+
+原帖在这里：
+
+http://forum.emule-project.net/index.php?showforum=41
+
+一番七嘴八舌之后，lugdunummaster终于出现（他虽然自称不是DS的管理员，但他很显然对DS有很大的实际影响力），给出的回复中有这样一句：
+
+QUOTE(lugdunummaster @ Aug 12 2006, 08:10 PM) *
+
+The defective mod seems to be a emule 0.40 based mod.（那个有问题的Mod看起来好像是基于eMule 0.40的版本）
+
+DS1的警告信息随后也相应进行了修改，最新版本如下：
+
+server version 17.12 (lugdunum)
+Note to chinese users of this server.
+It seems many（注意，是“很多”，而不是先前说的“大多数”了） chinese people use a modified eMule that abuse servers.
+Unfortunatly we cannot tell what is the name of this mod.
+This *buggy* version sends automatic searches, over and over and servers suffer a LOT
+Please use standard emule program 0.47a, or we will be forced to deny access
+to this server for *all* chinese people. That would be bad 
+Thank you
+Note : eMule 0.47a is here : http://www.emule-project.net/download
+Note : If you already use a standard 0.47a eMule, or a mod based on 0.47a,
+please ignore this message. Have Fun
+连接到本服务器的中国用户请注意：
+大多数中国用户使用的某种电骡的修改版本正在向服务器滥发信息。
+这种有问题的电骡客户端不断的向服务器提交自动查询，这给服务器增加了很大负担。
+请您使用电骡的官方版本，否则我们只好被迫封掉&#65533;所有&#65533;的中国用户，使你们无法连接到本服务器。
+请不要让这样的事情发生。
+eMule官方版在这里下载：http://www.emule-project.net/download
+如果你已经在使用0.47a的官方版本，或者基于0.47a的修改版本，请忽略这条信息。祝你开心。
+
+
+到现在，应该说局面已经相对缓和，DS的负责人已经了解到大部分中国用户都是好的，而且也让大家明确了，基于0.47版的Mod是可以继续用的，也就是说，VC和CN版的骡子都已经洗清了嫌疑，那么罪魁祸首是谁呢？是Vagaa！
+
+对Vagaa有所了解的朋友都应该知道，最新版的Vagaa使用的假版本号就是eMule Compat V0.40，在不明内情的朋友看来（比如lugdunummaster），就会认为是基于eMule 0.40的一个Mod。我现在已经不知道要说什么了，这是真正的害群之马，开发Vagaa的那一小撮P2P败类眼看就要毁掉我们整个中国用户的声誉和生存空间。
+
+在lugdunummaster的回复中还有这样几句：
+
+Yes. 1% of the users of DsNo1 were using this mod and consume 80% of the cpu/bandwitdh
+
+没错，那1％的正在使用那种Mod的DSNO1用户消耗了80％的CPU/带宽
+
+If they still want to use this mod, they will have to find an other server.
+
+如果他们还想用那种MOD，他们就得准备找个别的服务器了。
+
+
+Vagaa不下载就不上传的特性早已广为人知，著名的Mod eMule Extreme 长长的屏蔽吸血骡名单中就有Vagaa，想不到新版的Vagaa不但把自己伪装成eMule compat v0.40，并且使用了鱼目混珠的CHN[VeryCD] 标签，还对服务器也进行非法使用。这已经远远超过了P2P软件的道德底线，如果令其蔓延，所影响的绝不仅仅是国内eMule用户的使用，甚至可能令国人的国际形象进一步受损！
+
+Vagaa的编写者，如果你们能看到这个帖子，我想问你们几个问题。你们编写这样一个软件，是为了让人夸还是为了让人骂？是为了让国人用得省心还是为了给国人抹黑？你们明明可以光明正大地遵循GPL协议做一个Mod来和各路P2P软件竞争，为什么要伪装成eMule compat v0.40，还给用户加上一个虚假的TAG？我不想攻击你们个人，但我希望你们能够听听自己良心的声音，及早回头还来得及！等到国内的eMule用户被全世界孤立的时候，你们的软件也就玩完了！
+
+各位骡友，如果你身边有朋友在用Vagaa的，请让他们知道这个事实。
+
+有能力联系到Vagaa团队或者给他们施加影响的，请警告他们立刻改正。
+
+正在经营软件下载网站的，请立刻停止提供Vagaa客户端的下载，有能力联系到经营软件下载网站站长的朋友，也请为大家传递这个信息。
+
+这个已经关系到大家的切身利益了，大家行动起来吧！
+
+这个帖子已被 pennyliu123 于 今天, 11:46 AM 编辑
+
+!*********************************************!
+
+
+woi55 2006-8-13 15:01:37
+
+俺也是因为VC版的和俺的路由器有冲突，所以一直在用官方版，语言设置也有中文，不知大家为何还要用VC版。 
+
+
+Gossudar 2006-8-13 15:07:33
+
+不要相信VC版，要求在用户名上填入“[CHN][VeryCD]”然后就有受益，本身就一定有问题。兄看一眼第142楼mmmxxx的回帖，说得比较实在：在事情进一步明朗前，没有确凿的把握，也先别把污水往vagaa上泼。少骂人，多观望吧。
+
+作好自己的本分， 不使用歪门邪道的mod...剩下的就是老天的事了，该怎样就怎样吧..操不来心的。
+
+
+woi55 2006-8-13 15:12:41
+
+兄说的是。P2P这个事情，想比别人多“受益”，本身就是有悖原则和道义的，管他什么mod也好。
+
+
+孔南 2006-8-13 16:08:24
+
+英文中已经将 most 改为 many, 
+但中文仍为"大多数"而非"许多".
+看起来非常扎眼 
+
+
+pisces 2006-8-13 16:23:04
+
+从来只用官方版，VC用了一次就被我删除了，eMule的精髓是共享，MOD已经背离了这一精神，鄙视一下
+
+
+vvfei 2006-8-13 17:06:58
+
+我用的是
+emule0.47a-Xtreme5.1
+
+
+meibf 2006-8-13 21:25:37
+
+p2p软件那么多非要用emule做什么
+
+
+meibf 2006-8-14 00:13:13
+
+速度还可以的，只是断头档太多。
+
+
+醉乡常客 2006-8-14 00:21:04
+
+只要信息业垄断不消除，下载速度就不可能快到哪里去。不管用啥软件。
+
+
+长歌－废墟 2006-8-14 00:48:13
+
+哈,其实我想人内心中都有一点私心,希望自己比人家快一点,多得一点,本来没什么.但这样做就不对了 
+
+
+醉乡常客 2006-8-14 01:11:45
+
+原来的网通2M（80元/月），平均上行约120K，VC里的电影、歌曲等的下载速度通常达到220K以上。
+
+现在的电信2M（1200元/年，换马甲那时候换的，原因是我这里的网通不大稳定，老掉线），平均上行不到40，下载20～45，从未超过60。
+
+服务商限速不是一两天的事了。
+
+“本次会话的上传:下载比率: 1.03 : 1
+积累的上传:下载比率: 1 : 1.03
+
+累积
+已上传:1.55 TB——————————————————————（主要靠网通2M，十四个月） 
+已下载:1.59 TB——————————————————————（主要靠网通2M，十四个月）
+上传速度: 43.81 KB/s
+平均上传速度:42.38 KB/s
+下载速度: 26.79 KB/s
+平均下载速度:41.30 KB/s
+…………”
+
+听说外地的网通去年就已经开始对P2P限速，我还傻子似的去办理了10元/月的保号停机，估计明年7、8月这里的网通也会限了。
+
+
+长歌－废墟 2006-8-14 01:16:56
+
+引用第14楼醉乡常客于2006-08-14 01:11发表的“”:
+原来的网通2M（80元/月），平均上行约120K，VC里的电影、歌曲等的下载速度通常达到220K以上。
+
+现在的电信2M（1200元/年，换马甲那时候换的，原因是我这里的网通不大稳定，老掉线），平均上行不到40，下载20～45，从未超过60。
+
+服务商限速不是一两天的事了。
+.......确实,以前我下载速度是150k常有的事情,现在有15K就要感谢啦
+
+
+醉乡常客 2006-8-14 01:53:32
+
+还有好笑的：
+
+俺：（拨号10060或10000）
+
+*◎＃￥％……※×！◎＃￥％……※（录音、指南、广告等）
+
+她（偶尔他）：您好，……
+
+一类对话：
+
+俺：我是***，住在***……，我的网经常掉线……
+
+请问您现在开机了吗？  开了（这个和掉线有何关系）
+
+请问您的网线插了吗？ ……
+
+请问您正确建立了连接吗？ （我还真让她指导了一次，其余时间通常是骂她两句“别拿消费者当白痴”）
+
+请问您现在能拨号吗？
+
+请问……
+
+好的，我们会尽快安排工作人员上门为您解决问题。
+
+俺：你问这半天到底了解了啥？难道问题就在我家？你们的工作人员都是我的学生培训的，好像没啥高招吧？
+
+二类对话：
+
+俺：我是***，住址***，电话****，我的网速和合同上写的不一致
+
+她：我马上帮你转到***
+
+…………。。。。（常常是转过去就断或者占线）
+
+他：……（浪费电话费的客套话）
+
+他：我们合同上规定的是提供2M宽带服务，不可能保证您随时有这么快的速度，您知道吗，互联网是这样的……所以，连接到不同的地方会有不同的速度（还是包括插没插、亮没亮等问题，还是把俺当白痴）
+
+（这次我是有备而来：）
+俺：为什么贵公司提供的本地测速也只有60多的下载速度呢？
+
+他：请问您用什么测试的？
+
+俺：直接点或者另存为是25～45，稳定在42左右；用flashget是40～90，稳定在60左右；用迅雷是50～95，稳定在62左右……
+
+他：这是正常现象，您用的操作系统是正版的吗？如果是盗版的，网络速度会受影响。
+
+俺：（无语）
+
+     
+
+上述对话每个月发生一两次 
+
+
+woi55 2006-8-14 08:13:48
+
+您用的操作系统是正版的吗？如果是盗版的，网络速度会受影响。    
+
+下次你说是正版的，后面也会有一套嗑等你你，哈哈。
+
+
+meibf 2006-8-14 09:19:49
+
+限速的地区是发达地区，用的人太多网络太拥挤。
+
+
+benchren 2006-8-14 09:19:58
+
+偶的应该是中国的吧,不过下载速度一直差不多,很慢,但也没看到什么信息,不过经常出现失去连接的字样.
