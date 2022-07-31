@@ -1,0 +1,42 @@
+——>>pilger - 試譯 Celan 詩歌 Ein Lied in der Wüste - 诗歌翻译
+
+
+Dasha 2006-4-19 06:04:42
+
+尝试讨论
+
+首先，标题Ein Lied in der Wüste并不等同于Ein Lied der Wüste，并且Die Wüste在对映的汉语圣经里通常解作“旷野”，因此，标题建议译作“旷野里的歌”、“一支旷野里的歌”。
+
+
+其二，die Gegend von Akra，这个Akra饱含神学色彩，通晓天主精义的Pilger兄应该给Dasha这样的外行提供些注释，否则，只会造成阅读障碍。今Dasha尝试续貂如下：
+
+Akra war ein Stadtteil des alten Jerusalem, das 70 n. Chr. vollständig im jüdischen Krieg zerstört wurde. Die Römer setzten unter Titus die Stadt, in der sich zum Pessach-Fest viele Judäer aus dem ganzen Land aufhielten, durch Blockade zunächst dem Verhungern aus, um sie dann einzunehmen und niederzubrennen. Ein Schauplatz des Todes war die „Gegend von Akra"./58/ Aus der „Asche der Brunnen" (11) „blühten" Tote. Von der „Aschenblume" (55) ist an anderer Stelle die Rede; „Ich sehe das Gift blühn" (220), heißt es in zwölf Jahre, die die zwölf Jahre des Hitler-Regimes sind; und in Auge der Zeit: „es wird warm in der Welt, und die Toten knospen und blühen" (127). Dem Tod kommen die Qualitäten des Lebens zu, wohingegen das Leben sie eingebüßt hat.
+
+http://www.uni-essen.de/Ev-Theologie/courses/course-stuff/lit-bach-galle-psalmendichtung09celan.htm
+
+
+Dasha 2006-4-20 16:57:58
+
+嘿嘿，这段德文是很简单的，麻烦的是这个“Gegend von Akra”。“Akra”是古希腊语“ακρα”的拉丁文转写，“ακρα”，在古希腊语里意为“卫城，堡垒”，也就是大卫所歌唱的“山寨、保障”。“ακρα”出现在希腊语七十士译本圣经里：
+
+και εκαθισεν δαυιδ εν τη περιοχη και εκληθη αυτη η πολις δαυιδ και ωκοδομησεν την πολιν κυκλω απο της ακρας και τον οικον αυτου (2 Samuel5:9, The Septuagint LXX)
+
+而在路德的德语译本和汉语的译本中，译作的是“Millo”、“米罗”：
+
+Also wonet Dauid auff der Burg / vnd hies sie Dauids stad / vnd Dauid bawete vmb her von Millo vnd inwendig.  (vgl. 2Sam 5,9. Luther-Bibel 1545)
+
+大卫住在保障里，给保障起名叫大卫城。大卫又从米罗以里，周围筑墙。（国语和合本《旧约·撒母耳记下5: 9》）
+
+这个“米罗”，Easton's Bible Dictionary解释如下：
+
+Millo (Heb. always with the article, "the" Millo). (1.) Probably the Canaanite name of some fortification, consisting of walls filled in with earth and stones, which protected Jerusalem on the north as its outer-most defense. It is always rendered Akra i.e., "the citadel", in the LXX. It was already existing when David conquered Jerusalem (Sa2 5:9). He extended it to the right and left, thus completing the defense of the city. It was rebuilt by Solomon (Kg1 9:15, Kg1 9:24; Kg1 11:27) and repaired by Hezekiah (Ch2 32:5). (2.) In Jdg 9:6, Jdg 9:20 it is the name of a rampart in Shechem, probably the "tower of Shechem" (Jdg 9:46, Jdg 9:49).
+
+这个“米罗”的背景，用Dasha同行的话来说，就是：
+
+公元70年是犹太民族历史上惨痛的一年，那一年，耶路撒冷附近的希律圣殿，也就是犹太第二圣殿被古罗马军团摧毁，从此犹太人也开始了十几个世纪颠沛流离的生活。
+
+公元前19年左右，处于罗马帝国保护下的犹太希律王开始重建圣殿，史称“第二圣殿”。罗马帝国在公元6年取消了犹太人的自治权，改由帝国直接控制。公元70年，圣殿再遭不幸，罗马人镇压了犹太人的起义，数十万犹太人惨遭杀戮，耶路撒冷和圣殿几乎被夷为平地。犹太人被迫开始流亡世界。
+
+犹太人的起义，就是上贴Dasha德语引文中的“(der) jüdische[n] Krieg”。起义的中坚奋锐党人，就像今日的哈马斯，四处舍命实施暗杀（人弹）。这个“米罗”，恐怕就在如今遐迩闻名的“哭墙”。
+
+因此，这个“Gegend von Akra”译成汉语的什么东西，Dasha没有把握，这个“Gegend von Akra”如果不如此深入解释，也无法让汉语读者领会Celan的黍离之哀：昔日繁华、威赫的圣殿，如今已是一片荒漠（旷野，die Wüste）。
