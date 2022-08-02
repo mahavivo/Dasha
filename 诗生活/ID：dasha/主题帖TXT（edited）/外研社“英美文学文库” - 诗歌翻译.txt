@@ -20,11 +20,11 @@ Understanding Fiction
 
 其余所列诸书皆为经典著作，是美国台湾等大学英文系必然指定的教科书。其中，
 
-█UNDERSTANDING FICTION 其中译本为理解小说，前不久才托您在超星窃来。
+UNDERSTANDING FICTION 其中译本为理解小说，前不久才托您在超星窃来。
 
-█UNDERSTANDING POETRY 其中译本，据载飞白早计画翻译，惜至今我未见到。
+UNDERSTANDING POETRY 其中译本，据载飞白早计画翻译，惜至今我未见到。
 
-█.文学批评方法手册（第4版）（英美文学文库）---
+文学批评方法手册（第4版）（英美文学文库）---
 
 其中译本，台湾1970年早有译本，大陆为
 
@@ -33,9 +33,9 @@ Understanding Fiction
 作 者:(美)古尔灵(Guerin,W.L.)等着 姚锦清等译 页数:492页 出版社:春风文艺出版社 出版日期:1988
 
 
-█.伊格尔顿书，其中译本有贰如下，其他著作的译本如下，您有兴趣的话，可一并荡下来，顺便妹儿一套给我，其余的有空电话中谈。 
+伊格尔顿书，其中译本有贰如下，其他著作的译本如下，您有兴趣的话，可一并荡下来，顺便妹儿一套给我，其余的有空电话中谈。 
 
-█《文学理论导论》 
+《文学理论导论》 
 
 作 者:（美）伊格尔顿（Eagleton,T.）着 出版社:外语教学与研究出版社 出版日期:2004 
 
@@ -47,13 +47,12 @@ Understanding Fiction
 作 者:[英]泰瑞·伊果顿(Terry Eagleton)原著 吴新发中译 页数:287页 出版社:书林出版有限公司 出版日期:1993 
 
 
-█ 二十世纪西方文学理论》 
+《二十世纪西方文学理论》 
 
 作 者:(英)伊格尔顿(Eagleton，T.)着 伍晓明译 页数:272页 出版社:陕西师范大学出版社 出版日期:1987 
 
 -----------此书有香港袁鹤翔教授译本
 
-█
 
 《历史中的政治、哲学、爱欲》 
 
@@ -111,7 +110,9 @@ Dasha 2005-12-18 12:28:39
 
 周旋久 2005-12-19 11:55:11
 
-难道是这些？The Columbia History of American Poetry
+难道是这些？
+
+The Columbia History of American Poetry
 
 1. Anne Bradstreet and Edward Taylor, by Francis Murphy
 2. Early African American Poetry, by Carolivia Herron
